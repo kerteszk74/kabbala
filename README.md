@@ -1,0 +1,2 @@
+# kabbala
+Kabbala Akadémia tanulópanel
