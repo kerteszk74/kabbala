@@ -26,7 +26,8 @@ const lessonTitles = {
     'Az ima a Kabbala szerint',
     'Válaszd az életet!',
     'Az elrejtéstől a feltárulásig',
-    'A teremtés gondolata'
+    'A teremtés gondolata',
+    'Tzimtzum Aleph és Masach'
   ],
   en: [
     'Human Nature',
@@ -49,7 +50,8 @@ const lessonTitles = {
     'Prayer According to Kabbalah',
     'Choose Life!',
     'From Concealment to Revelation',
-    'The Thought of Creation'
+    'The Thought of Creation',
+    'Tzimtzum Aleph and Masach'
   ],
   he: [
     'הטבע האנושי',
@@ -72,7 +74,8 @@ const lessonTitles = {
     'תפילה לפי הקבלה',
     'בחר בחיים!',
     'מהסתר לגילוי',
-    'מחשבת הבריאה'
+    'מחשבת הבריאה',
+    'צמצום אלף ומסך'
   ],
   ru: [
     'Человеческая природа',
@@ -95,7 +98,8 @@ const lessonTitles = {
     'Молитва согласно каббале',
     'Выбери жизнь!',
     'От сокрытия к раскрытию',
-    'Замысел творения'
+    'Замысел творения',
+    'Цимцум Алеф и Масах'
   ],
   de: [
     'Die menschliche Natur',
@@ -118,7 +122,8 @@ const lessonTitles = {
     'Das Gebet gemäß der Kabbala',
     'Wähle das Leben!',
     'Von der Verhüllung zur Offenbarung',
-    'Der Schöpfungsgedanke'
+    'Der Schöpfungsgedanke',
+    'Tzimtzum Aleph und Masach'
   ],
   es: [
     'La naturaleza humana',
@@ -141,7 +146,8 @@ const lessonTitles = {
     'La oración según la Cábala',
     '¡Elige la vida!',
     'Del ocultamiento a la revelación',
-    'El pensamiento de la creación'
+    'El pensamiento de la creación',
+    'Tzimtzum Aleph y Masach'
   ],
   fr: [
     'La nature humaine',
@@ -164,7 +170,8 @@ const lessonTitles = {
     'La prière selon la Kabbale',
     'Choisis la vie !',
     'De la dissimulation à la révélation',
-    'La pensée de la création'
+    'La pensée de la création',
+    'Tzimtzum Aleph et Masach'
   ],
   it: [
     'La natura umana',
@@ -187,7 +194,8 @@ const lessonTitles = {
     'La preghiera secondo la Kabbalah',
     'Scegli la vita!',
     'Dall’occultamento alla rivelazione',
-    'Il pensiero della creazione'
+    'Il pensiero della creazione',
+    'Tzimtzum Aleph e Masach'
   ],
   pt: [
     'A natureza humana',
@@ -210,7 +218,8 @@ const lessonTitles = {
     'A oração segundo a Cabalá',
     'Escolha a vida!',
     'Do ocultamento à revelação',
-    'O pensamento da criação'
+    'O pensamento da criação',
+    'Tzimtzum Aleph e Masach'
   ],
   uk: [
     'Людська природа',
@@ -233,7 +242,8 @@ const lessonTitles = {
     'Молитва згідно з Кабалою',
     'Обери життя!',
     'Від приховання до розкриття',
-    'Задум творіння'
+    'Задум творіння',
+    'Цимцум Алеф і Масах'
   ],
   pl: [
     'Ludzka natura',
@@ -256,7 +266,8 @@ const lessonTitles = {
     'Modlitwa według Kabały',
     'Wybierz życie!',
     'Od ukrycia do objawienia',
-    'Myśl stworzenia'
+    'Myśl stworzenia',
+    'Tzimtzum Aleph i Masach'
   ],
   ro: [
     'Natura umană',
@@ -279,7 +290,8 @@ const lessonTitles = {
     'Rugăciunea conform Cabalei',
     'Alege viața!',
     'De la ascundere la revelare',
-    'Gândul creației'
+    'Gândul creației',
+    'Tzimtzum Aleph și Masach'
   ],
   bg: [
     'Човешката природа',
@@ -302,7 +314,8 @@ const lessonTitles = {
     'Молитвата според кабала',
     'Избери живота!',
     'От скриването към разкриването',
-    'Замисълът на творението'
+    'Замисълът на творението',
+    'Цимцум Алеф и Масах'
   ],
   cs: [
     'Lidská přirozenost',
@@ -325,7 +338,8 @@ const lessonTitles = {
     'Modlitba podle kabaly',
     'Zvol si život!',
     'Od skrytí k odhalení',
-    'Myšlenka stvoření'
+    'Myšlenka stvoření',
+    'Tzimtzum Aleph a Masach'
   ],
   hr: [
     'Ljudska priroda',
@@ -348,7 +362,8 @@ const lessonTitles = {
     'Molitva prema Kabali',
     'Izaberi život!',
     'Od skrivenosti do otkrivanja',
-    'Misao stvaranja'
+    'Misao stvaranja',
+    'Tzimtzum Aleph i Masach'
   ],
   sr: [
     'Људска природа',
@@ -371,7 +386,8 @@ const lessonTitles = {
     'Молитва према Кабали',
     'Изабери живот!',
     'Од скривања до откривања',
-    'Мисао стварања'
+    'Мисао стварања',
+    'Цимцум Алеф и Масах'
   ],
   tr: [
     'İnsan doğası',
@@ -394,7 +410,8 @@ const lessonTitles = {
     'Kabala’ya göre dua',
     'Hayatı seç!',
     'Gizlenmeden açığa çıkışa',
-    'Yaratılış düşüncesi'
+    'Yaratılış düşüncesi',
+    'Tzimtzum Aleph ve Masach'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -417,7 +434,8 @@ const lessonTitles = {
     'Η προσευχή σύμφωνα με την Καμπάλα',
     'Διάλεξε τη ζωή!',
     'Από την απόκρυψη στην αποκάλυψη',
-    'Η σκέψη της δημιουργίας'
+    'Η σκέψη της δημιουργίας',
+    'Τσιμτσούμ Αλέφ και Μασάχ'
   ],
   nl: [
     'De menselijke natuur',
@@ -440,7 +458,8 @@ const lessonTitles = {
     'Gebed volgens Kabbala',
     'Kies het leven!',
     'Van verhulling naar onthulling',
-    'De gedachte van de schepping'
+    'De gedachte van de schepping',
+    'Tzimtzum Aleph en Masach'
   ],
   da: [
     'Menneskets natur',
@@ -463,7 +482,8 @@ const lessonTitles = {
     'Bøn ifølge Kabbalah',
     'Vælg livet!',
     'Fra skjulthed til åbenbaring',
-    'Skabelsens tanke'
+    'Skabelsens tanke',
+    'Tzimtzum Aleph og Masach'
   ],
   sv: [
     'Människans natur',
@@ -486,7 +506,8 @@ const lessonTitles = {
     'Bön enligt Kabbalan',
     'Välj livet!',
     'Från fördoldhet till uppenbarelse',
-    'Skapelsens tanke'
+    'Skapelsens tanke',
+    'Tzimtzum Aleph och Masach'
   ],
   no: [
     'Menneskets natur',
@@ -509,7 +530,8 @@ const lessonTitles = {
     'Bønn ifølge Kabbala',
     'Velg livet!',
     'Fra skjulthet til åpenbaring',
-    'Skapelsens tanke'
+    'Skapelsens tanke',
+    'Tzimtzum Aleph og Masach'
   ],
   fi: [
     'Ihmisluonto',
@@ -532,7 +554,8 @@ const lessonTitles = {
     'Rukous Kabbalan mukaan',
     'Valitse elämä!',
     'Kätkeytymisestä paljastumiseen',
-    'Luomisen ajatus'
+    'Luomisen ajatus',
+    'Tzimtzum Aleph ja Masach'
   ],
   et: [
     'Inimese loomus',
@@ -555,7 +578,8 @@ const lessonTitles = {
     'Palve Kabbala järgi',
     'Vali elu!',
     'Varjatusest ilmutuseni',
-    'Loomise mõte'
+    'Loomise mõte',
+    'Tzimtzum Aleph ja Masach'
   ],
   lv: [
     'Cilvēka daba',
@@ -578,7 +602,8 @@ const lessonTitles = {
     'Lūgšana saskaņā ar Kabbalu',
     'Izvēlies dzīvi!',
     'No apslēptības līdz atklāsmei',
-    'Radīšanas doma'
+    'Radīšanas doma',
+    'Tzimtzum Aleph un Masach'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -601,7 +626,8 @@ const lessonTitles = {
     'Malda pagal Kabalą',
     'Rinkis gyvenimą!',
     'Nuo slėpimo iki atskleidimo',
-    'Kūrimo mintis'
+    'Kūrimo mintis',
+    'Tzimtzum Aleph ir Masach'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -624,7 +650,8 @@ const lessonTitles = {
     'الصلاة وفقاً للكابالا',
     'اختر الحياة!',
     'من الاحتجاب إلى الكشف',
-    'فكرة الخلق'
+    'فكرة الخلق',
+    'تسيمتسوم ألف والماساخ'
   ],
   fa: [
     'طبیعت انسان',
@@ -647,7 +674,8 @@ const lessonTitles = {
     'دعا بر اساس کابالا',
     'زندگی را انتخاب کن!',
     'از پنهان‌شدگی تا آشکارشدن',
-    'اندیشه آفرینش'
+    'اندیشه آفرینش',
+    'تسیمتسوم الف و ماساخ'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -670,7 +698,8 @@ const lessonTitles = {
     'Աղոթքը՝ ըստ Կաբալայի',
     'Ընտրիր կյանքը՛',
     'Թաքցնելուց դեպի բացահայտում',
-    'Արարման միտքը'
+    'Արարման միտքը',
+    'Ցիմցում Ալեֆ և Մասախ'
   ],
   az: [
     'İnsan təbiəti',
@@ -693,7 +722,8 @@ const lessonTitles = {
     'Kabbalaya görə dua',
     'Həyatı seç!',
     'Gizlənmədən aşkara çıxmağa',
-    'Yaradılışın düşüncəsi'
+    'Yaradılışın düşüncəsi',
+    'Tzimtzum Aleph və Masach'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -716,7 +746,8 @@ const lessonTitles = {
     'ლოცვა კაბალას მიხედვით',
     'აირჩიე სიცოცხლე!',
     'დამალვიდან გამჟღავნებამდე',
-    'შექმნის ჩანაფიქრი'
+    'შექმნის ჩანაფიქრი',
+    'ციმციმ ალეფი და მასახი'
   ],
   'zh-cn': [
     '人性',
@@ -739,7 +770,8 @@ const lessonTitles = {
     '卡巴拉中的祈祷',
     '选择生命！',
     '从隐藏到显现',
-    '创造的思想'
+    '创造的思想',
+    '第一次限制（Tzimtzum Aleph）与屏障（Masach）'
   ],
   'zh-hant': [
     '人性',
@@ -762,7 +794,8 @@ const lessonTitles = {
     '卡巴拉中的祈禱',
     '選擇生命！',
     '從隱藏到顯現',
-    '創造的思想'
+    '創造的思想',
+    '第一次限制（Tzimtzum Aleph）與屏障（Masach）'
   ],
   ja: [
     '人間の本性',
@@ -785,7 +818,8 @@ const lessonTitles = {
     'カバラによる祈り',
     '命を選べ！',
     '隠蔽から開示へ',
-    '創造の思考'
+    '創造の思考',
+    'ツィムツム・アレフとマサフ'
   ],
   ko: [
     '인간의 본성',
@@ -808,7 +842,8 @@ const lessonTitles = {
     '카발라에 따른 기도',
     '생명을 선택하라!',
     '은폐에서 계시로',
-    '창조의 생각'
+    '창조의 생각',
+    '침침 알레프와 마사크'
   ],
   hi: [
     'मानव स्वभाव',
@@ -831,7 +866,8 @@ const lessonTitles = {
     'कब्बाला के अनुसार प्रार्थना',
     'जीवन चुनें!',
     'छिपाव से उद्घाटन तक',
-    'सृष्टि का विचार'
+    'सृष्टि का विचार',
+    'त्ज़िमत्ज़ुम अलेफ़ और मसाख़'
   ],
   id: [
     'Sifat manusia',
@@ -854,7 +890,8 @@ const lessonTitles = {
     'Doa menurut Kabbalah',
     'Pilihlah kehidupan!',
     'Dari ketersembunyian menuju penyingkapan',
-    'Pemikiran penciptaan'
+    'Pemikiran penciptaan',
+    'Tzimtzum Aleph dan Masach'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -877,7 +914,8 @@ const lessonTitles = {
     'Panalangin ayon sa Kabbalah',
     'Piliin ang buhay!',
     'Mula sa pagtatago tungo sa pagbubunyag',
-    'Kaisipan ng paglikha'
+    'Kaisipan ng paglikha',
+    'Tzimtzum Aleph at Masach'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -900,7 +938,8 @@ const lessonTitles = {
     'በካባላ መሠረት ጸሎት',
     'ሕይወትን ምረጥ!',
     'ከመደበቅ ወደ መገለጥ',
-    'የፍጥረት ሐሳብ'
+    'የፍጥረት ሐሳብ',
+    'ጽምጽም አሌፍ እና ማሳክ'
   ]
 };
 
@@ -931,7 +970,7 @@ function updateLessonLabels() {
     const title = titles[lessonNumber - 1];
     if (title) {
       option.textContent = format
-        .replace('{n}', String(lessonNumber))
+        .replace('{n}', lessonNumber === 22 ? '22-26' : String(lessonNumber))
         .replace('{title}', title);
     }
   });
