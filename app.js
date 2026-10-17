@@ -28,7 +28,8 @@ const lessonTitles = {
     'Az elrejtéstől a feltárulásig',
     'A teremtés gondolata',
     'Tzimtzum Aleph és Masach',
-    'A Felső Világok felépítése'
+    'A Felső Világok felépítése',
+    'A Felső világok szerkezete'
   ],
   en: [
     'Human Nature',
@@ -53,7 +54,8 @@ const lessonTitles = {
     'From Concealment to Revelation',
     'The Thought of Creation',
     'Tzimtzum Aleph and Masach',
-    'The Structure of the Upper Worlds'
+    'The Structure of the Upper Worlds',
+    'The Structure of the Higher Worlds'
   ],
   he: [
     'הטבע האנושי',
@@ -78,6 +80,7 @@ const lessonTitles = {
     'מהסתר לגילוי',
     'מחשבת הבריאה',
     'צמצום אלף ומסך',
+    'מבנה העולמות העליונים',
     'מבנה העולמות העליונים'
   ],
   ru: [
@@ -103,7 +106,8 @@ const lessonTitles = {
     'От сокрытия к раскрытию',
     'Замысел творения',
     'Цимцум Алеф и Масах',
-    'Строение Высших миров'
+    'Строение Высших миров',
+    'Структура Высших миров'
   ],
   de: [
     'Die menschliche Natur',
@@ -128,7 +132,8 @@ const lessonTitles = {
     'Von der Verhüllung zur Offenbarung',
     'Der Schöpfungsgedanke',
     'Tzimtzum Aleph und Masach',
-    'Der Aufbau der Oberen Welten'
+    'Der Aufbau der Oberen Welten',
+    'Die Struktur der Höheren Welten'
   ],
   es: [
     'La naturaleza humana',
@@ -153,6 +158,7 @@ const lessonTitles = {
     'Del ocultamiento a la revelación',
     'El pensamiento de la creación',
     'Tzimtzum Aleph y Masach',
+    'La estructura de los Mundos Superiores',
     'La estructura de los Mundos Superiores'
   ],
   fr: [
@@ -178,6 +184,7 @@ const lessonTitles = {
     'De la dissimulation à la révélation',
     'La pensée de la création',
     'Tzimtzum Aleph et Masach',
+    'La structure des Mondes Supérieurs',
     'La structure des Mondes Supérieurs'
   ],
   it: [
@@ -203,7 +210,8 @@ const lessonTitles = {
     'Dall’occultamento alla rivelazione',
     'Il pensiero della creazione',
     'Tzimtzum Aleph e Masach',
-    'La struttura dei Mondi Superiori'
+    'La struttura dei Mondi Superiori',
+    'L\'ordinamento dei Mondi Superiori'
   ],
   pt: [
     'A natureza humana',
@@ -228,6 +236,7 @@ const lessonTitles = {
     'Do ocultamento à revelação',
     'O pensamento da criação',
     'Tzimtzum Aleph e Masach',
+    'A estrutura dos Mundos Superiores',
     'A estrutura dos Mundos Superiores'
   ],
   uk: [
@@ -253,7 +262,8 @@ const lessonTitles = {
     'Від приховання до розкриття',
     'Задум творіння',
     'Цимцум Алеф і Масах',
-    'Будова Вищих світів'
+    'Будова Вищих світів',
+    'Структура Вищих світів'
   ],
   pl: [
     'Ludzka natura',
@@ -278,6 +288,7 @@ const lessonTitles = {
     'Od ukrycia do objawienia',
     'Myśl stworzenia',
     'Tzimtzum Aleph i Masach',
+    'Struktura Wyższych Światów',
     'Struktura Wyższych Światów'
   ],
   ro: [
@@ -303,7 +314,8 @@ const lessonTitles = {
     'De la ascundere la revelare',
     'Gândul creației',
     'Tzimtzum Aleph și Masach',
-    'Structura Lumilor Superioare'
+    'Structura Lumilor Superioare',
+    'Alcătuirea Lumilor Superioare'
   ],
   bg: [
     'Човешката природа',
@@ -328,7 +340,8 @@ const lessonTitles = {
     'От скриването към разкриването',
     'Замисълът на творението',
     'Цимцум Алеф и Масах',
-    'Устройството на Висшите светове'
+    'Устройството на Висшите светове',
+    'Структурата на Висшите светове'
   ],
   cs: [
     'Lidská přirozenost',
@@ -353,6 +366,7 @@ const lessonTitles = {
     'Od skrytí k odhalení',
     'Myšlenka stvoření',
     'Tzimtzum Aleph a Masach',
+    'Struktura Vyšších světů',
     'Struktura Vyšších světů'
   ],
   hr: [
@@ -378,7 +392,8 @@ const lessonTitles = {
     'Od skrivenosti do otkrivanja',
     'Misao stvaranja',
     'Tzimtzum Aleph i Masach',
-    'Struktura Viših svjetova'
+    'Struktura Viših svjetova',
+    'Ustroj Viših svjetova'
   ],
   sr: [
     'Људска природа',
@@ -403,6 +418,7 @@ const lessonTitles = {
     'Од скривања до откривања',
     'Мисао стварања',
     'Цимцум Алеф и Масах',
+    'Структура Виших светова',
     'Структура Виших светова'
   ],
   tr: [
@@ -428,7 +444,8 @@ const lessonTitles = {
     'Gizlenmeden açığa çıkışa',
     'Yaratılış düşüncesi',
     'Tzimtzum Aleph ve Masach',
-    'Yüksek Dünyaların yapısı'
+    'Yüksek Dünyaların yapısı',
+    'Yüksek Dünyaların düzeni'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -453,7 +470,8 @@ const lessonTitles = {
     'Από την απόκρυψη στην αποκάλυψη',
     'Η σκέψη της δημιουργίας',
     'Τσιμτσούμ Αλέφ και Μασάχ',
-    'Η δομή των Ανώτερων Κόσμων'
+    'Η δομή των Ανώτερων Κόσμων',
+    'Η διάρθρωση των Ανώτερων Κόσμων'
   ],
   nl: [
     'De menselijke natuur',
@@ -478,6 +496,7 @@ const lessonTitles = {
     'Van verhulling naar onthulling',
     'De gedachte van de schepping',
     'Tzimtzum Aleph en Masach',
+    'De structuur van de Hogere Werelden',
     'De structuur van de Hogere Werelden'
   ],
   da: [
@@ -503,7 +522,8 @@ const lessonTitles = {
     'Fra skjulthed til åbenbaring',
     'Skabelsens tanke',
     'Tzimtzum Aleph og Masach',
-    'Opbygningen af de Højere Verdener'
+    'Opbygningen af de Højere Verdener',
+    'Strukturen i de Højere Verdener'
   ],
   sv: [
     'Människans natur',
@@ -528,7 +548,8 @@ const lessonTitles = {
     'Från fördoldhet till uppenbarelse',
     'Skapelsens tanke',
     'Tzimtzum Aleph och Masach',
-    'Uppbyggnaden av de Högre Världarna'
+    'Uppbyggnaden av de Högre Världarna',
+    'Strukturen i de Högre Världarna'
   ],
   no: [
     'Menneskets natur',
@@ -553,7 +574,8 @@ const lessonTitles = {
     'Fra skjulthet til åpenbaring',
     'Skapelsens tanke',
     'Tzimtzum Aleph og Masach',
-    'Oppbygningen av de Høyere Verdener'
+    'Oppbygningen av de Høyere Verdener',
+    'Strukturen i de Høyere Verdener'
   ],
   fi: [
     'Ihmisluonto',
@@ -578,6 +600,7 @@ const lessonTitles = {
     'Kätkeytymisestä paljastumiseen',
     'Luomisen ajatus',
     'Tzimtzum Aleph ja Masach',
+    'Ylempien maailmojen rakenne',
     'Ylempien maailmojen rakenne'
   ],
   et: [
@@ -603,7 +626,8 @@ const lessonTitles = {
     'Varjatusest ilmutuseni',
     'Loomise mõte',
     'Tzimtzum Aleph ja Masach',
-    'Kõrgemate maailmade ülesehitus'
+    'Kõrgemate maailmade ülesehitus',
+    'Kõrgemate maailmade struktuur'
   ],
   lv: [
     'Cilvēka daba',
@@ -628,7 +652,8 @@ const lessonTitles = {
     'No apslēptības līdz atklāsmei',
     'Radīšanas doma',
     'Tzimtzum Aleph un Masach',
-    'Augstāko pasauļu uzbūve'
+    'Augstāko pasauļu uzbūve',
+    'Augstāko pasauļu struktūra'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -653,7 +678,8 @@ const lessonTitles = {
     'Nuo slėpimo iki atskleidimo',
     'Kūrimo mintis',
     'Tzimtzum Aleph ir Masach',
-    'Aukštesniųjų pasaulių sandara'
+    'Aukštesniųjų pasaulių sandara',
+    'Aukštesniųjų pasaulių struktūra'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -678,7 +704,8 @@ const lessonTitles = {
     'من الاحتجاب إلى الكشف',
     'فكرة الخلق',
     'تسيمتسوم ألف والماساخ',
-    'بنية العوالم العليا'
+    'بنية العوالم العليا',
+    'هيكل العوالم العليا'
   ],
   fa: [
     'طبیعت انسان',
@@ -703,7 +730,8 @@ const lessonTitles = {
     'از پنهان‌شدگی تا آشکارشدن',
     'اندیشه آفرینش',
     'تسیمتسوم الف و ماساخ',
-    'ساختار جهان‌های برتر'
+    'ساختار جهان‌های برتر',
+    'ساختار جهان‌های بالا'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -728,7 +756,8 @@ const lessonTitles = {
     'Թաքցնելուց դեպի բացահայտում',
     'Արարման միտքը',
     'Ցիմցում Ալեֆ և Մասախ',
-    'Վերին աշխարհների կառուցվածքը'
+    'Վերին աշխարհների կառուցվածքը',
+    'Բարձր աշխարհների կառուցվածքը'
   ],
   az: [
     'İnsan təbiəti',
@@ -753,7 +782,8 @@ const lessonTitles = {
     'Gizlənmədən aşkara çıxmağa',
     'Yaradılışın düşüncəsi',
     'Tzimtzum Aleph və Masach',
-    'Ali Dünyaların quruluşu'
+    'Ali Dünyaların quruluşu',
+    'Yüksək Dünyaların strukturu'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -778,7 +808,8 @@ const lessonTitles = {
     'დამალვიდან გამჟღავნებამდე',
     'შექმნის ჩანაფიქრი',
     'ციმციმ ალეფი და მასახი',
-    'ზედა სამყაროების აგებულება'
+    'ზედა სამყაროების აგებულება',
+    'ზედა სამყაროების სტრუქტურა'
   ],
   'zh-cn': [
     '人性',
@@ -803,7 +834,8 @@ const lessonTitles = {
     '从隐藏到显现',
     '创造的思想',
     '第一次限制（Tzimtzum Aleph）与屏障（Masach）',
-    '上层世界的结构'
+    '上层世界的结构',
+    '高层世界的结构'
   ],
   'zh-hant': [
     '人性',
@@ -828,7 +860,8 @@ const lessonTitles = {
     '從隱藏到顯現',
     '創造的思想',
     '第一次限制（Tzimtzum Aleph）與屏障（Masach）',
-    '上層世界的結構'
+    '上層世界的結構',
+    '高層世界的結構'
   ],
   ja: [
     '人間の本性',
@@ -853,7 +886,8 @@ const lessonTitles = {
     '隠蔽から開示へ',
     '創造の思考',
     'ツィムツム・アレフとマサフ',
-    '上位世界の構造'
+    '上位世界の構造',
+    '高次世界の構造'
   ],
   ko: [
     '인간의 본성',
@@ -878,6 +912,7 @@ const lessonTitles = {
     '은폐에서 계시로',
     '창조의 생각',
     '침침 알레프와 마사크',
+    '상위 세계의 구조',
     '상위 세계의 구조'
   ],
   hi: [
@@ -903,7 +938,8 @@ const lessonTitles = {
     'छिपाव से उद्घाटन तक',
     'सृष्टि का विचार',
     'त्ज़िमत्ज़ुम अलेफ़ और मसाख़',
-    'उच्च लोकों की संरचना'
+    'उच्च लोकों की संरचना',
+    'उच्च लोकों की रचना'
   ],
   id: [
     'Sifat manusia',
@@ -928,7 +964,8 @@ const lessonTitles = {
     'Dari ketersembunyian menuju penyingkapan',
     'Pemikiran penciptaan',
     'Tzimtzum Aleph dan Masach',
-    'Struktur Dunia-Dunia Atas'
+    'Struktur Dunia-Dunia Atas',
+    'Susunan Dunia-Dunia Tinggi'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -953,7 +990,8 @@ const lessonTitles = {
     'Mula sa pagtatago tungo sa pagbubunyag',
     'Kaisipan ng paglikha',
     'Tzimtzum Aleph at Masach',
-    'Ang Istruktura ng mga Mataas na Daigdig'
+    'Ang Istruktura ng mga Mataas na Daigdig',
+    'Ang Balangkas ng mga Mataas na Daigdig'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -978,7 +1016,8 @@ const lessonTitles = {
     'ከመደበቅ ወደ መገለጥ',
     'የፍጥረት ሐሳብ',
     'ጽምጽም አሌፍ እና ማሳክ',
-    'የላይኞቹ ዓለማት አወቃቀር'
+    'የላይኞቹ ዓለማት አወቃቀር',
+    'የከፍተኛ ዓለማት መዋቅር'
   ]
 };
 
