@@ -36,7 +36,7 @@
   .progress-bar { height: 6px; background: #e2e8f0; border-radius: 999px; overflow: hidden; margin-bottom: 14px; }
   .progress-fill { height: 100%; background: var(--primary); width: 0%; transition: width 0.3s ease; }
   .meta-row { display: flex; justify-content: space-between; font-size: 0.85rem; color: #64748b; margin-bottom: 10px; font-weight: 600; }
-  
+
   /* Kvíz stílus */
   .question-text { font-size: 1.05rem; font-weight: 600; line-height: 1.5; margin-bottom: 16px; color: #0f172a; }
   .options { display: flex; flex-direction: column; gap: 8px; }
@@ -124,6 +124,7 @@
         <option value="10">10. lecke: Test és lélek</option>
         <option value="11">11. lecke: A Kabbala Bölcsességének egyedisége</option>
         <option value="12">12. lecke: A Közvetlen Fény négy fázisa</option>
+        <option value="13">13. lecke: A töréstől a korrekcióig</option>
       </select>
     </div>
     <select id="lang-select" onchange="switchLanguage(this.value)">
@@ -204,6 +205,9 @@
       <button class="btn" id="card-next-btn" onclick="nextCard()">Következő ➔</button>
     </div>
   </div>
+  <div id="lesson-footer" style="margin-top:16px; padding-top:12px; border-top:1px solid #e2e8f0; color:#64748b; font-size:0.8rem; text-align:center;">
+    🔀 Véletlenszerű válaszkeverés bekapcsolva
+  </div>
 </div>
 
 <!-- 1. Üres adatbázis inicializálása -->
@@ -224,7 +228,8 @@
 <script src="data/lesson_10.js"></script>
 <script src="data/lesson_11.js"></script>
 <script src="data/lesson_12.js"></script>
-                                        
+<script src="data/lesson_13.js"></script>
+
 <script src="app.js"></script>
 </body>
 </html>

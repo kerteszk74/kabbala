@@ -4,6 +4,32 @@ let curLang = 'hu';
 let curIdx = 0;
 let quizScore = 0;
 
+function shuffleArray(items) {
+  const arr = [...items];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function createRandomizedQuestion(question) {
+  if (!question || !Array.isArray(question.options)) {
+    return question;
+  }
+
+  const originalCorrect = Number.isInteger(question.correct) ? question.correct : 0;
+  const indexed = question.options.map((text, i) => ({ text, originalIndex: i }));
+  const shuffled = shuffleArray(indexed);
+  const newCorrect = shuffled.findIndex(item => item.originalIndex === originalCorrect);
+
+  return {
+    ...question,
+    options: shuffled.map(item => item.text),
+    correct: newCorrect >= 0 ? newCorrect : 0
+  };
+}
+
 function getCurrentData() {
   const modeObj = window.lessonDB[curLesson]?.[curMode] || {};
   const localizedData = modeObj[curLang] || modeObj.en || modeObj.hu || [];
@@ -51,14 +77,15 @@ function updateView() {
 
 function renderQuizQuestion(qObj, total) {
   if (!qObj) return;
-  document.getElementById('q-text').innerText = qObj.q;
+  const randomizedQ = createRandomizedQuestion(qObj);
+  document.getElementById('q-text').innerText = randomizedQ.q;
   const box = document.getElementById('options-box');
   box.innerHTML = '';
-  qObj.options.forEach((opt, idx) => {
+  randomizedQ.options.forEach((opt, idx) => {
     const btn = document.createElement('button');
     btn.className = 'option-btn';
     btn.innerText = opt;
-    btn.onclick = () => selectQuizAnswer(idx, qObj, btn);
+    btn.onclick = () => selectQuizAnswer(idx, randomizedQ, btn);
     box.appendChild(btn);
   });
   const fb = document.getElementById('fb-box');
@@ -121,15 +148,18 @@ function nextCard() {
 // Betöltéskor megnézzük, választott-e már nyelvet korábban
 function checkFirstVisit() {
   const savedLang = localStorage.getItem('user_lang');
+  const langSelect = document.getElementById('lang-select');
+
   if (!savedLang) {
-    // Első látogatás: aktiváljuk a spotlight réteget
     showLanguageSpotlight();
-  } else {
-    // Már járt itt: beállítjuk a mentett nyelvet
-    curLang = savedLang;
-    document.getElementById('lang-select').value = savedLang;
-    updateView();
+    return;
   }
+
+  curLang = savedLang;
+  if (langSelect) {
+    langSelect.value = savedLang;
+  }
+  updateView();
 }
 
 function showLanguageSpotlight() {
@@ -159,7 +189,11 @@ function showLanguageSpotlight() {
 
 function switchMode(m) { curMode = m; curIdx = 0; quizScore = 0; updateView(); }
 function switchLesson(l) { curLesson = l; curIdx = 0; quizScore = 0; updateView(); }
-function switchLanguage(lang) { curLang = lang; updateView(); }
+function switchLanguage(lang) {
+  curLang = lang;
+  localStorage.setItem('user_lang', lang);
+  updateView();
+}
 
 // Betöltéskor indítás
-window.addEventListener('DOMContentLoaded', updateView);
+window.addEventListener('DOMContentLoaded', checkFirstVisit);

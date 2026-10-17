@@ -2744,3 +2744,20 @@ window.lessonDB[2] = {
     ],
   }
 };
+
+Object.values(window.lessonDB[2].quiz).forEach(questions => {
+  questions.forEach(question => {
+    const options = question.options.map((text, index) => ({
+      text,
+      isCorrect: index === question.correct
+    }));
+
+    for (let i = options.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [options[i], options[j]] = [options[j], options[i]];
+    }
+
+    question.options = options.map(option => option.text);
+    question.correct = options.findIndex(option => option.isCorrect);
+  });
+});
