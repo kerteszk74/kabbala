@@ -4,4370 +4,4370 @@ window.lessonDB[23] = {
   quiz: {
     hu: [
       {
-        q: "1. Mi a fő jelentősége a „Hit az értelem felett” (Emuna le-ma'ala min ha-daat) elvnek a Kabbalában?",
+        q: "1. Melyek az öt spirituális világ tagozódásának fő szintjei a Kabbalában?",
         options: [
-          "Lehetővé teszi a spirituális emelkedést azáltal, hogy az ember nem a korlátozott egoista értelmére támaszkodik, hanem a Felső Világok adakozó tulajdonságát veszi alapul.",
-          "A vak engedelmességet jelenti mindenféle logika nélkül.",
-          "A tudomány elutasítását a mindennapi életben.",
-          "A fizikai világ teljes figyelmen kívül hagyását."
+          "Adam Kadmon, Atzilut, Beria, Yetzira és Assiya.",
+          "Keter, Hochma, Bina, Tifferet, Malchut.",
+          "Rosh, Toch, Sof, Peh, Tabur.",
+          "Aleph, Bet, Gimel, Dalet, Hey."
         ],
         correct: 0,
-        r: "Az értelem feletti hit (Emuna le-ma'ala min ha-daat) nem vakság, hanem a Felső fény szerinti, adakozó szemléletmód felvétele az egoista logika felett."
+        r: "A spirituális világok sorrendje a Felsőtől az alsó felé: Adam Kadmon, Atzilut, Beria, Yetzira és Assiya."
       },
       {
-        q: "2. Miért korlátozott az ember saját, természetes értelme a spirituális valóság megismerésében?",
+        q: "2. Hol helyezkedik el a Machsom (gát/határvonal), és mi a spirituális szerepe?",
         options: [
-          "Mert az egoista vágyakra és a saját magunk javára történő számításokra épül, míg a spiritualitás az adakozás törvényén alapul.",
-          "Mert az ember agya biológiailag túl kicsi.",
-          "Mert a fizikai törvények tiltják a spirituális gondolkodást.",
-          "Mert a modern technológia még nem fejlett ehhez."
+          "A spirituális világok (Atzilut felett/alatt) és a fizikai világ között helyezkedik el, és ez az a határ, ameddig az ember a saját erőből eljuthat, mielőtt átlépne a tiszta adakozás világába.",
+          "A fizikai test szívében található.",
+          "A Föld és a Hold közötti térben van.",
+          "Nem játszik semmilyen szerepet a spiritualitásban."
         ],
         correct: 0,
-        r: "A természetes értelem a megszerzési vágy (Aviyut) keretein belül működik, így képtelen befogadni az adakozás felsőbb törvényeit."
+        r: "A Machsom a választóvonal az egoista önzés (Assiya/Yetzira alsó része) és a tiszta adakozási szándék (Atzilut/Beria) között."
       },
       {
-        q: "3. Hogyan kapcsolódik a 23. lecke témája (Értelem feletti hit) a megelőző leckék Tzimtzum és Masach koncepciójához?",
+        q: "3. Milyen részekből áll egy Partzuf belső anatómiája (Rosh, Toch, Sof)?",
         options: [
-          "A Masach (szűrő) működtetése a fizikai és spirituális valóságban pontosan az értelem feletti munka megvalósítása, amikor az egoista számításokat felülírja az adakozás szándéka.",
-          "Nincs semmilyen kapcsolatuk.",
-          "A Tzimtzum ellentétes az értelem feletti hittel.",
-          "A Masach csak a fizikai testre vonatkozik."
+          "Rosh (Fej – ahol a számítás történik), Toch (Belső – ahová a Fény befolyik), és Sof (Vég – ahol a befogadás lezárul).",
+          "Kéz, Láb, Törzs.",
+          "Alpha, Beta, Gamma.",
+          "Múlt, Jelen, Jövő."
         ],
         correct: 0,
-        r: "Az értelem feletti hit gyakorlása a gyakorlati alkalmazása annak a szűrésnek (Masach), amelyet a Masach és az Ohr Hozer végzi a Partzufban."
+        r: "Minden Partzuf felépül a Rosh (Fej), Toch (Belső) és Sof (Vég) szakaszaiból a szűrő (Masach) működése szerint."
       },
       {
-        q: "4. Mi a különbség a „fizikai vakság” és az értelem feletti hit általi látásmód között?",
+        q: "4. Mit jelentenek a Peh (Száj), Chaze (Mellkas) és Tabur (Köldök) határvonalak egy Partzufban?",
         options: [
-          "Az értelem feletti hit nem a valóság tagadása, hanem a földi logika meghaladása egy magasabb, mindent átfogó spirituális törvény (az adakozás) javára.",
-          "A fizikai vakság jobb spirituális eredményeket hoz.",
+          "A Peh a szűrő helye (ahol a Fény beléphet), a Chaze a középső vonal határa, a Tabur pedig az alsó határ, ameddig a Fény még befogadható.",
+          "Ezek puszta anatómai kifejezések a fizikai testre.",
+          "A bolygók pályáit jelölik.",
+          "A naptári hónapokat."
+        ],
+        correct: 0,
+        r: "A Peh, Chaze és Tabur a Partzufon belüli belső szűrők és határvonalak, amelyek meghatározzák a Fény áramlását."
+      },
+      {
+        q: "5. Hogyan alakul ki a 125 spirituális lépcsőfok a Felső Világokban?",
+        options: [
+          "5 világ szorozva 5 Partzufimmal világonként, szorozva 5 Szfírával Partzufonként (5 x 5 x 5 = 125).",
+          "Pontosan 125 fizikai nap alatt.",
+          "125 különböző próféta nyomán.",
+          "Véletlenszerűen osztva el a világok között."
+        ],
+        correct: 0,
+        r: "A spirituális fokozatok teljes rendszere a 5 világ, mindegyikben 5 Partzuf, és minden Partzufban 5 Szfíra szorzataként áll össze (125 lépcső)."
+      },
+      {
+        q: "6. Mi a különbség a Galgalta ve-Eynaim (GE) és az AHP (Awzen, Hotem, Peh) edények között?",
+        options: [
+          "A GE (Galgalta ve-Eynaim) tiszta adakozó edények (kizárólag másokért cselekszenek), míg az AHP a megszerző edények, amelyek az élvezet saját maguk általi befogadására törekszenek.",
+          "A GE a fizikai szem, az AHP pedig a fül.",
           "Nincs semmilyen különbség.",
-          "Az értelem feletti hit a tudomány hamisítása."
+          "Az AHP a legmagasabb tiszta fény."
         ],
         correct: 0,
-        r: "Az értelem feletti hit egy magasabb tudatállapot, amely kiegészíti és felülírja az alacsonyabb, önző számításokat."
+        r: "A GE a fej felső része (adakozó vágyak), míg az AHP az alsó rész (megszerző vágyak, amelyek korrekcióra várnak)."
       },
       {
-        q: "5. Mi a szerepe a Tízesnek (Kevod ha-Tzevet / Tízes csoport) az értelem feletti hit elérésében?",
+        q: "7. Mi az Ein Sof (Végtelen Világ) állapota a Tzimtzum Aleph (Első megszorítás) előtt és után?",
         options: [
-          "A csoport támogatást, erőt és a kölcsönös garancia (Arvut) légkörét biztosítja, amelyben az egyén képes elhagyni a saját egoista korlátait.",
-          "A csoport csupán baráti beszélgetések helyszíne.",
-          "A csoport arra való, hogy versenyezzenek egymással.",
-          "A csoportnak nincs szerepe ebben."
+          "Előtte tökéletes, korlátlan egység volt Fény és Edény között; utána a Fény visszahúzódott, hogy helyet adjon a szabad akaraton alapuló korrigált edényeknek.",
+          "Az Ein Sof teljesen megsemmisült.",
+          "Semmi sem változott.",
+          "Az Ein Sof átkerült a fizikai világba."
         ],
         correct: 0,
-        r: "A Tízesben végzett munka és a barátok nagyságának értékelése segít az egyénnek ab اینکه az értelem feletti hitbe emelkedjen."
+        r: "Az Ein Sof az abszolút betöltöttség állapota volt, amely a Tzimtzum után ad teret a Felső Világok hierarchikus felépítésének."
       },
       {
-        q: "6. Mit jelent a „Lo ba-shamayim hi” (Nem az égben van) elv az értelem feletti munkában?",
+        q: "8. Mi a szerepe az Atzilut világának a többi Felső Világ (Beria, Yetzira, Assiya) között?",
         options: [
-          "Azt, hogy a spirituális emelkedést és az értelem feletti hozzáállást az embernek a saját helyzetéből, a valós élet kihívásain keresztül kell felépítenie.",
-          "Hogy a vallásnak semmi köze a mindennapokhoz.",
-          "Hogy a fellegekben kell járni meditáció közben.",
-          "Hogy Isten nem avatkozik be soha."
+          "Atzilut a tiszta adakozás (Keter, Hochma, Bina) világa, amely irányítja és táplálja a tőle alacsonyabb, korrekcióra szoruló Beria, Yetzira és Assiya világokat.",
+          "Atzilut a fizikai pokol.",
+          "Atzilut csak egy átmeneti raktár.",
+          "Atzilut teljesen független a többi világtól."
         ],
         correct: 0,
-        r: "A spirituális munka a földön, a mindennapi élet nehézségein és az ego legyőzésén keresztül valósul meg."
+        r: "Atzilut az emanáció világa, ahol a tiszta Fény és adakozás uralkodik, fenntartva a Bri-Yetzira-Assiya (BYA) rendszert."
       },
       {
-        q: "7. Hogyan tekint a Kabbala a kétségekre a spirituális úton?",
+        q: "9. Melyek az Adam Kadmon (AK) világának sajátosságai a Felső Világok rendszerében?",
         options: [
-          "A kétségek nem hibák, hanem a Felsőbb Erő küldi őket, hogy az embernek legyen tere az értelem feletti hit (az adakozás erejének) megépítésére.",
-          "A kétségek azt jelzik, hogy abba kell hagyni a tanulást.",
-          "A kétségek a gonosz démonok közvetlen művei.",
-          "A kétségek soha nem jelennek meg a kabbalistánál."
+          "Az Adam Kadmon az első tiszta spirituális világ az Ein Sof után, amelyből az összes többi alsó világ (Atzilut, Beria, Yetzira, Assiya) kiágazik.",
+          "Ez a fizikai ember anatómiája.",
+          "Ez a legsötétebb alvilág.",
+          "Nincs jelentősége."
         ],
         correct: 0,
-        r: "A kétségek lehetőséget adnak arra, hogy az ember ahelyett, hogy az értelmére hagyatkozna, a hit (az adakozás) útját válassza."
+        r: "Adam Kadmon az első strukturált világ az Ein Sof után, amely megalapozza az univerzális spirituális hierarchiát."
       },
       {
-        q: "8. Mi a célja az értelem feletti munkának a Teremtőhöz való viszonyban?",
+        q: "10. Hogyan épül fel a felső fény (Ohr Yashar) és az edények (Kelim) kapcsolata a Felső Világok szerkezetében?",
         options: [
-          "Hogy a teremtmény ne a saját érdekérvényesítése vagy haszna miatt közeledjen a Teremtőhöz, hanem tiszta, önzetlen szeretetből (Adakozás az adakozásért).",
-          "Hogy anyagi gazdagságot szerezzen a fizikai világban.",
-          "Hogy elkerülje a mindennapi felelősséget.",
-          "Hogy különleges hatalomra tegyen szert mások felett."
+          "A Fény mindig be akar tölteni minden edényt, de a Masach (szűrő) és az Ohr Hozer (visszavert fény) szabályozzák, hogy mennyi Fény áramolhat be tisztán.",
+          "A Fény teljesen független az edényektől.",
+          "Az edények pusztítják el a Fényt.",
+          "Nincs semmilyen kölcsönhatás."
         ],
         correct: 0,
-        r: "Az értelem feletti hit biztosítja, hogy a kapcsolat a Teremtővel mentes legyen az egocentrikus motivációktól."
-      },
-      {
-        q: "9. Mi a kapcsolat a Tanár nagysága és az értelem feletti hit befogadása között?",
-        options: [
-          "Ha a tanár vagy a spirituális cél értéke nagy az ember szemében, az képessé teszi arra, hogy legyőzze a saját kicsinyes logikáját és az értelem felett cselekedjen.",
-          "Semmilyen kapcsolat nincs köztük.",
-          "A tanár nagysága csak a lexikális tudást növeli.",
-          "A tanár arra tanít, hogy ne gondolkodjunk."
-        ],
-        correct: 0,
-        r: "A cél vagy a tanár fontosságának (nagyságának) érzékelése ad erőt az értelem feletti emelkedéshez."
-      },
-      {
-        q: "10. Hogyan változik az ember belső világa, amikor az értelem feletti hit (Emuna) szerint kezd el működni?",
-        options: [
-          "A belső bizonytalanság megszűnik, és egy stabil, örök spirituális szemléletmód alakul ki, amely független a külső körülményektől.",
-          "Az ember elveszíti a józan eszét.",
-          "A világ fizikai valósága teljesen megszűnik létezni.",
-          "Az ember passzívvá és érdektelenné válik."
-        ],
-        correct: 0,
-        r: "Az értelem feletti hit stabil, Felső Világok szerinti belső egyensúlyt és örök látásmódot biztosít."
+        r: "A Fény és Edény kölcsönhatása a Masach irányításával alakítja ki a spirituális világok pontos belső rendjét és fokozatait."
       }
     ],
     en: [
       {
-        q: "1. What is the main significance of the principle 'Faith above Reason' (Emuna le-ma'ala min ha-daat) in Kabbalah?",
+        q: "1. What are the main levels of the structure of the five spiritual worlds in Kabbalah?",
         options: [
-          "It enables spiritual ascent by relying not on one's limited egoistic reason, but on the Creator's attribute of bestowal.",
-          "It means blind obedience without any logic.",
-          "It is the rejection of science in daily life.",
-          "It is the complete disregard of the physical world."
+          "Adam Kadmon, Atzilut, Beria, Yetzira, and Assiya.",
+          "Keter, Hochma, Bina, Tifferet, Malchut.",
+          "Rosh, Toch, Sof, Peh, Tabur.",
+          "Aleph, Bet, Gimel, Dalet, Hey."
         ],
         correct: 0,
-        r: "Faith above reason is not blindness, but adopting the bestowing viewpoint of the Upper Light above egoistic logic."
+        r: "The order of spiritual worlds from Upper to lower is: Adam Kadmon, Atzilut, Beria, Yetzira, and Assiya."
       },
       {
-        q: "2. Why is man's natural, native reason limited in perceiving spiritual reality?",
+        q: "2. Where is the Machsom (barrier/threshold) located, and what is its spiritual role?",
         options: [
-          "Because it is built on egoistic desires and calculations for one's own benefit, whereas spirituality is based on the law of bestowal.",
-          "Because the human brain is biologically too small.",
-          "Because physical laws forbid spiritual thinking.",
-          "Because modern technology is not yet advanced enough."
+          "It is located between the spiritual worlds (above/below Atzilut) and the physical world, marking the limit a person can reach by their own effort before crossing into the world of pure bestowal.",
+          "It is found in the heart of the physical body.",
+          "It is in the space between the Earth and the Moon.",
+          "It plays no role in spirituality."
         ],
         correct: 0,
-        r: "Natural reason operates within the framework of the will to receive (Aviyut), thus incapable of grasping the higher laws of bestowal."
+        r: "The Machsom is the dividing line between egoistic desire (lower Assiya/Yetzira) and the pure intention to bestow (Atzilut/Beria)."
       },
       {
-        q: "3. How does the theme of Lesson 23 (Faith above Reason) connect to the concepts of Tzimtzum and Masach from previous lessons?",
+        q: "3. What parts make up the internal anatomy of a Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Operating the Masach (screen) in physical and spiritual reality is precisely the realization of work above reason, where egoistic calculations are overridden by the intention to bestow.",
-          "They have no connection whatsoever.",
-          "Tzimtzum is the opposite of faith above reason.",
-          "Masach applies only to the physical body."
+          "Rosh (Head – where calculation takes place), Toch (Interior – where Light flows in), and Sof (End – where reception concludes).",
+          "Hand, Foot, Torso.",
+          "Alpha, Beta, Gamma.",
+          "Past, Present, Future."
         ],
         correct: 0,
-        r: "Practicing faith above reason is the practical application of the screening (Masach) and returning light performed in the Partzuf."
+        r: "Every Partzuf is constructed from the stages of Rosh (Head), Toch (Interior), and Sof (End) according to the operation of the screen (Masach)."
       },
       {
-        q: "4. What is the difference between 'physical blindness' and the perspective of faith above reason?",
+        q: "4. What do the Peh (Mouth), Chaze (Chest), and Tabur (Navel) boundaries mean in a Partzuf?",
         options: [
-          "Faith above reason is not the denial of reality, but the transcendence of earthly logic in favor of a higher, all-encompassing spiritual law (bestowal).",
-          "Physical blindness yields better spiritual results.",
+          "Peh is the place of the screen (where Light enters), Chaze is the boundary of the middle line, and Tabur is the lower limit up to which Light can still be received.",
+          "These are mere anatomical terms for the physical body.",
+          "They denote planetary orbits.",
+          "They represent calendar months."
+        ],
+        correct: 0,
+        r: "Peh, Chaze, and Tabur are internal filters and boundaries within the Partzuf that determine the flow of Light."
+      },
+      {
+        q: "5. How is the 125 spiritual steps formed in the Upper Worlds?",
+        options: [
+          "5 worlds multiplied by 5 Partzufim per world, multiplied by 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "In exactly 125 physical days.",
+          "Following 125 different prophets.",
+          "Distributed randomly among the worlds."
+        ],
+        correct: 0,
+        r: "The complete system of spiritual degrees is composed as the product of 5 worlds, each with 5 Partzufim, and each Partzuf with 5 Sefirot (125 steps)."
+      },
+      {
+        q: "6. What is the difference between Galgalta ve-Eynaim (GE) and AHP (Awzen, Hotem, Peh) vessels?",
+        options: [
+          "GE (Galgalta ve-Eynaim) are pure bestowing vessels (acting solely for others), while AHP are the receiving vessels that seek to absorb pleasure for themselves.",
+          "GE is the physical eye, and AHP is the ear.",
           "There is no difference whatsoever.",
-          "Faith above reason is a falsification of science."
+          "AHP is the highest pure light."
         ],
         correct: 0,
-        r: "Faith above reason is a higher state of consciousness that complements and overrides lower, selfish calculations."
+        r: "GE is the upper part of the head (bestowing desires), while AHP is the lower part (receiving desires awaiting correction)."
       },
       {
-        q: "5. What is the role of the Ten (Kevod ha-Tzevet / Ten group) in achieving faith above reason?",
+        q: "7. What is the state of Ein Sof (Infinite World) before and after Tzimtzum Aleph (First Restriction)?",
         options: [
-          "The group provides support, strength, and an atmosphere of mutual guarantee (Arvut) in which the individual can transcend their egoistic limits.",
-          "The group is merely a venue for friendly chats.",
-          "The group exists for competing with one another.",
-          "The group plays no role in this."
+          "Before, it was a state of perfect, unlimited unity between Light and Vessel; after, the Light withdrew to make room for corrected vessels based on free will.",
+          "Ein Sof was completely destroyed.",
+          "Nothing changed at all.",
+          "Ein Sof transferred into the physical world."
         ],
         correct: 0,
-        r: "The work within the Ten and appreciating the greatness of friends helps the individual ascend into faith above reason."
+        r: "Ein Sof was the state of absolute fulfillment, which after Tzimtzum gives space to the hierarchical structure of the Upper Worlds."
       },
       {
-        q: "6. What does the principle 'Lo ba-shamayim hi' (It is not in heaven) mean in work above reason?",
+        q: "8. What is the role of the world of Atzilut among the other Upper Worlds (Beria, Yetzira, Assiya)?",
         options: [
-          "That spiritual ascent and the attitude above reason must be built by man from his actual situation, through real-life challenges.",
-          "That religion has nothing to do with everyday life.",
-          "That one must walk in the clouds during meditation.",
-          "That God never intervenes."
+          "Atzilut is the world of pure bestowal (Keter, Hochma, Bina), which governs and nourishes the lower worlds of Beria, Yetzira, and Assiya that need correction.",
+          "Atzilut is the physical hell.",
+          "Atzilut is merely a temporary warehouse.",
+          "Atzilut is completely independent of the other worlds."
         ],
         correct: 0,
-        r: "Spiritual work is realized on earth, through the difficulties of daily life and overcoming the ego."
+        r: "Atzilut is the world of emanation where pure Light and bestowal reign, sustaining the Bri-Yetzira-Assiya (BYA) system."
       },
       {
-        q: "7. How does Kabbalah view doubts on the spiritual path?",
+        q: "9. What are the characteristics of the world of Adam Kadmon (AK) in the system of Upper Worlds?",
         options: [
-          "Doubts are not errors; they are sent by the Upper Force to give man the space to build faith above reason (the power of bestowal).",
-          "Doubts indicate that one should stop studying.",
-          "Doubts are the direct work of evil demons.",
-          "Doubts never appear in a kabbalist."
+          "Adam Kadmon is the first pure spiritual world after Ein Sof, from which all other lower worlds (Atzilut, Beria, Yetzira, Assiya) branch out.",
+          "It is the anatomy of the physical man.",
+          "It is the darkest underworld.",
+          "It has no significance."
         ],
         correct: 0,
-        r: "Doubts provide the opportunity to choose the path of faith (bestowal) instead of relying on one's reason."
+        r: "Adam Kadmon is the first structured world after Ein Sof, laying the foundation for the universal spiritual hierarchy."
       },
       {
-        q: "8. What is the purpose of work above reason regarding one's relation to the Creator?",
+        q: "10. How is the relationship between Upper Light (Ohr Yashar) and vessels (Kelim) structured in the architecture of the Upper Worlds?",
         options: [
-          "So that the creature approaches the Creator not for self-interest or personal benefit, but out of pure, selfless love (Bestowal for the sake of bestowal).",
-          "To gain material wealth in the physical world.",
-          "To escape daily responsibilities.",
-          "To acquire special power over others."
+          "The Light always wants to fill every vessel, but the Masach (screen) and Ohr Hozer (returning light) regulate how much Light can flow in purely.",
+          "The Light is completely independent of the vessels.",
+          "The vessels destroy the Light.",
+          "There is no interaction whatsoever."
         ],
         correct: 0,
-        r: "Faith above reason ensures that the relationship with the Creator is free from egocentric motivations."
-      },
-      {
-        q: "9. What is the connection between the greatness of the Teacher and the absorption of faith above reason?",
-        options: [
-          "When the value of the teacher or the spiritual goal is great in man's eyes, it enables him to overcome his petty logic and act above reason.",
-          "There is no connection between them.",
-          "The teacher's greatness only increases book knowledge.",
-          "The teacher teaches us not to think."
-        ],
-        correct: 0,
-        r: "Perceiving the importance (greatness) of the goal or the teacher gives the strength to ascend above reason."
-      },
-      {
-        q: "10. How does a person's inner world change when they begin to operate according to faith above reason (Emuna)?",
-        options: [
-          "Inner uncertainty dissolves, and a stable, eternal spiritual worldview is established, independent of external circumstances.",
-          "A person loses their sanity.",
-          "The physical reality of the world ceases to exist entirely.",
-          "A person becomes passive and uninterested."
-        ],
-        correct: 0,
-        r: "Faith above reason provides a stable inner balance and eternal perspective according to the Upper Worlds."
+        r: "The interaction between Light and Vessel, guided by the Masach, shapes the precise inner order and degrees of the spiritual worlds."
       }
     ],
     he: [
       {
-        q: "1. מהי המשמעות המרכזית של עיקרון 'אמונה למעלה מהדעת' בקבלה?",
+        q: "1. מהם השלבים העיקריים במבנה חמשת העולמות הרוחניים בקבלה?",
         options: [
-          "הוא מאפשר עלייה רוחנית על ידי הסתמכות לא על השכל האגואיסטי המוגבל, אלא על תכונת ההשפעה של הבורא.",
-          "הוא משמעו ציות עיוור לدون שום היגיון.",
-          "הוא דחייה של המדע בחיי היומיום.",
-          "הוא התעלמות מוחלטת מהעולם הפיזי."
+          "אדם קדמון, אצילות, בריאה, יצירה ועשייה.",
+          "כתר, חוכמה, בינה, תפארת, מלכות.",
+          "ראש, תוך, סוף, פה, טבור.",
+          "אלף, בית, גימל, דלתא, ה'."
         ],
         correct: 0,
-        r: "אמונה למעלה מהדעת אינה עיוורון, אלא אימוץ נקודת מבט משפיעה של האור העליון מעל ההיגיון האגואיסטי."
+        r: "סדר העולמות הרוחניים מהעליון לתחתון הוא: אדם קדמון, אצילות, בריאה, יצירה ועשייה."
       },
       {
-        q: "2. מדוע השכל הטבעי והמולד של האדם מוגבל בהשגת המציאות הרוחנית?",
+        q: "2. היכן ממוקם המסך/המחסום (מחסום) ומה תפקידו הרוחני?",
         options: [
-          "משום שהוא בנוי על רצונות אגואיסטיים וחישובים לטובת עצמו, בעוד שהרוחניות מבוססת על חוק ההשפעה.",
-          "משום שהמוח האנושי קטן מדי ביולוגית.",
-          "משום שחוקים פיזיים אוסרים חשיבה רוחנית.",
-          "משום שהטכנולוגיה המודרנית עדיין לא מתקדמת מספיק."
+          "הוא ממוקם בין העולמות הרוחניים (מעל/מתחת לאצילות) לבין העולם הפיזי, ומציין את הגבול שאדם יכול להגיע אליו בכוחות עצמו בטרם יעבור לעולם ההשפעה הטהורה.",
+          "הוא נמצא בלב הגוף הפיזי.",
+          "הוא נמצא במרחב בין כדור הארץ לירח.",
+          "אין לו שום תפקיד ברוחניות."
         ],
         correct: 0,
-        r: "השכל הטבעי פועל במסגרת הרצון לקבל (עביות), ולכן אינו מסוגל לתפוס את חוקי ההשפעה העליונים."
+        r: "המחסום הוא קו ההפרדה בין הרצון האגואיסטי (עשייה/יצירה התחתונות) לבין הכוונה הטהורה להשפיע (אצילות/בריאה)."
       },
       {
-        q: "3. כיצד נושא השיעור ה-23 (אמונה למעלה מהדעת) מתחבר למושגי צמצום ומסך משיעורים קודמים?",
+        q: "3. אילו חלקים מרכיבים את האנטומיה הפנימית של פרצוף (ראש, תוך, סוף)?",
         options: [
-          "הפעלת המסך במציאות הפיזית והרוחנית היא בדיוק מימוש העבודה למעלה מהדעת, שבה החישובים האגואיסטיים מוחלפים בכוונה להשפיע.",
-          "אין ביניהם שום קשר.",
-          "הצמצום הוא ההפך מאמונה למעלה מהדעת.",
-          "המסך חל רק על הגוף הפיזי."
+          "ראש (המקום שבו מתבצע החישוב), תוך (הפנימיות – לשם זורם האור), וסוף (הסיום – שבו מסתיימת הקבלה).",
+          "יד, רגל, גוף.",
+          "אלפא, בטא, גמא.",
+          "עבר, הווה, עתיד."
         ],
         correct: 0,
-        r: "תרגול אמונה למעלה מהדעת הוא היישום מעשי של הסינון (מסך) והאור החוזר בפרצוף."
+        r: "כל פרצוף בנוי משלבי הראש, התוך והסוף בהתאם לפעולת המסך."
       },
       {
-        q: "4. מה ההבדל בין 'עיוורון פיזי' לבין נקודת המבט של אמונה למעלה מהדעת?",
+        q: "4. מה משמעותם של גבולות הפה, החזה והטבור בפרצוף?",
         options: [
-          "אמונה למעלה מהדעת אינה שלילת המציאות, אלא התעלות מעל ההיגיון הארצי לטובת חוק רוחני גבוה וכולל יותר (ההשפעה).",
-          "עיוורון פיזי מניב תוצאות רוחניות טובות יותר.",
+          "הפה הוא מקום המסך (שם נכנס האור), החזה הוא גבול הקו האמצעי, והטבור הוא הגבול התחתון שעד אליו ניתן עדיין לקבל אור.",
+          "אלו מונחים אנטומיים בלבד לגוף הפיזי.",
+          "הם מציינים מסלולי כוכבי לכת.",
+          "הם מייצגים חודשי שנה."
+        ],
+        correct: 0,
+        r: "פה, חזה וטבור הם מסננים וגבולות פנימיים בתוך הפרצוף המגדירים את זרימת האור."
+      },
+      {
+        q: "5. כיצד נוצרות 125 המדרגות הרוחניות בעולמות העליונים?",
+        options: [
+          "5 עולמות כפול 5 פרצופים בכל עולם, כפול 5 ספירות בכל פרצוף (5 x 5 x 5 = 125).",
+          "בדיוק בתוך 125 ימים פיזיים.",
+          "בעקבות 125 נביאים שונים.",
+          "מחולקים באקראי בין העולמות."
+        ],
+        correct: 0,
+        r: "המערכת השלמה של הדרגות הרוחניות מורכב כמכפלה של 5 עולמות, שלכל אחד 5 פרצופים, ולכל פרצוף 5 ספירות (125 מדרגות)."
+      },
+      {
+        q: "6. מה ההבדל בין כלי דגולטא ועיניים (ג״ע) לבין כלי א״פ (אוזן, חוטם, פה)?",
+        options: [
+          "ג״ע (גלגלתא ועיניים) הם כלים זכאי-השפעה טהורים (פועלים אך ורק בעד הזולת), בעוד שא״פ הם כלי קבלה המבקשים לקלוט הנאה לעצמם.",
+          "ג״ע הוא העין הפיזית וא״פ היא האוזן.",
           "אין שום הבדל ביניהם.",
-          "אמונה למעלה מהדעת היא זיוף של המדע."
+          "א״פ הוא האור הטהור ביותר."
         ],
         correct: 0,
-        r: "אמונה למעלה מהדעת היא מצב תודעתי גבוה יותר המשלב וגובר על חישובים אגואיסטיים נמוכים."
+        r: "ג״ע הוא החלק העליון של הראש (רצונות השפעה), בעוד שא״פ הוא החלק התחתון (רצונות קבלה הממתינים לתיקון)."
       },
       {
-        q: "5. מה תפקידה של העשׂרה (קבוצת העשׂרה) בהשגת אמונה למעלה מהדעת?",
+        q: "7. מהו מצבו של אין סוף לפני ואחרי צמצום א' (הצמצום הראשון)?",
         options: [
-          "הקבוצה מספקת תמיכה, כוח ואווירה של ערבות הדדית שבה הפרט יכול להתעלות מעל מגבלותיו האגואיסטיות.",
-          "הקבוצה היא אך ורק מקום לשיחות חברתיות.",
-          "הקבוצה קיימת כדי להתחרות זה בזה.",
-          "לקבוצה אין שום תפקיד בכך."
+          "לפני כן היה זה מצב של אחדות מושלמת ובלתי מוגבלת בין אור לכלי; לאחר מכן האור הסתלק כדיפנות מקום לכלים מתוקנים מתוך בחירה חופשית.",
+          "אין סוף הושמד לחלוטין.",
+          "שום דבר לא השתנה.",
+          "אין סוף עבר לעולם הפיזי."
         ],
         correct: 0,
-        r: "העבודה בתוך העשׂרה והערכת גדלות החברים מסייעות ליחיד להתעלות לאמונה למעלה מהדעת."
+        r: "אין סוף היה מצב של מלאות מוחלטת, שלאחר הצמצום נותן מקום למבנה ההיררכי של העולמות העליונים."
       },
       {
-        q: "6. מה משמעות העיקרון 'לא בשמים היא' בעבודה למעלה מהדעת?",
+        q: "8. מהו תפקידו של עולם האצילות בין שאר העולמות העליונים (בריאה, יצירה, עשייה - בי״ע)?",
         options: [
-          "שאת העלייה הרוחנית והגישה למעלה מהדעת האדם חייב לבנות ממצבו האמיתי, דרך אתגרי החיים האמיתיים.",
-          "שלדת אין שום קשר לחיים היומיומיים.",
-          "שצריך ללכת בעננים בזמן מדיטציה.",
-          "שאלוהים לעולם אינו מתערב."
+          "אצילות הוא עולם ההשפעה הטהורה (כתר, חוכמה, בינה), המנהל ומזין את העולמות התחתונים ממנו של בריאה, יצירה ועשייה הזקוקים לתיקון.",
+          "אצילות הוא הגיהנום הפיזי.",
+          "אצילות הוא מחסן זמני בלבד.",
+          "אצילות בלתי תלוי לחלוטין בשאר העולמות."
         ],
         correct: 0,
-        r: "העבודה הרוחנית מתממשת על הארץ, דרך קשיי חיי היומיום והתגברות על האגו."
+        r: "אצילות הוא עולם האצילות שבו שולטים אור והשפעה טהורים, המקיימים את מערכת בי״ע."
       },
       {
-        q: "7. כיצד מסתכלת הקבלה על ספקות בדרך הרוחנית?",
+        q: "9. מהם מאפייניו של עולם אדם קדמון (א״ק) במערכת העולמות העליונים?",
         options: [
-          "ספקות אינם שגיאות; הם נשלחים מהכוח העליון כדי לתת לאדם מרחב לבנות אמונה למעלה מהדעת (כוח ההשפעה).",
-          "ספקות מעידים שיש להפסיק ללמוד.",
-          "ספקות הם מעשה ידי שדים רעים ישירות.",
-          "ספקות לעולם אינם מופיעים אצל מקובל."
+          "אדם קדמון הוא העולם הרוחני הטהור הראשון לאחר אין סוף, שממנו מסתעפים כל שאר העולמות התחתונים (אצילות, בריאה, יצירה, עשייה).",
+          "זוהי האנטומיה של האדם הפיזי.",
+          "זהו עולם התחתון האפל ביותר.",
+          "אין לו חשיבות."
         ],
         correct: 0,
-        r: "ספקות מספקים את ההזדמנות לבחור בדרך האמונה (השפעה) במקום להסתמך על השכל."
+        r: "אדם קדמון הוא העולם המובנה הראשון לאחר אין סוף, המניח את היסוד להיררכיה הרוחנית האוניברסלית."
       },
       {
-        q: "8. מהי מטרת העבודה למעלה מהדעת ביחס לבורא?",
+        q: "10. כיצד בנוי הקשר בין האור העליון (אור ישר) לבין הכלים (כלים) בארכיטקטורה של העולמות העליונים?",
         options: [
-          "שהנברא יתקרב לבורא לא בשל אינטרס עצמי או תועלת אישית, אלא מאהבה טהורה וחסרת פניות (השפעה לשם השפעה).",
-          "להשיג עושר חומרי בעולם הפיזי.",
-          "להימנע מאחריות יומיומית.",
-          "לרכוש כוח מיוחד על אחרים."
+          "האור תמיד רוצה למלא כל כלי, אך המסך והאור החוזר מווסתים כמה אור יכול לזרום פנימה בטהרה.",
+          "האור בלתי תלוי לחלוטין בכלים.",
+          "הכלים משמידים את האור.",
+          "אין שום אינטראקציה ביניהם."
         ],
         correct: 0,
-        r: "אמונה למעלה מהדעת מבטיחה שהקשר עם הבורא יהיה נקי ממניעים אצצנטריים."
-      },
-      {
-        q: "9. מה הקשר בין גדלות הרב (או המטרה) לבין קליטת אמונה למעלה מהדעת?",
-        options: [
-          "כאשר ערך הרב או המטרה הרוחנית הוא גדול בעיני האדם, הדבר מעניק לו את הכוח להתגבר על ההיגיון הקטנוני שלו ולפעול למעלה מהדעת.",
-          "אין שום קשר ביניהם.",
-          "גדלות הרב רק מגדילה את הידע העיוני בספרים.",
-          "הרב מלמד אותנו לא לחשוב."
-        ],
-        correct: 0,
-        r: "תפיסת חשיבות (גדלות) המטרה או הרב מעניקה את הכוח לעלות למעלה מהדעת."
-      },
-      {
-        q: "10. כיצד משתנה עולמו הפנימי של האדם כאשר הוא מתחיל לפעול לפי אמונה למעלה מהדעת?",
-        options: [
-          "חוסר הוודאות הפנימי נעלם, ומתעצבת תפיסת עולם רוחנית יציבה ונצחית, שאינה תלויה בנסיבות חיצוניות.",
-          "האדם מאבד את שפיותו.",
-          "המציאות הפיזית של העולם חדלה לחלוטין להתקיים.",
-          "האדם הופך לפסיבי וחסר עניין."
-        ],
-        correct: 0,
-        r: "אמונה למעלה מהדעת מעניקה איזון פנימי יציב ופרספקטיבה נצחית לפי העולמות העליונים."
+        r: "האינטראקציה בין האור לכלי בהדרכת המסך מעצבת את הסדר הפנימי המדויק ואת הדרגות של העולמות הרוחניים."
       }
     ],
     ru: [
       {
-        q: "1. В чем главное значение принципа «Вера выше знания» (Эмуна ле-маала мин ха-даат) в Каббале?",
+        q: "1. Каковы основные уровни структуры пяти духовных миров в Каббале?",
         options: [
-          "Он позволяет совершить духовное восхождение, опираясь не на ограниченный эгоистический разум, а на свойство отдачи Творца.",
-          "Он означает слепое повиновение без всякой логики.",
-          "Это отказ от науки в повседневной жизни.",
-          "Это полное пренебрежение физическим миром."
+          "Адам Кадмон, Ацилут, Брия, Ецира и Асия.",
+          "Кетэр, Хохма, Бина, Тиферет, Малхут.",
+          "Рош, Тох, Соф, Пех, Табур.",
+          "Алеф, Бет, Гимель, Далет, Хей."
         ],
         correct: 0,
-        r: "Вера выше знания — это не слепота, а принятие отдающей точки зрения Высшего Света над эгоистической логикой."
+        r: "Порядок духовных миров сверху вниз: Адам Кадмон, Ацилут, Брия, Ецира и Асия."
       },
       {
-        q: "2. Почему естественный, прирожденный разум человека ограничен в постижении духовной реальности?",
+        q: "2. Где расположен Махсом (барьер/граница) и какова его духовная роль?",
         options: [
-          "Потому что он построен на эгоистических желаниях и расчетах в свою пользу, в то время как духовность основана на законе отдачи.",
-          "Потому что человеческий мозг биологически слишком мал.",
-          "Потому что физические законы запрещают духовное мышление.",
-          "Потому что современные технологии еще недостаточно развиты."
+          "Он расположен между духовными мирами (выше/ниже Ацилут) и физическим миром, знаменуя собой предел, которого человек может достичь собственными усилиями, прежде чем перейти в мир чистой отдачи.",
+          "Он находится в сердце физического тела.",
+          "Он находится в пространстве между Землей и Луной.",
+          "Он не играет никакой роли в духовности."
         ],
         correct: 0,
-        r: "Естественный разум действует в рамках желания получать (Авиют), поэтому не способен постичь высшие законы отдачи."
+        r: "Махсом — это разделительная линия между эгоистическим желанием (нижние Асия/Ецира) и чистым намерением отдавать (Ацилут/Брия)."
       },
       {
-        q: "3. Как тема 23-го урока (Вера выше знания) связана с понятиями Цимцум и Масах из предыдущих уроков?",
+        q: "3. Какие части составляют внутреннюю анатомию Парцуфа (Рош, Тох, Соф)?",
         options: [
-          "Использование Масаха (экрана) в физической и духовной реальности — это и есть реализация работы выше знания, когда эгоистические расчеты перекрываются намерением ради отдачи.",
-          "Между ними нет никакой связи.",
-          "Цимцум противоположен вере выше знания.",
-          "Масах применим только к физическому телу."
+          "Рош (Голова — где происходит расчет), Тох (Внутренность — куда вливается Свет) и Соф (Конец — где завершается получение).",
+          "Рука, Нога, Торс.",
+          "Альфа, Бета, Гамма.",
+          "Прошлое, Настоящее, Будущее."
         ],
         correct: 0,
-        r: "Практика веры выше знания — это практическое применение фильтрации (Масаха) и отраженного света в Парцуфе."
+        r: "Каждый Парцуф построен из этапов Рош (Голова), Тох (Внутренность) и Соф (Конец) в соответствии с действием экрана (Масаха)."
       },
       {
-        q: "4. В чем разница между «физической слепотой» и перспективой веры выше знания?",
+        q: "4. Что означают границы Пех (Рот), Хазе (Грудь) и Табур (Пуп) в Парцуфе?",
         options: [
-          "Вера выше знания — это не отрицание реальности, а преодоление земной логики в пользу более высокого, всеобъемлющего духовного закона (отдачи).",
-          "Физическая слепота дает лучшие духовные результаты.",
+          "Пех — это место экрана (куда входит Свет), Хазе — граница средней линии, а Табур — нижний предел, до которого Свет все еще может быть получен.",
+          "Это чисто анатомические термины для физического тела.",
+          "Они обозначают орбиты планет.",
+          "Они представляют календарные месяцы."
+        ],
+        correct: 0,
+        r: "Пех, Хазе и Табур — это внутренние фильтры и границы внутри Парцуфа, которые определяют поток Света."
+      },
+      {
+        q: "5. Как формируются 125 духовных ступеней в Высших мирах?",
+        options: [
+          "5 миров помноженные на 5 Парцуфим в каждом мире, помноженные на 5 Сфирот в каждом Парцуфе (5 x 5 x 5 = 125).",
+          "Ровно за 125 физических дней.",
+          "Вслед за 125 разными пророками.",
+          "Распределены случайно между мирами."
+        ],
+        correct: 0,
+        r: "Полная система духовных ступеней складывается как произведение 5 миров, каждый из которых имеет 5 Парцуфим, а каждый Парцуф — 5 Сфирот (125 ступеней)."
+      },
+      {
+        q: "6. В чем разница между сосудами Гальгальта ве-Эйнаим (Гэ) и АХП (Озэн, Хотэм, Пех)?",
+        options: [
+          "Гэ (Гальгальта ве-Эйнаим) — это чистые сосуды отдачи (действующие исключительно ради других), в то время как АХП — это сосуды получения, стремящиеся поглотить наслаждение для себя.",
+          "Гэ — это физический глаз, а АХП — ухо.",
           "Между ними нет никакой разницы.",
-          "Вера выше знания — это фальсификация науки."
+          "АХП — это высший чистый свет."
         ],
         correct: 0,
-        r: "Вера выше знания — это высшее состояние сознания, которое дополняет и перекрывает низшие, эгоистические расчеты."
+        r: "Гэ — это верхняя часть головы (желания отдачи), в то время как АХП — нижняя часть (желания получения, ожидающие исправления)."
       },
       {
-        q: "5. Какова роль Десятки (группы Десяти) в достижении веры выше знания?",
+        q: "7. Каково состояние Эйн Соф (Бесконечного Мира) до и после Цимцум Алеф (Первого сокращения)?",
         options: [
-          "Группа обеспечивает поддержку, силу и атмосферу взаимного поручительства (Арвут), в которой человек может выйти за пределы своих эгоистических ограничений.",
-          "Группа — это лишь место для дружеских бесед.",
-          "Группа существует для того, чтобы соревноваться друг с другом.",
-          "Группа не играет в этом никакой роли."
+          "До этого было состояние идеального, неограниченного единства между Светом и Сосудом; после этого Свет сократился, чтобы освободить место для исправленных сосудов на основе свободы воли.",
+          "Эйн Соф был полностью уничтожен.",
+          "Ничего не изменилось.",
+          "Эйн Соф перешел в физический мир."
         ],
         correct: 0,
-        r: "Работа внутри Десятки и оценка величия товарищей помогают человеку подняться к вере выше знания."
+        r: "Эйн Соф было состоянием абсолютного наполнения, которое после Цимцума дает простор иерархической структуре Высших миров."
       },
       {
-        q: "6. Что означает принцип «Ло ба-шамаим хи» (Не на небесах она) в работе выше знания?",
+        q: "8. какова роль мира Ацилут среди остальных Высших миров (Брия, Ецира, Асия)?",
         options: [
-          "Что духовное восхождение и подход выше знания человек должен строить из своего реального положения, через вызовы реальной жизни.",
-          "Что религия не имеет ничего общего с повседневной жизнью.",
-          "Что нужно витать в облаках во время медитации.",
-          "Что Бог никогда не вмешивается."
+          "Ацилут — это мир чистой отдачи (Кетэр, Хохма, Бина), который управляет и питает низшие миры Брия, Ецира и Асия, нуждающиеся в исправлении.",
+          "Ацилут — это физический ад.",
+          "Ацилут — это просто временный склад.",
+          "Ацилут полностью независим от других миров."
         ],
         correct: 0,
-        r: "Духовная работа реализуется на земле, через трудности повседневной жизни и преодоление эго."
+        r: "Ацилут — это мир эманации, где царят чистый Свет и отдача, поддерживая систему Брия-Ецира-Асия (БЕА)."
       },
       {
-        q: "7. Как Каббала относится к сомнениям на духовном пути?",
+        q: "9. Каковы особенности мира Адам Кадмон (АК) в системе Высших миров?",
         options: [
-          "Сомнения — это не ошибки; они посылаются Высшей силой, чтобы дать человеку пространство для построения веры выше знания (силы отдачи).",
-          "Сомнения указывают на то, что нужно прекратить учебу.",
-          "Сомнения — это прямая работа злых демонов.",
-          "У каббалиста никогда не возникают сомнения."
+          "Адам Кадмон — это первый чистый духовный мир после Эйн Соф, от которого ответвляются все остальные низшие миры (Ацилут, Брия, Ецира, Асия).",
+          "Это анатомия физического человека.",
+          "Это самый темный подземный мир.",
+          "Он не имеет никакого значения."
         ],
         correct: 0,
-        r: "Сомнения предоставляют возможность выбрать путь веры (отдачи) вместо того, чтобы полагаться на свой разум."
+        r: "Адам Кадмон — это первый структурированный мир после Эйн Соф, закладывающий основу универсальной духовной иерархии."
       },
       {
-        q: "8. Какова цель работы выше знания в отношении связи с Творцом?",
+        q: "10. Как построена связь между Высшим Светом (Ор Яшар) и сосудами (Келим) в архитектуре Высших миров?",
         options: [
-          "Чтобы творение приближалось к Творцу не из-за личной выгоды, а из чистой, бескорыстной любви (Отдача ради отдачи).",
-          "Чтобы приобрести материальное богатство в физическом мире.",
-          "Чтобы избежать повседневной ответственности.",
-          "Чтобы получить особую власть над другими."
+          "Свет всегда хочет наполнить каждый сосуд, но Масах (экран) и Ор Хозер (отраженный свет) регулируют, сколько Света может влиться в чистом виде.",
+          "Свет полностью независим от сосудов.",
+          "Сосуды уничтожают Свет.",
+          "Нет никакого взаимодействия."
         ],
         correct: 0,
-        r: "Вера выше знания гарантирует, что связь с Творцом свободна от эгоцентричных мотивов."
-      },
-      {
-        q: "9. Какова связь между величием Учителя (или Цели) и усвоением веры выше знания?",
-        options: [
-          "Когда ценность учителя или духовной цели велика в глазах человека, это дает ему силы преодолеть свою мелочную логику и действовать выше знания.",
-          "Между ними нет никакой связи.",
-          "Величие учителя лишь увеличивает книжные знания.",
-          "Учитель учит нас не думать."
-        ],
-        correct: 0,
-        r: "Восприятие важности (величия) цели или учителя дает силы для восхождения выше знания."
-      },
-      {
-        q: "10. Как меняется внутренний мир человека, когда он начинает действовать согласно вере выше знания (Эмуна)?",
-        options: [
-          "Внутренняя неопределенность исчезает, формируется стабильное, вечное духовное мировоззрение, независимое от внешних обстоятельств.",
-          "Человек теряет рассудок.",
-          "Физическая реальность мира полностью перестает существовать.",
-          "Человек становится пассивным и равнодушным."
-        ],
-        correct: 0,
-        r: "Вера выше знания обеспечивает стабильный внутренний баланс и вечную перспективу в соответствии с Высшими мирами."
+        r: "Взаимодействие между Светом и Сосудом под руководством Масаха формирует точный внутренний порядок и ступени духовных миров."
       }
     ],
     de: [
       {
-        q: "1. Was ist die Hauptbedeutung des Prinzips „Glaube über dem Verstand“ (Emuna le-ma'ala min ha-daat) in der Kabbala?",
+        q: "1. Was sind die Hauptstufen der Struktur der fünf spirituellen Welten in der Kabbala?",
         options: [
-          "Es ermöglicht den spirituellen Aufstieg, indem man sich nicht auf den eigenen begrenzten egoistischen Verstand stützt, sondern auf die gebende Eigenschaft des Schöpfers.",
-          "Es bedeutet blinden Gehorsam ohne jegliche Logik.",
-          "Es ist die Ablehnung der Wissenschaft im täglichen Leben.",
-          "Es ist die völlige Missachtung der physischen Welt."
+          "Adam Kadmon, Atzilut, Beria, Yetzira und Assiya.",
+          "Keter, Hochma, Bina, Tifferet, Malchut.",
+          "Rosch, Toch, Sof, Peh, Tabur.",
+          "Aleph, Bet, Gimel, Dalet, Hey."
         ],
         correct: 0,
-        r: "Glaube über dem Verstand ist keine Blindheit, sondern die Annahme der gebenden Sichtweise des Oberen Lichts über der egoistischen Logik."
+        r: "Die Reihenfolge der spirituellen Welten von oben nach unten ist: Adam Kadmon, Atzilut, Beria, Yetzira und Assiya."
       },
       {
-        q: "2. Warum ist der natürliche, angeborene Verstand des Menschen bei der Wahrnehmung der spirituellen Realität begrenzt?",
+        q: "2. Wo befindet sich das Machsom (Barriere/Schwelle) und welche spirituelle Rolle spielt es?",
         options: [
-          "Weil er auf egoistischen Wünschen und Berechnungen zum eigenen Vorteil aufgebaut ist, während Spiritualität auf dem Gesetz des Gebens beruht.",
-          "Weil das menschliche Gehirn biologisch zu klein ist.",
-          "Weil physikalische Gesetze spirituelles Denken verbieten.",
-          "Weil die moderne Technologie noch nicht weit genug fortgeschritten ist."
+          "Es befindet sich zwischen den spirituellen Welten (über/unter Atzilut) und der physischen Welt und markiert die Grenze, die ein Mensch durch eigene Anstrengung erreichen kann, bevor er in die Welt des reinen Gebens übertritt.",
+          "Es befindet sich im Herzen des physischen Körpers.",
+          "Es liegt im Raum zwischen Erde und Mond.",
+          "Es spielt keine Rolle in der Spiritualität."
         ],
         correct: 0,
-        r: "Der natürliche Verstand operiert im Rahmen des Empfangswillens (Aviyut) und ist daher nicht fähig, die höheren Gesetze des Gebens zu erfassen."
+        r: "Das Machsom ist die Trennlinie zwischen egoistischem Verlangen (untere Assiya/Yetzira) und der reinen Absicht zu geben (Atzilut/Beria)."
       },
       {
-        q: "3. Wie verbindet sich das Thema von Lektion 23 (Glaube über dem Verstand) mit den Konzepten von Tzimtzum und Masach aus vorherigen Lektionen?",
+        q: "3. Welche Teile bilden die innere Anatomie eines Partzuf (Rosch, Toch, Sof)?",
         options: [
-          "Die Handhabung des Masach (Schirms) in der physischen und spirituellen Realität ist genau die Verwirklichung der Arbeit über dem Verstand, bei der egoistische Berechnungen durch die Absicht des Gebens überschrieben werden.",
-          "Sie haben überhaupt keine Verbindung.",
-          "Tzimtzum ist das Gegenteil von Glaube über dem Verstand.",
-          "Masach gilt nur für den physischen Körper."
+          "Rosch (Kopf – wo die Berechnung stattfindet), Toch (Inneres – wohin das Licht strömt) und Sof (Ende – wo der Empfang abgeschlossen wird).",
+          "Hand, Fuß, Rumpf.",
+          "Alpha, Beta, Gamma.",
+          "Vergangenheit, Gegenwart, Zukunft."
         ],
         correct: 0,
-        r: "Die Praxis des Glaubens über dem Verstand ist die praktische Anwendung der Filterung (Masach) und des zurückgekehrten Lichts im Partzuf."
+        r: "Jeder Partzuf baut sich aus den Abschnitten Rosch (Kopf), Toch (Inneres) und Sof (Ende) gemäß der Funktion des Bildschirms (Masach) auf."
       },
       {
-        q: "4. Was ist der Unterschied zwischen „physischer Blindheit“ und der Perspektive des Glaubens über dem Verstand?",
+        q: "4. Was bedeuten die Grenzen Peh (Mund), Chaze (Brust) und Tabur (Nabel) in einem Partzuf?",
         options: [
-          "Glaube über dem Verstand ist keine Verleugnung der Realität, sondern die Transzendenz der irdischen Logik zugunsten eines höheren, allumfassenden spirituellen Gesetzes (des Gebens).",
-          "Physische Blindheit bringt bessere spirituelle Ergebnisse.",
+          "Peh ist der Ort des Bildschirms (wo Licht eintritt), Chaze ist die Grenze der mittleren Linie und Tabur ist die untere Grenze, bis zu der Licht noch empfangen werden kann.",
+          "Dies sind reine anatomische Begriffe für den physischen Körper.",
+          "Sie bezeichnen Planetenbahnen.",
+          "Sie repräsentieren Kalendermonate."
+        ],
+        correct: 0,
+        r: "Peh, Chaze und Tabur sind interne Filter und Grenzen im Partzuf, die den Lichtstrom definieren."
+      },
+      {
+        q: "5. Wie bilden sich die 125 spirituellen Stufen in den Oberen Welten?",
+        options: [
+          "5 Welten multipliziert mit 5 Partzufim pro Welt, multipliziert mit 5 Sefirot pro Partzuf (5 x 5 x 5 = 125).",
+          "In genau 125 physischen Tagen.",
+          "Nach 125 verschiedenen Propheten.",
+          "Zufällig auf die Welten verteilt."
+        ],
+        correct: 0,
+        r: "Das vollständige System der spirituellen Grade setzt sich als Produkt aus 5 Welten zusammen, die jeweils 5 Partzufim und jeder Partzuf 5 Sefirot hat (125 Stufen)."
+      },
+      {
+        q: "6. Was ist der Unterschied zwischen den Gefäßen Galgalta ve-Eynaim (GE) und AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) sind reine gebende Gefäße (die ausschließlich für andere handeln), während AHP die empfangenden Gefäße sind, die Vergnügen für sich selbst absorbieren wollen.",
+          "GE ist das physische Auge und AHP das Ohr.",
           "Es gibt keinen Unterschied.",
-          "Glaube über dem Verstand ist eine Fälschung der Wissenschaft."
+          "AHP ist das höchste reine Licht."
         ],
         correct: 0,
-        r: "Glaube über dem Verstand ist ein höherer Bewusstseinszustand, der niedrigere, egoistische Berechnungen ergänzt und übersteuert."
+        r: "GE ist der obere Teil des Kopfes (gebende Wünsche), während AHP der untere Teil ist (empfangende Wünsche, die auf Korrektur warten)."
       },
       {
-        q: "5. Welche Rolle spielt die Zehnergruppe (Kevod ha-Tzevet) beim Erreichen des Glaubens über dem Verstand?",
+        q: "7. Welcher Zustand herrscht in Ein Sof (Unendliche Welt) vor und nach Tzimtzum Aleph (Erste Einschränkung)?",
         options: [
-          "Die Gruppe bietet Unterstützung, Kraft und eine Atmosphäre gegenseitiger Bürgschaft (Arvut), in der das Individuum seine egoistischen Grenzen überschreiten kann.",
-          "Die Gruppe ist lediglich ein Ort für freundschaftliche Plaudereien.",
-          "Die Gruppe existiert, um miteinander zu konkurrieren.",
-          "Die Gruppe spielt dabei keine Rolle."
+          "Davor war es ein Zustand perfekter, unbegrenzter Einheit zwischen Licht und Gefäß; danach zog sich das Licht zurück, um Platz für korrigierte Gefäße basierend auf dem freien Willen zu machen.",
+          "Ein Sof wurde völlig zerstört.",
+          "Nichts hat sich verändert.",
+          "Ein Sof ging in die physische Welt über."
         ],
         correct: 0,
-        r: "Die Arbeit innerhalb der Zehnergruppe und das Schätzen der Größe der Freunde helfen dem Einzelnen, zum Glauben über dem Verstand aufzusteigen."
+        r: "Ein Sof war der Zustand absoluter Erfüllung, der nach dem Tzimtzum der hierarchischen Struktur der Oberen Welten Raum gibt."
       },
       {
-        q: "6. Was bedeutet das Prinzip „Lo ba-shamayim hi“ (Es ist nicht im Himmel) bei der Arbeit über dem Verstand?",
+        q: "8. Welche Rolle spielt die Welt von Atzilut unter den anderen Oberen Welten (Beria, Yetzira, Assiya)?",
         options: [
-          "Dass der spirituelle Aufstieg und die Haltung über dem Verstand von der tatsächlichen Situation des Menschen aus durch Herausforderungen des echten Lebens aufgebaut werden müssen.",
-          "Dass Religion nichts mit dem Alltag zu tun hat.",
-          "Dass man während der Meditation in den Wolken wandeln muss.",
-          "Dass Gott niemals eingreift."
+          "Atzilut ist die Welt des reinen Gebens (Keter, Hochma, Bina), die die niedrigeren Welten von Beria, Yetzira und Assiya regiert und nährt, welche der Korrektur bedürfen.",
+          "Atzilut ist die physische Hölle.",
+          "Atzilut ist nur ein temporäres Lager.",
+          "Atzilut ist völlig unabhängig von den anderen Welten."
         ],
         correct: 0,
-        r: "Spirituelle Arbeit wird auf der Erde verwirklicht, durch die Schwierigkeiten des täglichen Lebens und die Überwindung des Egos."
+        r: "Atzilut ist die Welt der Emanation, in der reines Licht und Geben herrschen und das Bri-Yetzira-Assiya (BYA)-System aufrechterhalten."
       },
       {
-        q: "7. Wie betrachtet die Kabbala Zweifel auf dem spirituellen Weg?",
+        q: "9. Was sind die Merkmale der Welt von Adam Kadmon (AK) im System der Oberen Welten?",
         options: [
-          "Zweifel sind keine Fehler; sie werden von der Oberen Kraft gesandt, um dem Menschen Raum zu geben, den Glauben über dem Verstand (die Kraft des Gebens) aufzubauen.",
-          "Zweifel zeigen an, dass man das Studium abbrechen sollte.",
-          "Zweifel sind das direkte Werk böser Dämonen.",
-          "Zweifel tauchen bei einem Kabbalisten niemals auf."
+          "Adam Kadmon ist die erste reine spirituelle Welt nach Ein Sof, von der alle anderen niederen Welten (Atzilut, Beria, Yetzira, Assiya) abzweigen.",
+          "Es ist die Anatomie des physischen Menschen.",
+          "Es ist die dunkelste Unterwelt.",
+          "Es hat keine Bedeutung."
         ],
         correct: 0,
-        r: "Zweifel bieten die Gelegenheit, den Weg des Glaubens (des Gebens) zu wählen, anstatt sich auf den eigenen Verstand zu verlassen."
+        r: "Adam Kadmon ist die erste strukturierte Welt nach Ein Sof, die den Grundstein für die universelle spirituelle Hierarchie legt."
       },
       {
-        q: "8. Was ist der Zweck der Arbeit über dem Verstand in Bezug auf das Verhältnis zum Schöpfer?",
+        q: "10. Wie ist die Beziehung zwischen Oberem Licht (Ohr Yashar) und Gefäßen (Kelim) in der Architektur der Oberen Welten aufgebaut?",
         options: [
-          "Dass sich das Geschöpf dem Schöpfer nicht aus Eigeninteresse oder persönlichem Vorteil nähert, sondern aus reiner, unselbstsüchtiger Liebe (Geben um des Gebens willen).",
-          "Um materiellen Reichtum in der physischen Welt zu erlangen.",
-          "Um alltäglichen Verantwortlichkeiten zu entkommen.",
-          "Um besondere Macht über andere zu erlangen."
+          "Das Licht möchte immer jedes Gefäß füllen, aber der Masach (Bildschirm) und Ohr Hozer (zurückgeworfenes Licht) regeln, wie viel Licht in reiner Form hineinfließen kann.",
+          "Das Licht ist völlig unabhängig von den Gefäßen.",
+          "Die Gefäße zerstören das Licht.",
+          "Es gibt keinerlei Interaktion."
         ],
         correct: 0,
-        r: "Glaube über dem Verstand stellt sicher, dass die Beziehung zum Schöpfer frei von egozentrischen Motiven ist."
-      },
-      {
-        q: "9. Was ist die Verbindung zwischen der Größe des Lehrers (oder des Ziels) und der Annahme des Glaubens über dem Verstand?",
-        options: [
-          "Wenn der Wert des Lehrers oder des spirituellen Ziels in den Augen des Menschen groß ist, befähigt ihn dies, seine kleinliche Logik zu überwinden und über dem Verstand zu handeln.",
-          "Es gibt keinerlei Verbindung zwischen ihnen.",
-          "Die Größe des Lehrers vergrößert nur das Buchwissen.",
-          "Der Lehrer lehrt uns, nicht zu denken."
-        ],
-        correct: 0,
-        r: "Das Wahrnehmen der Wichtigkeit (Größe) des Ziels oder des Lehrers gibt die Kraft zum Aufstieg über den Verstand."
-      },
-      {
-        q: "10. Wie verändert sich die innere Welt eines Menschen, wenn er beginnt, gemäß dem Glauben über dem Verstand (Emuna) zu handeln?",
-        options: [
-          "Innere Unsicherheit verschwindet, und es entsteht eine stabile, ewige spirituelle Weltsicht, unabhängig von äußeren Umständen.",
-          "Der Mensch verliert den Verstand.",
-          "Die physische Realität der Welt hört völlig auf zu existieren.",
-          "Der Mensch wird passiv und uninteressiert."
-        ],
-        correct: 0,
-        r: "Glaube über dem Verstand bietet ein stabiles inneres Gleichgewicht und eine ewige Perspektive gemäß den Oberen Welten."
+        r: "Die Interaktion zwischen Licht und Gefäß unter der Leitung des Masach formt die präzise innere Ordnung und die Grade der spirituellen Welten."
       }
     ],
     es: [
     {
-      q: "1. ¿Cuál es el significado principal del principio «La fe por encima de la razón» (Emuna le-ma'ala min ha-daat) en la Cabalá?",
+      q: "1. ¿Cuáles son los niveles principales de la estructura de los cinco mundos espirituales en la Cabalá?",
       options: [
-        "Permite el ascenso espiritual al no basarse en la razón egoísta limitada de uno, sino en el atributo de otorgamiento del Creador.",
-        "Significa obediencia ciega sin ninguna lógica.",
-        "Es el rechazo de la ciencia en la vida diaria.",
-        "Es la total indiferencia hacia el mundo físico."
+        "Adam Kadmon, Atzilut, Beria, Yetzira y Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "La fe por encima de la razón no es ceguera, sino adoptar el punto de vista de otorgamiento de la Luz Superior por encima de la lógica egoísta."
+      r: "El orden de los mundos espirituales de Superior a inferior es: Adam Kadmon, Atzilut, Beria, Yetzira y Assiya."
     },
     {
-      q: "2. ¿Por qué la razón natural y nativa del hombre es limitada para percibir la realidad espiritual?",
-      options: [
-        "Porque está construida sobre deseos egoístas y cálculos para el propio beneficio, mientras que la espiritualidad se basa en la ley del otorgamiento.",
-        "Porque el cerebro humano es biológicamente demasiado pequeño.",
-        "Porque las leyes físicas prohíben el pensamiento espiritual.",
-        "Porque la tecnología moderna aún no está suficientemente avanzada."
-      ],
-      correct: 0,
-      r: "La razón natural opera dentro del marco del deseo de recibir (Aviyut), por lo que es incapaz de captar las leyes superiores de otorgamiento."
-    },
-    {
-      q: "3. ¿Cómo se conecta el tema de la Lección 23 (La fe por encima de la razón) con los conceptos de Tzimtzum y Masach de las lecciones anteriores?",
+      q: "2. ¿Dónde se encuentra el Majsom (barrera/umbral) y cuál es su rol espiritual?",
         options: [
-          "Operar el Masach (pantalla) en la realidad física y espiritual es precisamente la realización del trabajo por encima de la razón, donde los cálculos egoístas son anulados por la intención de otorgar.",
-          "No tienen ninguna conexión.",
-          "El Tzimtzum es lo opuesto a la fe por encima de la razón.",
-          "El Masach se aplica únicamente al cuerpo físico."
+          "Se encuentra entre los mundos espirituales (arriba/abajo de Atzilut) y el mundo físico, marcando el límite que una persona puede alcanzar por su propio esfuerzo antes de cruzar al mundo de otorgamiento puro.",
+          "Se encuentra en el corazón del cuerpo físico.",
+          "Está en el espacio entre la Tierra y la Luna.",
+          "No juega ningún papel en la espiritualidad."
         ],
         correct: 0,
-        r: "Practicar la fe por encima de la razón es la aplicación práctica de la filtración (Masach) y la luz de retorno realizada en el Partzuf."
+        r: "El Majsom es la línea divisoria entre el deseo egoísta (Assiya/Yetzira inferiores) y la intención pura de otorgar (Atzilut/Beria)."
     },
     {
-      q: "4. ¿Cuál es la diferencia entre la «ceguera física» y la perspectiva de la fe por encima de la razón?",
+      q: "3. ¿Qué partes componen la anatomía interna de un Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "La fe por encima de la razón no es la negación de la realidad, sino la trascendencia de la lógica terrenal en favor de una ley espiritual superior y más abarcadora (el otorgamiento).",
-          "La ceguera física produce mejores resultados espirituales.",
+          "Rosh (Cabeza – donde ocurre el cálculo), Toch (Interior – hacia donde fluye la Luz), y Sof (Fin – donde concluye la recepción).",
+          "Mano, Pie, Torso.",
+          "Alfa, Beta, Gamma.",
+          "Pasado, Presente, Futuro."
+        ],
+        correct: 0,
+        r: "Cada Partzuf está construido a partir de las etapas de Rosh (Cabeza), Toch (Interior) y Sof (Fin) según la operación de la pantalla (Masach)."
+    },
+    {
+      q: "4. ¿Qué significan los límites Peh (Boca), Chaze (Pecho) y Tabur (Ombligo) en un Partzuf?",
+        options: [
+          "Peh es el lugar de la pantalla (donde entra la Luz), Chaze es el límite de la línea media y Tabur es el límite inferior hasta el cual la Luz aún puede ser recibida.",
+          "Estos son meros términos anatómicos para el cuerpo físico.",
+          "Denotan órbitas planetarias.",
+          "Representan meses del calendario."
+        ],
+        correct: 0,
+        r: "Peh, Chaze y Tabur son filtros y límites internos dentro del Partzuf que determinan el flujo de Luz."
+    },
+    {
+      q: "5. ¿Cómo se forman los 125 escalones espirituales en los Mundos Superiores?",
+        options: [
+          "5 mundos multiplicados por 5 Partzufim por mundo, multiplicados por 5 Sefirot por Partzuf (5 x 5 x 5 = 125).",
+          "Exactamente en 125 días físicos.",
+          "Siguiendo a 125 profetas diferentes.",
+          "Distribuidos aleatoriamente entre los mundos."
+        ],
+        correct: 0,
+        r: "El sistema completo de grados espirituales se compone como el producto de 5 mundos, cada uno con 5 Partzufim, y cada Partzuf con 5 Sefirot (125 escalones)."
+    },
+    {
+      q: "6. ¿Cuál es la diferencia entre las vasijas Galgalta ve-Eynaim (GE) y AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) son vasijas de otorgamiento puro (actúan exclusivamente para los demás), mientras que AHP son las vasijas de recepción que buscan absorber placer para sí mismas.",
+          "GE es el ojo físico y AHP es el oído.",
           "No hay ninguna diferencia.",
-          "La fe por encima de la razón es una falsificación de la ciencia."
+          "AHP es la luz pura más alta."
         ],
         correct: 0,
-        r: "La fe por encima de la razón es un estado superior de conciencia que complementa y anula los cálculos inferiores y egoístas."
+        r: "GE es la parte superior de la cabeza (deseos de otorgamiento), mientras que AHP es la parte inferior (deseos de recepción que esperan corrección)."
     },
     {
-      q: "5. ¿Cuál es el papel de la Decena (Kevod ha-Tzevet / Grupo de Diez) para lograr la fe por encima de la razón?",
+      q: "7. ¿Cuál es el estado de Ein Sof (Mundo Infinito) antes y después de Tzimtzum Aleph (Primera Restricción)?",
         options: [
-          "El grupo proporciona apoyo, fuerza y una atmósfera de garantía mutua (Arvut) en la cual el individuo puede trascender sus límites egoístas.",
-          "El grupo es meramente un lugar para charlas amistosas.",
-          "El grupo existe para competir entre sí.",
-          "El grupo no juega ningún papel en esto."
+          "Antes, era un estado de unidad perfecta e ilimitada entre la Luz y la Vasija; después, la Luz se retiró para dar lugar a vasijas corregidas basadas en el libre albedrío.",
+          "Ein Sof fue completamente destruido.",
+          "Nada cambió en absoluto.",
+          "Ein Sof se transfirió al mundo físico."
         ],
         correct: 0,
-        r: "El trabajo dentro de la Decena y la apreciación de la grandeza de los amigos ayudan al individuo a ascender a la fe por encima de la razón."
+        r: "Ein Sof era el estado de plenitud absoluta, que después del Tzimtzum da espacio a la estructura jerárquica de los Mundos Superiores."
     },
     {
-      q: "6. ¿Qué significa el principio «Lo ba-shamayim hi» (No está en el cielo) en el trabajo por encima de la razón?",
+      q: "8. ¿Cuál es el rol del mundo de Atzilut entre los otros Mundos Superiores (Beria, Yetzira, Assiya)?",
         options: [
-          "Que el ascenso espiritual y la actitud por encima de la razón deben ser construidos por el hombre desde su situación real, a través de los desafíos de la vida real.",
-          "Que la religión no tiene nada que ver con la vida cotidiana.",
-          "Que uno debe caminar entre las nubes durante la meditación.",
-          "Que Dios nunca interviene."
+          "Atzilut es el mundo de otorgamiento puro (Keter, Hochma, Bina), que gobierna y nutre los mundos inferiores de Beria, Yetzira y Assiya que necesitan corrección.",
+          "Atzilut es el infierno físico.",
+          "Atzilut es meramente un almacén temporal.",
+          "Atzilut es completamente independiente de los demás mundos."
         ],
         correct: 0,
-        r: "El trabajo espiritual se realiza en la tierra, a través de las dificultades de la vida diaria y la superación del ego."
+        r: "Atzilut es el mundo de emanación donde reinan la Luz pura y el otorgamiento, sosteniendo el sistema Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. ¿Cómo ve la Cabalá las dudas en el camino espiritual?",
+      q: "9. ¿Cuáles son las características del mundo de Adam Kadmon (AK) en el sistema de los Mundos Superiores?",
         options: [
-          "Las dudas no son errores; son enviadas por la Fuerza Superior para darle al hombre el espacio para construir la fe por encima de la razón (el poder del otorgamiento).",
-          "Las dudas indican que uno debe dejar de estudiar.",
-          "Las dudas son la obra directa de demonios malvados.",
-          "Las dudas nunca aparecen en un cabalista."
+          "Adam Kadmon es el primer mundo espiritual puro después de Ein Sof, del cual se ramifican todos los demás mundos inferiores (Atzilut, Beria, Yetzira, Assiya).",
+          "Es la anatomía del hombre físico.",
+          "Es el inframundo más oscuro.",
+          "No tiene ninguna importancia."
         ],
         correct: 0,
-        r: "Las dudas brindan la oportunidad de elegir el camino de la fe (otorgamiento) en lugar de depender de la propia razón."
+        r: "Adam Kadmon es el primer mundo estructurado después de Ein Sof, sentando las bases para la jerarquía espiritual universal."
     },
     {
-      q: "8. ¿Cuál es el propósito del trabajo por encima de la razón con respecto a la relación con el Creador?",
+      q: "10. ¿Cómo se estructura la relación entre la Luz Superior (Ohr Yashar) y las vasijas (Kelim) en la arquitectura de los Mundos Superiores?",
         options: [
-          "Que la criatura se acerque al Creador no por interés propio o beneficio personal, sino por un amor puro y desinteresado (Otorgamiento por aras del otorgamiento).",
-          "Obtener riqueza material en el mundo físico.",
-          "Escapar de las responsabilidades diarias.",
-          "Adquirir un poder especial sobre los demás."
+          "La Luz siempre quiere llenar cada vasija, pero el Masach (pantalla) y el Ohr Hozer (luz retornada) regulan cuánta Luz puede fluir puramente.",
+          "La Luz es completamente independiente de las vasijas.",
+          "Las vasijas destruyen la Luz.",
+          "No hay interacción alguna."
         ],
         correct: 0,
-        r: "La fe por encima de la razón asegura que la relación con el Creador esté libre de motivaciones egocéntricas."
-    },
-    {
-      q: "9. ¿Cuál es la conexión entre la grandeza del Maestro (o de la meta) y la absorción de la fe por encima de la razón?",
-        options: [
-          "Cuando el valor del maestro o de la meta espiritual es grande a los ojos del hombre, le capacita para superar su lógica mezquina y actuar por encima de la razón.",
-          "No hay conexión entre ellos.",
-          "La grandeza del maestro solo aumenta el conocimiento libresco.",
-          "El maestro nos enseña a no pensar."
-        ],
-        correct: 0,
-        r: "Percibir la importancia (grandeza) de la meta o del maestro da la fuerza para ascender por encima de la razón."
-    },
-    {
-      q: "10. ¿Cómo cambia el mundo interior de una persona cuando comienza a operar según la fe por encima de la razón (Emuna)?",
-        options: [
-          "La incertidumbre interna se disuelve y se establece una visión del mundo espiritual estable y eterna, independiente de las circunstancias externas.",
-          "Una persona pierde la cordura.",
-          "La realidad física del mundo deja de existir por completo.",
-          "Una persona se vuelve pasiva y desinteresada."
-        ],
-        correct: 0,
-        r: "La fe por encima de la razón proporciona un equilibrio interno estable y una perspectiva eterna según los Mundos Superiores."
+        r: "La interacción entre la Luz y la Vasija, guiada por el Masach, da forma al orden interno preciso y a los grados de los mundos espirituales."
     }
   ],
   fr: [
     {
-      q: "1. Quelle est la principale signification du principe « La foi au-dessus de la raison » (Emuna le-ma'ala min ha-daat) dans la Kabbale ?",
+      q: "1. Quels sont les principaux niveaux de la structure des cinq mondes spirituels dans la Kabbale ?",
       options: [
-        "Elle permet l'ascension spirituelle en ne s'appuyant pas sur la raison égoïste limitée de l'homme, mais sur l'attribut d'octroi du Créateur.",
-        "Elle signifie une obéissance aveugle sans aucune logique.",
-        "C'est le rejet de la science dans la vie quotidienne.",
-        "C'est le mépris total du monde physique."
+        "Adam Kadmon, Atzilut, Beria, Yetzira et Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "La foi au-dessus de la raison n'est pas de la cécité, mais l'adoption du point de vue d'octroi de la Lumière Supérieure au-dessus de la logique égoïste."
+      r: "L'ordre des mondes spirituels du Supérieur à l'inférieur est : Adam Kadmon, Atzilut, Beria, Yetzira et Assiya."
     },
     {
-      q: "2. Pourquoi la raison naturelle et innée de l'homme est-elle limitée dans la perception de la réalité spirituelle ?",
+      q: "2. Où se situe le Machsom (barrière/seuil) et quel est son rôle spirituel ?",
         options: [
-          "Parce qu'elle est bâtie sur des désirs égoïstes et des calculs pour son propre profit, alors que la spiritualité est fondée sur la loi de l'octroi.",
-          "Parce que le cerveau humain est biologiquement trop petit.",
-          "Parce que les lois physiques interdisent la pensée spirituelle.",
-          "Parce que la technologie moderne n'est pas encore assez avancée."
+          "Il se situe entre les mondes spirituels (au-dessus/en dessous d'Atzilut) et le monde physique, marquant la limite qu'une personne peut atteindre par ses propres efforts avant de traverser vers le monde de l'octroi pur.",
+          "Il se trouve au cœur du corps physique.",
+          "Il est dans l'espace entre la Terre et la Lune.",
+          "Il ne joue aucun rôle dans la spiritualité."
         ],
         correct: 0,
-        r: "La raison naturelle opère dans le cadre du désir de recevoir (Aviyut), étant ainsi incapable de saisir les lois supérieures de l'octroi."
+        r: "Le Machsom est la ligne de démarcation entre le désir égoïste (Assiya/Yetzira inférieurs) et l'intention pure d'octroyer (Atzilut/Beria)."
     },
     {
-      q: "3. Comment le thème de la Leçon 23 (La foi au-dessus de la raison) se connecte-t-il aux concepts de Tzimtzum et de Masach des leçons précédentes ?",
+      q: "3. Quelles parties composent l'anatomie interne d'un Partzuf (Rosh, Toch, Sof) ?",
         options: [
-          "Faire fonctionner le Masach (l'écran) dans la réalité physique et spirituelle est précisément la réalisation du travail au-dessus de la raison, où les calculs égoïstes sont supplantés par l'intention d'octroyer.",
-          "Ils n'ont aucun lien.",
-          "Le Tzimtzum est l'opposé de la foi au-dessus de la raison.",
-          "Le Masach s'applique uniquement au corps physique."
+          "Rosh (Tête – où se produit le calcul), Toch (Intérieur – vers où la Lumière afflue) et Sof (Fin – où la réception s'achève).",
+          "Main, Pied, Torse.",
+          "Alpha, Beta, Gamma.",
+          "Passé, Présent, Futur."
         ],
         correct: 0,
-        r: "Pratiquer la foi au-dessus de la raison est l'application pratique du filtrage (Masach) et de la lumière renvoyée accomplis dans le Partzuf."
+        r: "Chaque Partzuf est construit à partir des étapes de Rosh (Tête), Toch (Intérieur) et Sof (Fin) selon le fonctionnement de l'écran (Masach)."
     },
     {
-      q: "4. Quelle est la différence entre la « cécité physique » et la perspective de la foi au-dessus de la raison ?",
+      q: "4. Que signifient les limites Peh (Bouche), Chaze (Poitrine) et Tabur (Nombril) dans un Partzuf ?",
         options: [
-          "La foi au-dessus de la raison n'est pas la négation de la réalité, mais la transcendance de la logique terrestre en faveur d'une loi spirituelle supérieure et englobante (l'octroi).",
-          "La cécité physique donne de meilleurs résultats spirituels.",
+          "Peh est le lieu de l'écran (où entre la Lumière), Chaze est la limite de la ligne médiane et Tabur est la limite inférieure jusqu'à laquelle la Lumière peut encore être reçue.",
+          "Ce sont de simples termes anatomiques pour le corps physique.",
+          "Ils désignent des orbites planétaires.",
+          "Ils représentent des mois du calendrier."
+        ],
+        correct: 0,
+        r: "Peh, Chaze et Tabur sont des filtres et des limites internes au sein du Partzuf qui déterminent le flux de Lumière."
+    },
+    {
+      q: "5. Comment se forment les 125 degrés spirituels dans les Mondes Supérieurs ?",
+        options: [
+          "5 mondes multipliés par 5 Partzufim par monde, multipliés par 5 Sefirot par Partzuf (5 x 5 x 5 = 125).",
+          "En exactement 125 jours physiques.",
+          "En suivant 125 prophètes différents.",
+          "Distribués aléatoirement parmi les mondes."
+        ],
+        correct: 0,
+        r: "Le système complet des degrés spirituels est composé comme le produit de 5 mondes, chacun ayant 5 Partzufim, et chaque Partzuf ayant 5 Sefirot (125 degrés)."
+    },
+    {
+      q: "6. Quelle est la différence entre les vases Galgalta ve-Eynaim (GE) et AHP (Awzen, Hotem, Peh) ?",
+        options: [
+          "GE (Galgalta ve-Eynaim) sont des vases d'octroi pur (agissant exclusivement pour les autres), tandis que AHP sont les vases de réception cherchant à absorber le plaisir pour eux-mêmes.",
+          "GE est l'œil physique et AHP est l'oreille.",
           "Il n'y a aucune différence.",
-          "La foi au-dessus de la raison est une falsification de la science."
+          "AHP est la plus haute lumière pure."
         ],
         correct: 0,
-        r: "La foi au-dessus de la raison est un état supérieur de conscience qui complète et supplante les calculs inférieurs et égoïstes."
+        r: "GE est la partie supérieure de la tête (désirs d'octroi), tandis que AHP est la partie inférieure (désirs de réception en attente de correction)."
     },
     {
-      q: "5. Quel est le rôle de la Dizaine (Kevod ha-Tzevet / Groupe de Dix) pour atteindre la foi au-dessus de la raison ?",
+      q: "7. Quel est l'état d'Ein Sof (Monde Infini) avant et après Tzimtzum Aleph (Première Restriction) ?",
         options: [
-          "Le groupe fournit un soutien, de la force et une atmosphère de garantie mutuelle (Arvut) dans laquelle l'individu peut transcender ses limites égoïstes.",
-          "Le groupe est simplement un lieu de discussions amicales.",
-          "Le groupe existe pour rivaliser les uns avec les autres.",
-          "Le groupe ne joue aucun rôle là-dedans."
+          "Avant, c'était un état d'unité parfaite et illimitée entre la Lumière et le Vase ; après, la Lumière s'est retirée pour faire place à des vases corrigés basés sur le libre arbitre.",
+          "Ein Sof a été complètement détruit.",
+          "Rien n'a changé du tout.",
+          "Ein Sof a été transféré dans le monde physique."
         ],
         correct: 0,
-        r: "Le travail au sein de la Dizaine et l'appréciation de la grandeur des amis aident l'individu à s'élever vers la foi au-dessus de la raison."
+        r: "Ein Sof était l'état de plénitude absolue, qui après le Tzimtzum donne de l'espace à la structure hiérarchique des Mondes Supérieurs."
     },
     {
-      q: "6. Que signifie le principe « Lo ba-shamayim hi » (Elle n'est pas dans les cieux) dans le travail au-dessus de la raison ?",
+      q: "8. Quel est le rôle du monde d'Atzilut parmi les autres Mondes Supérieurs (Beria, Yetzira, Assiya) ?",
         options: [
-          "Que l'ascension spirituelle et l'attitude au-dessus de la raison doivent être construites par l'homme à partir de sa situation réelle, à travers les défis de la vie réelle.",
-          "Que la religion n'a rien à voir avec la vie quotidienne.",
-          "Qu'il faut marcher dans les nuages pendant la méditation.",
-          "Que Dieu n'intervient jamais."
+          "Atzilut est le monde de l'octroi pur (Keter, Hochma, Bina), qui gouverne et nourrit les mondes inférieurs de Beria, Yetzira et Assiya qui ont besoin de correction.",
+          "Atzilut est l'enfer physique.",
+          "Atzilut est simplement un entrepôt temporaire.",
+          "Atzilut est complètement indépendant des autres mondes."
         ],
         correct: 0,
-        r: "Le travail spirituel se réalise sur terre, à travers les difficultés de la vie quotidienne et le dépassement de l'ego."
+        r: "Atzilut est le monde d'émanation où règnent la Lumière pure et l'octroi, soutenant le système Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Comment la Kabbale considère-t-elle les doutes sur le chemin spirituel ?",
+      q: "9. Quelles sont les caractéristiques du monde d'Adam Kadmon (AK) dans le système des Mondes Supérieurs ?",
         options: [
-          "Les doutes ne sont pas des erreurs ; ils sont envoyés par la Force Supérieure pour donner à l'homme l'espace nécessaire pour bâtir la foi au-dessus de la raison (le pouvoir d'octroi).",
-          "Les doutes indiquent qu'il faut cesser d'étudier.",
-          "Les doutes sont l'œuvre directe de démons maléfiques.",
-          "Les doutes n'apparaissent jamais chez un kabbaliste."
+          "Adam Kadmon est le premier monde spirituel pur après Ein Sof, à partir duquel tous les autres mondes inférieurs (Atzilut, Beria, Yetzira, Assiya) se ramifient.",
+          "C'est l'anatomie de l'homme physique.",
+          "C'est le monde souterrain le plus sombre.",
+          "Il n'a aucune importance."
         ],
         correct: 0,
-        r: "Les doutes offrent l'opportunité de choisir la voie de la foi (l'octroi) au lieu de s'en remettre à sa propre raison."
+        r: "Adam Kadmon est le premier monde structuré après Ein Sof, posant les bases de la hiérarchie spirituelle universelle."
     },
     {
-      q: "8. Quel est le but du travail au-dessus de la raison en ce qui concerne la relation avec le Créateur ?",
+      q: "10. Comment la relation entre la Lumière Supérieure (Ohr Yashar) et les vases (Kelim) est-elle structurée dans l'architecture des Mondes Supérieurs ?",
         options: [
-          "Que la créature s'approche du Créateur non par intérêt personnel ou profit, mais par un amour pur et désintéressé (Octroi pour l'amour de l'octroi).",
-          "Acquérir des richesses matérielles dans le monde physique.",
-          "Échapper aux responsabilités quotidiennes.",
-          "Acquérir un pouvoir spécial sur les autres."
+          "La Lumière veut toujours remplir chaque vase, mais le Masach (écran) et l'Ohr Hozer (lumière renvoyée) régulent quelle quantité de Lumière peut affluer purement.",
+          "La Lumière est complètement indépendante des vases.",
+          "Les vases détruisent la Lumière.",
+          "Il n'y a aucune interaction."
         ],
         correct: 0,
-        r: "La foi au-dessus de la raison garantit que la relation avec le Créateur est exempte de motivations égocentriques."
-    },
-    {
-      q: "9. Quel est le lien entre la grandeur du Maître (ou du but) et l'assimilation de la foi au-dessus de la raison ?",
-        options: [
-          "Quand la valeur du maître ou du but spirituel est grande aux yeux de l'homme, cela lui donne la force de surmonter sa logique mesquine et d'agir au-dessus de la raison.",
-          "Il n'y a aucun lien entre eux.",
-          "La grandeur du maître ne fait qu'accroître les connaissances livresques.",
-          "Le maître nous enseigne à ne pas penser."
-        ],
-        correct: 0,
-        r: "Percevoir l'importance (la grandeur) du but ou du maître donne la force de s'élever au-dessus de la raison."
-    },
-    {
-      q: "10. Comment le monde intérieur d'une personne change-t-il lorsqu'elle commence à agir selon la foi au-dessus de la raison (Emuna) ?",
-        options: [
-          "L'incertitude intérieure se dissout et une vision du monde spirituel stable et éternelle s'établit, indépendante des circonstances extérieures.",
-          "Une personne perd la raison.",
-          "La réalité physique du monde cesse complètement d'exister.",
-          "Une personne devient passive et désintéressée."
-        ],
-        correct: 0,
-        r: "La foi au-dessus de la raison procure un équilibre intérieur stable et une perspective éternelle selon les Mondes Supérieurs."
+        r: "L'interaction entre la Lumière et le Vase, guidée par le Masach, façonne l'ordre interne précis et les degrés des mondes spirituels."
     }
   ],
   it: [
     {
-      q: "1. Qual è il significato principale del principio 'Fede al di sopra della ragione' (Emuna le-ma'ala min ha-daat) nella Kabbalah?",
+      q: "1. Quali sono i livelli principali della struttura dei cinque mondi spirituali nella Kabbalah?",
       options: [
-        "Permette l'ascesa spirituale non basandosi sulla propria limitata ragione egoistica, bensì sull'attributo di dazione del Creatore.",
-        "Significa cieca obbedienza senza alcuna logica.",
-        "È il rifiuto della scienza nella vita quotidiana.",
-        "È la totale indifferenza verso il mondo fisico."
+        "Adam Kadmon, Atzilut, Beria, Yetzira e Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "La fede al di sopra della ragione non è cecità, bensì l'adozione del punto di vista di dazione della Luce Superiore al di sopra della logica egoistica."
+      r: "L'ordine dei mondi spirituali dall'Alto al basso è: Adam Kadmon, Atzilut, Beria, Yetzira e Assiya."
     },
     {
-      q: "2. Perché la ragione naturale e innata dell'uomo è limitata nel percepire la realtà spirituale?",
+      q: "2. Dove si trova il Machsom (barriera/soglia) e qual è il suo ruolo spirituale?",
         options: [
-          "Perché è costruita su desideri egoistici e calcoli per il proprio profitto, mentre la spiritualità si fonda sulla legge della dazione.",
-          "Perché il cervello umano è biologicamente troppo piccolo.",
-          "Perché le leggi fisiche vietano il pensiero spirituale.",
-          "Perché la tecnologia moderna non è ancora sufficientemente avanzata."
+          "Si trova tra i mondi spirituali (sopra/sotto Atzilut) e il mondo fisico, segnando il limite che una persona può raggiungere con i propri sforzi prima di attraversare il mondo della pura dazione.",
+          "Si trova nel cuore del corpo fisico.",
+          "Si trova nello spazio tra la Terra e la Luna.",
+          "Non ha alcun ruolo nella spiritualità."
         ],
         correct: 0,
-        r: "La ragione naturale opera nell'ambito del desiderio di ricevere (Aviyut), risultando così incapace di cogliere le leggi superiori di dazione."
+        r: "Il Machsom è la linea di demarcazione tra il desiderio egoistico (Assiya/Yetzira inferiori) e la pura intenzione di dare (Atzilut/Beria)."
     },
     {
-      q: "3. In che modo il tema della Lezione 23 (Fede al di sopra della ragione) si collega ai concetti di Tzimtzum e Masach delle lezioni precedenti?",
+      q: "3. Quali parti compongono l'anatomia interna di un Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Azionare il Masach (schermo) nella realtà fisica e spirituale è precisamente la realizzazione del lavoro al di sopra della ragione, dove i calcoli egoistici vengono scavalcati dall'intenzione di dare.",
-          "Non hanno alcun collegamento.",
-          "Il Tzimtzum è l'opposto della fede al di sopra della ragione.",
-          "Il Masach si applica solo al corpo fisico."
+          "Rosh (Testa – dove avviene il calcolo), Toch (Interno – verso dove fluisce la Luce), e Sof (Fine – dove si conclude la ricezione).",
+          "Mano, Piede, Torso.",
+          "Alfa, Beta, Gamma.",
+          "Passato, Presente, Futuro."
         ],
         correct: 0,
-        r: "Praticare la fede al di sopra della ragione è l'applicazione pratica del filtraggio (Masach) e della luce di ritorno compiuta nel Partzuf."
+        r: "Ogni Partzuf è costruito a partire dalle fasi di Rosh (Testa), Toch (Interno) e Sof (Fine) secondo il funzionamento dello schermo (Masach)."
     },
     {
-      q: "4. Qual è la differenza tra 'cecità fisica' e la prospettiva della fede al di sopra della ragione?",
+      q: "4. Cosa significano i confini Peh (Bocca), Chaze (Petto) e Tabur (Ombelico) in un Partzuf?",
         options: [
-          "La fede al di sopra della ragione non è la negazione della realtà, bensì la trascendenza della logica terrena a favore di una legge spirituale superiore e onnicomprensiva (la dazione).",
-          "La cecità fisica produce risultati spirituali migliori.",
+          "Peh è il luogo dello schermo (dove entra la Luce), Chaze è il confine della linea mediana e Tabur è il limite inferiore fino al quale la Luce può essere ancora ricevuta.",
+          "Questi sono semplici termini anatomici per il corpo fisico.",
+          "Denotano orbite planetarie.",
+          "Rappresentano mesi del calendario."
+        ],
+        correct: 0,
+        r: "Peh, Chaze e Tabur sono filtri e confini interni all'interno del Partzuf che determinano il flusso di Luce."
+    },
+    {
+      q: "5. Come si formano i 125 gradini spirituali nei Mondi Superiori?",
+        options: [
+          "5 mondi moltiplicati per 5 Partzufim per mondo, moltiplicati per 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "Esattamente in 125 giorni fisici.",
+          "Seguendo 125 profeti diversi.",
+          "Distribuiti casualmente tra i mondi."
+        ],
+        correct: 0,
+        r: "Il sistema completo dei gradi spirituali è composto come il prodotto di 5 mondi, ciascuno con 5 Partzufim, e ciascun Partzuf con 5 Sefirot (125 gradini)."
+    },
+    {
+      q: "6. Qual è la differenza tra i vasi Galgalta ve-Eynaim (GE) e AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) sono vasi di pura dazione (agiscono esclusivamente per gli altri), mentre AHP sono i vasi di ricezione che cercano di assorbire piacere per se stessi.",
+          "GE è l'occhio fisico e AHP è l'orecchio.",
           "Non c'è alcuna differenza.",
-          "La fede al di sopra della ragione è una falsificazione della scienza."
+          "AHP è la luce pura più alta."
         ],
         correct: 0,
-        r: "La fede al di sopra della ragione è uno stato superiore di coscienza che integra e sovrascrive i calcoli inferiori ed egoistici."
+        r: "GE è la parte superiore della testa (desideri di dazione), mentre AHP è la parte inferiore (desideri di ricezione in attesa di correzione)."
     },
     {
-      q: "5. Qual è il ruolo della Decina (Kevod ha-Tzevet / Gruppo di Dieci) nel raggiungere la fede al di sopra della ragione?",
+      q: "7. Qual è lo stato di Ein Sof (Mondo Infinito) prima e dopo Tzimtzum Aleph (Prima Restrizione)?",
         options: [
-          "Il gruppo fornisce supporto, forza e un'atmosfera di garanzia reciproca (Arvut) in cui l'individuo può trascendere i propri limiti egoistici.",
-          "Il gruppo è semplicemente un luogo per chiacchierate amichevoli.",
-          "Il gruppo esiste per competere l'uno con l'altro.",
-          "Il gruppo non gioca alcun ruolo in ciò."
+          "Prima era uno stato di perfetta e illimitata unità tra Luce e Vaso; dopo, la Luce si è ritirata per fare spazio a vasi corretti basati sul libero arbitrio.",
+          "Ein Sof è stato completamente distrutto.",
+          "Nulla è cambiato affatto.",
+          "Ein Sof si è trasferito nel mondo fisico."
         ],
         correct: 0,
-        r: "Il lavoro all'interno della Decina e l'apprezzamento della grandezza degli amici aiutano l'individuo ad ascendere alla fede al di sopra della ragione."
+        r: "Ein Sof era lo stato di assoluta pienezza, che dopo il Tzimtzum dà spazio alla struttura gerarchica dei Mondi Superiori."
     },
     {
-      q: "6. Cosa significa il principio 'Lo ba-shamayim hi' (Non è in cielo) nel lavoro al di sopra della ragione?",
+      q: "8. Qual è il ruolo del mondo di Atzilut tra gli altri Mondi Superiori (Beria, Yetzira, Assiya)?",
         options: [
-          "Che l'ascesa spirituale e l'atteggiamento al di sopra della ragione devono essere costruiti dall'uomo dalla sua situazione reale, attraverso le sfide della vita reale.",
-          "Che la religione non ha nulla a che fare con la vita quotidiana.",
-          "Che bisogna camminare tra le nuvole durante la meditazione.",
-          "Che Dio non interviene mai."
+          "Atzilut è il mondo della pura dazione (Keter, Hochma, Bina), che governa e nutre i mondi inferiori di Beria, Yetzira e Assiya che hanno bisogno di correzione.",
+          "Atzilut è l'inferno fisico.",
+          "Atzilut è semplicemente un magazzino temporaneo.",
+          "Atzilut è completamente indipendente dagli altri mondi."
         ],
         correct: 0,
-        r: "Il lavoro spirituale si realizza sulla terra, attraverso le difficoltà della vita quotidiana e il superamento dell'ego."
+        r: "Atzilut è il mondo di emanazione in cui regnano la Luce pura e la dazione, sostenendo il sistema Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. In che modo la Kabbalah considera i dubbi sul percorso spirituale?",
+      q: "9. Quali sono le caratteristiche del mondo di Adam Kadmon (AK) nel sistema dei Mondi Superiori?",
         options: [
-          "I dubbi non sono errori; essi sono inviati dalla Forza Superiore per dare all'uomo lo spazio per costruire la fede al di sopra della ragione (il potere della dazione).",
-          "I dubbi indicano che bisogna smettere di studiare.",
-          "I dubbi sono opera diretta di demoni malvagi.",
-          "I dubbi non compaiono mai in un kabbalista."
+          "Adam Kadmon è il primo mondo spirituale puro dopo Ein Sof, da cui si diramano tutti gli altri mondi inferiori (Atzilut, Beria, Yetzira, Assiya).",
+          "È l'anatomia dell'uomo fisico.",
+          "È il sotterraneo più oscuro.",
+          "Non ha alcuna importanza."
         ],
         correct: 0,
-        r: "I dubbi offrono l'opportunità di scegliere la via della fede (la dazione) invece di affidarsi alla propria ragione."
+        r: "Adam Kadmon è il primo mondo strutturato dopo Ein Sof, ponendo le basi per la gerarchia spirituale universale."
     },
     {
-      q: "8. Qual è lo scopo del lavoro al di sopra della ragione riguardo al rapporto con il Creatore?",
+      q: "10. Come è strutturata la relazione tra Luce Superiore (Ohr Yashar) e vasi (Kelim) nell'architettura dei Mondi Superiori?",
         options: [
-          "Che la creatura si avvicini al Creatore non per interesse personale o tornaconto, bensì per un amore puro e disinteressato (Dazione per amore della dazione).",
-          "Ottenere ricchezza materiale nel mondo fisico.",
-          "Fuggire dalle responsabilità quotidiane.",
-          "Acquisire un potere speciale sugli altri."
+          "La Luce vuole sempre riempire ogni vaso, ma il Masach (schermo) e l'Ohr Hozer (luce di ritorno) regolano quanta Luce può fluire puramente.",
+          "La Luce è completamente indipendente dai vasi.",
+          "I vasi distruggono la Luce.",
+          "Non c'è alcuna interazione."
         ],
         correct: 0,
-        r: "La fede al di sopra della ragione garantisce che il legame con il Creatore sia libero da motivazioni egocentriche."
-    },
-    {
-      q: "9. Qual è il legame tra la grandezza del Maestro (o dello scopo) e l'assimilazione della fede al di sopra della ragione?",
-        options: [
-          "Quando il valore del maestro o dello scopo spirituale è grande agli occhi dell'uomo, ciò gli dà la forza di superare la propria meschina logica e agire al di sopra della ragione.",
-          "Non c'è alcun legame tra di essi.",
-          "La grandezza del maestro aumenta solo la conoscenza nozionistica.",
-          "Il maestro ci insegna a non pensare."
-        ],
-        correct: 0,
-        r: "Percepire l'importanza (grandezza) dello scopo o del maestro dà la forza per ascendere al di sopra della ragione."
-    },
-    {
-      q: "10. Come cambia il mondo interiore di una persona quando inizia a operare secondo la fede al di sopra della ragione (Emuna)?",
-        options: [
-          "L'incertezza interiore svanisce e si stabilisce una visione del mondo spirituale stabile ed eterna, indipendente dalle circostanze esterne.",
-          "Una persona perde il senno.",
-          "La realtà fisica del mondo cessa completamente di esistere.",
-          "Una persona diventa passiva e disinteressata."
-        ],
-        correct: 0,
-        r: "La fede al di sopra della ragione fornisce un equilibrio interiore stabile e una prospettiva eterna secondo i Mondi Superiori."
+        r: "L'interazione tra Luce e Vaso, guidata dal Masach, modella il preciso ordine interno e i gradi dei mondi spirituali."
     }
   ],
   pt: [
     {
-      q: "1. Qual é o significado principal do princípio 'Fé acima da razão' (Emuna le-ma'ala min ha-daat) na Cabalá?",
+      q: "1. Quais são os principais níveis da estrutura dos cinco mundos espirituais na Cabalá?",
       options: [
-        "Permite a ascensão espiritual ao não se basear na razão egoísta limitada de cada um, mas sim no atributo de outorga do Criador.",
-        "Significa obediência cega sem qualquer lógica.",
-        "É a rejeição da ciência na vida diária.",
-        "É a total indiferença em relação ao mundo físico."
+        "Adam Kadmon, Atzilut, Beria, Yetzira e Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "A fé acima da razão não é cegueira, mas sim a adopção do ponto de vista de outorga da Luz Superior acima da lógica egoísta."
+      r: "A ordem dos mundos espirituais de Superior para inferior é: Adam Kadmon, Atzilut, Beria, Yetzira e Assiya."
     },
     {
-      q: "2. Por que razão a razão natural e nativa do homem é limitada na perceção da realidade espiritual?",
+      q: "2. Onde se localiza o Machsom (barreira/limiar) e qual é o seu papel espiritual?",
         options: [
-          "Porque é construída sobre desejos egoístas e cálculos para o próprio benefício, enquanto a espiritualidade se baseia na lei da outorga.",
-          "Porque o cérebro humano é biologicamente demasiado pequeno.",
-          "Porque as leis físicas proibem o pensamento espiritual.",
-          "Porque a tecnologia moderna ainda não está suficientemente avançada."
+          "Localiza-se entre os mundos espirituais (acima/abaixo de Atzilut) e o mundo físico, marcando o limite que uma pessoa pode alcançar por seu próprio esforço antes de cruzar para o mundo de outorga pura.",
+          "Encontra-se no coração do corpo físico.",
+          "Está no espaço entre a Terra e a Lua.",
+          "Não desempenha qualquer papel na espiritualidade."
         ],
         correct: 0,
-        r: "A razão natural opera dentro do âmbito do desejo de receber (Aviyut), sendo assim incapaz de captar as leis superiores de outorga."
+        r: "O Machsom é a linha divisória entre o desejo egoísta (Assiya/Yetzira inferiores) e a intenção pura de outorgar (Atzilut/Beria)."
     },
     {
-      q: "3. Como é que o tema da Lição 23 (Fé acima da razão) se conecta com os conceitos de Tzimtzum e Masach das lições anteriores?",
+      q: "3. Que partes compõem a anatomia interna de um Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Operar o Masach (tela) na realidade física e espiritual é precisamente a realização do trabalho acima da razão, onde os cálculos egoístas são sobrepostos pela intenção de outorgar.",
-          "Não têm qualquer ligação.",
-          "O Tzimtzum é o oposto da fé acima da razão.",
-          "O Masach aplica-se apenas ao corpo físico."
+          "Rosh (Cabeça – onde ocorre o cálculo), Toch (Interior – para onde a Luz flui) e Sof (Fim – onde a receção conclui).",
+          "Mão, Pé, Torso.",
+          "Alfa, Beta, Gama.",
+          "Passado, Presente, Futuro."
         ],
         correct: 0,
-        r: "Praticar a fé acima da razão é a aplicação prática da filtragem (Masach) e da luz retornada realizada no Partzuf."
+        r: "Cada Partzuf é construído a partir dos estágios de Rosh (Cabeça), Toch (Interior) e Sof (Fim) de acordo com a operação da tela (Masach)."
     },
     {
-      q: "4. Qual é a diferença entre a 'cegueira física' e a perspetiva da fé acima da razão?",
+      q: "4. O que significam os limites Peh (Boca), Chaze (Peito) e Tabur (Umbigo) num Partzuf?",
         options: [
-          "A fé acima da razão não é a negação da realidade, mas sim a transcendência da lógica terrena em favor de uma lei espiritual superior e abrangente (a outorga).",
-          "A cegueira física produz melhores resultados espirituais.",
+          "Peh é o lugar da tela (onde entra a Luz), Chaze é o limite da linha média e Tabur é o limite inferior até ao qual a Luz ainda pode ser recebida.",
+          "Estes são meros termos anatómicos para o corpo físico.",
+          "Denotam órbitas planetárias.",
+          "Representam meses do calendário."
+        ],
+        correct: 0,
+        r: "Peh, Chaze e Tabur são filtros e limites internos dentro do Partzuf que determinam o fluxo de Luz."
+    },
+    {
+      q: "5. Como se formam os 125 degraus espirituais nos Mundos Superiores?",
+        options: [
+          "5 mundos multiplicados por 5 Partzufim por mundo, multiplicados por 5 Sefirot por Partzuf (5 x 5 x 5 = 125).",
+          "Exatamente em 125 dias físicos.",
+          "Seguindo 125 profetas diferentes.",
+          "Distribuídos aleatoriamente entre os mundos."
+        ],
+        correct: 0,
+        r: "O sistema completo de graus espirituais compõe-se como o produto de 5 mundos, cada um com 5 Partzufim, e cada Partzuf com 5 Sefirot (125 degraus)."
+    },
+    {
+      q: "6. Qual é a diferença entre os vasos Galgalta ve-Eynaim (GE) e AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) são vasos de outorga pura (agem exclusivamente pelos outros), enquanto AHP são os vasos de receção que procuram absorver prazer para si mesmos.",
+          "GE é o olho físico e AHP é a orelha.",
           "Não há qualquer diferença.",
-          "A fé acima da razão é uma falsificação da ciência."
+          "AHP é a luz pura mais alta."
         ],
         correct: 0,
-        r: "A fé acima da razão é um estado superior de consciência que complementa e sobrepõe-se aos cálculos inferiores e egoístas."
+        r: "GE é a parte superior da cabeça (desejos de outorga), enquanto AHP é a parte inferior (desejos de receção à espera de correção)."
     },
     {
-      q: "5. Qual é o papel da Dezena (Kevod ha-Tzevet / Grupo de Dez) para alcançar a fé acima da razão?",
+      q: "7. Qual é o estado de Ein Sof (Mundo Infinito) antes e depois de Tzimtzum Aleph (Primeira Restrição)?",
         options: [
-          "O grupo fornece apoio, força e uma atmosfera de garantia mútua (Arvut) na qual o indivíduo pode transcender os seus limites egoístas.",
-          "O grupo é meramente um local para conversas amigáveis.",
-          "O grupo existe para competir uns com os outros.",
-          "O grupo não desempenha qualquer papel nisso."
+          "Antes, era um estado de perfeita e ilimitada unidade entre a Luz e o Vaso; depois, a Luz retirou-se para dar lugar a vasos corrigidos com base no livre-arbítrio.",
+          "Ein Sof foi completamente destruído.",
+          "Nada mudou de todo.",
+          "Ein Sof transferiu-se para o mundo físico."
         ],
         correct: 0,
-        r: "O trabalho dentro da Dezena e a apreciação da grandeza dos amigos ajudam o indivíduo a ascender à fé acima da razão."
+        r: "Ein Sof era o estado de plenitude absoluta, que após o Tzimtzum dá espaço à estrutura hierárquica dos Mundos Superiores."
     },
     {
-      q: "6. O que significa o princípio 'Lo ba-shamayim hi' (Não está nos céus) no trabalho acima da razão?",
+      q: "8. Qual é o papel do mundo de Atzilut entre os outros Mundos Superiores (Beria, Yetzira, Assiya)?",
         options: [
-          "Que a ascensão espiritual e a atitude acima da razão devem ser construídas pelo homem a partir da sua situação real, através dos desafios da vida real.",
-          "Que a religião não tem nada a ver com a vida quotidiana.",
-          "Que se deve andar nas nuvens durante a meditação.",
-          "Que Deus nunca intervém."
+          "Atzilut é o mundo de outorga pura (Keter, Hochma, Bina), que governa e nutre os mundos inferiores de Beria, Yetzira e Assiya que necessitam de correção.",
+          "Atzilut é o inferno físico.",
+          "Atzilut é meramente um armazém temporário.",
+          "Atzilut é completamente independente dos outros mundos."
         ],
         correct: 0,
-        r: "O trabalho espiritual concretiza-se na terra, através das dificuldades da vida diária e da superação do ego."
+        r: "Atzilut é o mundo de emanação onde reinam a Luz pura e a outorga, sustentando o sistema Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Como é que a Cabalá encara as dúvidas no caminho espiritual?",
+      q: "9. Quais são as características do mundo de Adam Kadmon (AK) no sistema dos Mundos Superiores?",
         options: [
-          "As dúvidas não são erros; são enviadas pela Força Superior para dar ao homem espaço para construir a fé acima da razão (o poder da outorga).",
-          "As dúvidas indicam que se deve parar de estudar.",
-          "As dúvidas são a obra direta de demónios malignos.",
-          "As dúvidas nunca aparecem num cabalista."
+          "Adam Kadmon é o primeiro mundo espiritual puro após Ein Sof, a partir do qual todos os outros mundos inferiores (Atzilut, Beria, Yetzira, Assiya) se ramificam.",
+          "É a anatomia do homem físico.",
+          "É o submundo mais escuro.",
+          "Não tem qualquer importância."
         ],
         correct: 0,
-        r: "As dúvidas proporcionam a oportunidade de escolher o caminho da fé (outorga) em vez de confiar na própria razão."
+        r: "Adam Kadmon é o primeiro mundo estruturado após Ein Sof, assentando as bases para a hierarquia espiritual universal."
     },
     {
-      q: "8. Qual é o propósito do trabalho acima da razão em relação à ligação com o Criador?",
+      q: "10. Como se estrutura a relação entre a Luz Superior (Ohr Yashar) e os vasos (Kelim) na arquitetura dos Mundos Superiores?",
         options: [
-          "Que a criatura se aproxime do Criador não por interesse próprio ou proveito pessoal, mas por um amor puro e desinteressado (Outorga em prol da outorga).",
-          "Obter riqueza material no mundo físico.",
-          "Fugir às responsabilidades diárias.",
-          "Adquirir poder especial sobre os outros."
+          "A Luz quer sempre preencher cada vaso, mas o Masach (tela) e o Ohr Hozer (luz retornada) regulam quanta Luz pode fluir puramente.",
+          "A Luz é completamente independente dos vasos.",
+          "Os vasos destroem a Luz.",
+          "Não há qualquer interação."
         ],
         correct: 0,
-        r: "A fé acima da razão garante que a ligação com o Criador está livre de motivações egocêntricas."
-    },
-    {
-      q: "9. Qual é a ligação entre a grandeza do Mestre (ou do objetivo) e a assimilação da fé acima da razão?",
-        options: [
-          "Quando o valor do mestre ou do objetivo espiritual é grande aos olhos do homem, isso dá-lhe a força para superar a sua lógica mesquinha e agir acima da razão.",
-          "Não há qualquer ligação entre eles.",
-          "A grandeza do mestre apenas aumenta o conhecimento de livros.",
-          "O mestre ensina-nos a não pensar."
-        ],
-        correct: 0,
-        r: "Perceber a importância (grandeza) do objetivo ou do mestre dá a força para ascender acima da razão."
-    },
-    {
-      q: "10. Como é que o mundo interior de uma pessoa muda quando ela começa a operar segundo a fé acima da razão (Emuna)?",
-        options: [
-          "A incerteza interior dissipa-se e estabelece-se uma visão do mundo espiritual estável e eterna, independente das circunstâncias externas.",
-          "Uma pessoa perde o juízo.",
-          "A realidade física do mundo cessa completamente de existir.",
-          "Uma pessoa torna-se passiva e desinteresada."
-        ],
-        correct: 0,
-        r: "A fé acima da razão proporciona um equilíbrio interior estável e uma perspetiva eterna de acordo com os Mundos Superiores."
+        r: "A interação entre a Luz e o Vaso, guiada pelo Masach, molda a ordem interna precisa e os graus dos mundos espirituales."
     }
   ],
   uk: [
     {
-      q: "1. Що є головним значенням принципу «Віра вище розуму» (Емуна ле-маала мін ха-даат) у Кабалі?",
+      q: "1. Якими є основні рівні структури п'яти духовних світів у Кабалі?",
       options: [
-        "Він дозволяє здійснити духовне піднесення, спираючись не на обмежений егоїстичний розум, а на властивість віддачі Творця.",
-        "Він означає сліпе підпорядкування без будь-якої логіки.",
-        "Це відмова від науки в повсякденному житті.",
-        "Це повне ігнорування фізичного світу."
+        "Адам Кадмон, Ацилут, Брія, Єцира та Асія.",
+        "Кетєр, Хохма, Біна, Тіферет, Малхут.",
+        "Рош, Тох, Соф, Пех, Табур.",
+        "Алеф, Бет, Гімель, Далет, Гей."
       ],
       correct: 0,
-      r: "Віра вище розуму — це не сліпота, а прийняття віддаючої точки зору Вищого Світла над егоїстичною логікою."
+      r: "Порядок духовних світів згори донизу: Адам Кадмон, Ацилут, Брія, Єцира та Асія."
     },
     {
-      q: "2. Чому природний розум людини обмежений у пізнанні духовної реальності?",
+      q: "2. Де розташований Махсом (бар'єр/межа) і яка його духовна роль?",
       options: [
-        "Оскільки він побудований на егоїстичних бажаннях і розрахунках на власну користь, тоді як духовність ґрунтується на законі віддачі.",
-        "Оскільки людський мозок біологічно занадто малий.",
-        "Оскільки фізичні закони забороняють духовне мислення.",
-        "Оскільки сучасні технології ще недостатньо розвинені."
+        "Він розташований між духовними світами (вище/нижче Ацилута) та фізичним світом, позначаючи межу, якої людина може досягти власними зусиллями, перш ніж перейти у світ чистої віддачі.",
+        "Він знаходиться в серці фізичного тіла.",
+        "Він знаходиться в просторі між Землею та Місяцем.",
+        "Він не відіграє жодної ролі в духовності."
       ],
       correct: 0,
-      r: "Природний розум діє в межах бажання отримувати (Авіют), тому не здатний осягнути вищі закони віддачі."
+      r: "Махсом — це розділова лінія між егоїстичним бажанням (нижчі Асія/Єцира) та чистим наміром віддавати (Ацилут/Брія)."
     },
     {
-      q: "3. Як тема 23-го уроку (Віра вище розуму) пов'язана з поняттями Цимцум та Масах з попередніх уроків?",
-        options: [
-          "Використання Масаха (екрана) у фізичній та духовній реальності — це і є реалізація роботи вище розуму, коли егоїстичні розрахунки перекриваються наміром заради віддачі.",
-          "Між ними немає жодного зв'язку.",
-          "Цимцум протилежний вірі вище розуму.",
-          "Масах застосовується лише до фізичного тіла."
-        ],
-        correct: 0,
-        r: "Практика віри вище розуму — це практичне застосування фільтрації (Масаха) та відбитого світла у Парцуфі."
+      q: "3. Які частини складають внутрішню анатомію Парцуфа (Рош, Тох, Соф)?",
+      options: [
+        "Рош (Голова — де відбувається розрахунок, Тох — Внутрішня частина, куди вливається Світло, та Соф — Кінець, де завершується отримання).",
+        "Рука, Нога, Торс.",
+        "Альфа, Бета, Гамма.",
+        "Минуле, Теперішнє, Майбутнє."
+      ],
+      correct: 0,
+      r: "Кожен Парцуф побудований з етапів Рош (Голова), Тох (Внутрішня частина) та Соф (Кінець) відповідно до роботи екрана (Масаха)."
     },
     {
-      q: "4. У чому різниця між «фізичною сліпотою» та перспективою віри вище розуму?",
-        options: [
-          "Віра вище розуму — це не заперечення реальності, а подолання земної логіки на користь вищого, всеосяжного духовного закону (віддачі).",
-          "Фізична сліпота дає кращі духовні результати.",
-          "Між ними немає жодної різниці.",
-          "Віра вище розуму — це фальсифікація науки."
-        ],
-        correct: 0,
-        r: "Віра вище розуму — це вищий стан свідомості, який доповнює та перекриває нижчі, егоїстичні розрахунки."
+      q: "4. Що означають межі Пех (Рот), Хазе (Груди) та Табур (Пуп) у Парцуфі?",
+      options: [
+        "Пех — це місце екрана (куди входить Світло), Хазе — межа середньої лінії, а Табур — нижня межа, до якої Світло все ще може бути отримане.",
+        "Це суто анатомічні терміни для фізичного тіла.",
+        "Вони позначають планетарні орбіти.",
+        "Вони представляють місяці календаря."
+      ],
+      correct: 0,
+      r: "Пех, Хазе та Табур — це внутрішні фільтри та межі всередині Парцуфа, які визначають потік Світла."
     },
     {
-      q: "5. Яка роль Десятки (групи Десяти) у досягненні віри вище розуму?",
-        options: [
-          "Група забезпечує підтримку, силу та атмосферу взаємної поруки (Арвут), в якій індивід може вийти за межі своїх егоїстичних обмежень.",
-          "Група — це лише місце для дружніх бесід.",
-          "Група існує для того, щоб змагатися одне з одним.",
-          "Група не відіграє в цьому жодної ролі."
-        ],
-        correct: 0,
-        r: "Робота всередині Десятки та оцінка величі товаришів допомагають людині піднятися до віри вище розуму."
+      q: "5. Як формуються 125 духовних сходинок у Вищих Світах?",
+      options: [
+        "5 світів, помножених на 5 Парцуфім у кожному світі, помножених на 5 Сфірот у кожному Парцуфі (5 x 5 x 5 = 125).",
+        "Рівно за 125 фізичних днів.",
+        "Слідуючи за 125 різними пророками.",
+        "Розподілені випадковим чином між світами."
+      ],
+      correct: 0,
+      r: "Повна система духовних щаблів складається як добуток 5 світів, кожен з яких має 5 Парцуфім, і кожен Парцуф має 5 Сфірот (125 сходинок)."
     },
     {
-      q: "6. Що означає принцип «Ло ба-шамаим хі» (Не на небесах вона) у роботі вище розуму?",
-        options: [
-          "Те, що духовне піднесення та підхід вище розуму людина повинна будувати зі свого реального становища, через виклики реального життя.",
-          "Те, що релігія не має нічого спільного з повсякденним життям.",
-          "Те, що під час медитації треба літати в хмарах.",
-          "Те, що Бог ніколи не втручається."
-        ],
-        correct: 0,
-        r: "Духовна робота реалізується на землі, через труднощі повсякденного життя та подолання его."
+      q: "6. У чому різниця між посудинами Гальгальта ве-Ейнаім (ГЕ) та АХП (Озен, Хотем, Пех)?",
+      options: [
+        "ГЕ (Гальгальта ве-Ейнаім) — це чисті посудини віддачі (діють виключно заради інших), тоді як АХП — це посудини отримання, які прагнуть поглинути насолоду для себе.",
+        "ГЕ — це фізичне око, а АХП — вухо.",
+        "Між ними немає жодної різниці.",
+        "АХП — це найвище чисте світло."
+      ],
+      correct: 0,
+      r: "ГЕ — це верхня частина голови (бажання віддачі), тоді як АХП — нижня частина (бажання отримання, що чекають на виправлення)."
     },
     {
-      q: "7. Як Кабала ставиться до сумнівів на духовному шляху?",
-        options: [
-          "Сумніви — це не помилки; вони надсилаються Вищою силою, щоб дати людині простір для побудови віри вище розуму (сили віддачі).",
-          "Сумніви вказують на те, що потрібно припинити навчання.",
-          "Сумніви — це пряма робота злих демонів.",
-          "У кабаліста ніколи не виникають сумніви."
-        ],
-        correct: 0,
-        r: "Сумніви надають можливість обрати шлях віри (віддачі) замість покладатись на власний розум."
+      q: "7. Яким є стан Ейн Соф (Нескінченного Світу) до і після Цимцум Алеф (Першого скорочення)?",
+      options: [
+        "До цього це був стан ідеальної, необмеженої єдності між Світлом і Посудиною; після цього Світло скоротилося, щоб звільнити місце для виправлених посудин на основі вільної волі.",
+        "Ейн Соф був повністю знищений.",
+        "Нічого не змінилося.",
+        "Ейн Соф перейшов у фізичний світ."
+      ],
+      correct: 0,
+      r: "Ейн Соф був станом абсолютного наповнення, який після Цимцуму дає простір ієрархічній структурі Вищих Світів."
     },
     {
-      q: "8. Яка мета роботи вище розуму щодо зв'язку з Творцем?",
-        options: [
-          "Щоб творіння наближалося до Творця не через особисту вигоду чи користь, а з чистої, безкорисливої любові (Віддача заради віддачі).",
-          "Щоб здобути матеріальне багатство у фізичному світі.",
-          "Щоб уникнути повсякденної відповідальності.",
-          "Щоб отримати особливу владу над іншими."
-        ],
-        correct: 0,
-        r: "Віра вище розуму гарантує, що зв'язок з Творцем вільний від егоцентричних мотивів."
+      q: "8. Яка роль світу Ацилут серед інших Вищих Світів (Брія, Єцира, Асія)?",
+      options: [
+        "Ацилут — це світ чистої віддачі (Кетєр, Хохма, Біна), який керує та живить нижчі світи Брія, Єцира та Асія, що потребують виправлення.",
+        "Ацилут — це фізичне пекло.",
+        "Ацилут — це просто тимчасовий склад.",
+        "Ацилут повністю незалежний від інших світів."
+      ],
+      correct: 0,
+      r: "Ацилут — це світ еманації, де панують чисте Світло та віддача, підтримуючи систему Брія-Єцира-Асія (БЄА)."
     },
     {
-      q: "9. Який зв'язок між величчю Вчителя (або Мети) та засвоєнням віри вище розуму?",
-        options: [
-          "Коли цінність вчителя або духовної мети велика в очах людини, це дає їй сили подолати власну дріб'язкову логіку і діяти вище розуму.",
-          "Між ними немає жодного зв'язку.",
-          "Велич вчителя лише збільшує книжкові знання.",
-          "Вчитель вчить нас не думати."
-        ],
-        correct: 0,
-        r: "Сприйняття важливості (величі) мети чи вчителя дає сили для піднесення вище розуму."
+      q: "9. Які особливості світу Адам Кадмон (АК) у системі Вищих Світів?",
+      options: [
+        "Адам Кадмон — це перший чистий духовний світ після Ейн Соф, від якого розгалужуються всі інші нижчі світи (Ацилут, Брія, Єцира, Асія).",
+        "Це анатомія фізичної людини.",
+        "Це найдавніший підземний світ.",
+        "Він не має жодного значення."
+      ],
+      correct: 0,
+      r: "Адам Кадмон — це перший структурований світ після Ейн Соф, що закладає основу для універсальної духовної ієрархії."
     },
     {
-      q: "10. Як змінюється внутрішній світ людини, коли вона починає діяти згідно з вірою вище розуму (Емуна)?",
-        options: [
-          "Внутрішня невизначеність зникає, формується стабільний, вічний духовний світогляд, незалежний від зовнішніх обставин.",
-          "Людина втрачає глузд.",
-          "Фізична реальність світу повністю припиняє своє існування.",
-          "Людина стає пасивною і байдужою."
-        ],
-        correct: 0,
-        r: "Віра вище розуму забезпечує стабільний внутрішній баланс та вічну перспективу згідно з Вищими світами."
+      q: "10. Як побудовано зв'язок між Вищим Світлом (Ор Яшар) та посудинами (Келім) в архітектурі Вищих Світів?",
+      options: [
+        "Світло завжди хоче наповнити кожну посудину, але Масах (екран) та Ор Хозер (відбите світло) регулюють, скільки Світла може влитися в чистому вигляді.",
+        "Світло повністю незалежне від посудин.",
+        "Посудини руйнують Світло.",
+        "Немає жодної взаємодії."
+      ],
+      correct: 0,
+      r: "Взаємодія між Світлом і Посудиною під керівництвом Масаха формує точний внутрішній порядок і ступені духовних світів."
     }
   ],
   pl: [
     {
-      q: "1. Jakie jest główne znaczenie zasady „Wiara ponad rozumem” (Emuna le-ma'ala min ha-daat) w Kabale?",
+      q: "1. Jakie są główne poziomy struktury pięciu światów duchowych w Kabale?",
       options: [
-        "Umożliwia wzniesienie duchowe poprzez opieranie się nie na ograniczonym rozumie egoistycznym, lecz na atrybucie obdarzania Stwórcy.",
-        "Oznacza ślepe posłuszeństwo bez żadnej logiki.",
-        "Jest odrzuceniem nauki w życiu codziennym.",
-        "Jest całkowitym lekceważeniem świata fizycznego."
+        "Adam Kadmon, Atzilut, Beria, Yetzira i Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosch, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Wiara ponad rozumem to nie ślepota, lecz przyjęcie obdarzającego punktu widzenia Wyższego Światła ponad egoistyczną logiką."
+      r: "Kolejność światów duchowych od góry do dołu to: Adam Kadmon, Atzilut, Beria, Yetzira i Assiya."
     },
     {
-      q: "2. Dlaczego naturalny, wrodzony rozum człowieka jest ograniczony w postrzeganiu rzeczywistości duchowej?",
+      q: "2. Gdzie znajduje się Machsom (bateria/próg) i jaka jest jego rola duchowa?",
       options: [
-        "Ponieważ jest zbudowany na pragnieniach egoistycznych i kalkulacjach dla własnej korzyści, podczas gdy duchowość opiera się na prawie obdarzania.",
-        "Ponieważ ludzki mózg jest biologicznie zbyt mały.",
-        "Ponieważ prawa fizyczne zabraniają myślenia duchowego.",
-        "Ponieważ nowoczesna technologia nie jest jeszcze wystarczająco zaawansowana."
+        "Znajduje się pomiędzy światami duchowymi (powyżej/poniżej Atzilut) a światem fizycznym, wyznaczając granicę, jaką człowiek może osiągnąć własnym wysiłkiem, zanim przekroczy świat czystego obdarzania.",
+        "Znajduje się w sercu ciała fizycznego.",
+        "Znajduje się w przestrzeni między Ziemią a Księżycem.",
+        "Nie odgrywa żadnej roli w duchowości."
       ],
       correct: 0,
-      r: "Naturalny rozum operuje w ramach pragnienia otrzymywania (Aviyut), przez co nie jest w stanie pojąć wyższych praw obdarzania."
+      r: "Machsom to linia podziału między pragnieniem egoistycznym (niższe Assiya/Yetzira) a czystą intencją obdarzania (Atzilut/Beria)."
     },
     {
-      q: "3. Jak temat 23. lekcji (Wiara ponad rozumem) wiąże się z pojęciami Tzimtzum i Masach z poprzednich lekcji?",
+      q: "3. Jakie części składają się na wewnętrzną anatomię Partzufa (Rosch, Toch, Sof)?",
       options: [
-        "Uruchomienie Masacha (ekranu) w rzeczywistości fizycznej i duchowej to właśnie realizacja pracy ponad rozumem, gdzie egoistyczne kalkulacje są zastępowane intencją obdarzania.",
-        "Nie mają ze sobą żadnego związku.",
-        "Tzimtzum jest przeciwieństwem wiary ponad rozumem.",
-        "Masach dotyczy wyłącznie ciała fizycznego."
+        "Rosch (Głowa – gdzie odbywa się obliczenie, Toch – Wnętrze – dokąd wpływa Światło, oraz Sof – Koniec – gdzie kończy się otrzymywanie).",
+        "Ręka, Stopa, Tułów.",
+        "Alfa, Beta, Gamma.",
+        "Przeszłość, Teraźniejszość, Przyszłość."
       ],
       correct: 0,
-      r: "Praktykowanie wiary ponad rozumem to praktyczne zastosowanie filtrowania (Masach) i światła powracającego dokonywanego w Partzuf."
+      r: "Każdy Partzuf jest zbudowany z etapów Rosch (Głowa), Toch (Wnętrze) i Sof (Koniec) zgodnie z działaniem ekranu (Masacha)."
     },
     {
-      q: "4. Jaka jest różnica między „ślepotą fizyczną” a perspektywą wiary ponad rozumem?",
-        options: [
-          "Wiara ponad rozumem to nie zaprzeczenie rzeczywistości, lecz przekroczenie logiki ziemskiej na rzecz wyższego, wszechobejmującego prawa duchowego (obdarzania).",
-          "Ślepota fizyczna przynosi lepsze rezultaty duchowe.",
-          "Nie ma między nimi żadnej różnicy.",
-          "Wiara ponad rozumem to fałszerstwo nauki."
-        ],
-        correct: 0,
-        r: "Wiara ponad rozumem to wyższy stan świadomości, który uzupełняет i zastępuje niższe, egoistyczne kalkulacje."
+      q: "4. Co oznaczają granice Peh (Usta), Chaze (Klatka piersiowa) i Tabur (Pępek) w Partzufie?",
+      options: [
+        "Peh to miejsce ekranu (gdzie wchodzi Światło), Chaze to granica linii środkowej, a Tabur to dolna granica, do której Światło może być jeszcze otrzymane.",
+        "Są to czysto anatomiczne określenia ciała fizycznego.",
+        "Oznaczają orbity planetarne.",
+        "Reprezentują miesiące kalendarzowe."
+      ],
+      correct: 0,
+      r: "Peh, Chaze i Tabur to wewnętrzne filtry i granice wewnątrz Partzufa, które określają przepływ Światła."
     },
     {
-      q: "5. Jaka jest rola Dziesiątki (grupy Dziesięciu) w osiąganiu wiary ponad rozumem?",
-        options: [
-          "Grupa zapewnia wsparcie, siłę i atmosferę wzajemnej poręki (Arvut), w której jednostka może przekroczyć swoje egoistyczne ograniczenia.",
-          "Grupa jest jedynie miejscem do przyjacielskich pogawędek.",
-          "Grupa istnieje po to, aby konkurować ze sobą.",
-          "Grupa nie odgrywa w tym żadnej roli."
-        ],
-        correct: 0,
-        r: "Praca wewnątrz Dziesiątki i docenianie wielkości przyjaciół pomagają jednostce wznieść się do wiary ponad rozumem."
+      q: "5. Jak formuje się 125 stopni duchowych w Światach Wyższych?",
+      options: [
+        "5 światów pomnożonych przez 5 Partzufim na świat, pomnożonych przez 5 Sefirot na Partzuf (5 x 5 x 5 = 125).",
+        "W dokładnie 125 dni fizycznych.",
+        "Idąc śladem 125 różnych proroków.",
+        "Rozmieszczone losowo między światami."
+      ],
+      correct: 0,
+      r: "Kompletny system stopni duchowych składa się jako iloczyn 5 światów, z których każdy ma 5 Partzufim, a każdy Partzuf ma 5 Sefirot (125 stopni)."
     },
     {
-      q: "6. Co oznacza zasada „Lo ba-shamayim hi” (Nie jest w niebie) w pracy ponad rozumem?",
-        options: [
-          "Że wzniesienie duchowe i postawa ponad rozumem muszą być zbudowane przez człowieka z jego realnej sytuacji, poprzez wyzwania prawdziwego życia.",
-          "Że religia nie ma nic wspólnego z życiem codziennym.",
-          "Że trzeba spacerować w chmurach podczas medytacji.",
-          "Że Bóg nigdy nie interweniuje."
-        ],
-        correct: 0,
-        r: "Praca duchowa realizuje się na ziemi, poprzez trudności codziennego życia i pokonywanie ego."
+      q: "6. Jaka jest różnica między naczyniami Galgalta ve-Eynaim (GE) a AHP (Awzen, Hotem, Peh)?",
+      options: [
+        "GE (Galgalta ve-Eynaim) to czyste naczynia obdarzania (działające wyłącznie dla innych), podczas gdy AHP to naczynia otrzymywania, które starają się pochłonąć przyjemność dla siebie.",
+        "GE to oko fizyczne, a AHP to ucho.",
+        "Nie ma żadnej różnicy.",
+        "AHP to najwyższe czyste światło."
+      ],
+      correct: 0,
+      r: "GE to górna część głowy (pragnienia obdarzania), podczas gdy AHP to dolna część (pragnienia otrzymywania oczekujące na korektę)."
     },
     {
-      q: "7. Jak Kabbala postrzega wątpliwości na drodze duchowej?",
-        options: [
-          "Wątpliwości to nie błędy; są posyłane przez Wyższą Siłę, aby dać człowiekowi przestrzeń do zbudowania wiary ponad rozumem (siły obdarzania).",
-          "Wątpliwości wskazują, że należy zaprzestać nauki.",
-          "Wątpliwości to bezpośrednie dzieło złych demonów.",
-          "Wątpliwości nigdy nie pojawiają się u kabbalisty."
-        ],
-        correct: 0,
-        r: "Wątpliwości dają okazję do wybrania ścieżki wiary (obdarzania) zamiast polegania na własnym rozumie."
+      q: "7. Jaki jest stan Ein Sof (Świata Nieskończonego) przed i po Tzimtzum Aleph (Pierwszym Ograniczeniu)?",
+      options: [
+        "Przedtem był to stan idealnej, nieograniczonej jedności między Światłem a Naczyniem; potem Światło cofnęło się, aby zrobić miejsce dla skorygowanych naczyń opartych na wolnej woli.",
+        "Ein Sof został całkowicie zniszczony.",
+        "Nic się nie zmieniło.",
+        "Ein Sof przeszedł do świata fizycznego."
+      ],
+      correct: 0,
+      r: "Ein Sof był stanem absolutnego spełnienia, który po Tzimtzum daje przestrzeń hierarchicznej strukturze Wyższych Światów."
     },
     {
-      q: "8. Jaki jest cel pracy ponad rozumem w odniesieniu do relacji ze Stwórcą?",
+      q: "8. Jaka jest rola świata Atzilut wśród innych Światów Wyższych (Beria, Yetzira, Assiya)?",
         options: [
-          "Aby stworzenie zbliżało się do Stwórcy nie z powodu własnego interesu czy korzyści, lecz z czystej, bezinteresownej miłości (Obdarzanie dla samego obdarzania).",
-          "Aby zdobyć bogactwo materialne w świecie fizycznym.",
-          "Aby uniknąć codziennej odpowiedzialności.",
-          "Aby zyskać specjalną władzę nad innymi."
+          "Atzilut to świat czystego obdarzania (Keter, Hochma, Bina), który rządzi i odżywia niższe światy Beria, Yetzira i Assiya potrzebujące korekty.",
+          "Atzilut to fizyczne piekło.",
+          "Atzilut to po prostu tymczasowy magazyn.",
+          "Atzilut jest całkowicie niezależny od innych światów."
         ],
         correct: 0,
-        r: "Wiara ponad rozumem gwarantuje, że relacja ze Stwórcą jest wolna od motywacji egocentrycznych."
+        r: "Atzilut to świat emanacji, w którym królują czyste Światło i obdarzanie, podtrzymując system Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "9. Jaki jest związek między wielkością Nauczyciela (lub Celu) a przyswojenjem wiary ponad rozumem?",
+      q: "9. Jakie są cechy świata Adam Kadmon (AK) w systemie Światów Wyższych?",
         options: [
-          "Gdy wartość nauczyciela lub celu duchowego jest wielka w oczach człowieka, daje mu to siłę do przezwyciężenia jego małostkowej logiki i działania ponad rozumem.",
-          "Nie ma między nimi żadnego związku.",
-          "Wielkość nauczyciela zwiększa jedynie wiedzę książkową.",
-          "Nauczyciel uczy nas, aby nie myśleć."
+          "Adam Kadmon to pierwszy czysty świat duchowy po Ein Sof, z którego rozgałęziają się wszystkie inne niższe światy (Atzilut, Beria, Yetzira, Assiya).",
+          "To anatomia fizycznego człowieka.",
+          "To najciemniejsze podziemie.",
+          "Nie ma żadnego znaczenia."
         ],
         correct: 0,
-        r: "Dostrzeganie znaczenia (wielkości) celu lub nauczyciela daje siłę do wzniesienia się ponad rozum."
+        r: "Adam Kadmon to pierwszy ustrukturyzowany świat po Ein Sof, kładący fundament pod uniwersalną hierarchię duchową."
     },
     {
-      q: "10. Jak zmienia się świat wewnętrzny człowieka, gdy zaczyna działać zgodnie z wiarą ponad rozumem (Emuna)?",
+      q: "10. Jak zbudowana jest relacja między Światłem Wyższym (Ohr Yashar) a naczyniami (Kelim) w architekturze Światów Wyższych?",
         options: [
-          "Wewnętrzna niepewność znika, a stabilny, wieczny światopogląd duchowy ustanawia się, niezależnie od okoliczności zewnętrznych.",
-          "Człowiek traci zmysły.",
-          "Fizyczna rzeczywistość świata przestaje całkowicie istnieć.",
-          "Człowiek staje się bierny i obojętny."
+          "Światło zawsze chce wypełnić każde naczynie, ale Masach (ekran) i Ohr Hozer (światło powracające) regulują, ile Światła może wpłynąć w czystej postaci.",
+          "Światło jest całkowicie niezależne od naczyń.",
+          "Naczynia niszczą Światło.",
+          "Nie ma żadnej interakcji."
         ],
         correct: 0,
-        r: "Wiara ponad rozumem zapewnia stabilną równowagę wewnętrzną i wieczną perspektywę zgodnie z Wyższymi Światami."
-    }
-  ],
+        r: "Interakcja między Światłem a Naczyniem pod kierunkiem Masacha kształtuje precyzyjny porządek wewnętrzny i stopnie światów duchowych."
+      }
+    ],
   ro: [
     {
-      q: "1. Care este semnificația principală a principiului „Credința deasupra rațiunii” (Emuna le-ma'ala min ha-daat) în Kabbalah?",
+      q: "1. Care sunt principalele niveluri ale structurii celor cinci lumi spirituale din Kabbalah?",
       options: [
-        "Permite ascensiunea spirituală bazându-se nu pe rațiunea egoistă limitată a omului, ci pe atributul de dăruire al Creatorului.",
-        "Înseamnă ascultare oarbă fără nicio logică.",
-        "Este respingerea științei în viața de zi cu zi.",
-        "Este ignorarea totală a lumii fizice."
+        "Adam Kadmon, Atzilut, Beria, Yetzira și Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Credința deasupra rațiunii nu este orbire, ci adoptarea punctului de vedere de dăruire al Luminii Superioare deasupra logicii egoiste."
+      r: "Ordinea lumilor spirituale de la Superior la inferior este: Adam Kadmon, Atzilut, Beria, Yetzira și Assiya."
     },
     {
-      q: "2. De ce rațiunea naturală și nativă a omului este limitată în perceperea realității spirituale?",
+      q: "2. Unde este situat Machsom-ul (barieră/prag) și care este rolul său spiritual?",
       options: [
-        "Deoarece este construită pe dorințe egoiste și calcule pentru propriul beneficiu, în timp ce spiritualitatea se bazează pe legea dăruirii.",
-        "Deoarece creierul uman este biologic prea mic.",
-        "Deoarece legile fizice interzic gândirea spirituală.",
-        "Deoarece tehnologia modernă nu este încă suficient de avansată."
+        "Este situat între lumile spirituale (deasupra/dedesubtul lui Atzilut) și lumea fizică, marcând limita pe care o persoană o poate atinge prin propriul efort înainte de a trece în lumea dăruirii pure.",
+        "Se află înima corpului fizic.",
+        "Este în spațiul dintre Pământ și Lună.",
+        "Nu joacă niciun rol în spiritualitate."
       ],
       correct: 0,
-      r: "Rațiunea naturală operează în cadrul dorinței de a primi (Aviyut), fiind astfel incapabilă să cuprindă legile superioare ale dăruirii."
+      r: "Machsom-ul este linia de demarcație dintre dorința egoistă (Assiya/Yetzira inferioare) și intenția pură de a dărui (Atzilut/Beria)."
     },
     {
-      q: "3. Cum se conectează tema Lecției 23 (Credința deasupra rațiunii) cu conceptele de Tzimtzum și Masach din lecțiile anterioare?",
+      q: "3. Ce părți alcătuit anatomia internă a unui Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Acționarea Masach-ului (ecranului) în realitatea fizică și spirituală este tocmai realizarea muncii deasupra rațiunii, unde calculele egoiste sunt suprascrise de intenția de a dărui.",
-          "Nu au nicio legătură.",
-          "Tzimtzum este opusul credinței deasupra rațiunii.",
-          "Masach se aplică doar corpului fizic."
+          "Rosh (Cap – unde are loc calculul, Toch – Interior – încotro curge Lumina, și Sof – Sfârșit – unde se încheie primirea).",
+          "Mână, Picior, Torso.",
+          "Alfa, Beta, Gamma.",
+          "Trecut, Prezent, Viitor."
         ],
         correct: 0,
-        r: "Practicarea credinței deasupra rațiunii este aplicarea practică a filtrării (Masach) și a luminii întoarse realizate în Partzuf."
+        r: "Fiecare Partzuf este construit din etapele Rosh (Cap), Toch (Interior) și Sof (Sfârșit) conform funcționării ecranului (Masach)."
     },
     {
-      q: "4. Care este diferența dintre „orbirea fizică” și perspectiva credinței deasupra rațiunii?",
+      q: "4. Ce înseamnă granițele Peh (Gură), Chaze (Piept) și Tabur (Buric) într-un Partzuf?",
         options: [
-          "Credința deasupra rațiunii nu este negarea realității, ci transcendența logicii pământești în favoarea unei legi spirituale superioare și atotcuprinzătoare (dăruirea).",
-          "Orbirea fizică aduce rezultate spirituale mai bune.",
+          "Peh este locul ecranului (unde intră Lumina), Chaze este granița liniei mijlocii, iar Tabur este limita inferioară până la care Lumina poate fi încă primită.",
+          "Acestea sunt simple termeni anatomici pentru corpul fizic.",
+          "Denotă orbite planetare.",
+          "Reprezintă luni ale calendarului."
+        ],
+        correct: 0,
+        r: "Peh, Chaze și Tabur sunt filtre și granițe interne în cadrul Partzuf-ului care determină fluxul de Lumină."
+    },
+    {
+      q: "5. Cum se formează cele 125 de trepte spirituale în Lumile Superioare?",
+        options: [
+          "5 lumi înmulțite cu 5 Partzufim per lume, înmulțite cu 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "În exact 125 de zile fizice.",
+          "Urmând 125 de profeți diferiți.",
+          "Distribuite aleatoriu între lumi."
+        ],
+        correct: 0,
+        r: "Sistemul complet de grade spirituale este alcătuit ca produs al 5 lumi, fiecare având 5 Partzufim, și fiecare Partzuf având 5 Sefirot (125 de trepte)."
+    },
+    {
+      q: "6. Care este diferența dintre vasele Galgalta ve-Eynaim (GE) și AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) sunt vase de dăruire pură (acționând exclusiv pentru ceilalți), în timp ce AHP sunt vasele de primire care caută să absoarbă plăcere pentru sine.",
+          "GE este ochiul fizic, iar AHP este urechea.",
           "Nu există nicio diferență.",
-          "Credința deasupra rațiunii este o falsificare a științei."
+          "AHP este cea mai înaltă lumină pură."
         ],
         correct: 0,
-        r: "Credința deasupra rațiunii este o stare superioară de conștiință care completează și suprascrie calculele inferioare și egoiste."
+        r: "GE este partea superioară a capului (dorințe de dăruire), în timp ce AHP este partea inferioară (dorințe de primire care așteaptă corecția)."
     },
     {
-      q: "5. Care este rolul Zecii (Kevod ha-Tzevet / Grupul de Zece) în obținerea credinței deasupra rațiunii?",
+      q: "7. Care este starea lui Ein Sof (Lumea Infinită) înainte și după Tzimtzum Aleph (Prima Restricție)?",
         options: [
-          "Grupul oferă sprijin, putere și o atmosferă de garanție reciprocă (Arvut) în care individul își poate depăși limitele egoiste.",
-          "Grupul este pur și simplu un loc pentru discuții amicale.",
-          "Grupul există pentru a concura unii cu alții.",
-          "Grupul nu joacă niciun rol în aceasta."
+          "Înainte, a fost o stare de unitate perfectă și nelimitată între Lumină și Vas; după aceea, Lumina s-a retras pentru a face loc vaselor corectate bazate pe liberul arbitru.",
+          "Ein Sof a fost complet distrus.",
+          "Nimic nu s-a schimbat deloc.",
+          "Ein Sof s-a transferat în lumea fizică."
         ],
         correct: 0,
-        r: "Munca în cadrul Zecii și aprecierea măreției prietenilor îl ajută pe individ să urce la credința deasupra rațiunii."
+        r: "Ein Sof a fost starea de plenitudine absolută, care după Tzimtzum oferă spațiu structurii ierarhice a Lumilor Superioare."
     },
     {
-      q: "6. Ce înseamnă principiul „Lo ba-shamayim hi” (Nu este în ceruri) în munca deasupra rațiunii?",
+      q: "8. Care este rolul lumii lui Atzilut printre celelalte Lumi Superioare (Beria, Yetzira, Assiya)?",
         options: [
-          "Faptul că ascensiunea spirituală și atitudinea deasupra rațiunii trebuie construite de om din situația sa reală, prin provocările vieții reale.",
-          "Că religia nu are nicio legătură cu viața de zi cu zi.",
-          "Că trebuie să mergi în nori în timpul meditației.",
-          "Că Dumnezeu nu intervine niciodată."
+          "Atzilut este lumea dăruirii pure (Keter, Hochma, Bina), care guvernează și hrănește lumile inferioare de Beria, Yetzira și Assiya care au nevoie de corecție.",
+          "Atzilut este iadul fizic.",
+          "Atzilut este pur și simplu un depozit temporar.",
+          "Atzilut este complet independent de celelalte lumi."
         ],
         correct: 0,
-        r: "Munca spirituală se realizează pe pământ, prin dificultățile vieții zilnice și depășirea ego-ului."
+        r: "Atzilut este lumea emanației unde domnesc Lumina pură și dăruirea, susținând sistemul Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Cum privește Kabbalah îndoielile de pe calea spirituală?",
+      q: "9. Care sunt caracteristicile lumii lui Adam Kadmon (AK) în sistemul Lumilor Superioare?",
         options: [
-          "Îndoielile nu sunt greșeli; ele sunt trimise de Forța Superioară pentru a-i oferi omului spațiu să construiască credința deasupra rațiunii (puterea dăruirii).",
-          "Îndoielile indică faptul că studiul trebuie oprit.",
-          "Îndoielile sunt opera directă a demonilor răi.",
-          "Îndoielile nu apar niciodată la un kabbalist."
+          "Adam Kadmon este prima lume spirituală pură după Ein Sof, din care se ramifică toate celelalte lumi inferioare (Atzilut, Beria, Yetzira, Assiya).",
+          "Este anatomia omului fizic.",
+          "Este cea mai întunecată lume sub pământ.",
+          "Nu are nicio importanță."
         ],
         correct: 0,
-        r: "Îndoielile oferă oportunitatea de a alege calea credinței (dăruirii) în loc să se bazeze pe propria rațiune."
+        r: "Adam Kadmon este prima lume structurată după Ein Sof, punând bazele ierarhiei spirituale universale."
     },
     {
-      q: "8. Care este scopul muncii deasupra rațiunii în ceea ce privește relația cu Creatorul?",
+      q: "10. Cum este structurată relația dintre Lumina Superioară (Ohr Yashar) și vase (Kelim) în arhitectura Lumilor Superioare?",
         options: [
-          "Ca creatura să se apropie de Creator nu din interes propriu sau beneficiu personal, ci dintr-o iubire pură și dezinteresată (Dăruire de dragul dăruirii).",
-          "Pentru a obține bogăție materială în lumea fizică.",
-          "Pentru a scăpa de responsabilitățile zilnice.",
-          "Pentru a dobândi o putere specială asupra celorlalți."
+          "Lumina vrea mereu să umple fiecare vas, dar Masach-ul (ecranul) și Ohr Hozer-ul (lumina întoarsă) reglementează câtă Lumină poate curge în mod pur.",
+          "Lumina este complet independentă de vase.",
+          "Vasele distrug Lumina.",
+          "Nu există nicio interacțiune."
         ],
         correct: 0,
-        r: "Credința deasupra rațiunii garantează că legătura cu Creatorul este lipsită de motivații egocentrice."
-    },
-    {
-      q: "9. Care este legătura dintre măreția Maestrului (sau a Scopului) și asimilarea credinței deasupra rațiunii?",
-        options: [
-          "Atunci când valoarea maestrului sau a scopului spiritual este mare în ochii omului, acest lucru îi dă puterea să-și depășească logica meschină și să acționeze deasupra rațiunii.",
-          "Nu există nicio legătură între ele.",
-          "Măreția maestrului crește doar cunoștințele din cărți.",
-          "Maestrul ne învață să nu gândim."
-        ],
-        correct: 0,
-        r: "Perceperea importanței (măreției) scopului sau a maestrului dă puterea de a urca deasupra rațiunii."
-    },
-    {
-      q: "10. Cum se schimbă lumea interioară a unei persoane atunci când începe să acționeze conform credinței deasupra rațiunii (Emuna)?",
-        options: [
-          "Incertitudinea interioară dispare și se stabilește o viziune asupra lumii spirituale stabilă și eternă, independentă de circumstanțele externe.",
-          "O persoană își pierde mințile.",
-          "Realitatea fizică a lumii încetează să mai existe complet.",
-          "O persoană devine pasivă și dezinteresată."
-        ],
-        correct: 0,
-        r: "Credința deasupra rațiunii oferă un echilibru interior stabil și o perspectivă eternă conform Lumilor Superioare."
-    }
-  ],
+        r: "Interacțiunea dintre Lumină și Vas, ghidată de Masach, modelează ordinea internă precisă și gradele lumilor spirituale."
+      }
+    ],
   bg: [
     {
-      q: "1. какво е основното значение на принципа „Вярата над разума“ (Емуна ле-маала мин ха-даат) в Кабала?",
+      q: "1. кои са основните нива на структурата на петте духовни свята в Кабала?",
       options: [
-        "Тя позволява духовно издигане, като се разчита не на ограничения егоистичен ум на човека, а на свойството за отдаване на Твореца.",
-        "Тя означава сляпо послушание без каквато и да е логика.",
-        "Това е отказ от науката в ежедневието.",
-        "Това е пълно пренебрегване на физическия свят."
+        "Адам Кадмон, Ацилут, Брия, Ецира и Асия.",
+        "Кетэр, Хохма, Бина, Тиферет, Малхут.",
+        "Рош, Тох, Соф, Пех, Табур.",
+        "Алеф, Бет, Гимель, Далет, Хей."
       ],
       correct: 0,
-      r: "Вярата над разума не е слепота, а приемане на отдаващата гледна точка на Висшата Светлина над егоистичната логика."
+      r: "Редът на духовните светове отгоре надолу е: Адам Кадмон, Ацилут, Брия, Ецира и Асия."
     },
     {
-      q: "2. защо естественият, роден разум на човека е ограничен в възприемането на духовната реалност?",
+      q: "2. къде се намира Махсом (бариерата/прагът) и каква е неговата духовна роля?",
+      options: [
+        "Той се намира между духовните светове (над/под Ацилут) и физическия свят, отбелязвайки границата, която човек може да достигне със собствени усилия, преди да премине в света на чистото отдаване.",
+        "Той се намира в сърцето на физическото тяло.",
+        "Той е в пространството между Земята и Луната.",
+        "Той не играе никаква роля в духовността."
+      ],
+      correct: 0,
+      r: "Махсом е разделителната линия между егоистичното желание (долните Асия/Ецира) и чистото намерение за отдаване (Ацилут/Брия)."
+    },
+    {
+      q: "3. кои части изграждат вътрешната анатомия на Парцуф (Рош, Тох, Соф)?",
         options: [
-          "Тъй като той е изграден върху егоистични желания и изгоди за собствена полза, докато духовността се основава на закона за отдаването.",
-          "Тъй като човешкият мозък е биологично твърде малък.",
-          "Тъй като физическите закони забраняват духовното мислене.",
-          "Тъй като съвременните технологии все още не са достатъчно напреднали."
+          "Рош (Глава – където се извършва изчислението), Тох (Вътрешност – накъдето тече Светлината) и Соф (Край – където завършва получаването).",
+          "Ръка, Крак, Торсо.",
+          "Алфа, Бета, Гама.",
+          "Минало, Настояще, Бъдеще."
         ],
         correct: 0,
-        r: "Естественият разум оперира в рамките на желанието за получаване (Авиют) и затова не е способен да осъзнае висшите закони на отдаването."
+        r: "Всеки Парцуф е изграден от етапите Рош (Глава), Тох (Вътрешност) и Соф (Край) според действието на екрана (Масах)."
     },
     {
-      q: "3. как темата на 23-ти урок (Вярата над разума) се свързва с понятията Цимцум и Масах от предишните уроци?",
+      q: "4. какво означават границите Пех (Уста), Хазе (Гърди) и Табур (Пъп) в Парцуф?",
         options: [
-          "Прилагането на Масах (екрана) във физическата и духовната реалност е именно реализирането на работата над разума, където егоистичните изчисления се заменят с намерение за отдаване.",
-          "Те нямат никаква връзка.",
-          "Цимцум е противоположността на вярата над разума.",
-          "Масах се отнася само за физическото тяло."
+          "Пех е мястото на екрана (където влиза Светлината), Хазе е границата на средната линия, а Табур е долната граница, до която Светлината все още може да бъде получена.",
+          "Това са чисто анатомични термини за физическото тяло.",
+          "Те обозначават планетарни орбити.",
+          "Те представляват календарни месеци."
         ],
         correct: 0,
-        r: "Практикуването на вярата над разума е практическото приложение на филтрирането (Масах) и отразената светлина, извършвано в Парцуф."
+        r: "Пех, Хазе и Табур са вътрешни филтри и граници вътре в Парцуф, които определят потока на Светлината."
     },
     {
-      q: "4. каква е разликата между „физическата слепота“ и перспективата на вярата над разума?",
+      q: "5. как се формират 125-те духовни стъпала във Висшите Светове?",
         options: [
-          "Вярата над разума не е отричане на реалността, а надхвърляне на земната логика в полза на по-висш, всеобхватен духовен закон (отдаването).",
-          "Физическата слепота дава по-добри духовни резултати.",
+          "5 свята, умножени по 5 Парцуфим за свят, умножени по 5 Сфирот за Парцуф (5 x 5 x 5 = 125).",
+          "Точно за 125 физически дни.",
+          "Следвайки 125 различни пророци.",
+          "Разпределени на случаен принцип между световете."
+        ],
+        correct: 0,
+        r: "Пълната система от духовни степени се състои като произведение на 5 свята, всеки с 5 Парцуфим, и всеки Парцуф с 5 Сфирот (125 стъпала)."
+    },
+    {
+      q: "6. каква е разликата между съдовете Гальгальта ве-Ейнаим (ГЕ) и АХП (Озен, Хотем, Пех)?",
+        options: [
+          "ГЕ (Гальгальта ве-Ейнаим) са чисти съдове за отдаване (действащи изключително за другите), докато АХП са съдовете за получаване, които се стремят да погълнат наслада за себе си.",
+          "ГЕ е физическото око, а АХП е ухото.",
           "Няма никаква разлика.",
-          "Вярата над разума е фалшификация на науката."
+          "АХП е най-високата чиста светлина."
         ],
         correct: 0,
-        r: "Вярата над разума е по-високо състояние на съзнанието, което допълва и надделява над по-ниските, егоистични изчисления."
+        r: "ГЕ е горната част на главата (желания за отдаване), докато АХП е долната част (желания за получаване, чакащи поправяне)."
     },
     {
-      q: "5. каква е ролята на Десетката (групата на Десетте) за постигане на вярата над разума?",
+      q: "7. какво е състоянието на Ейн Соф (Безкрайния Свят) преди и след Цимцум Алеф (Първото съкращение)?",
         options: [
-          "Групата осигурява подкрепа, сила и атмосфера на взаимна отговорност (Арвут), в която индивидът може да надхвърли своите егоистични ограничения.",
-          "Групата е просто място за приятелски разговори.",
-          "Групата съществува, за да се състезават един с друг.",
-          "Групата не играе никаква роля в това."
+          "Преди това беше състояние на перфектно, неограничено единство между Светлината и Съда; след това Светлината се оттегли, за да направи място за поправени съдове въз основа на свободната воля.",
+          "Ейн Соф беше напълно унищожен.",
+          "Нищо не се е променило изобщо.",
+          "Ейн Соф се прехвърли във физическия свят."
         ],
         correct: 0,
-        r: "Работата вътре в Десетката и оценяването на величието на приятелите помагат на индивида да се издигне до вярата над разума."
+        r: "Ейн Соф беше състояние на абсолютна пълнота, което след Цимцум дава пространство на йерархичната структура на Висшите Светове."
     },
     {
-      q: "6. какво означава принципът „Ло ба-shamayim hi“ (Не е на небето) в работата над разума?",
+      q: "8. каква е ролята на света Ацилут сред останалите Висши Светове (Брия, Ецира, Асия)?",
         options: [
-          "Че духовното издигане и отношението над разума трябва да бъдат изградени от човека от неговата реална ситуация, чрез предизвикателствата на истинския живот.",
-          "Че религията няма нищо общо с ежедневието.",
-          "Че човек трябва да ходи в облаците по време на медитация.",
-          "Че Бог никога не се намесва."
+          "Ацилут е светът на чистото отдаване (Кетэр, Хохма, Бина), който управлява и подхранва по-ниските светове Брия, Ецира и Асия, които се нуждаят от поправяне.",
+          "Ацилут е физическият ад.",
+          "Ацилут е просто временен склад.",
+          "Ацилут е напълно независим от останалите светове."
         ],
         correct: 0,
-        r: "Духовната работа се реализира на земята, чрез трудностите на ежедневието и преодоляването на егото."
+        r: "Ацилут е светът на еманацията, където царят чистата Светлина и отдаването, поддържайки системата Бри-Ецира-Асия (БЕА)."
     },
     {
-      q: "7. как Кабала гледа на съмненията по духовния път?",
+      q: "9. какви са характеристиките на света Адам Кадмон (АК) в системата на Висшите Светове?",
         options: [
-          "Съмненията не са грешки; те се изпращат от Висшата сила, за да дадат на човека пространство да изгради вяра над разума (силата на отдаването).",
-          "Съмненията показват, че ученето трябва да бъде спряно.",
-          "Съмненията са директно дело на зли демони.",
-          "Съмненията никога не се появяват у каббалист."
+          "Адам Кадмон е първият чист духовен свят след Ейн Соф, от който се разклоняват всички останали по-ниски светове (Ацилут, Брия, Ецира, Асия).",
+          "Това е анатомията на физическия човек.",
+          "Това е най-тъмният подземен свят.",
+          "Той няма никакво значение."
         ],
         correct: 0,
-        r: "Съмненията предоставят възможността да се избере пътят на вярата (отдаването), вместо да се разчита на собствения ум."
+        r: "Адам Кадмон е първият структуриран свят след Ейн Соф, поставящ основата за универсалната духовна йерархия."
     },
     {
-      q: "8. каква е целта на работата над разума по отношение на връзката с Твореца?",
+      q: "10. как е изградена връзката между Висшата Светлина (Ор Яшар) и съдовете (Келим) в архитектурата на Висшите Светове?",
         options: [
-          "Че творението се приближава към Твореца не поради личен интерес или изгода, а от чиста, безкористна любов (Отдаване заради самото отдаване).",
-          "За да придобие материално богатство във физическия свят.",
-          "За да избегне ежедневната отговорност.",
-          "За да придобие специална власт над другите."
+          "Светлината винаги иска да запълни всеки съд, но Масах (екранът) и Ор Хозер (отразената светлина) регулират колко Светлина може да премине в чист вид.",
+          "Светлината е напълно независима от съдовете.",
+          "Съдовете унищожават Светлината.",
+          "Няма никакво взаимодействие."
         ],
         correct: 0,
-        r: "Вярата над разума гарантира, че връзката с Твореца е свободна от егоцентрични мотиви."
-    },
-    {
-      q: "9. каква е връзката между величието на Учителя (или Целта) и усвояването на вярата над разума?",
-        options: [
-          "Когато стойността на учителя или духовната цел е голяма в очите на човека, това му дава силата да преодолее дребнавата си логика и да действа над разума.",
-          "Няма никаква връзка между тях.",
-          "Величието на учителя само увеличава книжното знание.",
-          "Учителят ни учи да не мислим."
-        ],
-        correct: 0,
-        r: "Възприемането на важността (величието) на целта или учителя дава силата за издигане над разума."
-    },
-    {
-      q: "10. как се променя вътрешният свят на човека, когато той започне да действа според вярата над разума (Емуна)?",
-        options: [
-          "Вътрешната несигурност изчезва и се установява стабилен, вечен духовен мироглед, независим от външните обстоятелства.",
-          "Човекът губи ума си.",
-          "Физическата реалност на света напълно спира да съществува.",
-          "Човекът става пасивен и незаинтересован."
-        ],
-        correct: 0,
-        r: "Вярата над разума осигурява стабилен вътрешен баланс и вечна перспектива според Висшите светове."
+        r: "Взаимодействието между Светлината и Съда, ръководено от Масах, оформя прецизния вътрешен ред и степените на духовните светове."
       }
     ],
     cs: [
     {
-      q: "1. Jaký je hlavní význam principu „Víra nad rozumem“ (Emuna le-ma'ala min ha-daat) v Kabale?",
+      q: "1. Jaké jsou hlavní úrovně struktury pěti duchovních světů v Kabale?",
       options: [
-        "Umožňuje duchovní vzestup tím, že se člověk nespoléhá na svůj omezený egoistický rozum, nýbrž na Stvořitelovu vlastnost odevzdávání.",
-        "Znamená slepou poslušnost bez jakékoli logiky.",
-        "Je odmítnutím vědy v každodenním životě.",
-        "Je úplným ignorováním fyzického světa."
+        "Adam Kadmon, Atzilut, Beria, Yetzira a Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Roš, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, He."
       ],
       correct: 0,
-      r: "Víra nad rozumem není slepota, nýbrž přijetí odevzdávajícího pohledu Vyššího Světla nad egoistickou logikou."
+      r: "Pořadí duchovních světů shora dolů je: Adam Kadmon, Atzilut, Beria, Yetzira a Assiya."
     },
     {
-      q: "2. Proč je přirozený, rozený lidský rozum omezen při vnímání duchovní reality?",
-        options: [
-          "Protože je vystavěn na egoistických touhách a kalkulacích ve vlastní prospěch, zatímco duchovnost je založena na zákonu odevzdávání.",
-          "Protože lidský mozek je biologicky příliš malý.",
-          "Protože fyzické zákony zakazují duchovní myšlení.",
-          "Protože moderní technologie ještě nejsou dostatečně pokročilé."
-        ],
-        correct: 0,
-        r: "Přirozený rozum funguje v rámci touhy přijímat (Aviyut), a proto není schopen pochopit vyšší zákony odevzdávání."
+      q: "2. Kde se nachází Machsom (bariéra/prahová hodnota) a jaká je jeho duchovní role?",
+      options: [
+        "Nachází se mezi duchovními světy (nad/pod Atzilutem) a fyzickým světem a označuje hranici, kterou může člověk dosáhnout vlastním úsilím, než vstoupí do světa čistého odevzdávání.",
+        "Nachází se v srdci fyzického těla.",
+        "Nachází se v prostoru mezi Zemi a Měsícem.",
+        "Nehraje v duchovnosti žádnou roli."
+      ],
+      correct: 0,
+      r: "Machsom je dělící čára mezi egoistickou touhou (nižší Assiya/Yetzira) a čistým úmyslem odevzdávat (Atzilut/Beria)."
     },
     {
-      q: "3. Jak souvisí téma 23. lekce (Víra nad rozumem) s koncepty Tzimtzum a Masach z předchozích lekcí?",
-        options: [
-          "Uvedení Masachu (clony) do provozu ve fyzické a duchovní realitě je právě realizací práce nad rozumem, kde jsou egoistické kalkulace přepsány úmyslem odevzdávat.",
-          "Nemají spolu vůbec žádnou spojitost.",
-          "Tzimtzum je opakem víry nad rozumem.",
-          "Masach se vztahuje pouze na fyzické tělo."
-        ],
-        correct: 0,
-        r: "Praktikování víry nad rozumem je praktickou aplikací filtrování (Masach) a navráceného světla prováděného v Partzufu."
+      q: "3. Jaké části tvoří vnitřní anatomii Partzufu (Roš, Toch, Sof)?",
+      options: [
+        "Roš (Hlava – kde probíhá výpočet, Toch – Vnitřek – kam proudí Světlo, a Sof – Konec – kde je příjem ukončen).",
+        "Ruka, Noha, Trup.",
+        "Alfa, Beta, Gama.",
+        "Minulost, Přítomnost, Budoucnost."
+      ],
+      correct: 0,
+      r: "Každý Partzuf je vystavěn z fází Roš (Hlava), Toch (Vnitřek) a Sof (Konec) podle fungování clony (Masachu)."
     },
     {
-      q: "4. Jaký je rozdíl mezi „fyzickou slepotou“ a perspektivou víry nad rozumem?",
-        options: [
-          "Víra nad rozumem není popřením reality, nýbrž překonáním pozemské logiky ve prospěch vyššího, všeobjímajícího duchovního zákona (odevzdávání).",
-          "Fyzická slepota přináší lepší duchovní výsledky.",
-          "Mezi oběma není žádný rozdíl.",
-          "Víra nad rozumem je falšováním vědy."
-        ],
-        correct: 0,
-        r: "Víra nad rozumem je vyšší stav vědomí, který doplňuje a přepisuje nižší, egoistické kalkulace."
+      q: "4. Co znamená hranice Peh (Ústa), Chaze (Hrudník) a Tabur (Pupek) v Partzufu?",
+      options: [
+        "Peh je místo clony (kam vstupuje Světlo), Chaze je hranice střední linie a Tabur je dolní hranice, po kterou lze Světlo ještě přijímat.",
+        "Jedná se o pouhé anatomické termíny pro fyzické tělo.",
+        "Označují oběžné dráhy planet.",
+        "Reprezentují kalendářní měsíce."
+      ],
+      correct: 0,
+      r: "Peh, Chaze a Tabur jsou vnitřní filtry a hranice uvnitř Partzufu, které určují tok Světla."
     },
     {
-      q: "5. Jakou roli hraje Desítka (skupina deseti) v dosahování víry nad rozumem?",
-        options: [
-          "Skupina poskytuje podporu, sílu a atmosféru vzájemné záruky (Arvut), v níž může jedinec překročit své egoistické limity.",
-          "Skupina je pouze místem pro přátelské povídání.",
-          "Skupina existuje proto, aby spolu navzájem soutěžila.",
-          "Skupina v tom nehraje žádnou roli."
-        ],
-        correct: 0,
-        r: "Práce uvnitř Desítky a oceňování velikosti přátel pomáhají jedinci vystoupat k víře nad rozumem."
+      q: "5. Jak se tvoří 125 duchovních stupňů ve Vyšších Světech?",
+      options: [
+        "5 světů vynásobených 5 Partzufim na svět, vynásobených 5 Sefirot na Partzuf (5 x 5 x 5 = 125).",
+        "Přesně za 125 fyzických dní.",
+        "Následováním 125 různých proroků.",
+        "Rozděleno náhodně mezi světy."
+      ],
+      correct: 0,
+      r: "Kompletní systém duchovních stupňů se skládá jako součin 5 světů, z nichž každý má 5 Partzufim a každý Partzuf má 5 Sefirot (125 stupňů)."
     },
     {
-      q: "6. Co znamená princip „Lo ba-shamayim hi“ (Není v nebesích) v práci nad rozumem?",
-        options: [
-          "Že duchovní vzestup a postoj nad rozumem musí člověk vybudovat ze své reálné situace, skrze výzvy skutečného života.",
-          "Že náboženství nemá nic společného s každodenním životem.",
-          "Že se během meditace musí chodit v oblacích.",
-          "Že Bůh nikdy nezasahuje."
-        ],
-        correct: 0,
-        r: "Duchovní práce se realizuje na zemi, skrze obtíže každodenního života a překonávání ega."
+      q: "6. Jaký je rozdíl mezi nádobami Galgalta ve-Eynaim (GE) a AHP (Awzen, Hotem, Peh)?",
+      options: [
+        "GE (Galgalta ve-Eynaim) jsou čisté odevzdávající nádoby (jednající výhradně pro druhé), zatímco AHP jsou přijímající nádoby, které se snaží absorbovat potěšení pro sebe.",
+        "GE je fyzické oko a AHP je ucho.",
+        "Není mezi nimi žádný rozdíl.",
+        "AHP je nejvyšší čisté světlo."
+      ],
+      correct: 0,
+      r: "GE je horní část hlavy (touhy po odevzdávání), zatímco AHP je dolní část (touhy po přijímání čekající na nápravu)."
     },
     {
-      q: "7. Jak pohlíží Kabala na pochybnosti na duchovní cestě?",
-        options: [
-          "Pochybnosti nejsou chyby; jsou sesílány Vyšší Sílou, aby poskytly člověku prostor pro vybudování víry nad rozumem (síly odevzdávání).",
-          "Pochybnosti naznačují, že je třeba přestat studovat.",
-          "Pochybnosti jsou přímým dílem zlých démonů.",
-          "Pochybnosti se u kabbalisty nikdy neobjevují."
-        ],
-        correct: 0,
-        r: "Pochybnosti poskytují příležitost zvolit cestu víry (odevzdávání) namísto spoléhání se na vlastní rozum."
+      q: "7. Jaký je stav Ein Sof (Nekonečného Světa) před a po Tzimtzum Aleph (Prvním omezení)?",
+      options: [
+        "Předtím to byl stav dokonalé, neomezené jednoty mezi Světlem a Nádobou; poté se Světlo stáhlo, aby udělalo místo pro opravené nádoby založené na svobodné vůli.",
+        "Ein Sof byl zcela zničen.",
+        "Nic se nezměnilo.",
+        "Ein Sof se přenesl do fyzického světa."
+      ],
+      correct: 0,
+      r: "Ein Sof byl stavem absolutního naplnění, který po Tzimtzumu dává prostor hierarchické struktuře Vyšších světů."
     },
     {
-      q: "8. Jaký je účel práce nad rozumem s ohledem na vztah ke Stvořiteli?",
+      q: "8. Jaká je role světa Atzilut mezi ostatními Vyššími Světy (Beria, Yetzira, Assiya)?",
         options: [
-          "Aby se tvor přibližoval ke Stvořiteli nikoli kvůli vlastnímu zájmu či osobnímu prospěchu, nýbrž z čisté, nesobecké lásky (Odevzdávání pro odevzdávání).",
-          "Získat materiální bohatství ve fyzickém světě.",
-          "Uniknout každodenní odpovědnosti.",
-          "Získat zvláštní moc nad ostatními."
+          "Atzilut je svět čistého odevzdávání (Keter, Hochma, Bina), který vládne a vyživuje nižší světy Beria, Yetzira a Assiya, které potřebují nápravu.",
+          "Atzilut je fyzické peklo.",
+          "Atzilut je pouze dočasný sklad.",
+          "Atzilut je zcela nezávislý na ostatních světech."
         ],
         correct: 0,
-        r: "Víra nad rozumem zajišťuje, že vztah ke Stvořiteli je prostý egocentrických motivů."
+        r: "Atzilut je svět emanace, kde kraluje čisté Světlo a odevzdávání, a udržuje systém Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "9. Jaká je spojitost mezi velikostí Učitele (nebo Cíle) a přijetím víry nad rozumem?",
+      q: "9. Jaké jsou charakteristiky světa Adam Kadmon (AK) v systému Vyšších světů?",
         options: [
-          "Když je hodnota učitele nebo duchovního cíle v očích člověka velká, dává mu to sílu překonat jeho malichernou logiku a jednat nad rozumem.",
-          "Mezi nimi není žádná spojitost.",
-          "Velikost učitele rozšiřuje pouze knižní znalosti.",
-          "Učitel nás učí nemyslet."
+          "Adam Kadmon je první čistý duchovní svět po Ein Sof, ze kterého se větví všechny ostatní nižší světy (Atzilut, Beria, Yetzira, Assiya).",
+          "Je to anatomie fyzického člověka.",
+          "Je to nejtemnější podsvětí.",
+          "Nemá to žádný význam."
         ],
         correct: 0,
-        r: "Vnímání důležitosti (velikosti) cíle nebo učitele dává sílu k vzestupu nad rozum."
+        r: "Adam Kadmon je první strukturovaný svět po Ein Sof, který klade základ pro univerzální duchovní hierarchii."
     },
     {
-      q: "10. Jak se mění vnitřní svět člověka, když začne jednat podle víry nad rozumem (Emuna)?",
+      q: "10. Jak je strukturován vztah mezi Vyšším Světlem (Ohr Jašar) a nádobami (Kelim) v architektuře Vyšších světů?",
         options: [
-          "Vnitřní nejistota mizí a vytváří se stabilní, věčný duchovní pohled na svět, nezávislý na vnějších okolnostech.",
-          "Člověk ztrácí rozum.",
-          "Fyzická realita světa zcela přestává existovat.",
-          "Člověk se stává pasivním a nezainteresovaným."
+          "Světlo chce vždy naplnit každou nádobu, ale Masach (clona) a Ohr Hozer (navrácené světlo) regulují, kolik Světla může čistě proudit dovnitř.",
+          "Světlo je zcela nezávislé na nádobách.",
+          "Nádoby ničí Světlo.",
+          "Neexistuje žádná interakce."
         ],
         correct: 0,
-        r: "Víra nad rozumem poskytuje stabilní vnitřní rovnováhu a věčnou perspektivu podle Vyšších světů."
+        r: "Interakce mezi Světlem a Nádobou pod vedením Masachu utváří přesný vnitřní řád a stupně duchovních světů."
     }
   ],
   hr: [
     {
-      q: "1. Koje je glavno značenje načela „Vjera iznad uma” (Emuna le-ma'ala min ha-daat) u Kabali?",
+      q: "1. Koje su glavne razine strukture pet duhovnih svjetova u Kabali?",
       options: [
-        "Omogućuje duhovni uspon oslanjajući se ne na čovjekov ograničeni egoistični um, već na Stvoriteljevo svojstvo davanja.",
-        "Označava slijepu poslušnost bez ikakve logike.",
-        "To je odbacivanje znanosti u svakodnevnom životu.",
-        "To je potpuno zanemarivanje fizičkog svijeta."
+        "Adam Kadmon, Atzilut, Beria, Yetzira i Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, He."
       ],
       correct: 0,
-      r: "Vjera iznad uma nije sljepoća, već prihvaćanje stajališta davanja Više Svjetlosti iznad egoistične logike."
+      r: "Redoslijed duhovnih svjetova odozgo prema dolje je: Adam Kadmon, Atzilut, Beria, Yetzira i Assiya."
     },
     {
-      q: "2. Zašto je čovjekov prirodni, urođeni um ograničen u percipiranju duhovne stvarnosti?",
+      q: "2. Gdje se nalazi Machsom (barijera/prag) i koja je njegova duhovna uloga?",
+      options: [
+        "Nalazi se između duhovnih svjetova (iznad/ispod Atziluta) i fizičkog svijeta, označavajući granicu koju čovjek može dosegnuti vlastitim naporom prije nego što prijeđe u svijet čistog davanja.",
+        "Nalazi se u srcu fizičkog tijela.",
+        "Nalazi se u prostoru između Zemlje i Mjeseca.",
+        "Ne igra nikakvu ulogu u duhovnosti."
+      ],
+      correct: 0,
+      r: "Machsom je razdvojna linija između egoistične želje (niža Assiya/Yetzira) i čiste namjere davanja (Atzilut/Beria)."
+    },
+    {
+      q: "3. Koji dijelovi čine unutarnju anatomiju Partzufa (Rosh, Toch, Sof)?",
+      options: [
+        "Rosh (Glava – gdje se odvija proračun, Toch – Unutrašnjost – kamo svjetlost teče, i Sof – Kraj – gdje se primanje zaključuje).",
+        "Ruka, Noga, Trup.",
+        "Alfa, Beta, Gama.",
+        "Prošlost, Sadašnjost, Budućnost."
+      ],
+      correct: 0,
+      r: "Svaki Partzuf izgrađen je od faza Rosh (Glava), Toch (Unutrašnjost) i Sof (Kraj) prema djelovanju zaslona (Masacha)."
+    },
+    {
+      q: "4. Što znače granice Peh (Usta), Chaze (Prsa) i Tabur (Pupak) u Partzufu?",
+      options: [
+        "Peh je mjesto zaslona (gdje svjetlost ulazi), Chaze je granica srednje linije, a Tabur je donja granica do koje se svjetlost još može primiti.",
+        "To su čisto anatomski termini za fizičko tijelo.",
+        "Označavaju planetarne staze.",
+        "Predstavljaju kalendarske mjesece."
+      ],
+      correct: 0,
+      r: "Peh, Chaze i Tabur unutarnji su filteri i granice unutar Partzufa koji određuju protok svjetlosti."
+    },
+    {
+      q: "5. Kako se formira 125 duhovnih stupnjeva u Višim Svjetovima?",
         options: [
-          "Budući da je izgrađen na egoističnim željama i kalkulacijama za vlastitu korist, dok se duhovnost temelji na zakonu davanja.",
-          "Jer je ljudski mozak biološki premalen.",
-          "Jer fizički zakoni zabranjuju duhovno razmišljanje.",
-          "Jer moderna tehnologija još nije dovoljno napredna."
+          "5 svjetova pomnoženih s 5 Partzufima po svijetu, pomnoženih s 5 Sefirot po Partzufu (5 x 5 x 5 = 125).",
+          "U točno 125 fizičkih dana.",
+          "Slijedeći 125 različitih proroka.",
+          "Raspoređeni nasumično među svjetovima."
         ],
         correct: 0,
-        r: "Prirodni um djeluje u okviru želje za primanjem (Aviyut), te stoga nije sposoban shvatiti više zakone davanja."
+        r: "Cjeloviti sustav duhovnih stupnjeva sastoji se kao umnožak 5 svjetova, od kojih svaki ima 5 Partzufima, a svaki Partzuf ima 5 Sefirot (125 stupnjeva)."
     },
     {
-      q: "3. Kako se tema 23. lekcije (Vjera iznad uma) povezuje s konceptima Tzimtzum i Masach iz prethodnih lekcija?",
+      q: "6. Koja je razlika između posuda Galgalta ve-Eynaim (GE) i AHP (Awzen, Hotem, Peh)?",
         options: [
-          "Pokretanje Masacha (zaslona) u fizičkoj i duhovnoj stvarnosti upravo je ostvarenje rada iznad uma, gdje se egoistične kalkulacije nadvladavaju namjerom davanja.",
-          "One nemaju nikakve veze jedna s drugom.",
-          "Tzimtzum je suprotnost vjeri iznad uma.",
-          "Masach se primjenjuje samo na fizičko tijelo."
-        ],
-        correct: 0,
-        r: "Prakticiranje vjere iznad uma praktična je primjena filtriranja (Masach) i vraćene svjetlosti provedene u Partzufu."
-    },
-    {
-      q: "4. Koja je razlika između „fizičke sljepoće” i perspektive vjere iznad uma?",
-        options: [
-          "Vjera iznad uma nije poricanje stvarnosti, već transcendencija zemaljske logike u korist višeg, sveobuhvatnog duhovnog zakona (davanja).",
-          "Fizička sljepoća daje bolje duhovne rezultate.",
+          "GE (Galgalta ve-Eynaim) čiste su posude davanja (koje djeluju isključivo za druge), dok su AHP posude primanja koje nastoje upiti užitak za sebe.",
+          "GE je fizičko oko, a AHP je uho.",
           "Nema nikakve razlike.",
-          "Vjera iznad uma je falsificiranje znanosti."
+          "AHP je najviša čista svjetlost."
         ],
         correct: 0,
-        r: "Vjera iznad uma više je stanje svijesti koje nadopunjuje i nadvladava niže, egoistične kalkulacije."
+        r: "GE je gornji dio glave (želje davanja), dok je AHP donji dio (želje primanja koje čekaju ispravak)."
     },
     {
-      q: "5. Koja je uloga Desetke (skupine Deset) u postizanju vjere iznad uma?",
+      q: "7. Kakvo je stanje Ein Sof (Beskonačnog Svijeta) prije i poslije Tzimtzum Aleph (Prvog ograničenja)?",
         options: [
-          "Skupina pruža podršku, snagu i atmosferu uzajamnog jamstva (Arvut) u kojoj pojedinac može nadići svoje egoistične granice.",
-          "Skupina je samo mjesto za prijateljska čavrljanja.",
-          "Skupina postoji zato da bi se natjecali jedni s drugima.",
-          "Skupina nema nikakvu ulogu u tome."
+          "Prije je to bilo stanje savršenog, neograničenog jedinstva između Svjetlosti i Posude; nakon toga Svjetlost se povukla kako bi napravila mjesta za ispravljene posude temeljene na slobodnoj volji.",
+          "Ein Sof je potpuno uništen.",
+          "Ništa se nije promijenilo.",
+          "Ein Sof se prenio u fizički svijet."
         ],
         correct: 0,
-        r: "Rad unutar Desetke i cijenjenje veličine prijatelja pomažu pojedincu da se uzdigne u vjeru iznad uma."
+        r: "Ein Sof je bilo stanje apsolutne punine, koje nakon Tzimtzuma daje prostor hijerarhijskoj strukturi Viših Svjetova."
     },
     {
-      q: "6. Što znači načelo „Lo ba-shamayim hi” (Nije na nebu) u radu iznad uma?",
+      q: "8. Koja je uloga svijeta Atzilut među ostalim Višim Svjetovima (Beria, Yetzira, Assiya)?",
         options: [
-          "Da duhovni uspon i stav iznad uma čovjek mora izgraditi iz svoje stvarne situacije, kroz izazove stvarnog života.",
-          "Da religija nema nikakve veze sa svakodnevnim životom.",
-          "Da se tijekom meditacije mora hodati u oblacima.",
-          "Da Bog nikada ne intervenira."
+          "Atzilut je svijet čistog davanja (Keter, Hochma, Bina), koji upravlja i hrani niže svjetove Beria, Yetzira i Assiya kojima je potreban ispravak.",
+          "Atzilut je fizički pakao.",
+          "Atzilut je samo privremeno skladište.",
+          "Atzilut je potpuno neovisan o drugim svjetovima."
         ],
         correct: 0,
-        r: "Duhovni rad ostvaruje se na zemlji, kroz poteškoće svakodnevnog života i nadvladavanje ega."
+        r: "Atzilut je svijet emanacije u kojem vladaju čista Svjetlost i davanje, podupirući sustav Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Kako Kabala gleda na sumnje na duhovnom putu?",
+      q: "9. Koje su karakteristike svijeta Adam Kadmon (AK) u sustavu Viših Svjetova?",
         options: [
-          "Sumnje nisu pogreške; njih šalje Viša Sila kako bi dala čovjeku prostor za izgradnju vjere iznad uma (snage davanja).",
-          "Sumnje ukazuju na to da treba prestati učiti.",
-          "Sumnje su izravno djelo zlih demona.",
-          "Sumnje se kod kabbalista nikada ne pojavljuju."
+          "Adam Kadmon je prvi čisti duhovni svijet nakon Ein Sof, iz kojeg se granaju svi ostali niži svjetovi (Atzilut, Beria, Yetzira, Assiya).",
+          "To je anatomija fizičkog čovjeka.",
+          "To je najmračnije podzemlje.",
+          "Nema nikakvog značaja."
         ],
         correct: 0,
-        r: "Sumnje pružaju priliku da se odabere put vjere (davanja) umjesto oslanjanja na vlastiti um."
+        r: "Adam Kadmon je prvi strukturirani svijet nakon Ein Sof, postavljajući temelj za univerzalnu duhovnu hijerarhiju."
     },
     {
-      q: "8. Koja je svrha rada iznad uma s obzirom na odnos prema Stvoritelju?",
+      q: "10. Kako je strukturiran odnos između Više Svjetlosti (Ohr Yashar) i posuda (Kelim) u arhitekturi Viših Svjetova?",
         options: [
-          "Da se stvorenje približi Stvoritelju ne iz vlastitog interesa ili osobne koristi, već iz čiste, nesebične ljubavi (Davanje radi davanja).",
-          "Da se stekne materijalno bogatstvo u fizičkom svijetu.",
-          "Da se pobjegne od svakodnevnih odgovornosti.",
-          "Da se stekne posebna moć nad drugima."
+          "Svjetlost uvijek želi ispuniti svaku posudu, ali Masach (zaslon) i Ohr Hozer (vraćena svjetlost) reguliraju koliko svjetlosti može čisto utjecati.",
+          "Svjetlost je potpuno neovisna o posudama.",
+          "Posude uništavaju Svjetlost.",
+          "Ne postoji nikakva interakcija."
         ],
         correct: 0,
-        r: "Vjera iznad uma osigurava da je odnos sa Stvoriteljem slobodan od egocentričnih motiva."
-    },
-    {
-      q: "9. Kakva je veza između veličine Učitelja (ili Cilja) i usvajanja vjere iznad uma?",
-        options: [
-          "Kada je vrijednost učitelja ili duhovnog cilja velika u čovjekovim očima, to mu daje snagu da nadvlada svoju sitničavu logiku i djeluje iznad uma.",
-          "Nema nikakve veze među njima.",
-          "Veličina učitelja povećava samo knjiško znanje.",
-          "Učitelj nas uči da ne mislimo."
-        ],
-        correct: 0,
-        r: "Percepcija važnosti (veličine) cilja ili učitelja daje snagu za uzdizanje iznad uma."
-    },
-    {
-      q: "10. Kako se mijenja čovjekov unutarnji svijet kada počne djelovati u skladu s vjerom iznad uma (Emuna)?",
-        options: [
-          "Unutarnja nesigurnost nestaje i uspostavlja se stabilan, vječni duhovni pogled na svijet, neovisan o vanjskim okolnostima.",
-          "Čovjek gubi razum.",
-          "Fizička stvarnost svijeta potpuno prestaje postojati.",
-          "Čovjek postaje pasivan i nezainteresiran."
-        ],
-        correct: 0,
-        r: "Vjera iznad uma pruža stabilnu unutarnju ravnotežu i vječnu perspektivu prema Višim svjetovima."
+        r: "Interakcija između Svjetlosti i Posude, vođena Masachom, oblikuje precizan unutarnji red i stupnjeve duhovnih svjetova."
     }
   ],
   sr: [
     {
-      q: "1. Шта је главно значење принципа „Вера изнад ума” (Emuna le-ma'ala min ha-daat) u Kabali?",
+      q: "1. Који су главни нивои структуре пет духовних светова у Кабали?",
       options: [
-        "Омогућава духовни успон ослањајући се не на човеков ограничен егоистични ум, већ на Створитељево својство давања.",
-        "Означава слепу послушност без икакаве логике.",
-        "То је одбацивање науке у свакодневном животу.",
-        "То је потпуно занемаривање физичког света."
+        "Адам Кадмон, Ацилут, Брија, Јецира и Асија.",
+        "Кетер, Хохма, Бина, Тиферет, Малхут.",
+        "Рош, Тох, Соф, Пех, Табур.",
+        "Алеф, Бет, Гимель, Далет, Хе."
       ],
       correct: 0,
-      r: "Вера изнад ума није слепоћа, већ прихватање става давања Више Светлости изнад egoistične логіке."
+      r: "Редослед духовних светова одозго надоле је: Адам Кадмон, Ацилут, Брија, Јецира и Асија."
     },
     {
-      q: "2. Зашто је човеков природни, рођени ум ограничен у перципирању духовне стварности?",
+      q: "2. Где се налази Махсом (баријера/праг) и која је његова духовна улога?",
+      options: [
+        "Налази се између духовних светова (изнад/испод Ацилута) и физичког света, означавајући границу коју човек може достићи сопственим напором пре него што пређе у свет чистог давања.",
+        "Налази се у срцу физичког тела.",
+        "Налази се у простору између Земље и Месеца.",
+        "Не игра никакву улогу у духовности."
+      ],
+      correct: 0,
+      r: "Махсом је раздвојна линија између егоистичне жеље (нижа Асија/Јецира) и чисте намере давања (Ацилут/Брија)."
+    },
+    {
+      q: "3. Који делови чине унутрашњу анатомију Парцуфа (Рош, Тох, Соф)?",
         options: [
-          "Будући да је изграђен на egoističnim жељама и калкулацијама за властиту корист, док се духовност темељи на закону давања.",
-          "Јер је људски мозак биолошки премален.",
-          "Јер физички закони забрањују духовно размишљање.",
-          "Јер модерна технологија још увек није довољно напредна."
+          "Рош (Глава – где се одвија прорачун, Тох – Унутрашњост – куда светлост тече, и Соф – Крај – где се примање закључује).",
+          "Рука, Нога, Труп.",
+          "Алфа, Бета, Гама.",
+          "Прошлост, Садашњост, Будућност."
         ],
         correct: 0,
-        r: "Природни ум делује у оквиру жеље за примањем (Авијут), те стога није способан да схвати више законе давања."
+        r: "Сваки Парцуф је изграђен од фаза Рош (Глава), Тох (Унутрашњост) и Соф (Крај) према деловању екрана (Масаха)."
     },
     {
-      q: "3. Како се тема 23. лекције (Вера изнад ума) повезује са концептима Цимцум и Масах из претходних лекција?",
+      q: "4. Шта значе границе Пех (Уста), Хазе (Прса) и Табур (Пупак) у Парцуфу?",
         options: [
-          "Покретање Масаха (екрана) у физичкој и духовној стварности управо је остварење рада изнад ума, где се egoistične калкулације надвладавају намером давања.",
-          "Оне немају никакве везе једна са другом.",
-          "Цимцум је супротност вери изнад ума.",
-          "Масах се примењује само на физичко тело."
+          "Пех је место екрана (где светлост улази), Хазе је граница средње линије, а Табур је доња граница до које се светлост још увек може примити.",
+          "То су чисто анатомски термини за физичко тело.",
+          "Означавају планетарне стазе.",
+          "Представљају календарске месеце."
         ],
         correct: 0,
-        r: "Практиковање вере изнад ума је практична примена филтрирања (Масах) и враћене светлости спроведене у Парцуфу."
+        r: "Пех, Хазе и Табур су унутрашњи филтери и границе унутар Парцуфа који одређују проток светлости."
     },
     {
-      q: "4. Која је разлика између „физичке слепоће” и перспективе вере изнад ума?",
+      q: "5. Како се формира 125 духовних степенова у Вишим Световима?",
         options: [
-          "Вера изнад ума није порицање стварности, већ трансценденција земаљске логике у корист вишег, свеобухватног духовног закона (давања).",
-          "Физичка слепоћа даје боље духовне резултате.",
+          "5 светова помножених са 5 Парцуфима по свету, помножених са 5 Сефирот по Парцуфу (5 x 5 x 5 = 125).",
+          "У тачно 125 физичких дана.",
+          "Пратећи 125 различитих пророка.",
+          "Распоређени насумично међу световима."
+        ],
+        correct: 0,
+        r: "Целовити систем духовних степенова састоји се као производ 5 светова, од којих сваки има 5 Парцуфима, а сваки Парцуф има 5 Сефирот (125 степенова)."
+    },
+    {
+      q: "6. Која је разлика између посуда Галгальта ве-Ейнаим (ГЕ) и АХП (Озен, Хотем, Пех)?",
+        options: [
+          "ГЕ (Галгальта ве-Ейнаим) су чисте посуде давања (које делују искључиво за друге), док су АХП посуде примања које настоје да упију ужитак за себе.",
+          "ГЕ је физичко око, а АХП је ухо.",
           "Нема никакве разлике.",
-          "Вера изнад ума је фалсификовање науке."
+          "АХП је највиша чиста светлост."
         ],
         correct: 0,
-        r: "Вера изнад ума је више стање свести које допуњује и надвладава ниже, egoistične калкулације."
+        r: "ГЕ је горњи део главе (жеље давања), док је АХП доњи део (жеље примања које чекају исправку)."
     },
     {
-      q: "5. Која је улога Десетке (групе Десет) у постизању вере изнад ума?",
+      q: "7. Какво је стање Ейн Соф (Бесконачног Света) пре и после Tzimtzum Aleph (Првог скраћења)?",
         options: [
-          "Група пружа подршку, снагу и атмосферу узајамног јемства (Арвут) у којој појединац може надићи своје egoistične границе.",
-          "Група је само место за пријатељска ћаскања.",
-          "Група постоји зато да би се такмичили једни са другима.",
-          "Група нема никакву улогу у томе."
+          "Пре тога је то било стање савршеног, неограниченог јединства између Светлости и Посуде; након тога Светлост се повукла како би направила места за исправљене посуде засноване на слободној вољи.",
+          "Ейн Соф је потпуно уништен.",
+          "Ништа се није променило.",
+          "Ейн Соф се пренео у физички свет."
         ],
         correct: 0,
-        r: "Рад унутар Десетке и цењење величине пријатеља помажу појединцу да се уздигне у веру изнад ума."
+        r: "Ейн Соф је било стање апсолутне пуноће, које након Цимцума даје простор хијерархијској структури Виших Светова."
     },
     {
-      q: "6. Шта значи начело „Lo ba-shamayim hi” (Није на небу) у раду изнад ума?",
+      q: "8. Која је улога света Ацилут међу осталим Вишим Световима (Брија, Јецира, Асија)?",
         options: [
-          "Да духовни успон и став изнад ума човек мора изградити из своје стварне ситуације, кроз изазове стварног живота.",
-          "Да религија нема никакве везе са свакодневним животом.",
-          "Да се током медитације мора ходати у облацима.",
-          "Да Бог никада не интервенише."
+          "Ацилут је свет чистог давања (Кетер, Хохма, Бина), који управља и храни ниже светове Брија, Јецира и Асија којима је потребан исправак.",
+          "Ацилут је физички пакао.",
+          "Ацилут је само привремено складиште.",
+          "Ацилут је потпуно независан од других светова."
         ],
         correct: 0,
-        r: "Духовни рад се остварује на земљи, кроз тешкоће свакодневног живота и надвладавање ега."
+        r: "Ацилут је свет еманације у којем владају чиста Светлост и давање, подупирући систем Бри-Јецира-Асија (БЈА)."
     },
     {
-      q: "7. Како Кабала гледа на сумње на духовном путу?",
+      q: "9. Које су карактеристике света Адам Кадмон (АК) у систему Виших Светова?",
         options: [
-          "Сумње нису грешке; њих шаље Виша Сила како би дала човеку простор за изградњу вере изнад ума (снаге давања).",
-          "Сумње указују на то да треба престати са учењем.",
-          "Сумње су директно дело злих демона.",
-          "Сумње се код кабалисте никада не појављују."
+          "Адам Кадмон је први чисти духовни свет након Ейн Соф, из којег се гранају сви остали ниже светови (Ацилут, Брија, Јецира, Асија).",
+          "То је анатомија физичког човека.",
+          "То је најмračnije подземље.",
+          "Нема никаквог значаја."
         ],
         correct: 0,
-        r: "Сумње пружају прилику да се одабере пут вере (давања) уместо ослањања на властити ум."
+        r: "Адам Кадмон је први структурирани свет након Ейн Соф, постављајући темељ за универзалну духовну хијерархију."
     },
     {
-      q: "8. Која је сврха рада изнад ума с обзиром на однос према Створитељу?",
+      q: "10. Како је структуриран однос између Више Светлости (Ор Јашар) и посуда (Келим) у архитектури Виших Светова?",
         options: [
-          "Да се створење приближи Створитељу не из властитог интереса или личне користи, већ из чисте, несебичне љубави (Давање ради давања).",
-          "Да се стекне материјално богатство у физичком свету.",
-          "Да се побегне од свакодневних одговорности.",
-          "Да се стекне посебна моћ над другима."
+          "Светлост увек жели да испуни сваку посуду, али Масах (екран) и Ор Хозер (враћена светлост) регулишу колико светлости може чисто да утекне.",
+          "Светлост је потпуно независна од посуда.",
+          "Посуде уништавају Светлост.",
+          "Не постоји никаква интеракција."
         ],
         correct: 0,
-        r: "Вера изнад ума осигурава да је однос са Створитељем слободан од egocentričnih мотивиa."
-    },
-    {
-      q: "9. Каква је веза између величине Учитеља (или Циља) и усвајања вере изнад ума?",
-        options: [
-          "Када је вредност учитеља или духовног циља велика у човековим очима, то му даје снагу да надвлада своју ситничаву логику и делује изнад ума.",
-          "Нема никакве везе међу њима.",
-          "Величина учитеља повећава само књишко знање.",
-          "Учитељ нас учи да не мислимо."
-        ],
-        correct: 0,
-        r: "Перцепција важности (величине) циља или учитеља даје снагу за уздизање изнад ума."
-    },
-    {
-      q: "10. Како се мења човеков унутрашњи свет када почне да делује у складу са вером изнад ума (Emuna)?",
-        options: [
-          "Унутрашња неизвесност нестаје и успоставља се стабилан, вечни духовни поглед на свет, неовисан о спољним околностима.",
-          "Човек губи разум.",
-          "Физичка стварност света потпуно престаје да постоји.",
-          "Човек постаје пасиван и незаинтересован."
-        ],
-        correct: 0,
-        r: "Вера изнад ума пружа стабилну унутрашњу равнотежу и вечну перспективу према Вишим световима."
-    }
-  ],
+        r: "Интеракција између Светлости и Посуде, вођена Масахом, обликује прецизан унутрашњи ред и стеpene духовних светова."
+      }
+    ],
   tr: [
     {
-      q: "1. Kabala'da „Akıl Üstünde İnanç” (Emuna le-ma'ala min ha-daat) ilkesinin temel anlamı nedir?",
+      q: "1. Kabala'da beş manevi dünyanın yapısının ana seviyeleri nelerdir?",
       options: [
-        "İnsanın sınırlı egoist aklına değil, Yaratıcı'nın ihsan etme niteliğine güvenerek manevi yükselişi mümkün kılmasındadır.",
-        "Herhangi bir mantık olmaksızın körü körüne itaat anlamına gelir.",
-        "Günlük yaşamda bilimin reddedilmesidir.",
-        "Fiziksel dünyanın tamamen göz ardı edilmesidir."
+        "Adam Kadmon, Atzilut, Beria, Yetzira ve Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Akıl üstünde inanç körlük değildir; egoist mantığın ötesinde Üst Işık'ın ihsan eden bakış açısını benimsemektir."
+      r: "Yukarıdan aşağıya manevi dünyaların sırası şöyledir: Adam Kadmon, Atzilut, Beria, Yetzira ve Assiya."
     },
     {
-      q: "2. İnsanın doğal, doğuştan gelen aklı manevi gerçekliği algılamada neden sınırlıdır?",
+      q: "2. Machsom (bariyer/eşik) nerededir ve manevi rolü nedir?",
+      options: [
+        "Manevi dünyalar (Atzilut'un üstü/altı) ile fiziksel dünya arasında yer alır; saf ihsan dünyasına geçmeden önce bir kişinin kendi çabasıyla ulaşabileceği sınırı işaret eder.",
+        "Fiziksel bedenin kalbinde bulunur.",
+        "Dünya ile Ay arasındaki uzaydadır.",
+        "Maneviiyatta hiçbir rolü yoktur."
+      ],
+      correct: 0,
+      r: "Machsom, egoist arzu (alt Assiya/Yetzira) ile saf ihsan niyeti (Atzilut/Beria) arasındaki bölünme çizgisidir."
+    },
+    {
+      q: "3. Bir Partzuf'un (Rosh, Toch, Sof) iç anatomisini hangi kısımlar oluşturur?",
+      options: [
+        "Rosh (Baş – hesaplamanın yapıldığı yer, Toch – İç kısım – Işık'ın aktığı yer, ve Sof – Son – alımın sonuçlandığı yer).",
+        "El, Ayak, Gövde.",
+        "Alfa, Beta, Gama.",
+        "Geçmiş, Şimdiki Zaman, Gelecek."
+      ],
+      correct: 0,
+      r: "Her Partzuf, perdenin (Masach) işleyişine göre Rosh (Baş), Toch (İç) ve Sof (Son) aşamalarından oluşur."
+    },
+    {
+      q: "4. Bir Partzuf'ta Peh (Ağız), Chaze (Göğüs) ve Tabur (Göbek) sınırları ne anlama gelir?",
+      options: [
+        "Peh perdenin yeridir (Işık'ın girdiği yer), Chaze orta çizginin sınırıdır, Tabur ise Işık'ın hâlâ alınabileceği alt sınırdır.",
+        "Bunlar fiziksel beden için sadece anatomik terimlerdir.",
+        "Gezegen yörüngelerini belirtirler.",
+        "Takvim aylarını temsil ederler."
+      ],
+      correct: 0,
+      r: "Peh, Chaze ve Tabur, Partzuf içindeki Işık akışını belirleyen iç filtreler ve sınırlardır."
+    },
+    {
+      q: "5. Üst Dünyalarda 125 manevi basamak nasıl oluşur?",
         options: [
-          "Çünkü kendi çıkarı için egoist arzu ve hesaplamalar üzerine kuruludur, oysa maneviyat ihsan etme yasasına dayanır.",
-          "Çünkü insan beyin biyolojik olarak çok küçüktür.",
-          "Çünkü fiziksel yasalar manevi düşünceyi yasaklar.",
-          "Çünkü modern teknoloji henüz yeterince gelişmemiştir."
+          "Dünya başına 5 Partzuf ile çarpılan 5 dünya, Partzuf başına 5 Sefirot ile çarpılır (5 x 5 x 5 = 125).",
+          "Tam olarak 125 fiziksel günde.",
+          "125 farklı peygamberi takip ederek.",
+          "Dünyalar arasında rastgele dağıtılmış."
         ],
         correct: 0,
-        r: "Doğal akıl, almak isteme (Aviyut) çerçevesinde çalışır; bu nedenle daha yüksek ihsan yasalarını kavrayamaz."
+        r: "Manevi derecelerin tam sistemi, her biri 5 Partzuf'a sahip 5 dünyanın ve her Partzuf'un 5 Sefirot'a sahip olmasının bir çarpımı olarak oluşur (125 basamak)."
     },
     {
-      q: "3. 23. Ders'in teması (Akıl Üstünde İnanç) önceki derslerin Tzimtzum ve Masach kavramlarıyla nasıl bir bağ kurar?",
+      q: "6. Galgalta ve-Eynaim (GE) kapları ile AHP (Awzen, Hotem, Peh) kapları arasındaki fark nedir?",
         options: [
-          "Fiziksel ve manevi gerçeklikte Masach'ı (perdeyi) çalıştırmak, egoist hesaplamaların ihsan etme niyetiyle geçersiz kılındığı akıl üstü çalışmanın ta kendisidir.",
-          "Hiçbir bağlantıları yoktur.",
-          "Tzimtzum, akıl üstünde inancın zıddıdır.",
-          "Masach yalnızca fiziksel bedene uygulanır."
-        ],
-        correct: 0,
-        r: "Akıl üstünde inancı uygulamak, Partzuf'ta gerçekleştirilen filtreleme (Masach) ve geri dönen ışığın pratik uygulamasıdır."
-    },
-    {
-      q: "4. „Fiziksel körlük” ile akıl üstünde inanç perspektifi arasındaki fark nedir?",
-        options: [
-          "Akıl üstünde inanç gerçeği inkâr etmek değil, daha yüksek, her şeyi kapsayan bir manevi yasa (ihsan) lehine dünyevi mantığı aşmaktır.",
-          "Fiziksel körlük daha iyi manevi sonuçlar verir.",
+          "GE (Galgalta ve-Eynaim) saf ihsan kaplarıdır (yalnızca başkaları için hareket ederler), AHP ise zevki kendileri için emmeyi amaçlayan alma kaplarıdır.",
+          "GE fiziksel göz, AHP ise kulaktır.",
           "Hiçbir fark yoktur.",
-          "Akıl üstünde inanç bilimin tahrif edilmesidir."
+          "AHP en yüksek saf ışıktır."
         ],
         correct: 0,
-        r: "Akıl üstünde inanç, alt ve egoist hesaplamaları tamamlayan ve geçersiz kılan daha yüksek bir bilinç durumudur."
+        r: "GE başın üst kısmıdır (ihsan arzulari), AHP ise alt kısmıdır (düzeltilmeyi bekleyen alma arzuları)."
     },
     {
-      q: "5. Akıl üstünde inanca ulaşmada Onlu'nun (Kevod ha-Tzevet / Onlu grubu) rolü nedir?",
+      q: "7. Tzimtzum Aleph'ten (Birinci Kısıtlama) önce ve sonra Ein Sof'un (Sonsuz Dünya) durumu nedir?",
         options: [
-          "Grup, bireyin egoist sınırlarını aşabileceği karşılıklı garanti (Arvut) atmosferini, gücü ve desteği sağlar.",
-          "Grup sadece samimi sohbetler için bir yerdir.",
-          "Grup, birbirleriyle yarışmak için vardır.",
-          "Grubun bunda hiçbir rolü yoktur."
+          "Öncesinde Işık ile Kap arasında kusursuz, sınırsız bir birlik durumu vardı; sonrasında Işık, özgür iradeye dayalı düzeltilmiş kaplara yer açmak için geri çekildi.",
+          "Ein Sof tamamen yok edildi.",
+          "Hiçbir şey değişmedi.",
+          "Ein Sof fiziksel dünyaya aktarıldı."
         ],
         correct: 0,
-        r: "Onlu içindeki çalışma ve arkadaşların büyüklüğünü takdir etmek, bireyin akıl üstünde inanca yükselmesine yardımcı olur."
+        r: "Ein Sof, Tzimtzum'dan sonra Üst Dünyaların hiyerarşik yapısına alan tanıyan mutlak bir doluluk durumuydu."
     },
     {
-      q: "6. Akıl üstü çalışmada „Lo ba-shamayim hi” (O gökte değildir) ilkesi ne anlama gelir?",
+      q: "8. Atzilut dünyasının diğer Üst Dünyalar (Beria, Yetzira, Assiya) arasındaki rolü nedir?",
         options: [
-          "Manevi yükselişin ve akıl üstü tutumun, insanın gerçek durumundan, gerçek hayatın zorlukları aracılığıyla inşa edilmesi gerektiği.",
-          "Dinin günlük yaşamla hiçbir ilgisi olmadığı.",
-          "Meditasyon sırasında bulutlarda yürümek gerektiği.",
-          "Tanrı'nın asla müdahale etmediği."
+          "Atzilut, düzeltmeye ihtiyaç duyan Beria, Yetzira ve Assiya'nın alt dünyalarını yöneten ve besleyen saf ihsan dünyasıdır (Keter, Hochma, Bina).",
+          "Atzilut fiziksel cehennemdir.",
+          "Atzilut sadece geçici bir depodır.",
+          "Atzilut diğer dünyalardan tamamen bağımsızdır."
         ],
         correct: 0,
-        r: "Manevi çalışma dünyada, günlük yaşamın zorlukları ve egoyu yenmek aracılığıyla gerçekleştirilir."
+        r: "Atzilut, Bri-Yetzira-Assiya (BYA) sistemini destekleyen, saf Işık ve ihsanın hüküm sürdüğü emanet dünyasıdır."
     },
     {
-      q: "7. Kabala manevi yoldaki şüpheleri nasıl değerlendirir?",
+      q: "9. Üst Dünyalar sisteminde Adam Kadmon (AK) dünyasının özellikleri nelerdir?",
         options: [
-          "Şüpheler hata değildir; insana akıl üstünde inancı (ihsan gücünü) inşa etmesi için alan tanımak üzere Üst Güç tarafından gönderilir.",
-          "Şüpheler çalışmanın bırakılması gerektiğini gösterir.",
-          "Şüpheler kötü iblislerin doğrudan işidir.",
-          "Bir Kabalistte şüpheler asla ortaya çıkmaz."
+          "Adam Kadmon, Ein Sof'tan sonraki ilk saf manevi dünyadır ve diğer tüm alt dünyalar (Atzilut, Beria, Yetzira, Assiya) bundan dallanır.",
+          "Fiziksel insanın anatomisidir.",
+          "En karanlık yeraltı dünyasıdır.",
+          "Hiçbir önemi yoktur."
         ],
         correct: 0,
-        r: "Şüpheler, kişinin kendi aklına güvenmek yerine inanç (ihsan) yolunu seçmesi için fırsat sağlar."
+        r: "Adam Kadmon, evrensel manevi hiyerarşinin temellerini atan Ein Sof'tan sonraki ilk yapılandırılmış dünyadır."
     },
     {
-      q: "8. Yaratıcı ile olan ilişkide akıl üstü çalışmanın amacı nedir?",
+      q: "10. Üst Dünyaların mimarisinde Üst Işık (Ohr Yashar) ile kaplar (Kelim) arasındaki ilişki nasıl yapılandırılmıştır?",
         options: [
-          "Yaratığın Yaratıcı'ya kişisel çıkar veya menfaat için değil, saf ve özverisiz bir sevgiyle (İhsan için ihsan) yaklaşması.",
-          "Fiziksel dünyada maddi zenginlik elde etmek.",
-          "Günlük sorumluluklardan kaçmak.",
-          "Diğerleri üzerinde özel bir güç kazanmak."
+          "Işık her zaman her kabı doldurmak ister, ancak Masach (perde) ve Ohr Hozer (geri dönen ışık) ne kadar Işık'ın saf bir şekilde akabileceğini düzenler.",
+          "Işık kaplardan tamamen bağımsızdır.",
+          "Kaplar Işık'ı yok eder.",
+          "Hiçbir etkileşim yoktur."
         ],
         correct: 0,
-        r: "Akıl üstünde inanç, Yaratıcı ile olan ilişkinin egocentrik motivasyonlardan arınmış olmasını sağlar."
-    },
-    {
-      q: "9. Öğretmenin (veya Amacın) büyüklüğü ile akıl üstünde inancın içselleştirilmesi arasındaki bağ nedir?",
-        options: [
-          "Öğretmenin veya manevi amacın değeri insanın gözünde büyük olduğunda, bu ona küçük mantığını yenme ve akıl üstünde hareket etme gücü verir.",
-          "Aralarında hiçbir bağ yoktur.",
-          "Öğretmenin büyüklüğü sadece kitap bilgisini artırır.",
-          "Öğretmen bize düşünmemeyi öğretir."
-        ],
-        correct: 0,
-        r: "Amacın veya öğretmenin önemini (büyüklüğünü) algılamak, akıl üstüne yükselme gücü verir."
-    },
-    {
-      q: "10. İnsan akıl üstünde inanca (Emuna) göre hareket etmeye başladığında iç dünyası nasıl değişir?",
-        options: [
-          "İçsel belirsizlik ortadan kalkar ve dış koşullardan bağımsız, istikrarlı ve ebedi bir manevi dünya görüşü kurulur.",
-          "İnsan aklını kaybeder.",
-          "Dünyanın fiziksel gerçekliği tamamen var olmayı bırakır.",
-          "İnsan pasif ve ilgisiz hale gelir."
-        ],
-        correct: 0,
-        r: "Akıl üstünde inanç, Üst Dünyalara uygun istikrarlı bir iç denge ve ebedi bir perspektif sağlar."
+        r: "Masach tarafından yönlendirilen Işık ve Kap arasındaki etkileşim, manevi dünyaların kesin iç düzenini ve derecelerini şekillendirir."
     }
   ],
   el: [
     {
-      q: "1. Ποια είναι η κύρια σημασία της αρχής «Πίστη πάνω από τη λογική» (Emuna le-ma'ala min ha-daat) στην Καμπάλα;",
+      q: "1. Ποια είναι τα κύρια επίπεδα της δομής των πέντε πνευματικών κόσμων στην Καμπάλα;",
       options: [
-        "Επιτρέπει την πνευματική άνοδο βασιζόμενη όχι στη περιορισμένη εγωisticή λογική του ανθρώπου, αλλά στην ιδιότητα προσφοράς του Δημιουργού.",
-        "Σημαίνει τυφλή υπακοή χωρίς καμία λογική.",
-        "Είναι η απόρριψη της επιστήμης στην καθημερινή ζωή.",
-        "Είναι η πλήρης αγνόηση του φυσικού κόσμου."
+        "Adam Kadmon, Atzilut, Beria, Yetzira και Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Η πίστη πάνω από τη λογική δεν είναι τύφλωση, αλλά η υιοθέτηση της προσφορικής οπτικής γωνίας του Ανώτερου Φωτός πάνω από την εγωisticή λογική."
+      r: "Η σειρά των πνευματικών κόσμων από Ανώτερο προς κατώτερο είναι: Adam Kadmon, Atzilut, Beria, Yetzira και Assiya."
     },
     {
-      q: "2. Γιατί η φυσική, έμφυτη λογική του ανθρώπου είναι περιορισμένη στην αντίληψη της πνευματικής πραγματικότητας;",
+      q: "2. Πού βρίσκεται το Machsom (φράγμα/κατώφλι) και ποιος είναι ο πνευματικός του ρόλος;",
+      options: [
+        "Βρίσκεται μεταξύ των πνευματικών κόσμων (πάνω/κάτω από το Atzilut) και του φυσικού κόσμου, σηματοδοτώντας το όριο που μπορεί να φτάσει ένας άνθρωπος με τη δική του προσπάθεια πριν περάσει στον κόσμο της καθαρής προσφοράς.",
+        "Βρίσκεται στην καρδιά του φυσικού σώματος.",
+        "Βρίσκεται στον χώρο μεταξύ Γης και Σελήνης.",
+        "Δεν παίζει κανένα ρόλο στην πνευματικότητα."
+      ],
+      correct: 0,
+      r: "Το Machsom είναι η διαχωριστική γραμμή μεταξύ της εγωisticής επιθυμίας (κατώτερη Assiya/Yetzira) και της καθarής πρόθεσης προσφοράς (Atzilut/Beria)."
+    },
+    {
+      q: "3. Πια μέρη αποτελούν την εσωτερική ανατομία ενός Partzuf (Rosh, Toch, Sof);",
+      options: [
+        "Rosh (Κεφάλι – όπου γίνεται ο υπολογισμός, Toch – Εσωτερικό – προς τα πού ρέει το Φως, και Sof – Τέλος – όπου ολοκληρώνεται η λήψη).",
+        "Χέρι, Πόδι, Κορμός.",
+        "Alpha, Beta, Gamma.",
+        "Παρελθόν, Παρόν, Μέλλον."
+      ],
+      correct: 0,
+      r: "Κάθε Partzuf κατασκευάζεται από τα στάδια Rosh (Κεφάλι), Toch (Εσωτερικό) και Sof (Τέλος) σύμφωνα με τη λειτουργία της οθόνης (Masach)."
+    },
+    {
+      q: "4. Τι σημαίνουν τα όρια Peh (Στόμα), Chaze (Στήθος) και Tabur (Ομφαλός) σε έναν Partzuf;",
+      options: [
+        "Το Peh είναι ο τόπος της οθόνης (όπου εισέρχεται το Φως), το Chaze είναι το όριο της μεσαίας γραμμούς και το Tabur είναι το κατώτερο όριο έως το οποίο το Φως μπορεί ακόμα να ληφθεί.",
+        "Αυτοί είναι απλοί ανατομικοί όροι για το φυσικό σώμα.",
+        "Υποδηλώνουν πλανητικές τροχιές.",
+        "Αντιπροσωπεύουν μήνες του ημερολογίου."
+      ],
+      correct: 0,
+      r: "Τα Peh, Chaze και Tabur είναι εσωτερικά φίλτρα και όρια εντός του Partzuf που καθορίζουν τη ροή του Φωτός."
+    },
+    {
+      q: "5. Πώς σχηματίζονται τα 125 πνευματικά σκαλοπάτια στους Ανώτερους Κόσμους;",
         options: [
-          "Επειδή είναι χτισμένη σε εγωisticές επιθυμίες και υπολογισμούς για το προσωπικό όφελος, ενώ η πνευματικότητα βασίζεται στον νόμο της προσφοράς.",
-          "Επειδή ο ανθρώπινος εγκέφαλος είναι βιολογικά πολύ μικρός.",
-          "Επειδή οι φυσικοί νόμοι απαγορεύουν την πνευματική σκέψη.",
-          "Επειδή η σύγχρονη τεχνολογία δεν είναι ακόμη αρκετά προηγμένη."
+          "5 κόσμοι πολλαplasiασμένοι με 5 Partzufim ανά κόσμο, πολλαplasiασμένοι με 5 Sefirot ανά Partzuf (5 x 5 x 5 = 125).",
+          "Σε ακριβώς 125 φυσικές ημέρες.",
+          "Ακολουθώντας 125 διαφορετικούς προφήτες.",
+          "ΚατανEμημένα τυχαία μεταξύ των κόσμων."
         ],
         correct: 0,
-        r: "Η φυσική λογική λειτουργεί στο πλαίσιο της επιθυμίας λήψης (Aviyut), επομένως είναι ανίκανη να συפλάβει τους ανώτερους νόμους προσφοράς."
+        r: "Το πλήρες σύστημα των πνευματικών βαθμών αποτελείται ως το γινόμενο 5 κόσμων, καθένας εκ των οποίων έχει 5 Partzufim, και κάθε Partzuf έχει 5 Sefirot (125 σκαλοπάτια)."
     },
     {
-      q: "3. Πώς συνδέεται το θέμα του 23ου Μαθήματος (Πίστη πάνω από τη λογική) με τις έννοιες Tzimtzum και Masach από προηγούμενα μαθήματα;",
+      q: "6. Ποια είναι η διαφορά μεταξύ των σκευών Galgalta ve-Eynaim (GE) και AHP (Awzen, Hotem, Peh);",
         options: [
-          "Η λειτουργία του Masach (οθόνης) στη φυσική και πνευματική πραγματικότητα είναι ακριβώς η υλοποίηση της εργασίας πάνω από τη λογική, όπου οι εγωisticές πράξεις παρακάμπτονται από την πρόθεση προσφοράς.",
-          "Δεν έχουν καμία απολύτως σύνδεση.",
-          "Το Tzimtzum είναι το αντίθετο της πίστης πάνω από τη λογική.",
-          "Το Masach ισχύει μόνο για το φυσικό σώμα."
-        ],
-        correct: 0,
-        r: "Η πρακτική της πίστης πάνω από τη λογική είναι η πρακτική εφαρμογή του φιλτραρίσματος (Masach) και του επιστρεφόμενου φωτός που εκτελείται στο Partzuf."
-    },
-    {
-      q: "4. Ποια είναι η διαφορά μεταξύ «φυσικής τύφλωσης» και της προοπτικής της πίστης πάνω από τη λογική;",
-        options: [
-          "Η πίστη πάνω από τη λογική δεν είναι η άρνηση της πραγματικότητας, αλλά η υπέρβαση της γήινης λογικής υπέρ ενός ανώτερου, πανσυمحλητικού πνευματικού νόμου (της προσφοράς).",
-          "Η φυσική τύφλωση αποφέρει καλύτερα πνευματικά αποτελέσματα.",
+          "Τα GE (Galgalta ve-Eynaim) είναι καθαρά σκεύη προσφοράς (ενεργούν αποκλειστικά για τους άλλους), ενώ τα AHP είναι τα σκεύη λήψης που επιδιώκουν να απορροφήσουν απόλαυση για τον εαυτό τους.",
+          "Το GE είναι το φυσικό μάτι και το AHP είναι το αυτί.",
           "Δεν υπάρχει καμία διαφορά.",
-          "Η πίστη πάνω από τη λογική είναι παραποίηση της επιστήμης."
+          "Το AHP είναι το υψηλότερο καθαρό φως."
         ],
         correct: 0,
-        r: "Η πίστη πάνω από τη λογική είναι μια ανώτερη κατάσταση συνείδησης που συμπληρώνει και παρακάμπτει τους χαμηλότερους, εγωisticούς υπολογισμούς."
+        r: "Το GE είναι το άνω μέρος του κεφαλιού (επιθυμίες προσφοράς), ενώ το AHP είναι το κάτω μέρος (επιθυμίες λήψης που περιμένουν διόρθωση)."
     },
     {
-      q: "5. Ποιος είναι ο ρόλος της Δεκάδας (Kevod ha-Tzevet / Ομάδας Δέκα) στην επίτευξη της πίστης πάνω από τη λογική;",
+      q: "7. Ποια είναι η κατάσταση του Ein Sof (Άπειρου Κόσμου) πριν και μετά το Tzimtzum Aleph (Πρώτος Περιορισμός);",
         options: [
-          "Η ομάδα παρέχει υποστήριξη, δύναμη και μια ατμόσφαιρα αμοιβαίας εγγύησης (Arvut) στην οποία το άτομο μπορεί να ξεπεράσει τα εγωisticά του όρια.",
-          "Η ομάδα είναι απλώς ένας χώρος για φιλικές συζητήσεις.",
-          "Η ομάδα υπάρχει για να ανταγωνίζονται μεταξύ τους.",
-          "Η ομάδα δεν παίζει κανένα ρόλο σε αυτό."
+          "Πριν, ήταν μια κατάσταση τέλειας, απεριόριστης ενότητας μεταξύ Φωτός και Σκεύους; μετά, το Φως αποχώρησε για να κάνει χώρο για διορθωμένα σκεύη βασισμένα στην ελεύθερη βούληση.",
+          "Το Ein Sof καταστράφηκε πλήρως.",
+          "Τίποτα δεν άλλαξε καθόλου.",
+          "Το Ein Sof μεταφέρθηκε στον φυσικό κόσμο."
         ],
         correct: 0,
-        r: "Η εργασία εντός της Δεκάδας και η εκτίμηση του μεγαλείου των φίλων βοηθούν το άτομο να ανέλθει στην πίστη πάνω από τη λογική."
+        r: "Το Ein Sof ήταν η κατάσταση απόλυτης πληρότητας, η οποία μετά το Tzimtzum δίνει χώρο στην ιεραρχική δομή των Ανώτερων Κόσμων."
     },
     {
-      q: "6. Τι σημαίνει η αρχή «Lo ba-shamayim hi» (Δεν είναι στον ουρανό) στην εργασία πάνω από τη λογική;",
+      q: "8. Ποιος είναι ο ρόλος του κόσμου του Atzilut μεταξύ των άλλων Ανώτερων Κόσμων (Beria, Yetzira, Assiya);",
         options: [
-          "Ότι η πνευματική άνοδος και η στάση πάνω από τη λογική πρέπει να χτιστούν από τον άνθρωπο από την πραγματική του κατάσταση, μέσω των προκλήσεων της πραγματικής ζωής.",
-          "Ότι η θρηسكεία δεν έχει καμία σχέση με την καθημερινή ζωή.",
-          "Ότι πρέπει κανείς να περπατά στα σύννεφα κατά τη διάρκεια του διαλογισμού.",
-          "Ότι ο Θεός δεν επεμβαίνει ποτέ."
+          "Το Atzilut είναι ο κόσμος της καθαρής προσφοράς (Keter, Hochma, Bina), ο οποίος κυβερνά και τρέφει τους κατώτερους κόσμους Beria, Yetzira και Assiya που χρειάζονται διόρθωση.",
+          "Το Atzilut είναι η φυσική κόλαση.",
+          "Το Atzilut είναι απλώς μια προσωρινή αποθήκη.",
+          "Το Atzilut είναι εντελώς ανεξάρτητο από τους άλλους κόσμους."
         ],
         correct: 0,
-        r: "Η πνευματική εργασία πραγματοποιείται στη γη, μέσα από τις δυσκολίες της καθημερινής ζωής και την υπέρβαση του εγωismóú."
+        r: "Το Atzilut είναι ο κόσμος της εκπόρευσης όπου βασιλεύουν το καθαρό Φως και η προσφορά, υποστηρίζοντας το σύστημα Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Πώς βλέπει η Καμπάλα τις αμφιβολίες στον πνευματικό δρόμο;",
+      q: "9. Ποια είναι τα χαρακτηριστικά του κόσμου του Adam Kadmon (AK) στο σύστημα των Ανώτερων Κόσμων;",
         options: [
-          "Οι αμφιβολίες δεν είναι λάθη· αποστέλλονται από την Ανώτερη Δύναμη για να δώσουν στον άνθρωπο χώρο να χτίσει πίστη πάνω από τη λογική (τη δύναμη της προσφοράς).",
-          "Οι αμφιβολίες δείχνουν ότι πρέπει να σταματήσει κανείς να σπουδάζει.",
-          "Οι αμφιβολίες είναι άμεσο έργο κακών δαιμόνων.",
-          "Οι αμφιβολίες δεν εμφανίζονται ποτέ σε έναν καμπαליστή."
+          "Ο Adam Kadmon είναι ο πρώτος καθαρός πνευματικός κόσμος μετά το Ein Sof, από τον οποίο διακlaδίζονται όλοι οι άλλοι κατώτεροι κόσμοι (Atzilut, Beria, Yetzira, Assiya).",
+          "Είναι η ανατομία του φυσικού ανθρώπου.",
+          "Είναι ο πιο σκοτεινός κάτω κόσμος.",
+          "Δεν έχει καμία σημασία."
         ],
         correct: 0,
-        r: "Οι αμφιβολίες προσφέρουν την ευκαιρία να επιλέξει κανείς τον δρόμο της πίστης (προσφοράς) αντί να βασίζεται στη δική του λογική."
+        r: "Ο Adam Kadmon είναι ο πρώτος δομημένος κόσμος μετά το Ein Sof, θέτοντας τα θεμέλια για την παγκόσμια πνευματική ιεραρχία."
     },
     {
-      q: "8. Ποιος είναι ο σκοπός της εργασίας πάνω από τη λογική σε σχέση με τη σχέση με τον Δημιουργό;",
+      q: "10. Πώς είναι δομημένη η σχέση μεταξύ του Ανώτερου Φωτός (Ohr Yashar) και των σκευών (Kelim) στην αρχιτεκτονική των Ανώτερων Κόσμων;",
         options: [
-          "Να πλησιάσει το πλάσμα στον Δημιουργό όχι λόγω προσωπικού συμφέροντος ή προσωπικού οφέλους, αλλά από καθαρή, ανιδιοτελή αγάπη (Προσφορά χάριν της προσφοράς).",
-          "Να αποκτήσει υλικό πλούτο στον φυσικό κόσμο.",
-          "Να ξεφύγει από τις καθημερινές ευθύνες.",
-          "Να αποκτήσει ιδιαίτερη εξουσία επί των άλλων."
+          "Το Φως θέλει πάντα να γεμίζει κάθε σκεύος, αλλά το Masach (οθόνη) και το Ohr Hozer (επιστρεφόμενο φως) ρυθμίζουν πόσο Φως μπορεί να ρεύσει καθαρά.",
+          "Το Φως είναι εντελώς ανεξάρτητο από τα σκεύη.",
+          "Τα σκεύη καταστρέφουν το Φως.",
+          "Δεν υπάρχει καμία αλληλεπίδραση."
         ],
         correct: 0,
-        r: "Η πίστη πάνω από τη λογική διασφαλίζει ότι η σχέση με τον Δημιουργό είναι απαλλαγμένη από εγωκεντρικά κίνητρα."
-    },
-    {
-      q: "9. Ποια είναι η σύνδεση μεταξύ του μεγαλείου του Δασκάλου (ή του Σκοπού) και της αφομοίωσης της πίστης πάνω από τη λογική;",
-        options: [
-          "Όταν η αξία του δασκάλου ή του πνευματικού σκοπού είναι μεγάλη στα μάτια του ανθρώπου, αυτό του δίνει τη δύναμη να ξεπεράσει τη μικροπreπῆ λογική του και να ενεργήσει πάνω από τη λογική.",
-          "Δεν υπάρχει καμία σύνδεση μεταξύ τους.",
-          "Το μεγαλείο του δασκάλου αυξάνει μόνο τη βιβלית γνώση.",
-          "Ο δάσκαλος μας μαθαίνει να μην σκεφτόμαστε."
-        ],
-        correct: 0,
-        r: "Η αντίληψη της σπουδαιότητας (μεγαλείου) του σκοπού ή του δασκάλου δίνει τη δύναμη για άνοδο πάνω από τη λογική."
-    },
-    {
-      q: "10. Πώς αλλάζει ο εσωτερικός κόσμος ενός ανθρώπου όταν αρχίζει να λειτουργεί σύμφωνα με την πίστη πάνω από τη λογική (Emuna);",
-        options: [
-          "Η εσωτερική αβεβαιότητα διαλύεται και καθιερώνεται μια σταθερή, αιώνια πνευματική κο」。ανόησh, ανεξάρτητη από εξωτερικές συνθήκες.",
-          "Ένας άνθρωπος χάνει τα λογika του.",
-          "Η φυσική πραγματικότητα του κόσμου παύει εντελώς να υπάρχει.",
-          "Ένας άνθρωπος γίνεται παθητικός και αδιάφορος."
-        ],
-        correct: 0,
-        r: "Η πίστη πάνω από τη λογική παρέχει μια σταθερή εσωτερική ισορροπία και μια αιώνια προοπτική σύμφωνα με τους Ανώτερους Κόσμους."
+        r: "Η αλληλεπίδραση μεταξύ Φωτός και Σκεύους, καθοδηγούμενη από το Masach, διαμορφώνει την ακριβή εσωτερική τάξη και τους βαθμούς των πνευματικών κόσμων."
       }
     ],
     nl: [
     {
-      q: "1. Wat is de belangrijkste betekenis van het principe 'Geloof boven de rede' (Emuna le-ma'ala min ha-daat) in de Kabbala?",
+      q: "1. Wat zijn de belangrijkste niveaus van de structuur van de vijf spirituele werelden in de Kabbala?",
       options: [
-        "Het maakt spirituele opstijging mogelijk door niet te steunen op iemands beperkte egoïstische rede, maar op de gevende eigenschap van de Schepper.",
-        "Het betekent blinde gehoorzaamheid zonder enige logica.",
-        "Het is de verwerping van de wetenschap in het dagelijks leven.",
-        "Het is de totale veronachtzaming van de fysieke wereld."
+        "Adam Kadmon, Atzilut, Beria, Yetzira en Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Geloof boven de rede is geen blindheid, maar het aannemen van het gevende gezichtspunt van het Hogere Licht boven de egoïstische logica."
+      r: "De volgorde van de spirituele werelden van Hoger naar lager is: Adam Kadmon, Atzilut, Beria, Yetzira en Assiya."
     },
     {
-      q: "2. Waarom is de natuurlijke, aangeboren rede van de mens beperkt in het waarnemen van de spirituele werkelijkheid?",
+      q: "2. Waar bevindt zich de Machsom (barrière/drempel) en wat is zijn spirituele rol?",
       options: [
-        "Omdat deze is gebouwd op egoïstische verlangens en berekeningen voor eigen voordeel, terwijl spiritualiteit is gebaseerd op de wet van het geven.",
-        "Omdat het menselijk brein biologisch te klein is.",
-        "Omdat natuurkundige wetten spiritueel denken verbieden.",
-        "Omdat de moderne technologie nog niet ver genoeg gevorderd is."
+        "Deze bevindt zich tussen de spirituele werelden (boven/onder Atzilut) en de fysieke wereld, en markeert de grens die een mens door eigen inspanning kan bereiken alvorens over te steken naar de wereld van puur geven.",
+        "Deze bevindt zich in het hart van het fysieke lichaam.",
+        "Deze bevindt zich in de ruimte tussen de Aarde en de Maan.",
+        "Deze speelt geen enkele rol in de spiritualiteit."
       ],
       correct: 0,
-      r: "De natuurlijke rede opereert binnen het kader van de wil om te ontvangen (Aviyut), en is daardoor niet in staat de hogere wetten van het geven te bevatten."
+      r: "De Machsom is de scheidslijn tussen het egoïstische verlangen (lagere Assiya/Yetzira) en de pure intentie om te geven (Atzilut/Beria)."
     },
     {
-      q: "3. Hoe verhoudt het thema van Les 23 (Geloof boven de rede) zich tot de concepten van Tzimtzum en Masach uit eerdere lessen?",
-      options: [
-        "Het bedienen van de Masach (scherm) in de fysieke en spirituele werkelijkheid is precies de verwezenlijking van het werk boven de rede, waarbij egoïstische berekeningen worden overschreven door de intentie om te geven.",
-        "Ze hebben helemaal geen enkele verbinding.",
-        "Tzimtzum is het tegenovergestelde van geloof boven de rede.",
-        "Masach is alleen van toepassing op het fysieke lichaam."
-      ],
-      correct: 0,
-      r: "Het praktiseren van geloof boven de rede is de praktische toepassing van de filtering (Masach) en het teruggekaatste licht dat in de Partzuf wordt uitgevoerd."
-    },
-    {
-      q: "4. Wat is het verschil tussen 'fysieke blindheid' en het perspectief van geloof boven de rede?",
-      options: [
-        "Geloof boven de rede is geen ontkenning van de werkelijkheid, maar de transcendentie van aardse logica ten gunste van een hogere, allesomvattend spirituele wet (het geven).",
-        "Fysieke blindheid levert betere spirituele resultaten op.",
-        "Er is geen enkel verschil.",
-        "Geloof boven de rede is een vervalsing van de wetenschap."
-      ],
-      correct: 0,
-      r: "Geloof boven de rede is een hogere staat van bewustzijn die lagere, egoïstische berekeningen aanvult en overschrijft."
-    },
-    {
-      q: "5. Wat is de rol van het Tiental (Kevod ha-Tzevet / Tientalgroep) bij het bereiken van geloof boven de rede?",
-      options: [
-        "De groep biedt steun, kracht en een atmosfeer van wederzijdse garantie (Arvut) waarin het individu zijn egoïstische grenzen kan overstijgen.",
-        "De groep is slechts een plek voor vriendschappelijke babbels.",
-        "De groep bestaat om met elkaar te concurreren.",
-        "De groep speelt hierin geen enkele rol."
-      ],
-      correct: 0,
-      r: "Het werk binnen het Tiental en het waarderen van de grootheid van vrienden helpen het individu om op te stijgen naar geloof boven de rede."
-    },
-    {
-      q: "6. Wat betekent het principe 'Lo ba-shamayim hi' (Het is niet in de hemel) in het werk boven de rede?",
+      q: "3. Welke delen vormen de interne anatomie van een Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Dat de spirituele opstijging en de houding boven de rede door de mens moeten worden opgebouwd vanuit zijn werkelijke situatie, door de uitdagingen van het echte leven heen.",
-          "Dat religie niets te maken heeft met het dagelijks leven.",
-          "Dat men tijdens meditatie in de wolken moet lopen.",
-          "Dat God nooit ingrijpt."
+          "Rosh (Hoofd – waar de berekening plaatsvindt, Toch – Interieur – waar het Licht naar toe stroomt, en Sof – Einde – waar de ontvangst eindigt).",
+          "Hand, Voet, Romp.",
+          "Alfa, Beta, Gamma.",
+          "Verleden, Heden, Toekomst."
         ],
         correct: 0,
-        r: "Spiritueel werk wordt op aarde gerealiseerd, door de moeilijkheden van het dagelijks leven en het overwinnen van het ego."
+        r: "Elke Partzuf is opgebouwd uit de stadia Rosh (Hoofd), Toch (Interieur) en Sof (Einde) volgens de werking van het scherm (Masach)."
     },
     {
-      q: "7. Hoe kijkt de Kabbala aan tegen twijfels op de spirituele weg?",
+      q: "4. Wat betekenen de grenzen Peh (Mond), Chaze (Borst) en Tabur (Navel) in een Partzuf?",
         options: [
-          "Twijfels zijn geen fouten; ze worden gezonden door de Hogere Kracht om de mens de ruimte te geven geloof boven de rede (de kracht van het geven) op te bouwen.",
-          "Twijfels geven aan dat men moet stoppen met studeren.",
-          "Twijfels zijn het directe werk van boze demonen.",
-          "Twijfels komen nooit voor bij een kabbalist."
+          "Peh is de plaats van het scherm (waar het Licht binnenkomt), Chaze is de grens van de middenlijn en Tabur is de ondergrens tot waar het Licht nog kan worden ontvangen.",
+          "Dit zijn puur anatomische termen voor het fysieke lichaam.",
+          "Deze duiden planetaire banen aan.",
+          "Deze vertegenwoordigen kalendermaanden."
         ],
         correct: 0,
-        r: "Twijfels bieden de kans om te kiezen voor de weg van het geloof (geven) in plaats van te vertrouwen op de eigen rede."
+        r: "Peh, Chaze en Tabur zijn interne filters en grenzen binnen de Partzuf die de stroom van Licht bepalen."
     },
     {
-      q: "8. Wat is het doel van het werk boven de rede met betrekking tot de relatie met de Schepper?",
+      q: "5. Hoe worden de 125 spirituele treden gevormd in de Hogere Werelden?",
         options: [
-          "Dat het schepsel de Schepper benadert, niet vanwege eigenbelang of persoonlijk voordeel, maar vanuit pure, onzelfzuchtige liefde (Geven omwille van het geven).",
-          "Om materiële rijkdom te verwerven in de fysieke wereld.",
-          "Om te ontsnappen aan dagelijkse verantwoordelijkheden.",
-          "Om speciale macht te verwerven over anderen."
+          "5 werelden vermenigvuldigd met 5 Partzufim per wereld, vermenigvuldigd met 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "In exact 125 fysieke dagen.",
+          "Volgens 125 verschillende profeten.",
+          "Willekeurig verdeeld over de werelden."
         ],
         correct: 0,
-        r: "Geloof boven de rede zorgt ervoor dat de band met de Schepper vrij is van egocentrische motieven."
+        r: "Het complete systeem van spirituele graden is samengesteld als het product van 5 werelden, elk met 5 Partzufim, en elke Partzuf met 5 Sefirot (125 treden)."
     },
     {
-      q: "9. Wat is het verband tussen de grootheid van de Leraar (of het Doel) en het opnemen van geloof boven de rede?",
+      q: "6. Wat is het verschil tussen de vaten Galgalta ve-Eynaim (GE) en AHP (Awzen, Hotem, Peh)?",
         options: [
-          "Wanneer de waarde van de leraar of het spirituele doel groot is in de ogen van de mens, stelt dit hem in staat zijn KLEINE logica te overwinnen en boven de rede te handelen.",
-          "Er is geen enkel verband tussen beide.",
-          "De grootheid van de leraar vergroot alleen de boekenkennis.",
-          "De leraar leert ons om niet na te denken."
+          "GE (Galgalta ve-Eynaim) zijn pure gevende vaten (die uitsluitend voor anderen handelen), terwijl AHP de ontvangende vaten zijn die plezier voor zichzelf proberen te absorberen.",
+          "GE is het fysieke oog en AHP is het oor.",
+          "Er is geen enkel verschil.",
+          "AHP is het hoogste pure licht."
         ],
         correct: 0,
-        r: "Het waarnemen van het belang (de grootheid) van het doel of de leraar geeft de kracht om boven de rede uit te stijgen."
+        r: "GE is het bovenste deel van het hoofd (gevende verlangens), terwijl AHP het onderste deel is (ontvangende verlangens die wachten op correctie)."
     },
     {
-      q: "10. Hoe verandert de innerlijke wereld van een mens wanneer hij begint te handelen volgens geloof boven de rede (Emuna)?",
+      q: "7. Wat is de staat van Ein Sof (Oneindige Wereld) voor en na Tzimtzum Aleph (Eerste Beperking)?",
         options: [
-          "Innerlijke onzekerheid lost op en er ontstaat een stabiel, eeuwig spiritueel wereldbeeld, onafhankelijk van externe omstandigheden.",
-          "Een mens verliest zijn verstand.",
-          "De fysieke werkelijkheid van de wereld houdt volledig op te bestaan.",
-          "Een mens wordt passief en ongeïnteresseerd."
+          "Voorheen was het een staat van perfecte, onbeperkte eenheid tussen Licht en Vat; daarna trok het Licht zich terug om plaats te maken voor gecorrigeerde vaten gebaseerd op de vrije wil.",
+          "Ein Sof werd volledig vernietigd.",
+          "Er is helemaal niets veranderd.",
+          "Ein Sof werd overgedragen naar de fysieke wereld."
         ],
         correct: 0,
-        r: "Geloof boven de rede zorgt voor een stabiel innerlijk evenwicht en een eeuwig perspectief volgens de Hogere Werelden."
+        r: "Ein Sof was de staat van absolute vervulling, die na de Tzimtzum ruimte geeft aan de hiërarchische structuur van de Hogere Werelden."
+    },
+    {
+      q: "8. Wat is de rol van de wereld van Atzilut te midden van de andere Hogere Werelden (Beria, Yetzira, Assiya)?",
+        options: [
+          "Atzilut is de wereld van puur geven (Keter, Hochma, Bina), die regeert over en de lagere werelden van Beria, Yetzira en Assiya voedt die correctie behoeven.",
+          "Atzilut is de fysieke hel.",
+          "Atzilut is slechts een tijdelijk magazijn.",
+          "Atzilut is volledig onafhankelijk van de andere werelden."
+        ],
+        correct: 0,
+        r: "Atzilut is de wereld van emanatie waar puur Licht en geven regeren, en die het Bri-Yetzira-Assiya (BYA) systeem ondersteunt."
+    },
+    {
+      q: "9. Wat zijn de kenmerken van de wereld van Adam Kadmon (AK) in het systeem van de Hogere Werelden?",
+        options: [
+          "Adam Kadmon is de eerste pure spirituele wereld na Ein Sof, waaruit alle andere lagere werelden (Atzilut, Beria, Yetzira, Assiya) ontspringen.",
+          "Het is de anatomie van de fysieke mens.",
+          "Het is de duisterste onderwereld.",
+          "Het heeft geen enkele betekenis."
+        ],
+        correct: 0,
+        r: "Adam Kadmon is de eerste gestructureerde wereld na Ein Sof, die de basis legt voor de universele spirituele hiërarchie."
+    },
+    {
+      q: "10. Hoe is de relatie tussen Hoger Licht (Ohr Yashar) en vaten (Kelim) gestructureerd in de architectuur van de Hogere Werelden?",
+        options: [
+          "Het Licht wil altijd elk vat vullen, maar de Masach (scherm) en Ohr Hozer (teruggekaatst licht) reguleren hoeveel Licht er puur kan binnenstromen.",
+          "Het Licht is volledig onafhankelijk van de vaten.",
+          "De vaten vernietigen het Licht.",
+          "Er is geen enkele interactie."
+        ],
+        correct: 0,
+        r: "De interactie tussen Licht en Vat, geleid door de Masach, vormt de nauwkeurige interne orde en graden van de spirituele werelden."
     }
   ],
   da: [
     {
-      q: "1. Hvad er hovedbetydningen af princippet 'Tro over fornuften' (Emuna le-ma'ala min ha-daat) i Kabbala?",
+      q: "1. Hvad er de vigtigste niveauer i strukturen af de fem åndelige verdener i Kabbala?",
       options: [
-        "Det muliggør åndelig opstigning ved ikke at stole på sin egen begrænsede egoistiske fornuft, men på Skaberens egenskab til at give.",
-        "Det betyder blind lydodhed uden nogen form for logik.",
-        "Det er en afvisning af videnskab i dagliglivet.",
-        "Det er en fuldstændig tilsidesættelse af den fysiske verden."
+        "Adam Kadmon, Atzilut, Beria, Yetzira og Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Tro over fornuften er ikke blindhed, men at indtage Det Øvre Lys' givende synspunkt over den egoistiske logik."
+      r: "Rækkefølgen af de åndelige verdener fra Øvre til nedre er: Adam Kadmon, Atzilut, Beria, Yetzira og Assiya."
     },
     {
-      q: "2. Hvorfor er menneskets naturlige, medfødte fornuft begrænset i opfattelsen af den åndelige virkelighed?",
+      q: "2. Hvor er Machsom (barrieren/tærsklen) placeret, og hvad er dens åndelige rolle?",
       options: [
-        "Fordi den er bygget op omkring egoistiske ønsker og beregninger til eget beste, hvorimod spiritualitet er baseret på loven om at give.",
-        "Fordi den menneskelige hjerne er biologisk for lille.",
-        "Fordi fysiske love forbyder åndelig tænkning.",
-        "Fordi moderne teknologi endnu ikke er tilstrækkelig avanceret."
+        "Den er placeret mellem de åndelige verdener (over/under Atzilut) og den fysiske verden og markerer den grænse, et menneske kan nå ved egen indsats, før det krydser over i en verden af ren given.",
+        "Den findes i det fysiske legemes hjerte.",
+        "Den er i rummet mellem Jorden og Månen.",
+        "Den spiller ingen rolle i spiritualiteten."
       ],
       correct: 0,
-      r: "Den naturlige fornuft opererer inden for rammerne af ønsket om at modtage (Aviyut) og er derfor ude af stand til at fatte de højere love om at give."
+      r: "Machsom er skillelinjen mellem det egoistiske ønske (nedre Assiya/Yetzira) og den rene hensigt om at give (Atzilut/Beria)."
     },
     {
-      q: "3. Hvordan relaterer temaet i Lektion 23 (Tro over fornuften) sig til begreberne Tzimtzum og Masach fra tidligere lektioner?",
-      options: [
-        "Betjeningen af Masach (skærmen) i den fysiske og åndelige virkelighed er netop virkeliggørelsen af arbejdet over fornuften, hvor egoistiske beregninger overskrives af hensigten om at give.",
-        "De har overhovedet ingen forbindelse.",
-        "Tzimtzum er det modsatte af tro over fornuften.",
-        "Masach gælder kun for det fysiske legeme."
-      ],
-      correct: 0,
-      r: "At praktisere tro over fornuften er den praktiske anvendelse af filtrering (Masach) og det tilbagevendte lys udført i Partzuf."
-    },
-    {
-      q: "4. Hvad er forskellen mellem 'fysisk blindhed' og perspektivet af tro over fornuften?",
-      options: [
-        "Tro over fornuften er ikke en fornægtelse af virkeligheden, men en transcendens af jordisk logik til gunst for en højere, altomfattende åndelig lov (given).",
-        "Fysisk blindhed giver bedre åndelige resultater.",
-        "Der er ingen forskel overhovedet.",
-        "Tro over fornuften er en forfalskning af videnskaben."
-      ],
-      correct: 0,
-      r: "Tro over fornuften er en højere bevidsthedstilstand, der supplerer og overskriver lavere, egoistiske beregninger."
-    },
-    {
-      q: "5. Hvad er Ti-gruppens (Kevod ha-Tzevet / Ti-gruppen) rolle i opnåelsen af tro over fornuften?",
-      options: [
-        "Gruppen giver støtte, styrke og en atmosfære af gensidig garanti (Arvut), hvori individet kan overskride sine egoistiske grænser.",
-        "Gruppen er blot et sted for venskabelige snakke.",
-        "Gruppen eksisterer for at konkurrere med hinanden.",
-        "Gruppen spiller ingen rolle i dette."
-      ],
-      correct: 0,
-      r: "Arbejdet i Ti-gruppen og påskønnelsen af venners størrelse hjælper individet med at stige op i tro over fornuften."
-    },
-    {
-      q: "6. Hvad betyder princippet 'Lo ba-shamayim hi' (Det er ikke i himlen) i arbejdet over fornuften?",
+      q: "3. Hvilke dele udgør den indre anatomi af en Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "At den åndelige opstigning og holdningen over fornuften skal opbygges af mennesket ud fra dets faktiske situation gennem det virkelige livs udfordringer.",
-          "At religion ikke har noget at gøre med dagliglivet.",
-          "At man skal svæve i skyerne under meditation.",
-          "At Gud aldrig griber ind."
+          "Rosh (Hoved – hvor beregningen finder sted, Toch – Det indre – hvortil Lyset strømmer, og Sof – Slutning – hvor modtagelsen afsluttes).",
+          "Hånd, Fod, Overkrop.",
+          "Alfa, Beta, Gama.",
+          "Fortid, Nutid, Fremtid."
         ],
         correct: 0,
-        r: "Åndeligt arbejde realiseres på jorden gennem dagliglivets vanskeligheder og overvindelsen af egoet."
+        r: "Enhver Partzuf er opbygget af stadierne Rosh (Hoved), Toch (Det indre) og Sof (Slutning) i henhold til skærmens (Masach) funktion."
     },
     {
-      q: "7. Hvordan betragter Kabbala tvivl på den åndelige vej?",
+      q: "4. Hvad betyder grænserne Peh (Mund), Chaze (Bryst) og Tabur (Navle) i en Partzuf?",
         options: [
-          "Tvivl er ikke fejl; de sendes af Den Øvre Kraft for at give mennesket plads til at opbygge tro over fornuften (kraften til at give).",
-          "Tvivl indikerer, at man bør stoppe med at studere.",
-          "Tvivl er onde dæmoners direkte værk.",
-          "Tvivl opstår aldrig hos en kabbalist."
+          "Peh er skærmens placering (hvor Lyset kommer ind), Chaze er midterliniens grænse, og Tabur er den nedre grænse, op til hvilken Lyset stadig kan modtages.",
+          "Dette er blot anatomiske termer for det fysiske legeme.",
+          "De betegner planetbaner.",
+          "De repræsenterer kalendermåneder."
         ],
         correct: 0,
-        r: "Tvivl giver mulighed for at vælge troens vej (given) i stedet for at stole på sin egen fornuft."
+        r: "Peh, Chaze og Tabur er interne filtre og grænser inde i Partzuf, der bestemmer Lysets strøm."
     },
     {
-      q: "8. Hvad er formålet med arbejdet over fornuften i forhold til forholdet til Skaberen?",
+      q: "5. Hvordan dannes de 125 åndelige trin i de Øvre Verdener?",
         options: [
-          "At skabningen nærmer sig Skaberen ikke på grund af egeninteresse eller personlig fordel, men ud af ren, uselvisk kærlighed (Given for givens skyld).",
-          "At opnå materiel rigdom i den fysiske verden.",
-          "At undslippe daglige ansvarsområder.",
-          "At tilegne sig særlig magt over andre."
+          "5 verdener multipliceret med 5 Partzufim pr. verden multipliceret med 5 Sefirot pr. Partzuf (5 x 5 x 5 = 125).",
+          "På nøjagtig 125 fysiske dage.",
+          "Efter 125 forskellige profeter.",
+          "Fordelt tilfældigt mellem verdenerne."
         ],
         correct: 0,
-        r: "Tro over fornuften sikrer, at forholdet til Skaberen er fri for egocentriske motiver."
+        r: "Det fuldstændige system af åndelige grader sammensættes som produktet af 5 verdener, som hver har 5 Partzufim, og hver Partzuf har 5 Sefirot (125 trin)."
     },
     {
-      q: "9. Hvad er forbindelsen mellem Lærerens (eller Målets) størrelse og optagelsen af tro over fornuften?",
+      q: "6. Hvad er forskellen mellem karrene Galgalta ve-Eynaim (GE) og AHP (Awzen, Hotem, Peh)?",
         options: [
-          "Når værdien af læreren eller det åndelige mål er stor i menneskets øjne, sætter det ham i stand til at overvinde sin smålige logik og handle over fornuften.",
-          "Der er ingen forbindelse mellem dem.",
-          "Lærerens størrelse øger kun boglig viden.",
-          "Læreren lærer os ikke at tænke."
+          "GE (Galgalta ve-Eynaim) er rene givende kar (der udelukkende handler for andre), mens AHP er modtagende kar, der søger at absorbere nydelse for sig selv.",
+          "GE er det fysiske øje, og AHP er øret.",
+          "Der er ingen forskel overhovedet.",
+          "AHP er det højeste rene lys."
         ],
         correct: 0,
-        r: "At opfatte vigtigheden (størrelsen) af målet eller læreren giver styrken til at stige op over fornuften."
+        r: "GE er den øverste del af hovedet (givende ønsker), mens AHP er den nederste del (modtagende ønsker, der venter på korrektion)."
     },
     {
-      q: "10. Hvordan ændrer et menneskes indre verden sig, når det begynder at handle i overensstemmelse med tro over fornuften (Emuna)?",
+      q: "7. Hvad er tilstanden af Ein Sof (Den Uendelige Verden) før og efter Tzimtzum Aleph (Første Begrænsning)?",
         options: [
-          "Indre usikkerhed opløses, og et stabilt, evigt åndeligt verdensbillede etableres, uafhængigt af ydre omstændigheder.",
-          "Et menneske mister forstanden.",
-          "Verdens fysiske virkelighed ophører fuldstændigt med at eksistere.",
-          "Et menneske bliver passivt og uinteresseret."
+          "Før var det en tilstand af perfekt, ubegrænset enhed mellem Lys og Kar; derefter trak Lyset sig tilbage for at give plads til korrigerede kar baseret på den frie vilje.",
+          "Ein Sof blev fuldstændig ødelagt.",
+          "Intet ændrede sig overhovedet.",
+          "Ein Sof blev overført til den fysiske verden."
         ],
         correct: 0,
-        r: "Tro over fornuften giver en stabil indre balance og et evigt perspektiv i henhold til De Øvre Verdener."
+        r: "Ein Sof var tilstanden af absolut fylde, som efter Tzimtzum giver plads til de Øvre Verdeners hierarkiske struktur."
+    },
+    {
+      q: "8. Hvad er rollen for Atziluts verden blandt de andre Øvre Verdener (Beria, Yetzira, Assiya)?",
+        options: [
+          "Atzilut er verdenen af ren given (Keter, Hochma, Bina), som styrer og nærer de lavere verdener Beria, Yetzira og Assiya, som har brug for korrektion.",
+          "Atzilut er det fysiske helvede.",
+          "Atzilut er blot et midlertidigt lager.",
+          "Atzilut er fuldstændig uafhængig af de andre verdener."
+        ],
+        correct: 0,
+        r: "Atzilut er emanationens verden, hvor rent Lys og given hersker, og som opretholder Bri-Yetzira-Assiya (BYA)-systemet."
+    },
+    {
+      q: "9. Hvad er kendetegnene ved verdenen Adam Kadmon (AK) i de Øvre Verdeners system?",
+        options: [
+          "Adam Kadmon er den første rene åndelige verden efter Ein Sof, hvorfra alle andre lavere verdener (Atzilut, Beria, Yetzira, Assiya) udspringer.",
+          "Det er det fysiske menneskes anatomi.",
+          "Det er den mørkeste underverden.",
+          "Det har ingen betydning."
+        ],
+        correct: 0,
+        r: "Adam Kadmon er den første strukturerede verden efter Ein Sof, der lægger grunden til det universelle åndelige hierarki."
+    },
+    {
+      q: "10. Hvordan er forholdet mellem det Øvre Lys (Ohr Yashar) og karrene (Kelim) struktureret i de Øvre Verdeners arkitektur?",
+        options: [
+          "Lyset vil altid fylde hvert kar, men Masach (skærmen) og Ohr Hozer (det tilbagevendte lys) regulerer, hvor meget Lys der rent kan flyde ind.",
+          "Lyset er fuldstændig uafhængigt af karrene.",
+          "Karrene ødelægger Lyset.",
+          "Der er ingen interaktion overhovedet."
+        ],
+        correct: 0,
+        r: "Interaktionen mellem Lys og Kar, styret af Masach, former den præcise indre orden og de åndelige verdeners grader."
     }
   ],
   sv: [
     {
-      q: "1. Vad är den huvudsakliga betydelsen av principen 'Tro över förnuftet' (Emuna le-ma'ala min ha-daat) i Kabbala?",
+      q: "1. Vilka är de huvudsakliga nivåerna i strukturen av de fem andliga världarna i Kabbala?",
       options: [
-        "Det möjliggör andlig uppstigning genom att inte förlita sig på sitt eget begränsade egoistiska förnuft, utan på Skaparens egenskap av givande.",
-        "Det betyder blind lydnad utan någon som helst logik.",
-        "Det är ett avvisande av vetenskap i det dagliga livet.",
-        "Det är ett fullständigt åsidosättande av den fysiska världen."
+        "Adam Kadmon, Atzilut, Beria, Yetzira och Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Tro över förnuftet är inte blindhet, utan att anta det Högre Ljusets givande synvinkel ovanför den egoistiska logiken."
+      r: "Ordningen för de andliga världarna från Övre till lägre är: Adam Kadmon, Atzilut, Beria, Yetzira och Assiya."
     },
     {
-      q: "2. Varför är människans naturliga, medfödda förnuft begränsat i att uppfatta den andliga verkligheten?",
+      q: "2. Var är Machsom (barriären/tröskeln) belägen, och vilken är dess andliga roll?",
+      options: [
+        "Den är belägen mellan de andliga världarna (ovanför/nedanför Atzilut) och den fysiska världen, och markerar den gräns som en människa kan nå genom egen ansträngning innan hon går över till en värld av rent givande.",
+        "Den finns i det fysiska kroppens hjärta.",
+        "Den är i rymden mellan jorden och månen.",
+        "Den spelar ingen roll i spiritualiteten."
+      ],
+      correct: 0,
+      r: "Machsom är skiljelinjen mellan den egoistiska önskan (lägre Assiya/Yetzira) och den rena avsikten att ge (Atzilut/Beria)."
+    },
+    {
+      q: "3. Vilka delar utgör den inre anatomin hos en Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Eftersom det är byggt på egoistiska önskningar och beräkningar för egen vinning, medan spiritualitet baseras på lagen om givande.",
-          "Eftersom den mänskliga hjärnan är biologiskt för liten.",
-          "Eftersom fysiska lagar förbjuder andligt tänkande.",
-          "Eftersom modern teknik ännu inte är tillräckligt avancerad."
+          "Rosh (Huvud – där beräkningen sker, Toch – Inre – dit Ljuset strömmar, och Sof – Slut – där mottagandet avslutas).",
+          "Hand, Fot, Bål.",
+          "Alfa, Beta, Gama.",
+          "Dåtid, Nutid, Framtid."
         ],
         correct: 0,
-        r: "Det naturliga förnuftet verkar inom ramen för viljan att ta emot (Aviyut) och kan därför inte fatta de högre lagarna för givande."
+        r: "Varje Partzuf är uppbyggd av stadierna Rosh (Huvud), Toch (Inre) och Sof (Slut) enligt driften av skärmen (Masach)."
     },
     {
-      q: "3. Hur relaterar temat för Lektion 23 (Tro över förnuftet) till begreppen Tzimtzum och Masach från tidigare lektioner?",
+      q: "4. Vad betyder gränserna Peh (Mun), Chaze (Bröst) och Tabur (Navel) i en Partzuf?",
         options: [
-          "Att använda Masach (skärmen) i den fysiska och andliga verkligheten är just förverkligandet av arbetet över förnuftet, där egoistiska beräkningar åsidosätts av avsikten att ge.",
-          "De har ingen som helst koppling.",
-          "Tzimtzum är motsatsen till tro över förnuftet.",
-          "Masach gäller enbart den fysiska kroppen."
+          "Peh är skärmens plats (där Ljuset kommer in), Chaze är gränsen för mellanlinjen, och Tabur är den nedre gränsen upp till vilken Ljuset fortfarande kan tas emot.",
+          "Detta är enbart anatomiska termer för den fysiska kroppen.",
+          "De betecknar planetbanor.",
+          "De representerar kalendermånader."
         ],
         correct: 0,
-        r: "Att praktisera tro över förnuftet är den praktiska tillämpningen av filtrering (Masach) och det återförda ljuset som utförs i Partzuf."
+        r: "Peh, Chaze och Tabur är interna filter och gränser inne i Partzuf som bestämmer Ljusets flöde."
     },
     {
-      q: "4. Vad är skillnaden mellan 'fysisk blindhet' och perspektivet av tro över förnuftet?",
+      q: "5. Hur bildas de 125 andliga stegen i de Övre Världarna?",
         options: [
-          "Tro över förnuftet är inte ett förnekande av verkligheten, utan en transcendens av jordisk logik till förmån för en högre, allomfattande andlig lag (givande).",
-          "Fysisk blindhet ger bättre andliga resultat.",
+          "5 världar multiplicerat med 5 Partzufim per värld, multiplicerat med 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "På exakt 125 fysiska dagar.",
+          "Genom att följa 125 olika profeter.",
+          "Fördelade slumpmässigt mellan världarna."
+        ],
+        correct: 0,
+        r: "Det fullständiga systemet av andliga grader sammansätts som produkten av 5 världar, var och en med 5 Partzufim, och varje Partzuf med 5 Sefirot (125 steg)."
+    },
+    {
+      q: "6. Vad är skillnaden mellan kärlen Galgalta ve-Eynaim (GE) och AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) är rena givande kärl (som uteslutande handlar för andra), medan AHP är mottagande kärl som strävar efter att absorbera njutning för sig själva.",
+          "GE är det fysiska ögat, och AHP är örat.",
           "Det finns ingen skillnad alls.",
-          "Tro över förnuftet är en förfalskning av vetenskapen."
+          "AHP är det högsta rena ljuset."
         ],
         correct: 0,
-        r: "Tro över förnuftet är ett högre medvetandetillstånd som kompletterar och åsidosätter lägre, egoistiska beräkningar."
+        r: "GE är den övre delen av huvudet (givande önskningar), medan AHP är den nedre delen (mottagande önskningar som väntar på rättelse)."
     },
     {
-      q: "5. Vilken roll spelar Tiondet (Kevod ha-Tzevet / Tio-gruppen) för att uppnå tro över förnuftet?",
+      q: "7. Vad är tillståndet för Ein Sof (Den oändliga världen) före och efter Tzimtzum Aleph (Första begränsningen)?",
         options: [
-          "Gruppen ger stöd, styrka och en atmosfär av ömsesidig garanti (Arvut) vari individen kan överskrida sina egoistiska gränser.",
-          "Gruppen är enbart en plats för vänskapliga samtal.",
-          "Gruppen finns till för att tävla med varandra.",
-          "Gruppen spelar ingen roll i detta."
+          "Innan dess var det ett tillstånd av perfekt, obegränsad enhet mellan Ljus och Kärl; efter det drog sig Ljuset tillbaka för att göra plats för rättade kärl baserade på fri vilja.",
+          "Ein Sof förstördes helt.",
+          "Ingenting förändrades alls.",
+          "Ein Sof överfördes till den fysiska världen."
         ],
         correct: 0,
-        r: "Arbetet inom Tio-gruppen och uppskattningen av vännernas storhet hjälper individen att stiga upp till tro över förnuftet."
+        r: "Ein Sof var tillståndet av absolut uppfyllelse, som efter Tzimtzum ger utrymme åt de Övre Världarnas hierarkiska struktur."
     },
     {
-      q: "6. Vad betyder principen 'Lo ba-shamayim hi' (Den är inte i himlen) i arbetet över förnuftet?",
+      q: "8. Vilken roll spelar Atziluts värld bland de andra Övre Världarna (Beria, Yetzira, Assiya)?",
         options: [
-          "Att den andliga uppstigningen och inställningen över förnuftet måste byggas av människan från hennes faktiska situation, genom det verkliga livets utmaningar.",
-          "Att religionen inte har något att göra med vardagslivet.",
-          "Att man måste sväva bland molnen under meditation.",
-          "Att Gud aldrig ingriper."
+          "Atzilut är en värld av rent givande (Keter, Hochma, Bina), som styr och när de lägre världarna Beria, Yetzira och Assiya som är i behov av rättelse.",
+          "Atzilut är det fysiska helvetet.",
+          "Atzilut är enbart ett tillfälligt lager.",
+          "Atzilut är helt oberoende av de andra världarna."
         ],
         correct: 0,
-        r: "Andligt arbete förverkligas på jorden, genom vardagslivets svårigheter och övervinnandet av egot."
+        r: "Atzilut är emanationens värld där rent Ljus och givande regerar, och upprätthåller Bri-Yetzira-Assiya (BYA)-systemet."
     },
     {
-      q: "7. Hur ser Kabbala på tvivel på den andliga vägen?",
+      q: "9. Vilka är egenskaperna för världen Adam Kadmon (AK) i de Övre Världarnas system?",
         options: [
-          "Tvivel är inte misstag; de sänds av Den Högre Kraften för att ge människan utrymme att bygga tro över förnuftet (givandets kraft).",
-          "Tvivel indikerar att man bör sluta studera.",
-          "Tvivel är onda demoners direkta verk.",
-          "Tvivel uppstår aldrig hos en kabbalist."
+          "Adam Kadmon är den första rena andliga världen efter Ein Sof, från vilken alla andra lägre världar (Atzilut, Beria, Yetzira, Assiya) förgrenar sig.",
+          "Det är den fysiska människans anatomi.",
+          "Det är den mörkaste underjorden.",
+          "Den har ingen betydelse."
         ],
         correct: 0,
-        r: "Tvivel ger möjlighet att välja trons väg (givande) i stället för att förlita sig på sitt eget förnuft."
+        r: "Adam Kadmon är den första strukturerade världen efter Ein Sof, som lägger grunden för den universella andliga hierarkin."
     },
     {
-      q: "8. Vad är syftet med arbetet över förnuftet när det gäller förhållandet till Skaparen?",
+      q: "10. Hur är förhållandet mellan Övre Ljus (Ohr Yashar) och kärl (Kelim) strukturerat i de Övre Världarnas arkitektur?",
         options: [
-          "Att skapelsen närmar sig Skaparen inte på grund av egenintresse eller personlig vinning, utan av ren, oegoistisk kärlek (Givande för givandets skull).",
-          "Att skaffa materiell rikedom i den fysiska världen.",
-          "Att fly från dagliga ansvarsområden.",
-          "Att skaffa sig särskild makt över andra."
+          "Ljuset vill alltid fylla varje kärl, men Masach (skärmen) och Ohr Hozer (det återförda ljuset) reglerar hur mycket Ljus som rent kan flöda in.",
+          "Ljuset är helt oberoende av kärlen.",
+          "Kärlen förstör Ljuset.",
+          "Det finns ingen interaktion alls."
         ],
         correct: 0,
-        r: "Tro över förnuftet säkerställer att relationen med Skaparen är fri från egocentriska motiv."
-    },
-    {
-      q: "9. Vad är kopplingen mellan Lärarens (eller Målets) storhet och tillgodogörandet av tro över förnuftet?",
-        options: [
-          "När värdet av läraren eller det andliga målet är stort i människans ögon ger det henne kraft att övervinna sin småaktiga logik och handla över förnuftet.",
-          "Det finns ingen koppling dem emellan.",
-          "Lärarens storhet ökar endast boklig kunskap.",
-          "Läraren lärer oss att inte tänka."
-        ],
-        correct: 0,
-        r: "Att uppfatta vikten (storleken) av målet eller läraren ger styrkan att stiga upp över förnuftet."
-    },
-    {
-      q: "10. Hur förändras en människas inre värld när hon börjar handla i enlighet med tro över förnuftet (Emuna)?",
-        options: [
-          "Inre osäkerhet löses upp och en stabil, evig andlig världsbild etableras, oberoende av yttre omständigheter.",
-          "En människa förlorar förståndet.",
-          "Världens fysiska verklighet upphör helt att existera.",
-          "En människa blir passiv och ointresserad."
-        ],
-        correct: 0,
-        r: "Tro över förnuftet ger en stabil inre balans och ett evigt perspektiv i enlighet med De Högre Världarna."
+        r: "Interaktionen mellan Ljus och Kärl, ledd av Masach, formar den exakta inre ordningen och graderna av de andliga världarna."
     }
   ],
   no: [
     {
-      q: "1. Hva er hovedbetydningen av prinsippet 'Tro over fornuften' (Emuna le-ma'ala min ha-daat) i Kabbala?",
+      q: "1. Hva er de viktigste nivåene i strukturen av de fem åndelige verdenene i Kabbala?",
       options: [
-        "Det muliggjør åndelig oppstigning ved ikke å stole på sin egen begrensede egoistiske fornuft, men på Skaperens egenskap til å gi.",
-        "Det betyr blind lydighet uten noen form for logikk.",
-        "Det er en avvisning av vitenskap i dagliglivet.",
-        "Det er en fullstendig ignorering av den fysiske verden."
+        "Adam Kadmon, Atzilut, Beria, Yetzira og Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Tro over fornuften er ikke blindhet, men å innta Det Øvre Lys' givende synspunkt over den egoistiske logikken."
+      r: "Rekkefølgen av de åndelige verdenene fra Øvre til nedre er: Adam Kadmon, Atzilut, Beria, Yetzira og Assiya."
     },
     {
-      q: "2. Hvorfor er menneskets naturlige, medfødte fornuft begrenset i å oppfatte den åndelige virkelighet?",
+      q: "2. Hvor er Machsom (barrieren/terskelen) plassert, og hva er dens åndelige rolle?",
+      options: [
+        "Den er plassert mellom de åndelige verdenene (over/under Atzilut) og den fysiske verden, og markerer den grensen et menneske kan nå ved egen innsats før det krysser over i en verden av ren given.",
+        "Den finnes i det fysiske legemets hjerte.",
+        "Den er i rommet mellom Jorden og Månen.",
+        "Den spiller ingen rolle i spiritualiteten."
+      ],
+      correct: 0,
+      r: "Machsom er delelinjen mellom det egoistiske ønske (nedre Assiya/Yetzira) og den rene hensikten om å gi (Atzilut/Beria)."
+    },
+    {
+      q: "3. Hvilke deler utgjør den indre anatomi til en Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Fordi den er bygget på egoistiske ønsker og beregninger til egen fordel, mens spiritualitet er basert på loven om å gi.",
-          "Fordi den menneskelige hjerne er biologisk for liten.",
-          "Fordi fysiske lover forbyr åndelig tenkning.",
-          "Fordi moderne teknologi ennå ikke er tilstrekkelig avansert."
+          "Rosh (Hode – der beregningen finner sted, Toch – Det indre – hvortil Lyset strømmer, og Sof – Slutt – der mottagelsen avsluttes).",
+          "Hånd, Fot, Overkropp.",
+          "Alfa, Beta, Gama.",
+          "Fortid, Nåtid, Fremtid."
         ],
         correct: 0,
-        r: "Den naturlige fornuft opererer innenfor rammen av ønsket om å motta (Aviyut), og er derfor ute av stand til å fatte de høyere lovene om å gi."
+        r: "Enhver Partzuf er bygget opp av stadiene Rosh (Hode), Toch (Det indre) og Sof (Slutt) i henhold til funksjonen til skjermen (Masach)."
     },
     {
-      q: "3. Hvordan relaterer temaet i Leksjon 23 (Tro over fornuften) seg til begrepene Tzimtzum og Masach fra tidligere leksjoner?",
+      q: "4. Hva betyr grensene Peh (Munn), Chaze (Bryst) og Tabur (Navle) i en Partzuf?",
         options: [
-          "Betjeningen av Masach (skjermen) i den fysiske og åndelige virkelighet er nettopp virkeliggjørelsen av arbeidet over fornuften, der egoistiske beregninger overskrives av hensikten om å gi.",
-          "De har overhode ingen forbindelse.",
-          "Tzimtzum er det motsatte av tro over fornuften.",
-          "Masach gjelder bare for det fysiske legemet."
+          "Peh er skjermens plassering (der Lyset kommer inn), Chaze er grensen for midtlinjen, og Tabur er den nedre grensen opp til hvilken Lyset fremdeles kan mottas.",
+          "Dette er rene anatomiske termer for det fysiske legemet.",
+          "De betegner planetbaner.",
+          "De representerer kalendermåneder."
         ],
         correct: 0,
-        r: "Å praktisere tro over fornuften er den praktiske anvendelsen av filtrering (Masach) og det tilbakevendte lyset utført i Partzuf."
+        r: "Peh, Chaze og Tabur er interne filtre og grenser inne i Partzuf som bestemmer strømmen av Lys."
     },
     {
-      q: "4. Hva er forskjellen mellom 'fysisk blindhet' og perspektivet av tro over fornuften?",
+      q: "5. Hvordan dannes de 125 åndelige trinnene i de Øvre Verdenene?",
         options: [
-          "Tro over fornuften er ikke en fornektelse av virkeligheden, men en transcendens av jordisk logikk til gunst for en høyere, allomfattende åndelig lov (given).",
-          "Fysisk blindhet gir bedre åndelige resultater.",
+          "5 verdener multiplisert med 5 Partzufim per verden, multiplisert med 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "På nøyaktig 125 fysiske dager.",
+          "Ved å følge 125 forskjellige profeter.",
+          "Fordelt tilfeldig mellom verdenene."
+        ],
+        correct: 0,
+        r: "Det fullstendige systemet av åndelige grader sammensettes som produktet av 5 verdener, som hver har 5 Partzufim, og hver Partzuf har 5 Sefirot (125 trinn)."
+    },
+    {
+      q: "6. Hva er forskjellen mellom karene Galgalta ve-Eynaim (GE) og AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) er rene givende kar (som utelukkende handler for andre), mens AHP er de mottagende karene som søker å absorbere nytelse for seg selv.",
+          "GE er det fysiske øyet, og AHP er øret.",
           "Det er ingen forskjell i det hele tatt.",
-          "Tro over fornuften er en forfalskning av vitenskapen."
+          "AHP er det høyeste rene lyset."
         ],
         correct: 0,
-        r: "Tro over fornuften er en høyere bevissthetstilstand som supplerer og overskriver lavere, egoistiske beregninger."
+        r: "GE er den øvre delen av hodet (givende ønsker), mens AHP er den nedre delen (mottagende ønsker som venter på korreksjon)."
     },
     {
-      q: "5. Hva er Ti-gruppens (Kevod ha-Tzevet / Ti-gruppen) rolle i oppnåelsen av tro over fornuften?",
+      q: "7. Hva er tilstanden til Ein Sof (Den Uendelige Verden) før og etter Tzimtzum Aleph (Første Begrensning)?",
         options: [
-          "Gruppen gir støtte, styrke og en atmosfære av gjensidig garanti (Arvut) der individet kan overskride sine egoistiske grenser.",
-          "Gruppen er bare et sted for vennlige prater.",
-          "Gruppen eksisterer for å konkurrere med hverandre.",
-          "Gruppen spiller ingen rolle i dette."
+          "Før var det en tilstand av perfekt, ubegrenset enhet mellom Lys og Kar; etterpå trakk Lyset seg tilbake for å gjøre plass til korrigerede kar basert på den frie vilje.",
+          "Ein Sof ble fullstendig ødelagt.",
+          "Ingenting endret seg i det hele tatt.",
+          "Ein Sof ble overført til den fysiske verden."
         ],
         correct: 0,
-        r: "Arbeidet i Ti-gruppen og påskjønnelsen av venners størrelse hjelper individet til å stige opp i tro over fornuften."
+        r: "Ein Sof var tilstanden av absolutt fylde, som etter Tzimtzum gir plass til de Øvre Verdeners hierarkiske struktur."
     },
     {
-      q: "6. Hva betyr prinsippet 'Lo ba-shamayim hi' (Det er ikke i himmelen) i arbeidet over fornuften?",
+      q: "8. Hva er rollen til Atziluts verden blant de andre Øvre Verdenene (Beria, Yetzira, Assiya)?",
         options: [
-          "At den åndelige oppstigningen og holdningen over fornuften må bygges av mennesket ut fra dets faktiske situasjon, gjennom det virkelige livs utfordringer.",
-          "At religion ikke har noe å gjøre med dagliglivet.",
-          "At man må sveve i skyene under meditasjon.",
-          "At Gud aldri griper inn."
+          "Atzilut er verdenen av ren given (Keter, Hochma, Bina), som styrer og nærer de lavere verdenene Beria, Yetzira og Assiya som trenger korreksjon.",
+          "Atzilut er det fysiske helvete.",
+          "Atzilut er bare et midlertidig lager.",
+          "Atzilut er fullstendig uavhengig av de andre verdenene."
         ],
         correct: 0,
-        r: "Åndelig arbeid realiseres på jorden, gjennom dagliglivets vanskeligheter og overvinningen av egoet."
+        r: "Atzilut er emanasjonens verden der rent Lys og given regjerer, og opprettholder Bri-Yetzira-Assiya (BYA)-systemet."
     },
     {
-      q: "7. Hvordan ser Kabbala på tvil på den åndelige vei?",
+      q: "9. Hva er kjennetegnene på verdenen Adam Kadmon (AK) i systemet av Øvre Verdener?",
         options: [
-          "Tvil er ikke feil; de sendes av Den Øvre Kraft for å gi mennesket plass til å bygge tro over fornuften (kraften til å gi).",
-          "Tvil indikerer at man bør slutte å studere.",
-          "Tvil er onde demoners direkte verk.",
-          "Tvil oppstår aldri hos en kabbalist."
+          "Adam Kadmon er den første rene åndelige verden etter Ein Sof, hvorfra alle andre lavere verdener (Atzilut, Beria, Yetzira, Assiya) grener ut.",
+          "Det er det fysiske menneskets anatomi.",
+          "Det er den mørkeste underverdenen.",
+          "Den har ingen betydning."
         ],
         correct: 0,
-        r: "Tvil gir en mulighet til å velge troens vei (given) i stedet for å stole på sin egen fornuft."
+        r: "Adam Kadmon er den første strukturerte verden etter Ein Sof, som legger grunnlaget for det universelle åndelige hierarkiet."
     },
     {
-      q: "8. Hva er formålet med arbeidet over fornuften når det gjelder forholdet til Skaperen?",
+      q: "10. Hvordan er forholdet mellom Øvre Lys (Ohr Yashar) og kar (Kelim) strukturert i de Øvre Verdeners arkitektur?",
         options: [
-          "At skapelsen nærmer seg Skaperen ikke på grunn av egeninteresse eller personlig fordeler, men av ren, uselvisk kjærlighet (Given for givens skyld).",
-          "Å oppnå materiell rikdom i den fysiske verden.",
-          "Å unnslippe daglige ansvarsområder.",
-          "Å tilegne seg spesiell makt over andre."
+          "Lyset vil alltid fylle hvert kar, men Masach (skjermen) og Ohr Hozer (det tilbakevendte lyset) regulerer hvor mye Lys som rent kan flyte inn.",
+          "Lyset er fullstendig uavhengig av karene.",
+          "Karene ødelegger Lyset.",
+          "Det er ingen interaksjon i det hele tatt."
         ],
         correct: 0,
-        r: "Tro over fornuften sikrer at forholdet til Skaperen er fritt for egocentriske motiver."
-    },
-    {
-      q: "9. Hva er forbindelsen mellom Lærerens (eller Målets) størrelse og opptakelsen av tro over fornuften?",
-        options: [
-          "Når verdien av lærer eller det åndelige mål er stor i menneskets øyne, setter det ham i stand til å overvinne sin smålige logikk og handle over fornuften.",
-          "Det er ingen forbindelse mellom dem.",
-          "Lærerens størrelse øker bare boklig kunnskap.",
-          "Læreren lærer oss ikke å tenke."
-        ],
-        correct: 0,
-        r: "Å oppfatte viktigheten (størrelsen) av målet eller læreren gir styrken til å stige opp over fornuften."
-    },
-    {
-      q: "10. Hvordan endrer et menneskes indre verden seg når det begynner å handle i henhold til tro over fornuften (Emuna)?",
-        options: [
-          "Indre usikkerhet oppløses, og et stabilt, evig åndelig verdensbilde etableres, uavhengig av ytre omstændigheder.",
-          "Et menneske mister forstanden.",
-          "Verdens fysiske virkelighet opphører fullstendig å eksistere.",
-          "Et menneske blir passivt og uinteressert."
-        ],
-        correct: 0,
-        r: "Tro over fornuften gir en stabil indre balanse og et evig perspektiv i henhold til De Øvre Verdener."
+        r: "Interaksjonen mellom Lys og Kar, ledet av Masach, former den presise indre ordenen og gradene av de åndelige verdenene."
       }
     ],
     fi: [
     {
-      q: "1. Mikä on periaatteen 'Usko järjen yläpuolella' (Emuna le-ma'ala min ha-daat) päämerkitys Kabbalassa?",
+      q: "1. Mitkä ovat viiden hengellisen maailman rakenteen pää-tasot Kabbalassa?",
       options: [
-        "Se mahdollistaa hengellisen nousun tukeutumalla oman rajoitetun egoistisen järjen sijasta Luojan antavaan ominaisuuteen.",
-        "Se tarkoittaa sokeaa kuuliaisuutta ilman mitään logiikkaa.",
-        "Se on tieteen hylkäämistä jokapäiväisessä elämässä.",
-        "Se on fyysisen maailman täydellistä sivuuttamista."
+        "Adam Kadmon, Atzilut, Beria, Yetzira ja Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Usko järjen yläpuolella ei ole sokeutta, vaan Ylemmän Valon antavan näkökulman omaksumista egoistisen logiikan yläpuolelle."
+      r: "Hengellisten maailmojen järjestys Ylhäältä alas on: Adam Kadmon, Atzilut, Beria, Yetzira ja Assiya."
     },
     {
-      q: "2. Miksi ihmisen luonnollinen, synnynnäinen järki on rajoittunut hengellisen todellisuuden havaitsemisessa?",
+      q: "2. Missä Machsom (muuri/kynnys) sijaitsee, ja mikä sen hengellinen rooli on?",
       options: [
-        "Koska se on rakennettu egoististen halujen ja oman edun tavoittelun varaan, kun taas hengellisyys perustuu antamisen lakiin.",
-        "Koska ihmisaivot ovat biologisesti liian pienet.",
-        "Koska fysiikan lait kieltävät hengellisen ajattelun.",
-        "Koska moderni teknologia ei ole vielä riittävän kehittynyttä."
+        "Se sijaitsee hengellisten maailmojen (Atzilutin yläpuolella/alapuolella) ja fyysisen maailman välissä, merkiten rajaa, jonka ihminen voi saavuttaa omalla ponnistuksellaan ennen siirtymistään puhtaan antamisen maailmaan.",
+        "Se löytyy fyysisen kehon sydämestä.",
+        "Se on Maan ja Kuun välisessä avaruudessa.",
+        "Sillä ei ole mitään roolia hengellisyydessä."
       ],
       correct: 0,
-      r: "Luonnollinen järki toimii vastaanottamisen halun (Aviyut) puitteissa, joten se ei kykene käsittämään antamisen ylempiä lakeja."
+      r: "Machsom on jakolinja egoistisen halun (alemmat Assiya/Yetzira) ja puhtaan antamisen tarkoituksen (Atzilut/Beria) välillä."
     },
     {
-      q: "3. Miten 23. luvun teema (Usko järjen yläpuolella) liittyy edellisten lukujen Tzimtzum- ja Masach-käsitteisiin?",
+      q: "3. Mitkä osat muodostavat Partzufin sisäisen anatomian (Rosh, Toch, Sof)?",
       options: [
-        "Masachin (näytön) käyttö fyysisessä ja hengellisessä todellisuudessa on juuri järjen yläpuolella tapahtuvan työn toteuttamista, jossa antamisen aikomus korvaa egoistiset laskelmat.",
-        "Niillä ei ole mitään yhteyttä keskenään.",
-        "Tzimtzum on vastakohta uskolle järjen yläpuolella.",
-        "Masach koskee vain fyysistä kehoa."
+        "Rosh (Pää – missä laskelma tapahtuu, Toch – Sisäosa – minne Valo virtaa, ja Sof – Loppu – mihin vastaanotto päättyy).",
+        "Käsi, Jalka, Vartalo.",
+        "Alfa, Beta, Gamma.",
+        "Menneisyys, Nykyisyys, Tulevaisuus."
       ],
       correct: 0,
-      r: "Uskon harjoittaminen järjen yläpuolella on suodattamisen (Masach) ja Partzufissa suoritetun palautetun valon käytännön sovellusta."
+      r: "Jokainen Partzuf on rakennettu Roshin (Pää), Tochin (Sisäosa) ja Sofin (Loppu) vaiheista näytön (Masach) toiminnan mukaan."
     },
     {
-      q: "4. Mitä eroa on 'fyysisellä sokeudella' ja uskon yläpuolella olevalla näkökulmalla?",
+      q: "4. Mitä Peh (Suu), Chaze (Rinta) ja Tabur (Napa) rajat tarkoittavat Partzufissa?",
       options: [
-        "Usko järjen yläpuolella ei ole todellisuuden kieltämistä, vaan maallisen logiikan ylittämistä ylemmän, kaiken kattavan hengellisen lain (antamisen) hyväksi.",
-        "Fyysinen sokeus tuottaa parempia hengellisiä tuloksia.",
+        "Peh on näytön paikka (mihin Valo tulee), Chaze on keskilinjan raja, ja Tabur on alaraja, johon asti Valo voidaan vielä ottaa vastaan.",
+        "Nämä ovat pelkkiä fyysisen kehon anatomisia termejä.",
+        "Ne tarkoittavat planeettojen ratoja.",
+        "Ne edustavat kalenterikuukausia."
+      ],
+      correct: 0,
+      r: "Peh, Chaze ja Tabur ovat Partzufin sisäisiä suodattimia ja rajoja, jotka määrittelevät Valon virran."
+    },
+    {
+      q: "5. Miten 125 hengellistä askelmaa muodostuvat Ylemmissä Maailmoissa?",
+      options: [
+        "5 maailmaa kerrottuna 5 Partzufilla per maailma, kerrottuna 5 Sefirotilla per Partzuf (5 x 5 x 5 = 125).",
+        "Tasan 125 fyysisessä päivässä.",
+        "Seuraamalla 125 eri profeettaa.",
+        "Jaettuna satunnaisesti maailmojen kesken."
+      ],
+      correct: 0,
+      r: "Hengellisten asteiden täydellinen järjestelmä muodostuu 5 maailman tulona, joista jokaisessa on 5 Partzufia, ja jokaisessa Partzufissa on 5 Sefirotia (125 askelmaa)."
+    },
+    {
+      q: "6. Mitä eroa on Galgalta ve-Eynaim (GE) ja AHP (Awzen, Hotem, Peh) astioilla?",
+      options: [
+        "GE (Galgalta ve-Eynaim) ovat puhtaita antavia astioita (jotka toimivat yksinomaan muiden hyväksi), kun taas AHP ovat vastaanottavia astioita, jotka pyrkivät imemään nautintoa itselleen.",
+        "GE on fyysinen silmä, ja AHP on korva.",
         "Niiden välillä ei ole mitään eroa.",
-        "Usko järjen yläpuolella on tieteen väärentämistä."
+        "AHP on korkein puhdas valo."
       ],
       correct: 0,
-      r: "Usko järjen yläpuolella on korkeampi tietoisuuden tila, joka täydentää ja syrjäyttää alemmat, itsekkäät laskelmat."
+      r: "GE on pään yläosa (antamisen halut), kun taas AHP on alaosa (vastaanottamisen halut, jotka odottavat korjausta)."
     },
     {
-      q: "5. Mikä on Kymmenen ryhmän (Kevod ha-Tzevet / Kymmenikkö) rooli uskon saavuttamisessa järjen yläpuolella?",
-      options: [
-        "Ryhmä tarjoaa tukea, voimaa ja keskinäisen takuun (Arvut) ilmapiirin, jossa yksilö voi ylittää egoistiset rajansa.",
-        "Ryhmä on vain paikka ystävälliselle jutustelulle.",
-        "Ryhmä on olemassa kilpaillakseen keskenään.",
-        "Ryhmällä ei ole mitään roolia tässä."
-      ],
-      correct: 0,
-        r: "Työ Kymmenikössä ja ystävien suuruuden arvostaminen auttavat yksilöä kohoamaan uskoon järjen yläpuolella."
-    },
-    {
-      q: "6. Mitä periaate 'Lo ba-shamayim hi' (Se ei ole taivaissa) tarkoittaa järjen yläpuolella tehtävässä työssä?",
+      q: "7. Mikä on Ein Sofin (Äärettömän Maailman) tila ennen Tzimtzum Alephiä (Ensimmäistä rajoitusta) ja sen jälkeen?",
         options: [
-          "Sitä, että hengellinen nousu ja asenne järjen yläpuolella ihmisen on rakennettava omasta todellisesta tilanteestaan käsin, tosielämän haasteiden kautta.",
-          "Sitä, että uskonnolla ei ole mitään tekemistä arjen kanssa.",
-          "Sitä, että meditaation aikana pitää kävellä pilvissä.",
-          "Sitä, että Jumala ei puutu asiaan koskaan."
+          "Ennen se oli täydellisen, rajoittamത്തിന്റെ yhteyden tila Valon ja Astian välillä; sen jälkeen Valo vetäytyi antaakseen tilaa korjatuille astioille vapaaseen tahtoon perustuen.",
+          "Ein Sof tuhoutui täysin.",
+          "Mikään ei muuttunut.",
+          "Ein Sof siirtyi fyysiseen maailmaan."
         ],
         correct: 0,
-        r: "Hengellinen työ toteutuu maan päällä, arkielämän vaikeuksien ja egon voittamisen kautta."
+        r: "Ein Sof oli absoluuttisen täyttymyksen tila, joka Tzimtzumin jälkeen antaa tilaa Ylempien Maailmojen hierarkkiselle rakenteelle."
     },
     {
-      q: "7. Miten Kabbala suhtautuu epäilyksiin hengellisellä tiellä?",
+      q: "8. Mikä on Atzilutin maailman rooli muiden Ylempien Maailmojen (Beria, Yetzira, Assiya) joukossa?",
         options: [
-          "Epäilykset eivät ole virheitä; Ylempi Voima lähettää ne antaakseen ihmiselle tilan rakentaa uskoa järjen yläpuolelle (antamisen voimaa).",
-          "Epäilykset osoittavat, että opiskelu pitää lopettaa.",
-          "Epäilykset ovat pahojen demonien suoraa työtä.",
-          "Epäilyksiä ei koskaan esiinny kabbalistilla."
+          "Atzilut on puhtaan antamisen maailma (Keter, Hochma, Bina), joka hallitsee ja ravitsee alempia Berian, Yetziran ja Assiyan maailmoja, jotka kaipaavat korjausta.",
+          "Atzilut on fyysinen helvetti.",
+          "Atzilut on vain väliaikainen varasto.",
+          "Atzilut on täysin riippumaton muista maailmoista."
         ],
         correct: 0,
-        r: "Epäilykset tarjoavat tilaisuuden valita uskon (antamisen) tien sen sijaan, että tukeutuisi omaan järkeensä."
+        r: "Atzilut on emanaation maailma, jossa puhdas Valo ja antaminen hallitsevat, ylläpitäen Bri-Yetzira-Assiya (BYA) -järjestelmää."
     },
     {
-      q: "8. Mikä on järjen yläpuolella tehtävän työn tarkoitus suhteessa Luojaan?",
+      q: "9. Mitkä ovat Adam Kadmonin (AK) maailman piirteet Ylempien Maailmojen järjestelmässä?",
         options: [
-          "Että luotu lähestyy Luojaansa ei oman edun tai henkilökohtaisen hyödyn vuoksi, vaan puhtaasta, pyyteettömästä rakkaudesta (Antaminen antamisen vuoksi).",
-          "Saavuttaa materiaalinen vauraus fyysisessä maailmassa.",
-          "Pakoilla päivittäisiä vastuita.",
-          "Saada erityinen valta muiden yli."
+          "Adam Kadmon on ensimmäinen puhdas hengellinen maailma Ein Sofin jälkeen, josta kaikki muut alemmat maailmat (Atzilut, Beria, Yetzira, Assiya) haarautuvat.",
+          "Se on fyysisen ihmisen anatomia.",
+          "Se on pimein maanalainen maailma.",
+          "Sillä ei ole mitään merkitystä."
         ],
         correct: 0,
-        r: "Usko järjen yläpuolella varmistaa, että suhde Luojaan on vailla egosentrisiä motiiveja."
+        r: "Adam Kadmon on ensimmäinen strukturoitu maailma Ein Sofin jälkeen, joka luo perustan universaalille hengelliselle hierarkialle."
     },
     {
-      q: "9. Mikä yhteys on Opettajan (tai Tavoitteen) suuruudella ja uskon omaksumisella järjen yläpuolella?",
+      q: "10. Miten Ylemmän Valon (Ohr Yashar) ja astioiden (Kelim) välinen suhde on rakentunut Ylempien Maailmojen arkkitehtuurissa?",
         options: [
-          "Kun opettajan tai hengellisen tavoitteen arvo on suuri ihmisen silmissä, se antaa hänelle voiman voittaa pikkumainen logiikkansa ja toimia järjen yläpuolella.",
-          "Niiden välillä ei ole mitään yhteyttä.",
-          "Opettajan suuruus lisää vain kirjallista tietoa.",
-          "Opettaja opettaa meitä olemaan ajattelematta."
+          "Valo haluaa aina täyttää jokaisen astian, mutta Masach (näyttö) ja Ohr Hozer (palautettu valo) säätelevät, kuinka paljon Valoa voi virrata sisään puhtaasti.",
+          "Valo on täysin riippumaton astioista.",
+          "Astiat tuhoavat Valon.",
+          "Mitään vuorovaikutusta ei ole."
         ],
         correct: 0,
-        r: "Tavoitteen tai opettajan tärkeyden (suuruuden) havaitseminen antaa voiman nousta järjen yläpuolelle."
-    },
-    {
-      q: "10. Miten ihmisen sisäinen maailma muuttuu, kun hän alkaa toimia uskon mukaisesti järjen yläpuolella (Emuna)?",
-        options: [
-          "Sisäinen epävarmuus liukenee, ja syntyy vakaa, ikuinen hengellinen maailmankuva, joka on riippumaton ulkoisista olosuhteista.",
-          "Ihmisen järki sumentuu.",
-          "Maailman fyysinen todellisuus lakkaa kokonaan olemasta.",
-          "Ihmisestä tulee passiivinen ja välinpitämätön."
-        ],
-        correct: 0,
-        r: "Usko järjen yläpuolella tarjoaa vakaan sisäisen tasapainon ja ikuisen näkökulman Ylempien Maailmojen mukaisesti."
+        r: "Valon ja Astian välinen vuorovaikutus Masachin ohjaamana muotoilee hengellisten maailmojen tarkan sisäisen järjestyksen ja asteet."
       }
     ],
   et: [
     {
-      q: "1. Mida tähendab põhimõte „Usk mõistusest kõrgemal” (Emuna le-ma'ala min ha-daat) Kabbalas?",
+      q: "1. Millised on viie vaimse maailma struktuuri peamised tasemed Kabbalas?",
       options: [
-        "See võimaldab vaimset tõusu, tuginedes inimese piiratud egoistliku mõistuse asemel Looja andvale omadusele.",
-        "See tähendab pimedat kuulekust ilma igasuguse loogikata.",
-        "See on teaduse hülgamine igapäevaelus.",
-        "See on füüsilise maailma täielik eiramine."
+        "Adam Kadmon, Atzilut, Beria, Yetzira ja Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Usk mõistusest kõrgemal ei ole pimedus, vaid Kõrgema Valguse andva vaatepunkti omaksvõtt egoistliku loogika kohal."
+      r: "Vaimsete maailmade järjekord Kõrgemast madalamani on: Adam Kadmon, Atzilut, Beria, Yetzira ja Assiya."
     },
     {
-      q: "2. Miks on inimese loomulik, kaasasündinud mõistus vaimse reaalsuse tajumisel piiratud?",
+      q: "2. Kus asub Machsom (tõke/lävi) ja milline on selle vaimne roll?",
+      options: [
+        "See asub vaimsete maailmade (Atziluti kohal/all) ja füüsilise maailma vahel, tähistades piiri, milleni inimene võib oma pingutusega jõuda enne puhta andmise maailma ületamist.",
+        "See asub füüsilise keha südames.",
+        "See on Maa ja Kuu vahelises ruumis.",
+        "Sellel pole vaimsuses mingit rolli."
+      ],
+      correct: 0,
+      r: "Machsom on eraldusjoon egoistliku soovi (madalamad Assiya/Yetzira) ja puhta andmiskavatsuse (Atzilut/Beria) vahel."
+    },
+    {
+      q: "3. Millised osad moodustavad Partzufi sisemise anatoomia (Rosh, Toch, Sof)?",
         options: [
-          "Kuna see on üles ehitatud egoistlikele soovidele ja arvutustele enda kasuks, samas kui vaimsus põhineb andmise seadusel.",
-          "Kuna inimaju on bioloogiliselt liiga väike.",
-          "Kuna füüsilised seadused keelavad vaimse mõtlemise.",
-          "Kuna kaasaegne tehnoloogia pole veel piisavalt arenenud."
+          "Rosh (Pea – kus toimub arvutus, Toch – Sisemus – kuhu Valgus voolab, ja Sof – Lõpp – kus vastuvõtt lõpeb).",
+          "Käsi, Jalg, Tüvi.",
+          "Alfa, Beta, Gamma.",
+          "Minevik, Olevik, Tulevik."
         ],
         correct: 0,
-        r: "Loomulik mõistus toimib saamissoovi (Aviyut) raamistikus ega suuda seetõttu haarata andmise kõrgemaid seadusi."
+        r: "Iga Partzuf on üles ehitatud Roshi (Pea), Tochi (Sisemus) ja Sofi (Lõpp) etappidest vastavalt ekraani (Masach) toimimisele."
     },
     {
-      q: "3. Kuidas on 23. tunni teema (Usk mõistusest kõrgemal) seotud eelnevate tundide Tzimtzumi ja Masachi kontseptsioonidega?",
+      q: "4. Mida tähendavad Peh (Suu), Chaze (Rind) ja Tabur (Naba) piirid Partzufis?",
         options: [
-          "Masachi (ekraani) käitamine füüsilises ja vaimses reaalsuses on täpselt mõistuse-ülese töö teostus, kus egoistlikud arvutused asendatakse andmise kavatsusega.",
-          "Neil pole mingit seost.",
-          "Tzimtzum on usu vastand mõistusest kõrgemal.",
-          "Masach kehtib ainult füüsilise keha kohta."
+          "Peh on ekraani asukoht (kuhu Valgus siseneb), Chaze on keskmise joone piir ja Tabur on alumine piir, milleni Valgust saab veel vastu võtta.",
+          "Need on puhtalt anatoomilised terminid füüsilise keha jaoks.",
+          "Need tähistavad planeetide orbiite.",
+          "Need esindavad kalendrikuusid."
         ],
         correct: 0,
-        r: "Usu harjutamine mõistusest kõrgemal on Partzufis sooritatud filtreerimise (Masach) ja tagastatud valguse praktiline rakendus."
+        r: "Peh, Chaze ja Tabur on Partzufi sisesed filtrid ja piirid, mis määravad Valguse voolu."
     },
     {
-      q: "4. Milline on erinevus „füüsilise pimeduse” ja mõistuse-ülese usu vaatepildi vahel?",
+      q: "5. Kuidas moodustuvad 125 vaimset astet Kõrgemates Maailmades?",
         options: [
-          "Usk mõistusest kõrgemal ei ole reaalsuse eitamine, vaid maise loogika ületamine kõrgema, kõikehõlmava vaimse seaduse (andmise) kasuks.",
-          "Füüsiline pimedus toob paremaid vaimseid tulemusi.",
+          "5 maailma korrutatud 5 Partzufiga maailma kohta, korrutatud 5 Sefirotiga Partzufi kohta (5 x 5 x 5 = 125).",
+          "Täpselt 125 füüsilise päevaga.",
+          "Järgides 125 erinevat prohvetit.",
+          "Jaotatud juhuslikult maailmade vahel."
+        ],
+        correct: 0,
+        r: "Vaimsete astmete täielik süsteem on koostatud 5 maailma korrutisena, millest igaühel on 5 Partzufit ja igal Partzufil 5 Sefiroti (125 astet)."
+    },
+    {
+      q: "6. Milline on erinevus Galgalta ve-Eynaim (GE) ja AHP (Awzen, Hotem, Peh) anumate vahel?",
+        options: [
+          "GE (Galgalta ve-Eynaim) on puhtad andvad anumad (toimivad ainult teiste heaks), samas kui AHP on vastuvõtvad anumad, mis püüavad endasse ammutada naudingut.",
+          "GE on füüsiline silm ja AHP on kõrv.",
           "Nende vahel pole mingit vahet.",
-          "Usk mõistusest kõrgemal on teaduse võltsimine."
+          "AHP on kõrgeim puhas valgus."
         ],
         correct: 0,
-        r: "Usk mõistusest kõrgemal on kõrgem teadvuse seisund, mis täiendab ja kirjutab üle madalamad, egoistlikud arvutused."
+        r: "GE on pea ülaosa (andmissoovid), samas kui AHP on alaosa (vastuvõtu soovid, mis ootavad parandamist)."
     },
     {
-      q: "5. Milline on Kümne (Kevod ha-Tzevet / Kümnekonna) roll mõistuse-ülese usu saavutamisel?",
+      q: "7. Milline on Ein Sofi (Lõputu Maailma) seisund enne ja pärast Tzimtzum Alephi (Esimest Piirangut)?",
         options: [
-          "Rühm pakub tuge, jõudu ja vastastikuse tagatise (Arvut) õhkkonda, milles indiviid suudab ületada oma egoistlikud piirid.",
-          "Rühm on lihtsalt koht sõbralikeks vestlusteks.",
-          "Rühm eksisteerib selleks, et omavahel võistelda.",
-          "Rühmal pole selles mingit rolli."
+          "Enne oli see täiusliku, piiramatu ühtsuse seisund Valguse ja Anuma vahel; pärast seda tõmbus Valgus tagasi, et teha ruumi parandatud anumatele, mis põhinevad vabale tahtele.",
+          "Ein Sof hävitati täielikult.",
+          "Midagi ei muutunud.",
+          "Ein Sof kandus üle füüsilisse maailma."
         ],
         correct: 0,
-        r: "Töö Kümne sees ja sõprade suuruse väärtustamine aitavad indiviidil tõusta usuni mõistusest kõrgemal."
+        r: "Ein Sof oli absoluutse täitumuse seisund, mis pärast Tzimtzumit annab ruumi Kõrgemate Maailmade hierarhilisele struktuurile."
     },
     {
-      q: "6. Mida tähendab põhimõte „Lo ba-shamayim hi” (See ei ole taevas) mõistuse-üleses töös?",
+      q: "8. Milline on Atziluti maailma roll teiste Kõrgemate Maailmade (Beria, Yetzira, Assiya) seas?",
         options: [
-          "Seda, et vaimne tõus ja hoiak mõistusest kõrgemal tuleb inimesel üles ehitada oma reaalsest olukorrast, läbi reaalsete eluraskuste.",
-          "Seda, et religioonil pole igapäevaeluga mingit pistmist.",
-          "Seda, et meditatsiooni ajal tuleb pilvedes käia.",
-          "Seda, et Jumal ei sekku kunagi."
+          "Atzilut on puhta andmise maailm (Keter, Hochma, Bina), mis valitseb ja toidab Beria, Yetzira ja Assiya madalamaid maailmu, mis vajavad parandamist.",
+          "Atzilut on füüsiline põrgu.",
+          "Atzilut on lihtsalt ajutine ladu.",
+          "Atzilut on teistest maailmadest täielikult sõltumatu."
         ],
         correct: 0,
-        r: "Vaimne töö realiseerub maapeal, läbi igapäevaelu raskuste ja ego alistamise."
+        r: "Atzilut on emanatsiooni maailm, kus valitsevad puhas Valgus ja andmine, toetades Bri-Yetzira-Assiya (BYA) süsteemi."
     },
     {
-      q: "7. Kuidas suhtub Kabbala kahtlustesse vaimsel teel?",
+      q: "9. Millised on Adam Kadmoni (AK) maailma omadused Kõrgemate Maailmade süsteemis?",
         options: [
-          "Kahtlused ei ole vead; need saadab Kõrgem Jõud, et anda inimesele ruumi mõistus-ülese usu (andmise jõu) ülesehitamiseks.",
-          "Kahtlused näitavad, et õppimine tuleks lõpetada.",
-          "Kahtlused on kurjade deemonite otsene töö.",
-          "Kabbalistil ei teki kahtlusi kunagi."
+          "Adam Kadmon on esimene puhas vaimne maailm pärast Ein Sofi, millest hargnevad kõik teised madalamad maailmad (Atzilut, Beria, Yetzira, Assiya).",
+          "See on füüsilise inimese anatoomia.",
+          "See on kõige pimedam allilm.",
+          "Sellel pole mingit tähtsust."
         ],
         correct: 0,
-        r: "Kahtlused pakuvad võimaluse valida usu (andmise) tee selle asemel, et loota oma mõistusele."
+        r: "Adam Kadmon on esimene struktureeritud maailm pärast Ein Sofi, pannes aluse universaalsele vaimsele hierarhiale."
     },
     {
-      q: "8. Milline on mõistuse-ülese töö eesmärk seoses suhtega Loojasse?",
+      q: "10. Kuidas on üles ehitatud suhe Kõrgema Valguse (Ohr Yashar) ja anumate (Kelim) vahel Kõrgemate Maailmade arhitektuuris?",
         options: [
-          "Et loodu läheneks Loojale mitte isikliku kasu või omakasu pärast, vaid puhtast, isetust armastusest (Andmine andmise nimel).",
-          "Et saavutada materiaalne rikkus füüsilises maailmas.",
-          "Et põgeneda igapäevaste kohustuste eest.",
-          "Et omandada eriline võim teiste üle."
+          "Valgus tahab alati täita iga anumat, kuid Masach (ekraan) ja Ohr Hozer (tagastatud valguse) reguleerivad, kui palju Valgust saab puhtalt sisse voolata.",
+          "Valgus on anumatest täielikult sõltumatu.",
+          "Anumad hävitavad Valguse.",
+          "Mingit koostoimet pole."
         ],
         correct: 0,
-        r: "Usk mõistusest kõrgemal tagab, et side Loojaga on vaba egotsentrilistest motiividest."
-    },
-    {
-      q: "9. Milline on seos Õpetaja (või Eesmärgi) suuruse ja mõistuse-ülese usu omaksvõtu vahel?",
-        options: [
-          "Kui õpetaja või vaimse eesmärgi väärtus on inimese silmis suur, annab see talle jõu ületada oma pisike loogika ja tegutseda mõistusest kõrgemal.",
-          "Nende vahel pole mingit seost.",
-          "Õpetaja suurus suurendab ainult raamatuteadmisi.",
-          "Õpetaja õpetab meid mitte mõtlema."
-        ],
-        correct: 0,
-        r: "Eesmärgi või õpetaja olulisuse (suuruse) tajumine annab jõu tõusta mõistusest kõrgemale."
-    },
-    {
-      q: "10. Kuidas muutub inimese sisemaailm, kui ta hakkab tegutsema vastavalt usule mõistusest kõrgemal (Emuna)?",
-        options: [
-          "Sisemine ebakindlus hajub ning kujuneb välja stabiilne, igavene vaimne maailmavaade, mis ei sõltu välistest asjaoludest.",
-          "Inimene kaotab mõistuse.",
-          "Maailma füüsiline reaalsus lakkab olemast.",
-          "Inimene muutub passiivseks ja ükskõikseks."
-        ],
-        correct: 0,
-        r: "Usk mõistusest kõrgemal tagab stabiilse sisemise tasakaalu ja igavese vaatenurga vastavalt Kõrgematele Maailmadele."
+        r: "Valguse ja anuma vaheline koostoime, mida juhib Masach, kujundab vaimsete maailmade täpse sisemise korra ja astmed."
       }
     ],
   lv: [
     {
-      q: "1. Ko Kabbalā nozīmē princips 'Ticība augstāk par prātu' (Emuna le-ma'ala min ha-daat)?",
+      q: "1. Kādi ir piecu garīgo pasauļu struktūras galvenie līmeņi Kabbalā?",
       options: [
-        "Tas nodrošina garīgo izaugsmi, balstoties nevis uz cilvēka ierobežoto egoistisko prātu, bet uz Radītāja atdošanas īpašību.",
-        "Tas nozīmē aklu paklausību bez jebkādas loģikas.",
-        "Tā ir zinātnes noraidīšana ikdienas dzīvē.",
-        "Tā ir pilnīga fiziskās pasaules ignorēšana."
+        "Ādams Kadmons, Atziluts, Berija, Yetzira un Assiya.",
+        "Keters, Hochma, Bina, Tifferet, Malchut.",
+        "Roš, Toch, Sof, Peh, Tabur.",
+        "Alefs, Bets, Gimels, Dalets, Hey."
       ],
       correct: 0,
-      r: "Ticība augstāk par prātu nav aklums, bet gan Augstākās Gaismas atdošanas skatījuma pieņemšana virs egoistiskās loģikas."
+      r: "Garīgo pasauļu secība no Augšas uz leju ir: Ādams Kadmons, Atziluts, Berija, Yetzira un Assiya."
     },
     {
-      q: "2. Kāpēc cilvēka dabiskais, iedzimtais prāts ir ierobežots garīgās realitātes uztveršanā?",
-        options: [
-          "Tā kā tas ir balstīts uz egoistiskām vēlmēm un aprēķiniem savā labā, kamēr garīgums balstās uz atdošanas likumu.",
-          "Tā kā cilvēka smadzenes bioloģiski ir pārāk mazas.",
-          "Tā kā fiziskie likumi aizliedz garīgo domāšanu.",
-          "Tā kā mūsdienu tehnoloģijas vēl nav pietiekami attīstītas."
-        ],
-        correct: 0,
-        r: "Dabiskais prāts darbojas vēlmes saņemt (Aviyut) ietvaros, tādējādi nespējot aptvert augstākos atdošanas likumus."
+      q: "2. Kur atrodas Machsom (barjera/slieksnis) un kāda ir tā garīgā loma?",
+      options: [
+        "Tas atrodas starp garīgajām pasaulēm (virs/zem Atziluta) un fizisko pasauli, iezīmējot robežu, ko cilvēks var sasniegt ar saviem spēkiem, pirms pāriet uz tīras atdošanas pasauli.",
+        "Tas atrodas fiziskā ķermeņa sirdī.",
+        "Tas atrodas telpā starp Zemi un Mēnesi.",
+        "Tam nav nekādas lomas garīgumā."
+      ],
+      correct: 0,
+      r: "Machsom ir šķirtne starp egoistisko vēlmi (zemākās Assiya/Yetzira) un tīru nodomu atdot (Atzilut/Beria)."
     },
     {
-      q: "3. Kā 23. nodarbības tēma (Ticība augstāk par prātu) savienojas ar iepriekšējo nodarbību Cimcuma un Masaha konceptiem?",
+      q: "3. Kādas daļas veido Partzuf iekšējo anatomiju (Roš, Toch, Sof)?",
         options: [
-          "Masaha (ekrāna) darbināšana fiziskajā un garīgajā realitātē ir tieši darba augstāk par prātu realizācija, kur egoistiskie aprēķini tiek pārrakstīti ar nodomu atdot.",
-          "Tiem nav nekādas saistības.",
-          "Cimcums ir pretstats ticībai augstāk par prātu.",
-          "Masahs attiecas tikai uz fizisko ķermeni."
+          "Roš (Galva – kur notiek aprēķins, Toch – Iekšpuse – kur ieplūst Gaisma, un Sof – Beigas – kur uztveršana noslēdzas).",
+          "Roka, Kāja, Torss.",
+          "Alfa, Beta, Gamma.",
+          "Pagātne, Tagadne, Nākotne."
         ],
         correct: 0,
-        r: "Ticības augstāk par prātu praktizēšana ir filtrēšanas (Masach) un atstarotās gaismas praktiska pielietošana, kas tiek veikta Partzuf."
+        r: "Katrs Partzuf ir uzbūvēts no Roš (Galva), Toch (Iekšpuse) un Sof (Beigas) posmiem saskaņā ar ekrāna (Masach) darbību."
     },
     {
-      q: "4. Kāda ir atšķirība starp 'fizisko aklumu' un ticības augstāk par prātu skatījumu?",
+      q: "4. Ko Partzufā nozīmē Peh (Mute), Chaze (Krūtis) un Tabur (Naba) robežas?",
         options: [
-          "Ticība augstāk par prātu nav realitātes noliegšana, bet gan laicīgās loģikas pārsniegšana par labu augstākam, visu aptverošam garīgam likumam (atdošanai).",
-          "Fiziskais aklums sniedz labākus garīgos rezultātus.",
-          "Starp tām nav nekādas atšķirības.",
-          "Ticība augstāk par prātu ir zinātnes falsifikācija."
+          "Peh ir ekrāna vieta (kur ienāk Gaisma), Chaze ir viduslīnijas robeža, un Tabur ir apakšējā robeža, līdz kurai Gaisma vēl var tikt saņemta.",
+          "Šie ir tikai anatomiski termini fiziskajam ķermenim.",
+          "Tie apzīmē planētu orbītas.",
+          "Tie pārstāv kalendāra mēnešus."
         ],
         correct: 0,
-        r: "Ticība augstāk par prātu ir augstāks apziņas stāvoklis, kas papildina un pārraksta zemākos, egoistiskos aprēķinus."
+        r: "Peh, Chaze un Tabur ir iekšējie filtri un robežas Partzuf iekšpusē, kas nosaka Gaismas plūsmu."
     },
     {
-      q: "5. Kāda ir Desmitgrupas (Kevod ha-Tzevet / Desmitnieka) loma ticības augstāk par prātu sasniegšanā?",
+      q: "5. Kā Augšējās Pasaulēs veidojas 125 garīgie pakāpieni?",
         options: [
-          "Grupa nodrošina atbalstu, spēku un savstarpējās galvotības (Arvut) atmosfēru, kurā indivīds var pārvarēt savas egoistiskās robežas.",
-          "Grupa ir vienkārši vieta draudzīgām sarunām.",
-          "Grupa pastāv, lai sacenstos viena ar otru.",
-          "Grupai nav nekādas lomas šajā procesā."
+          "5 pasaules reizinātas ar 5 Partzufim katrā pasaulē, reizinātas ar 5 Sefirot katrā Partzuf (5 x 5 x 5 = 125).",
+          "Precīzajos 125 fiziskajās dienās.",
+          "Sekošanai 125 dažādiem praviešiem.",
+          "Sadalīti nejauši starp pasaulēm."
         ],
         correct: 0,
-        r: "Darbs Desmitniekā un draugu lieluma novērtēšana palīdz indivīdam pacelties līdz ticībai augstāk par prātu."
+        r: "Pilnīga garīgo pakāpju sistēma sastāv kā 5 pasauļu reizinājums, no kurām katrai ir 5 Partzufim, un katram Partzuf ir 5 Sefirot (125 pakāpieni)."
     },
     {
-      q: "6. Ko darba augstāk par prātu ietvaros nozīmē princips 'Lo ba-shamayim hi' (Tā nav debesīs)?",
+      q: "6. Kāda ir atšķirība starp Galgalta ve-Eynaim (GE) un AHP (Awzen, Hotem, Peh) traukiem?",
         options: [
-          "Ka garīgo izaugsmi un attieksmi augstāk par prātu cilvēkam jāuzbūvē no savas reālās situācijas, caur reālās dzīves izaicinājumiem.",
-          "Ka reliģijai nav nekāda sakara ar ikdienas dzīvi.",
-          "Ka meditācijas laikā ir jāstaigā pa mākoņiem.",
-          "Ka Dievs nekad neiejaucas."
+          "GE (Galgalta ve-Eynaim) ir tīri atdošanas trauki (darbojas tikai citu labā), savukārt AHP ir saņemšanas trauki, kas cenšas sevī uzsūkt baudu.",
+          "GE ir fiziskā acs, un AHP ir auss.",
+          "Nav nekādas atšķirības.",
+          "AHP ir augstākā tīrā gaisma."
         ],
         correct: 0,
-        r: "Garīgais darbs tiek realizēts uz zemes, caur ikdienas dzīves grūtībām un ego uzvarēšanu."
+        r: "GE ir galvas augšējā daļa (atdošanas vēlmes), savukārt AHP ir apakšējā daļa (saņemšanas vēlmes, kas gaida labošanu)."
     },
     {
-      q: "7. Kā Kabbala raugās uz šaubām garīgajā ceļā?",
+      q: "7. Kāds ir Ein Sof (Bezgalīgās Pasaules) stāvoklis pirms un pēc Tzimtzum Aleph (Pirmā ierobežojuma)?",
         options: [
-          "Šaubas nav kļūdas; tās sūta Augstākais Spēks, lai dotu cilvēkam telpu ticības augstāk par prātu (atdošanas spēka) izveidei.",
-          "Šaubas norāda, ka jānoraida mācības.",
-          "Šaubas ir ļauno dēmonu tiešs darbs.",
-          "Kabbalistam šaubas nekad nerodas."
+          "Pirms tam tas bija perfektas, neierobežotas vienotības stāvoklis starp Gaismu un Trauku; pēc tam Gaisma atkāpās, lai dotu vietu labotiem traukiem, kuru pamatā ir brīva griba.",
+          "Ein Sof tika pilnībā iznīcināts.",
+          "Nekas nemainījās.",
+          "Ein Sof pārcēlās uz fizisko pasauli."
         ],
         correct: 0,
-        r: "Šaubas sniedz iespēju izvēlēties ticības (atdošanas) ceļu, tā vietā, lai paļautos uz savu prātu."
+        r: "Ein Sof bija absolūtas pilnības stāvoklis, kas pēc Tzimtzum dod telpu Augšējo Pasauļu hierarhiskajai struktūrai."
     },
     {
-      q: "8. Kāds ir darba augstāk par prātu mērķis attiecībās ar Radītāju?",
+      q: "8. Kāda ir Atziluta pasaules loma starp pārējām Augšējajām Pasaulēm (Beria, Yetzira, Assiya)?",
         options: [
-          "Lai radība tuvinātos Radītājam nevis personīgu interešu vai ieguvuma dēļ, bet no tīras, nesavtīgas mīlestības (Atdošana atdošanas dēļ).",
-          "Lai iegūtu materiālo bagātību fiziskajā pasaulē.",
-          "Lai izvairītos no ikdienas pienākumiem.",
-          "Lai iegūtu īpašu varu pār citiem."
+          "Atziluts ir tīras atdošanas pasaule (Keters, Hochma, Bina), kas pārvalda un baro Beria, Yetzira un Assiya zemākās pasaules, kurām nepieciešama labošana.",
+          "Atziluts ir fiziskā elli.",
+          "Atziluts ir vienkārši pagaidu noliktava.",
+          "Atziluts ir pilnīgi neatkarīgs no pārējām pasaulēm."
         ],
         correct: 0,
-        r: "Ticība augstāk par prātu nodrošina, ka saikne ar Radītāju ir brīva no egocentriskiem motīviem."
+        r: "Atziluts ir emanācijas pasaule, kur valda tīrā Gaisma un atdošana, uzturot Bri-Yetzira-Assiya (BYA) sistēmu."
     },
     {
-      q: "9. Kāda ir saistība starp Skolotāja (vai Mērķa) lielumu un ticības augstāk par prātu apgūšanu?",
+      q: "9. Kādas ir Ādama Kadmona (AK) pasaules iezīmes Augšējo Pasauļu sistēmā?",
         options: [
-          "Kad skolotāja vai garīgā mērķa vērtība cilvēka acīs ir liela, tas dod viņam spēku pārvarēt savu sīko loģiku un rīkoties augstāk par prātu.",
-          "Starp tām nav nekādas saistības.",
-          "Skolotāja lielums palielina tikai grāmatu zināšanas.",
-          "Skolotājs māca mums nedomāt."
+          "Ādams Kadmons ir pirmā tīrā garīgā pasaule pēc Ein Sof, no kuras atzarojas visas pārējās zemākās pasaules (Atziluts, Berija, Yetzira, Assiya).",
+          "Tā ir fiziskā cilvēka anatomija.",
+          "Tā ir tumšākā pazeme.",
+          "Tai nav nekādas nozīmes."
         ],
         correct: 0,
-        r: "Mērķa vai skolotāja svarīguma (lieluma) apzināšanās dod spēku pacelties augstāk par prātu."
+        r: "Ādams Kadmons ir pirmā strukturētā pasaule pēc Ein Sof, liekot pamatu universālajai garīgajai hierarhijai."
     },
     {
-      q: "10. Kā mainās cilvēka iekšējā pasaulē, kad viņš sāk rīkoties saskaņā ar ticību augstāk par prātu (Emuna)?",
+      q: "10. Kā Augšējās Gaismas (Ohr Yashar) un trauku (Kelim) attiecības ir strukturētas Augšējo Pasauļu arhitektūrā?",
         options: [
-          "Iekšējā nenoteiktība izgaist, un izveidojas stabils, mūžīgs garīgais pasaules uzskats, kas nav atkarīgs no ārējiem apstākļiem.",
-          "Cilvēks zaudē prātu.",
-          "Pasaules fiziskā realitāte pilnībā pārstāj eksistēt.",
-          "Cilvēks kļūst pasīvs un vienaldzīgs."
+          "Gaisma vienmēr vēlas piepildīt katru trauku, bet Masach (ekrāns) un Ohr Hozer (atstarotā gaisma) regulē, cik daudz Gaismas var tīrā veidā ieplūst.",
+          "Gaisma ir pilnīgi neatkarīga no traukiem.",
+          "Trauki iznīcina Gaismu.",
+          "Nav nekādas mijiedarbības."
         ],
         correct: 0,
-        r: "Ticība augstāk par prātu nodrošina stabilu iekšējo līdzsvaru un mūžīgu perspektīvu saskaņā ar Augstākajām Pasaulēm."
+        r: "Mijiedarbība starp Gaismu un Trauku, ko vadī Masach, veido precīzu iekšējo kārtību un garīgo pasauļu pakāpes."
       }
     ],
   lt: [
     {
-      q: "1. Kokia yra pagrindinė principo „Tikėjimas aukščiau proto“ (Emuna le-ma'ala min ha-daat) reikšmė Kabbaloje?",
+      q: "1. Kokie yra pagrindiniai penkių dvasinių pasaulių struktūros lygiai Kabbaloje?",
       options: [
-        "Tai leidžia dvasiškai pakilti remiantis ne savo ribotu egoistiniu protu, o Kūrėjo atidavimo savybe.",
-        "Tai reiškia aklą paklusnumą be jokios logikos.",
-        "Tai mokslo atsisakymas kasdieniame gyvenime.",
-        "Tai visiškas fizinio pasaulio ignoravimas."
+        "Adam Kadmon, Atzilut, Beria, Yetzira ir Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Roš, Toch, Sof, Peh, Tabur.",
+        "Alef, Bet, Gimel, Dalet, Hei."
       ],
       correct: 0,
-      r: "Tikėjimas aukščiau proto nėra aklumas, o Aukštesniosios Šviesos atiduodančio požiūrio priėmimas virš egoistinės logikos."
+      r: "Dvasinių pasaulių tvarka iš viršaus į apačią yra: Adam Kadmon, Atzilut, Beria, Yetzira ir Assiya."
     },
     {
-      q: "2. Kodėl natūralus, prigimtinis žmogaus protas yra ribotas suvokiant dvasinę realybę?",
+      q: "2. Kur yra Machsom (barjeras / slenkstis) ir koks jo dvasinis vaidmuo?",
+      options: [
+        "Jis yra tarp dvasinių pasaulių (virš / žemiau Atzilut) ir fizinio pasaulio, žymėdamas ribą, kurią žmogus gali pasiekti savo pastangomis, prieš pereidamas į gryno atidavimo pasaulį.",
+        "Jis yra fizinio kūno širdyje.",
+        "Jis yra erdvėje tarp Žemės ir Mėnulio.",
+        "Jis neatlieka jokio vaidmens dvasingume."
+      ],
+      correct: 0,
+      r: "Machsom yra skiriamoji linija tarp egoistinio noro (žemesni Assiya/Yetzira) ir gryno intencijos atiduoti (Atzilut/Beria)."
+    },
+    {
+      q: "3. Kokie dalys sudaro Partzuf vidinę anatomiją (Roš, Toch, Sof)?",
         options: [
-          "Kadangi jis pastatytas ant egoistinių norų ir skaičiavimų savo nauda, tuo tarpu dvasingumas remiasi atidavimo dėsniu.",
-          "Kadangi žmogaus smegenys biologiškai per mažos.",
-          "Kadangi fiziniai dėsniai draudžia dvasinį mąstymą.",
-          "Kadangi šiuolaikinės technologijos dar nepakankamai pažengusios."
+          "Roš (Galva – kur vyksta skaičiavimas, Toch – Vidinė dalis – kur teka Šviesa, ir Sof – Pabaiga – kur baigiasi gavimas).",
+          "Rankos, Kojos, Liemuo.",
+          "Alfa, Beta, Gama.",
+          "Praeitis, Dabartis, Ateitis."
         ],
         correct: 0,
-        r: "Natūralus protas veikia noro gauti (Aviyut) rėmuose, todėl negali suvokti aukštesnių atidavimo dėsnių."
+        r: "Kiekvienas Partzuf yra sudarytas iš Roš (Galva), Toch (Vidinė dalis) ir Sof (Pabaiga) etapų pagal ekrano (Masach) veikimą."
     },
     {
-      q: "3. Kaip 23 pamokos tema (Tikėjimas aukščiau proto) siejasi su Cimcum ir Masach sąvokomis iš ankstesnių pamokų?",
+      q: "4. Ką Partzuf reiškia Peh (Burna), Chaze (Krūtinė) ir Tabur (Bomba / Kirmėlė) ribos?",
         options: [
-          "Masach (ekrano) įjungimas fizinėje ir dvasinėje realybėje yra būtent darbo virš proto realizavimas, kur egoistiniai skaičiavimai yra pakeičiami atidavimo intencija.",
-          "Jos neturi jokio ryšio.",
-          "Cimcum yra tikėjimo aukščiau proto priešingybė.",
-          "Masach taikomas tik fiziniam kūnui."
+          "Peh yra ekrano vieta (kur patenka Šviesa), Chaze yra vidurinės linijos riba, o Tabur yra apatinė riba, iki kurios Šviesa vis dar gali būti priimta.",
+          "Tai tik grynai anatomικοί terminai fiziniam kūnui.",
+          "Jie žymi planetų orbitas.",
+          "Jie atspindi kalendorinius mėnesius."
         ],
         correct: 0,
-        r: "Tikėjimo aukščiau proto praktika yra filtravimo (Masach) ir sugrįžtos šviesos praktinis pritaikymas, atliekamas Partzuf."
+        r: "Peh, Chaze ir Tabur yra vidiniai filtrai ir ribos Partzuf viduje, kurie nustato Šviesos srautą."
     },
     {
-      q: "4. Kokia yra skirtumas tarp „fizinio aklumo“ ir tikėjimo aukščiau proto perspektyvos?",
+      q: "5. Kaip Aukštuosiuose Pasauliuose formuojasi 125 dvasiniai laipteliai?",
         options: [
-          "Tikėjimas aukščiau proto nėra realybės neigimas, o žemiškos logikos peržengimas aukštesnio, viską apimančio dvasinio dėsnio (atidavimo) naudai.",
-          "Fizinis aklumas duoda geresnius dvasinius rezultatus.",
+          "5 pasauliai, padauginti iš 5 Partzufim pasauliui, padauginti iš 5 Sefirot Partzuf (5 x 5 x 5 = 125).",
+          "Per lygiai 125 fizines dienas.",
+          "Sekant 125 skirtingus pranašus.",
+          "Paskirstyti atsitiktine tvarka tarp pasaulių."
+        ],
+        correct: 0,
+        r: "Pilna dvasinių laipsnių sistema susideda kaip 5 pasaulių sandauga, kurių kiekvienas turi 5 Partzufim, o kiekvienas Partzuf turi 5 Sefirot (125 laipteliai)."
+    },
+    {
+      q: "6. Kokia yra skirtumas tarp indų Galgalta ve-Eynaim (GE) ir AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) yra gryni atiduodantys indai (veikiantys išskirtinai kitiems), tuo tarpu AHP yra gaunantys indai, kurie siekia sugerti malonumą sau.",
+          "GE yra fizinė akis, o AHP yra ausis.",
           "Jokio skirtumo nėra.",
-          "Tikėjimas aukščiau proto yra mokslo klastojimas."
+          "AHP yra aukščiausia gryna šviesa."
         ],
         correct: 0,
-        r: "Tikėjimas aukščiau proto yra aukštesnė sąmonės būsena, kuri papildo ir perrašo žemesnius, egoistinius skaičiavimus."
+        r: "GE yra viršutinė galvos dalis (atidavimo norai), o AHP yra apatinė dalis (gavimo norai, laukiantys pataisymo)."
     },
     {
-      q: "5. Kokia yra Dešimtuko (Kevod ha-Tzevet / Dešimties grupės) rolė pasiekiant tikėjimą aukščiau proto?",
+      q: "7. Kokia yra Ein Sof (Begalinio Pasaulio) būsena prieš ir po Tzimtzum Aleph (Pirmojo apribojimo)?",
         options: [
-          "Grupė suteikia palaikymą, jėgą ir abipusio laidavimo (Arvut) atmosferą, kurioje individas gali peržengti savo egoistines ribas.",
-          "Grupė yra tik vieta draugiškiems pokalbiams.",
-          "Grupė egzistuoja tam, kad konkuruotų tarpusavyje.",
-          "Grupė neturi jokio vaidmens šiame procese."
+          "Prieš tai tai buvo tobula, neribota vienybė tarp Šviesos ir Indo; po to Šviesa pasitraukė, kad padarytų vietos pataisytiems indams, pagrįstiems laisva valia.",
+          "Ein Sof buvo visiškai sunaikintas.",
+          "Niekas nepasikeitė.",
+          "Ein Sof persikėlė į fizinį pasaulį."
         ],
         correct: 0,
-        r: "Darbas Dešimtuke ir draugų didybės vertinimas padeda individui pakilti į tikėjimą aukščiau proto."
+        r: "Ein Sof buvo absoliutaus pilnatvės būsena, kuri po Tzimtzum suteikia vietos Aukštesniųjų Pasaulių hierarchinei struktūrai."
     },
     {
-      q: "6. Ką reiškia principas „Lo ba-shamayim hi“ (Jis ne danguje) darbe aukščiau proto?",
+      q: "8. Koks yra Atzilut pasaulio vaidmuo tarp kitų Aukštesniųjų Pasaulių (Beria, Yetzira, Assiya)?",
         options: [
-          "Kad dvasinį kilimą ir požiūrį aukščiau proto žmogus privalo pastatyti iš savo realios situacijos, per tikro gyvenimo iššūkius.",
-          "Kad religija neturi nieko bendro su kasdieniu gyvenimu.",
-          "Kad medituojant reikia vaikščioti debesuose.",
-          "Kad Dievas niekada nesikiša."
+          "Atzilut yra gryno atidavimo pasaulis (Keter, Hochma, Bina), kuris valdo ir maitina žemesnius Beria, Yetzira ir Assiya pasaulius, kuriems reikia pataisymo.",
+          "Atzilut yra fizinis pragarą.",
+          "Atzilut yra tiesiog laikinas sandėlis.",
+          "Atzilut yra visiškai nepriklausomas nuo kitų pasaulių."
         ],
         correct: 0,
-        r: "Dvasinis darbas realizuojasi žemėje, per kasdienio gyvenimo sunkumus ir ego nugalėjimą."
+        r: "Atzilut yra emanacijos pasaulis, kuriame viešpatauja gryna Šviesa ir atidavimas, palaikantys Bri-Yetzira-Assiya (BYA) sistemą."
     },
     {
-      q: "7. Kaip Kabbala žiūri į abejones kelyje į dvasingumą?",
+      q: "9. Kokios yra Adam Kadmon (AK) pasaulio ypatybės Aukštesniųjų Pasaulių sistemoje?",
         options: [
-          "Abejone nėra klaidos; jas siunčia Aukštesnioji Jėga, kad suteiktų žmogui erdvę pastatyti tikėjimą aukščiau proto (atidavimo jėgą).",
-          "Abejone rodo, kad reikia nustoti studijuoti.",
-          "Abejone yra tiesioginis piktųjų demonų darbas.",
-          "Kabbalistui abejonės niekada nekyla."
+          "Adam Kadmon yra pirmasis grynas dvasinis pasaulis po Ein Sof, iš kurio šakojasi visi kiti žemesni pasauliai (Atzilut, Beria, Yetzira, Assiya).",
+          "Tai fizinio žmogaus anatomija.",
+          "Tai tamsiausias požeminis pasaulis.",
+          "Jis neturi jokios reikšmės."
         ],
         correct: 0,
-        r: "Abejone suteikia galimybę pasirinkti tikėjimo (atidavimo) kelią vietoj pasitikėjimo savo protu."
+        r: "Adam Kadmon yra pirmasis struktūrizuotas pasaulis po Ein Sof, padedantis pagrindą universaliai dvasinei hierarchijai."
     },
     {
-      q: "8. Koks yra darbo aukščiau proto tikslas santykyje su Kūrėju?",
+      q: "10. Kaip Aukštesniosios Šviesos (Ohr Yashar) ir indų (Kelim) santykis suformuotas Aukštesniųjų Pasaulių architektūroje?",
         options: [
-          "Kad kūrinys artėtų prie Kūrėjo ne dėl asmeninio intereso ar naudos, o iš grynos, nesavanaudiškas meilės (Atidavimas dėl atidavimo).",
-          "Pasiekti materialinį turtą fiziniame pasaulyje.",
-          "Pabėgti nuo kasdienių atsakomybių.",
-          "Įgyti ypatingą valdžią virš kitų."
+          "Šviesa visada nori užpildyti kiekvieną indą, tačiau Masach (ekranas) ir Ohr Hozer (grąžinta šviesa) reguliuoja, kiek Šviesos gali grynai įtekėti.",
+          "Šviesa yra visiškai nepriklausoma nuo indų.",
+          "Indai sunaikina Šviesą.",
+          "Jokios sąveikos nėra."
         ],
         correct: 0,
-        r: "Tikėjimas aukščiau proto užtikrina, kad ryšys su Kūrėju būtų laisvas nuo egocentrinių motyvų."
-    },
-    {
-      q: "9. Koks yra ryšys tarp Mokytojo (arba Tikslo) didybės ir tikėjimo aukščiau proto perėmimo?",
-        options: [
-          "Kai mokytojo ar dvasinio tikslo vertė žmogaus akyse yra didelė, tai jam suteikia jėgų nugalėti savo smulkią logiką ir elgtis aukščiau proto.",
-          "Jokio ryšio tarp jų nėra.",
-          "Mokytojo didybė tik padidina knygų žinias.",
-          "Mokytojas moko mūsų nemąstyti."
-        ],
-        correct: 0,
-        r: "Tiklo ar mokytojo svarbos (didybės) suvokimas suteikia jėgų pakilti aukščiau proto."
-    },
-    {
-      q: "10. Kaip pasikeičia vidinis žmogaus pasaulis, kai jis pradeda elgtis pagal tikėjimą aukščiau proto (Emuna)?",
-        options: [
-          "Vidinis neapibrėžimas išnyksta ir nusistovi stabili, amžina dvasinė pasaulėžiūra, nepriklausoma nuo išorinių aplinkybių.",
-          "Žmogus praranda protą.",
-          "Fizinė pasaulio realybė visiškai nustoja egzistuoti.",
-          "Žmogus tampa pasyvus ir nesuinteresuotas."
-        ],
-        correct: 0,
-        r: "Tikėjimas aukščiau proto suteikia stabilią vidinę pusiausvyrą ir amžiną perspektyvą pagal Aukštesniuosius Pasaulius."
+        r: "Šviesos ir Indo sąveika, vadovaujama Masach, suformuoja tikslią dvasinių pasaulių vidinę tvarką ir laipsnius."
       }
     ],
     ar: [
     {
-      q: "1. ما هو المعنى الأساسي لمبدأ «الإيمان فوق العقل» (إيمونا لي-معالا مين ها-دعات) في الكابالا؟",
+      q: "1. ما هي المستويات الرئيسية لهيكل العوالم الروحية الخمسة في الكابالا؟",
       options: [
-        "إنه يتيح الصعود الروحي من خلال الاعتماد ليس على عقل المرء الأناني المحدد، بل على صفة العطاء لدى الخالق.",
-        "إنه يَعني الطاعة العمياء دون أي منطق.",
-        "إنه رفض العلم في الحياة اليومية.",
-        "إنه التجاهل التام للعالم المادي."
+        "آدام كادمون، أتسیلوت، بريا، ييتزيرا، وأسيا.",
+        "كيتير، هوخما، بينا، تيفيريت، مالخوت.",
+        "روش، توخ، سوف، بيه، تابور.",
+        "آليف، بيت، غيمل، داليت، هاي."
       ],
       correct: 0,
-      r: "الإيمان فوق العقل ليس عمى، بل هو تبني وجهة النظر المانحة للنور العالي فوق المنطق الأناني."
+      r: "ترتيب العوالم الروحية من الأعلى إلى الأسفل هو: آدام كادمون، أتسیلوت، بريا، ييتزيرا، وأسيا."
     },
     {
-      q: "2. لماذا عقل الإنسان الطبيعي والفطري محدود في إدراك الواقع الروحي؟",
+      q: "2. أين يقع الماخسوم (الحاجز/عتبة العبور) وما هو دوره الروحي؟",
       options: [
-        "لأنه مبني على رغبات أنانية وحسابات من أجل مصلحة المرء الخاصة، بينما تقوم الروحانية على قانون العطاء.",
-        "لأن الدماغ البشري صغير بيولوجياً جداً.",
-        "لأن القوانين الفيزيائية تحظر التفكير الروحي.",
-        "لأن التكنولوجيا الحديثة ليست متقدمة بما يكفي بعد."
+        "يقع بين العوالم الروحية (فوق/تحت أتسیلوت) والعالم المادي، مما يمثل الحد الذي يمكن للإنسان بلوغه بجهده الخاص قبل عبوره إلى عالم العطاء الخالص.",
+        "يوجد في قلب الجسد المادي.",
+        "يوجد في الفضاء بين الأرض والقمر.",
+        "ليس له أي دور في الروحانيات."
       ],
       correct: 0,
-      r: "يعمل العقل الطبيعي ضمن إطار الرغبة في الأخذ (أفيوت)، وبالتالي فهو عاجز عن استيعاب قوانين العطاء العليا."
+      r: "الماخسوم هو خط الفاصل بين الرغبة الأنانية (أسيا/ييتزيرا السفليتان) والقصد الخالص بالعطاء (أتسیلوت/بريا)."
     },
     {
-      q: "3. كيف ترتبط موضوع الدرس 23 (الإيمان فوق العقل) بمفهومي التسمتسوم والماساش من الدروس السابقة؟",
+      q: "3. ما هي الأجزاء التي تتكون منها التشريح الداخلي للبارتسوف (روش، توخ، سوف)؟",
+      options: [
+        "روش (الرأس – حيث يتم الحساب، توخ – الداخل – حيث يتدفق النور، وسوف – النهاية – حيث ينتهي التلقي).",
+        "يد، قدم، جذع.",
+        "ألفا، بيتا، غاما.",
+        "ماضي، حاضر، مستقبل."
+      ],
+      correct: 0,
+      r: "يتكون كل بارتسوف من مراحل روش (الرأس)، توخ (الداخل)، وسوف (النهاية) وفقاً لعمل الشاشة (الماساش)."
+    },
+    {
+      q: "4. ماذا تعني حدود البيه (الفم)، الخازيه (الصدر)، والتابور (السرة) في البارتسوف؟",
         options: [
-          "تشغيل الماساش (الشاشة) في الواقع المادي والروحي هو بالضبط تحقيق العمل فوق العقل، حيث يتم تجاوز الحسابات الأنانية بقصد العطاء.",
-          "ليس لهما أي صلة على الإطلاق.",
-          "التسمتسوم هو عكس الإيمان فوق العقل.",
-          "الماساش ينطبق فقط على الجسد المادي."
+          "البيه هي مكان الشاشة (حيث يدخل النور)، الخازيه هي حد الخط الأوسط، والتابور هو الحد الأدنى الذي يمكن عنده تلقي النور.",
+          "هذه مجرد مصطلحات تشريحية للجسد المادي.",
+          "تشير إلى مدارات الكواكب.",
+          "تمثل شهور السنة التقويمية."
         ],
         correct: 0,
-        r: "ممارسة الإيمان فوق العقل هي التطبيق العملي للتصفية (الماساش) والنور المعكوس المنفذ في البارتسوف."
+        r: "البيه، الخازيه، والتابور هي مرشحات وحدود داخلية داخل البارتسوف تحدد تدفق النور."
     },
     {
-      q: "4. ما الفرق بين «العمى المادي» ومنظور الإيمان فوق العقل؟",
+      q: "5. كيف تتشكل الدرجات الروحية الـ 125 في العوالم العليا؟",
         options: [
-          "الإيمان فوق العقل ليس إنكاراً للواقع، بل هو تجاوز للمنطق الأرضي لصالح قانون روحي أعلى وأشمل (العطاء).",
-          "العمى المادي يحقق نتائج روحية أفضل.",
+          "5 عوالم مضروبة في 5 بارتسوفيم لكل عالم، مضروبة في 5 سفيرات لكل بارتسوف (5 × 5 × 5 = 125).",
+          "في غضون 125 يوماً ماديًا بالضبط.",
+          "باتباع 125 نبياً مختلفاً.",
+          "موزعة عشوائياً بين العوالم."
+        ],
+        correct: 0,
+        r: "يتكون النظام الكامل للدرجات الروحية فحاصل ضرب 5 عوالم، لكل منها 5 بارتسوفيم، وكل بارتسوف به 5 سفيرات (125 درجة)."
+    },
+    {
+      q: "6. ما الفرق بين أوعية غالغالتا في-إينايم (GE) وأحي (أوزين، حوتم، بيه)؟",
+        options: [
+          "GE (غالغالتا في-إينايم) هي أوعية عطاء خالصة (تعمل حصرياً من أجل الآخرين)، بينما أحي هي أوعية التلقي التي تسعى لامتصاص المتعة لنفسها.",
+          "GE هي العين المادية وأحي هي الأذن.",
           "لا يوجد فرق على الإطلاق.",
-          "الإيمان فوق العقل هو تزييف للعلم."
+          "أحي هو النور النقي الأعلى."
         ],
         correct: 0,
-        r: "الإيمان فوق العقل هو حالة وعي أعلى تكمل وتتجاوز الحسابات السفلية والأنانية."
+        r: "GE هو الجزء العلوي من الرأس (رغبات العطاء)، بينما أحي هو الجزء السفلي (رغبات التلقي التي تنتظر التصحيح)."
     },
     {
-      q: "5. ما هو دور العشيرة (كيفود ها-تزيفيت / مجموعة العشرة) في تحقيق الإيمان فوق العقل؟",
+      q: "7. ما هي حالة إين سوف (العالم اللانهائي) قبل وبعد التسمتسوم آليف (القيد الأول)؟",
         options: [
-          "توفر المجموعة الدعم والقوة وأجواء الضمان المتبادل (آرفوت) التي يمكن للفرد من خلالها تجاوز حدوده الأنانية.",
-          "المجموعة مجرد مكان للدردشة الودية.",
-          "المجموعة موجودة لكي يتنافس الأفراد فيما بينهم.",
-          "لا تلعب المجموعة أي دور في ذلك."
+          "قبل ذلك، كانت حالة وحدة مثالية وغير محدودة بين النور والوعاء؛ وبعد ذلك، انسحب النور لإفساح المجال للأوعية المصححة بناءً على الإرادة الحرة.",
+          "تم تدمير إين سوف بالكامل.",
+          "لم يتغير شيء على الإطلاق.",
+          "انتقل إين سوف إلى العالم المادي."
         ],
         correct: 0,
-        r: "العمل داخل العشيرة وتقدير عظمة الأصدقاء يساعدان الفرد على الصعود إلى الإيمان فوق العقل."
+        r: "كان إين سوف حالة الامتلاء المطلق، والتي تتيح بعد التسمتسوم مجالاً للهيكل الهرمي للعوالم العليا."
     },
     {
-      q: "6. ماذا تعني مقولة «لو با-شاماييم هي» (ليست في السماء) في العمل فوق العقل؟",
+      q: "8. ما هو دور عالم أتسیلوت بين العوالم العليا الأخرى (بريا، ييتزيرا، أسيا)؟",
         options: [
-          "أن الصعود الروحي والموقف فوق العقل يجب أن يبنيهما الإنسان من وضعه الحقيقي، عبر تحديات الحياة الحقيقية.",
-          "أن الدين ليس له علاقة بالحياة اليومية.",
-          "أن على المرء أن يمشي في السحب أثناء التأمل.",
-          "أن الله لا يتدخل أبداً."
+          "أتسیلوت هو عالم العطاء الخالص (كيتير، هوخما، بينا)، الذي يحكم ويغذي العوالم السفلى بريا، ييتزيرا، وأسيا التي تحتاج إلى التصحيح.",
+          "أتسیلوت هو الجحيم المادي.",
+          "أتسیلوت هو ببساطة مستودع مؤقت.",
+          "أتسیلوت مستقل تماماً عن العوالم الأخرى."
         ],
         correct: 0,
-        r: "يتحقق العمل الروحي على الأرض، عبر صعوبات الحياة اليومية والتغلب على الأنا."
+        r: "أتسیلوت هو عالم الانبعاث حيث يسود النور النقي والعطاء، داعماً نظام بريا-ييتزيرا-أسيا (BYA)."
     },
     {
-      q: "7. كيف تنظر الكابالا إلى الشكوك على الطريق الروحي؟",
+      q: "9. ما هي خصائص عالم آدام كادمون (AK) في نظام العوالم العليا؟",
         options: [
-          "الشكوك ليست أخطاء؛ بل تُرسل من القوة العليا لتمنح الإنسان مساحة لبناء الإيمان فوق العقل (قوة العطاء).",
-          "الشكوك تشير إلى أنه يجب التوقف عن الدراسة.",
-          "الشكوك هي عمل مباشر للشياطين الأشرار.",
-          "لا تظهر الشكوك أبداً لدى الكابالي."
+          "آدام كادمون هو أول عالم روحي نقي بعد إين سوف، ومنه تتفرع جميع العوالم السفلى الأخرى (أتسیلوت، بريا، ييتزيرا، أسيا).",
+          "إنه تشريح الإنسان المادي.",
+          "إنه العالم السفلي الأكثر ظلاماً.",
+          "ليس له أي أهمية."
         ],
         correct: 0,
-        r: "توفر الشكوك الفرصة لاختيار طريق الإيمان (العطاء) بدلاً من الاعتماد على عقل المرء."
+        r: "آدام كادمون هو أول عالم منظم بعد إين سوف، ووضع الأساس للهيكل الروحي العالمي."
     },
     {
-      q: "8. ما هو الغرض من العمل فوق العقل فيما يتعلق بالعلاقة مع الخالق؟",
+      q: "10. كيف يتم هيكلة العلاقة بين النور العالي (أور ياشار) والأوعية (كېليم) في هندسة العوالم العليا؟",
         options: [
-          "أن يقترب المخلوق من الخالق ليس بسبب مصلحة شخصية أو منفعة ذاتية، بل من حب نقي وغير أناني (العطاء من أجل العطاء).",
-          "اكتساب الثروة المادية في العالم المادي.",
-          "الهروب من المسؤوليات اليومية.",
-          "اكتساب قوة خاصة على الآخرين."
+          "يريد النور دائماً ملء كل وعي، لكن الماساش (الشاشة) والأور هوزر (النور المعكوس) ينظمون مقدار النور الذي يمكن أن يتدفق بنقاء.",
+          "النور مستقل تماماً عن الأوعية.",
+          "الأوعية تدمر النور.",
+          "لا يوجد أي تفاعل."
         ],
         correct: 0,
-        r: "يضمن الإيمان فوق العقل أن تكون العلاقة مع الخالق خالية من الدوافع الأنانية."
-    },
-    {
-      q: "9. ما هي الصلة بين عظمة المعلم (أو الهدف) واستيعاب الإيمان فوق العقل؟",
-        options: [
-          "عندما تكون قيمة المعلم أو الهدف الروحي كبيرة في عيون الإنسان، فإن ذلك يمنحه القوة للتغلب على منطقه التافه والعمل فوق العقل.",
-          "لا توجد صلة بينهما.",
-          "عظمة المعلم تزيد فقط من المعرفة الكتابية.",
-          "المعلم يعلمنا ألا نفكر."
-        ],
-        correct: 0,
-        r: "إدراك أهمية (عظمة) الهدف أو المعلم يمنح القوة للصعود فوق العقل."
-    },
-    {
-      q: "10. كيف يتغير عالم الإنسان الداخلي عندما يبدأ في العمل وفقاً للإيمان فوق العقل (إيمونا)؟",
-        options: [
-          "تزول الشكوك الداخلية ويستقر منظور عالمي روحي مستقر وأبدي، بمعزل عن الظروف الخارجية.",
-          "يفقد الإنسان صوابه.",
-          "الواقع المادي للعالم يتوقف تماماً عن الوجود.",
-          "يصبح الإنسان سلبياً وغير مهتم."
-        ],
-        correct: 0,
-        r: "يوفر الإيمان فوق العقل توازناً داخلياً مستقراً ومنظوراً أبدياً وفقاً للعوالم العليا."
-    }
-  ],
+        r: "التفاعل بين النور والوعاء، بتوجيه من الماساش، يشكل النظام الداخلي الدقيق ودرجات العوالم الروحية."
+      }
+    ],
   fa: [
     {
-      q: "1. معنای اصلی اصل «ایمان بالاتر از عقل» (Emuna le-ma'ala min ha-daat) در کابالا چیست؟",
+      q: "1. سطوح اصلی ساختار پنج جهان معنوی در کابالا چیست؟",
       options: [
-        "این امکان صعود معنوی را فراهم می‌کند با تکیه بر صفت بخشش آفریدگار، نه بر اساس عقل خودخواه و محدود فرد.",
-        "این به معنای اطاعت کورکورانه بدون هیچ منطقی است.",
-        "این رد علم در زندگی روزمره است.",
-        "این نادیده گرفتن کامل دنیای فیزیکی است."
+        "آدام کادمون، آتسیلوت، بریا، ییتزیرا و آسیا.",
+        "کِتِر، هوخما، بینا، تیفریت، مالخوت.",
+        "روش، توخ، سوف، په، تابور.",
+        "آلف، بت، گیمل، دالت، های."
       ],
       correct: 0,
-      r: "ایمان بالاتر از عقل کوری نیست، بلکه پذیرش دیدگاه بخشنده نور برتر بالاتر از منطق خودخواهانه است."
+      r: "ترتیب جهان‌های معنوی از بالا به پایین عبارت است از: آدام کادمون، آتسیلوت، بریا، ییتزیرا و آسیا."
     },
     {
-      q: "2. چرا عقل طبیعی و ذاتی انسان در درک واقعیت معنوی محدود است؟",
+      q: "2. ماخسوم (مانع/آستانه) کجا قرار دارد و نقش معنوی آن چیست؟",
         options: [
-          "زیرا بر روی خواسته‌های خودخواهانه و محاسبات برای منفعت شخصی ساخته شده است، در حالی که معنویت بر اساس قانون بخشش استوار است.",
-          "زیرا مغز انسان از نظر بیولوژیکی بسیار کوچک است.",
-          "زیرا قوانین فیزیکی تفکر معنوی را ممنوع می‌کنند.",
-          "زیرا فناوری مدرن هنوز به اندازه کافی پیشرفته نیست."
+          "آن بین جهان‌های معنوی (بالا/پایین آتسیلوت) و جهان فیزیکی قرار دارد و مرزی را نشان می‌دهد که انسان می‌تواند با تلاش خود قبل از ورود به جهان بخشش خالص به آن برسد.",
+          "آن در قلب جسم فیزیکی یافت می‌شود.",
+          "آن در فضای بین زمین و ماه است.",
+          "هیچ نقشی در معنویت ندارد."
         ],
         correct: 0,
-        r: "عقل طبیعی در چارچوب میل به دریافت (آویوت) عمل می‌کند و بنابراین قادر به درک قوانین برتر بخشش نیست."
+        r: "ماخسوم خط جداکننده بین میل خودخواهانه (آسیای پایینی/ییتزیرا) و نیت خالص برای بخشش (آتسیلوت/بریا) است."
     },
     {
-      q: "3. موضوع درس ۲۳ (ایمان بالاتر از عقل) چگونه با مفاهیم تزمتسوم و ماساش از درس‌های قبلی مرتبط است؟",
+      q: "3. کالبدشناسی داخلی یک پارتسوف (روش، توخ، سوف) از چه بخش‌هایی تشکیل شده است؟",
         options: [
-          "به کار انداختن ماساش (صفحه نمایش) در واقعیت فیزیکی و معنوی دقیقاً تحقق کار بالاتر از عقل است، جایی که محاسبات خودخواهانه با نیت بخشش بازنویسی می‌شوند.",
-          "آنها هیچ ارتباطی با هم ندارند.",
-          "تزمتسوم برعکس ایمان بالاتر از عقل است.",
-          "ماساش فقط برای جسم فیزیکی اعمال می‌شود."
+          "روش (سر – جایی که محاسبه انجام می‌شود، توخ – درون – جایی که نور جریان می‌یابد، و سوف – پایان – جایی که دریافت به پایان می‌رسد).",
+          "دست، پا، تنه.",
+          "آلفا، بتا، گاما.",
+          "گذشته، حال، آینده."
         ],
         correct: 0,
-        r: "تمرین ایمان بالاتر از عقل کاربرد عملی فیلترینگ (ماساش) و نور بازگشت‌داده‌شده انجام‌شده در پارتسوف است."
+        r: "هر پارتسوف از مراحل روش (سر)، توخ (درون) و سوف (پایان) با توجه به عملکرد صفحه نمایش (ماساش) ساخته شده است."
     },
     {
-      q: "4. تفاوت بین «کوری فیزیکی» و چشم‌انداز ایمان بالاتر از عقل چیست؟",
+      q: "4. مرزهای په (دهان)، خازیه (سینه) و تابور (ناف) در یک پارتسوف به چه معنا هستند؟",
         options: [
-          "ایمان بالاتر از عقل انکار واقعیت نیست، بلکه تعالی منطق زمینی به نفع یک قانون معنوی بالاتر و فراگیرتر (بخشش) است.",
-          "کوری فیزیکی نتایج معنوی بهتری به همراه دارد.",
+          "په محل صفحه نمایش (جایی که نور وارد می‌شود)، خازیه مرز خط میانی، و تابور حد پایینی است که تا آنجا نور هنوز می‌تواند دریافت شود.",
+          "اینها صرفاً اصطلاحات کالبدشناختی برای جسم فیزیکی هستند.",
+          "آنها مدارهای سیاره‌ای را نشان می‌دهند.",
+          "آنها ماه‌های تقویمی را نشان می‌دهند."
+        ],
+        correct: 0,
+        r: "په، خازیه و تابور فیلترها و مرزهای درونی درون پارتسوف هستند که جریان نور را تعیین می‌کنند."
+    },
+    {
+      q: "5. ۱۲۵ مرحله معنوی در جهان‌های برتر چگونه شکل می‌گیرند؟",
+        options: [
+          "۵ جهان ضرب در ۵ پارتسوفیم در هر جهان، ضرب در ۵ سفیروت در هر پارتسوف (۵ × ۵ × ۵ = ۱۲۵).",
+          "دقیقاً در ۱۲۵ روز فیزیکی.",
+          "پیروی از ۱۲۵ پیامبر مختلف.",
+          "به طور تصادفی بین جهان‌ها توزیع شده‌اند."
+        ],
+        correct: 0,
+        r: "سیستم کامل درجات معنوی به عنوان حاصل ضرب ۵ جهان تشکیل شده است که هر کدام دارای ۵ پارتسوفیم و هر پارتسوف داراى ۵ سفیروت است (۱۲۵ مرحله)."
+    },
+    {
+      q: "6. تفاوت بین ظروف گالگالتا وه-اینایم (GE) و AHP (اۆزن، هوتم، په) چیست؟",
+        options: [
+          "GE (گالگالتا وه-اینایم) ظروف بخشش خالص هستند (که منحصراً برای دیگران عمل می‌کنند)، در حالی که AHP ظروف دریافتی هستند که به دنبال جذب لذت برای خود هستند.",
+          "GE چشم فیزیکی است و AHP گوش است.",
           "هیچ تفاوتی وجود ندارد.",
-          "ایمان بالاتر از عقل تحریف علم است."
+          "AHP بالاترین نور خالص است."
         ],
         correct: 0,
-        r: "ایمان بالاتر از عقل حالت بالاتری از آگاهی است که محاسبات پایین‌تر و خودخواهانه را تکمیل و بازنویسی می‌کند."
+        r: "GE بخش بالایی سر (خواسته های بخشش) است، در حالی که AHP بخش پایینی است (خواسته های دریافت که منتظر اصلاح هستند)."
     },
     {
-      q: "5. نقش دهه (گروه ده نفره / کِوُود ها-تزهِوِت) در دستیابی به ایمان بالاتر از عقل چیست؟",
+      q: "7. وضعیت این سوف (جهان بی نهایت) قبل و بعد از تزمتسوم آلف (محدودیت اول) چگونه است؟",
         options: [
-          "گروه پشتیبانی، قدرت و فضایی از ضمانت متقابل (آرووت) را فراهم می‌کند که در آن فرد می‌تواند از محدودیت‌های خودخواهانه خود فراتر رود.",
-          "گروه صرفاً مکانی برای چت‌های دوستانه است.",
-          "گروه وجود دارد تا با یکدیگر رقابت کنند.",
-          "گروه هیچ نقشی در این زمینه ندارد."
+          "قبل از آن، حالت وحدت کامل و نامحدود بین نور و ظرف بود؛ پس از آن، نور عقبنشینی کرد تا جایی برای ظروف اصلاح شده بر اساس اراده آزاد باز کند.",
+          "این سوف کاملاً نابود شد.",
+          "هیچ چیز تغییر نکرد.",
+          "این سوف به دنیای فیزیکی منتقل شد."
         ],
         correct: 0,
-        r: "کار درون دهه و قدردانی از بزرگی دوستان به فرد کمک می‌کند تا به ایمان بالاتر از عقل صعود کند."
+        r: "این سوف حالت کمال مطلق بود که پس از تزمتسوم به ساختار هيرارشی جهان‌های برتر فضا می‌دهد."
     },
     {
-      q: "6. اصل «Lo ba-shamayim hi» (آن در آسمان نیست) در کار بالاتر از عقل به چه معناست؟",
+      q: "8. نقش جهان آتسیلوت در میان سایر جهان‌های برتر (بریا، ییتزیرا، آسیا) چیست؟",
         options: [
-          "اینکه صعود معنوی و نگرش بالاتر از عقل باید توسط انسان از موقعیت واقعی خود، از طریق چالش‌های زندگی واقعی ساخته شود.",
-          "اینکه دین هیچ ربطی به زندگی روزمره ندارد.",
-          "اینکه فرد باید در طول مراقبه در ابرها قدم بزند.",
-          "اینکه خدا هرگز مداخله نمی‌کند."
+          "آتسیلوت جهان بخشش خالص (کِتِر، هوخما، بینا) است که بر جهان‌های پایین‌تر بریا، ییتزیرا و آسیا که نیاز به اصلاح دارند، حکومت می‌کند و آنها را تغذیه می‌کند.",
+          "آتسیلوت جهنم فیزیکی است.",
+          "آتسیلوت صرفاً یک انبار موقت است.",
+          "آتسیلوت کاملاً مستقل از جهان‌های دیگر است."
         ],
         correct: 0,
-        r: "کار معنوی روی زمین، از طریق سختی‌های زندگی روزمره و غلبه بر ایگو تحقق می‌یابد."
+        r: "آتسیلوت جهان تجلی است که در آن نور خالص و بخشش سلطنت می‌کنند و از سیستم بری-ییتزیرا-آسیا (BYA) پشتیبانی می‌کنند."
     },
     {
-      q: "7. کابالا چگونه به تردیدها در مسیر معنوی نگاه می‌کند؟",
+      q: "9. ویژگی‌های جهان آدام کادمون (AK) در سیستم جهان‌های برتر چیست؟",
         options: [
-          "تردیدها اشتباه نیستند؛ آنها توسط نیروی برتر فرستاده می‌شوند تا به انسان فضا بدهند تا ایمان بالاتر از عقل (قدرت بخشش) را بسازد.",
-          "تردیدها نشان می‌دهند که باید مطالعه را متوقف کرد.",
-          "تردیدها کار مستقیم شیاطین شرور هستند.",
-          "تردیدها هرگز در یک کابالیست ظاهر نمی‌شوند."
+          "آدام کادمون اولین جهان معنوی خالص پس از این سوف است که از آن تمام جهان‌های پایین‌تر دیگر (آتسیلوت، بریا، ییتزیرا، آسیا) منشعب می‌شوند.",
+          "این کالبدشناسی انسان فیزیکی است.",
+          "این تاریک‌ترین جهان زیرزمینی است.",
+          "هیچ اهمیتی ندارد."
         ],
         correct: 0,
-        r: "تردیدها فرصتی را فراهم می‌کنند تا به جای تکیه بر عقل خود، مسیر ایمان (بخشش) را انتخاب کنیم."
+        r: "آدام کادمون اولین جهان ساختاریافته پس از این سوف است که پایه و اساس هیرارشی معنوی جهانی را بنا می‌نهد."
     },
     {
-      q: "8. هدف از کار بالاتر از عقل در رابطه با ارتباط با آفریدگار چیست؟",
+      q: "10. رابطه بین نور برتر (اور یاشار) و ظروف (کلیم) در معماری جهان‌های برتر چگونه ساختار یافته است؟",
         options: [
-          "اینکه آفریده نه به خاطر منافع شخصی یا سود شخصی، بلکه از روی عشق خالص و غیرخودخواهانه (بخشش به خاطر بخشش) به آفریدگار نزدیک شود.",
-          "برای به دست آوردن ثروت مادی در دنیای فیزیکی.",
-          "برای فرار از مسئولیت‌های روزمره.",
-          "برای به دست آوردن قدرت ویژه بر دیگران."
+          "نور همیشه می‌خواهد هر ظرفی را پر کند، اما ماساش (صفحه نمایش) و اور هوزر (نور بازگشته) تنظیم می‌کنند که چه مقدار نور می‌تواند به طور خالص جریان یابد.",
+          "نور کاملاًIndependent (مستقل) از ظروف است.",
+          "ظروف نور را نابود می‌کنند.",
+          "هیچ تعاملی وجود ندارد."
         ],
         correct: 0,
-        r: "ایمان بالاتر از عقل تضمین می‌کند که ارتباط با آفریدگار از انگیزه‌های خودمحورانه پاک است."
-    },
-    {
-      q: "9. ارتباط بین بزرگی معلم (یا هدف) و جذب ایمان بالاتر از عقل چیست؟",
-        options: [
-          "وقتی ارزش معلم یا هدف معنوی در چشم انسان بزرگ باشد، به او قدرت می‌دهد تا منطق حقیر خود را غلبه کند و بالاتر از عقل عمل کند.",
-          "هیچ ارتباطی بین آنها وجود ندارد.",
-          "بزرگی معلم فقط دانش کتابی را افزایش می‌دهد.",
-          "معلم به ما می‌آموزد که فکر نکنیم."
-        ],
-        correct: 0,
-        r: "درک اهمیت (بزرگی) هدف یا معلم قدرت صعود به بالای عقل را می‌دهد."
-    },
-    {
-      q: "10. وقتی فردی شروع به عمل بر اساس ایمان بالاتر از عقل (Emuna) می‌کند، دنیای درونی او چگونه تغییر می‌کند؟",
-        options: [
-          "عدم قطعیت درونی از بین می‌رود و یک جهان‌بینی معنوی پایدار و ابدی، مستقل از شرایط خارجی برقرار می‌شود.",
-          "فرد عقل خود را از دست می‌دهد.",
-          "واقعیت فیزیکی جهان به طور کامل از بین می‌رود.",
-          "فرد منفعل و بی‌رغبت می‌شود."
-        ],
-        correct: 0,
-        r: "ایمان بالاتر از عقل تعادل درونی پایدار و چشم‌اندازی ابدی مطابق با جهان‌های برتر فراهم می‌کند."
+        r: "تعامل بین نور و ظرف، با هدایت ماساش، نظم درونی دقیق و درجات جهان‌های معنوی را شکل می‌دهد."
       }
     ],
   hy: [
     {
-      q: "1. Ո՞րն է «Հավատը բանականությունից վեր» (Էմունա լե-մաալա մին հա-դաատ) սկզբունքի հիմնական նշանակությունը Կաբալայում:",
+      q: "1. Որո՞նք են հինգ հոգևոր աշխարհների կառուցվածքի հիմնական մակարդակները Կաբալայում:",
       options: [
-        "Այն հնարավորություն է տալիս հոգևոր վերելքի՝ հիմնվելով ոչ թե սեփական սահմանափակ էգոիստական ​​բանականության, այլ Արարչի տալու հատկության վրա:",
-        "Դա նշանակում է կույր հնազանդություն առանց որևէ տրամաբանության:",
-        "Դա գիտության մերժումն է առօրյա կյանքում:",
-        "Դա ֆիզիկական աշխարհի լիակատար անտեսումն է:"
+        "Ադամ Կադմոն, Ացիլութ, Բերիա, Եծիրա և Ասիա:",
+        "Կետեր, Հոխմա, Բինա, Տիֆերետ, Մալխութ:",
+        "Ռոշ, Տոխ, Սոֆ, Պեհ, Տաբուր:",
+        "Ալեֆ, Բեթ, Գիմել, Դալեթ, Հեյ:"
       ],
       correct: 0,
-      r: "Հավատը բանականությունից վեր կույր չէ, այլ Բարձրագույն Լույսի տալու տեսանկյունի որդեգրումը էգոիստական ​​տրամաբանությունից վեր:"
+      r: "Հոգևոր աշխարհների հերթականությունը Վերևից ներքև հետևյալն է՝ Ադամ Կադմոն, Ացիլութ, Բերիա, Եծիրա և Ասիա:"
     },
     {
-      q: "2. Ինչո՞ւ է մարդու բնական, բնածին բանականությունը սահմանափակ հոգևոր իրականության ընկալման մեջ:",
-        options: [
-          "Քանի որ այն կառուցված է էգոիստական ​​ցանկությունների և սեփական շահի հաշվարկների վրա, մինչդեռ հոգևորությունը հիմնված է տալու օրենքի վրա:",
-          "Քանի որ մարդու ուղեղը կենսաբանորեն չափազանց փոքր է:",
-          "Քանի որ ֆիզիկական օրենքներն արգելում են հոգևոր մտածողությունը:",
-          "Քանի որ ժամանակակից տեխնոլոգիաները դեռևս բավականաչափ զարգացած չեն:"
-        ],
-        correct: 0,
-        r: "Բնական բանականությունը գործում է ստացման ցանկության շրջանակներում (Ավիյութ) և, հետևաբար, ի վիճակի չէ ըմբռնել տալու ավելի բարձր օրենքները:"
+      q: "2. Որտե՞ղ է գտնվում Մախսոմը (արգելքը/շեմը) և որն է նրա հոգևոր դերը:",
+      options: [
+        "Այն գտնվում է հոգևոր աշխարհների (Ացիլութից վեր/վար) և ֆիզիկական աշխարհի միջև՝ նշելով այն սահմանը, որին մարդը կարող է հասնել սեփական ջանքերով՝ նախքան զուտ տալու աշխարհ անցնելը:",
+        "Այն գտնվում է ֆիզիկական մարմնի սրտում:",
+        "Այն գտնվում է Երկրի և Լուսնի միջև ընկած տարածությունում:",
+        "Այն հոգևորության մեջ որևէ դեր չի խաղում:"
+      ],
+      correct: 0,
+      r: "Մախսոմը բաժանարար գիծն է էգոիստական ​​ցանկության (ստորին Ասիա/Եծիրա) և տալու զուտ մտադրության (Ացիլութ/Բերիա) միջև:"
     },
     {
-      q: "3. Ինչպե՞ս է 23-րդ դասի թեման (Հավատը բանականությունից վեր) կապվում նախորդ դասերի Ցիմցում և Մասախ հասկացությունների հետ:",
+      q: "3. Ո՞ր մասերն են կազմում Պարցուֆի ներքին անատոմիան (Ռոշ, Տոխ, Սոֆ):",
         options: [
-          "Մասախի (էկրանի) գործարկումը ֆիզիկական և հոգևոր իրականության մեջ հենց բանականությունից վեր աշխատանքի իրականացումն է, որտեղ էգոիստական ​​հաշվարկները վերագրվում են տալու մտադրությամբ:",
-          "Նրանք որևէ կապ չունեն:",
-          "Ցիմցումը հակառակն է բանականությունից վեր հավատին:",
-          "Մասախը վերաբերում է միայն ֆիզիկական մարմնին:"
+          "Ռոշ (Գլուխ՝ որտեղ տեղի է ունենում հաշվարկը, Տոխ՝ Ներքին՝ ուղղված դեպի որտեղ է հոսում Լույսը, և Սոֆ՝ Վերջ՝ որտեղ ավարտվում է ստացումը):",
+          "Ձեռք, Ուտել, Իران.",
+          "Ալֆա, Բետա, Գամմա:",
+          "Անցյալ, Ներկա, Ապագա:"
         ],
         correct: 0,
-        r: "Բանականությունից վեր հավատի պրակտիկան Պարցուֆում իրականացվող ֆիլտրման (Մասախ) և վերադարձված լույսի գործնական կիրառությունն է:"
+        r: "Յուրաքանչյուր Պարցուֆ կառուցված է Ռոշի (Գլուխ), Տոխի (Ներքին) և Սոֆի (Վերջ) փուլերից՝ ըստ էկրանի (Մասախ) աշխատանքի:"
     },
     {
-      q: "4. Ո՞րն է տարբերությունը «ֆիզիկական կուրության» և բանականությունից վեր հավատի տեսանկյունի միջև:",
+      q: "4. Ի՞նչ են նշանակում Պեհ (Բերան), Չազե (Կրծքավանդակ) և Տաբուր (Պորտ) սահմանները Պարցուֆում:",
         options: [
-          "Բանականությունից վեր հավատը իրականության ժխտում չէ, այլ երկրային տրամաբանության գերազանցում՝ հանուն ավելի բարձր, համապարփակ հոգևոր օրենքի (տալու):",
-          "Ֆիզիկական կուրությունն ավելի լավ հոգևոր արդյունքներ է տալիս:",
-          "Նրանց միջև որևէ տարբերություն չկա:",
-          "Բանականությունից վեր հավատը գիտության կեղծում է:"
+          "Պեհը էկրանի տեղն է (որտեղ մտնում է Լույսը), Չազեն միջին գծի սահմանն է, իսկ Տաբուրը ստորին սահմանն է, մինչև որը Լույսը դեռևս կարող է ընդունվել:",
+          "Սրանք պարզապես անատոմիական տերմիններ են ֆիզիկական մարմնի համար:",
+          "Դրանք նշանակում են մոլորակային ուղեծրեր:",
+          "Դրանք ներկայացնում են օրացուցային ամիսներ:"
         ],
         correct: 0,
-        r: "Բանականությունից վեր հավատը գիտակցության ավելի բարձր վիճակ է, որը լրացնում և գերազանցում է ավելի ցածր, էգոիստական ​​հաշվարկները:"
+        r: "Պեհը, Չազեն և Տաբուրը ներքին ֆիլטרեր և սահմաններ են Պարցուֆի ներսում, որոնք որոշում են Լույսի հոսքը:"
     },
     {
-      q: "5. Ո՞րն է Տասնյակի (Կևոդ հա-Ծևետ / Տասնյակի խմբի) դերը բանականությունից վեր հավատի ձեռքբերման գործում:",
+      q: "5. Ինչպե՞ս են ձևավորվում 125 հոգևոր աստիճանները Վերին Աշխարհներում:",
         options: [
-          "Խումբն ապահովում է աջակցություն, ուժ և փոխադարձ երաշխիքի մթնոլորտ (Արվութ), որում անհատը կարող է գերազանցել իր էգոիստական ​​սահմանափակումները:",
-          "Խումբը պարզապես ընկերական զրույցների վայր է:",
-          "Խումբը գոյություն ունի միմյանց հետ մրցելու համար:",
-          "Խումբն այս հարցում որևէ դեր չի խաղում:"
+          "5 աշխարհ՝ բազմապատկված 5 Պարցուֆիմով յուրաքանչյուր աշխարհում, բազմապատկված 5 Սֆիրոթով յուրաքանչյուր Պարցուֆում (5 x 5 x 5 = 125):",
+          "Ճիշտ 125 ֆիզիկական օրվա ընթացքում:",
+          "Հետևելով 125 տարբեր մարգարեների:",
+          "Բաշխված են պատահականորեն աշխարհների միջև:"
         ],
         correct: 0,
-        r: "Տասնյակում աշխատանքը և ընկերների մեծության գնահատումն օգնում են անհատին բարձրանալ դեպի բանականությունից վեր հավատ:"
+        r: "Հոգևոր աստիճանների ամբողջական համակարգը բաղկացած է որպես 5 աշխարհների արտադրյալ, որոնցից յուրաքանչյուրն ունի 5 Պարցուֆիմ, և յուրաքանչյուր Պարցուֆ ունի 5 Սֆիրոթ (125 աստիճան):"
     },
     {
-      q: "6. Ի՞նչ է նշանակում «Լո բա-շամայիմ հի» (Այն երկնքում չէ) սկզբունքը բանականությունից վեր աշխատանքում:",
+      q: "6. Ո՞րն է տարբերությունը Գալգալտա վե-Էյնաիմ (ԳԷ) և ԱՀՊ (Ավզեն, Հոտեմ, Պեհ) անոթների միջև:",
         options: [
-          "Այն, որ հոգևոր վերելքը և բանականությունից վեր վերաբերմունքը մարդը պետք է կառուցի իր իրական իրավիճակից՝ իրական կյանքի մարտահրավերների միջոցով:",
-          "Այն, որ կրոնն առօրյա կյանքի հետ որևէ կապ չունի:",
-          "Այն, որ մեդիտացիայի ժամանակ պետք է ամպերի մեջ ման գալ:",
-          "Այն, որ Աստված երբեք չի միջամտում:"
+          "ԳԷ-ն (Գալգալտա վե-Էյնաիմ) տալու զուտ անոթներ են (գործում են բացառապես հանուն ուրիշների), մինչդեռ ԱՀՊ-ն ստացման անոթներ են, որոնք ձգտում են հաճույք կլանել իրենց համար:",
+          "ԳԷ-ն ֆիզիկական աչքն է, իսկ ԱՀՊ-ն՝ ականջը:",
+          "Ոչ մի տարբերություն չկա:",
+          "ԱՀՊ-ն ամենաբարձր մաքուր լույսն է:"
         ],
         correct: 0,
-        r: "Հոգևոր աշխատանքն իրականանում է երկրի վրա՝ առօրյա կյանքի դժվարությունների և էգոյի հաղթահարման միջոցով:"
+        r: "ԳԷ-ն գլխի վերին մասն է (տալու ցանկություններ), մինչդեռ ԱՀՊ-ն ստորին մասն է (ստացման ցանկություններ, որոնք սպասում են ուղղման):"
     },
     {
-      q: "7. Ինչպե՞ս է Կաբալան վերաբերվում հոգևոր ճանապարհի կասկածներին:",
+      q: "7. Ո՞րն է Էին Սոֆի (Անվերջ Աշխարհի) վիճակը մինչև և Ցիմցում Ալեֆից (Առաջին սահմանափակումից) հետո:",
         options: [
-          "Կասկածները սխալներ չեն. դրանք ուղարկվում են Բարձրագույն Ուժի կողմից, որպեսզի մարդուն տարածք տան բանականությունից վեր հավատը (տալու ուժը) կառուցելու համար:",
-          "Կասկածները ցույց են տալիս, որ պետք է դադարեցնել ուսումը:",
-          "Կասկածները չար դևերի անմիջական գործն են:",
-          "Կաբալիստի մոտ կասկածներ երբեք չեն առաջանում:"
+          "Մինչ այդ դա Լույսի և Անոթի միջև կատարյալ, անսահմանափակ միասնության վիճակ էր. դրանից հետո Լույսը հետ քασվեց՝ տեղ բացելու ուղղված անոթների համար՝ հիմնված ազատ կամքի վրա:",
+          "Էին Սոֆը ամբողջովին ոչնչացվել է:",
+          "Ոչինչ չի փոխվել:",
+          "Էին Սոֆը տեղափոխվել է ֆիզիկական աշխարհ:"
         ],
         correct: 0,
-        r: "Կասկածները հնարավորություն են տալիս ընտրել հավատի (տալու) ուղին՝ սեփական բանականությանը ապավինելու փոխարեն:"
+        r: "Էին Սոֆը բացարձակ լրության վիճակն էր, որը Ցիմցումից հետո տեղ է տալիս Վերին Աշխարհների հիերարխիկ կառուցվածքին:"
     },
     {
-      q: "8. Ո՞րն է բանականությունից վեր աշխատանքի նպատակը Արարչի հետ հարաբերություններում:",
+      q: "8. Ո՞րն է Ացիլութ աշխարհի դերը մյուս Վերին Աշխարհների (Բերիա, Եծիրա, Ասիա) շարքում:",
         options: [
-          "Որպեսզի արարածը մոտենա Արարչին ոչ թե սեփական շահի կամ անձնական օգուտի պատճառով, այլ մաքուր, անձնվեր սիրուց ելնելով (Տալիս հանուն տալու):",
-          "Ֆիզիկական աշխարհում նյութական հարստություն ձեռք բերելու համար:",
-          "Առօրյա պարտականություններից խուսափելու համար:",
-          "Ուրիշների նկատմամբ հատուկ իշխանություն ձեռք բերելու համար:"
+          "Ացիլութը զուտ տալու աշխարհն է (Կետեր, Հոխմա, Բինա), որը կառավարում և սնուցում է Բերիայի, Եծիրայի և Ասիայի ստորին աշխարհները, որոնք ուղղման կարիք ունեն:",
+          "Ացիլութը ֆիզիկական դժոխքն է:",
+          "Ացիլութը պարզապես ժամանակավոր պահեստ է:",
+          "Ացիլութը լիովին անկախ է մյուս աշխարհներից:"
         ],
         correct: 0,
-        r: "Բանականությունից վեր հավատն ապահովում է, որ Արարչի հետ կապը զերծ լինի էգոկենտրոն դրդապատճառներից:"
+        r: "Ացիլութը էմանացիայի աշխարհն է, որտեղ տիրում են մաքուր Լույսը և տալը՝ պահպանելով Բրի-Եծիրա-Ասիա (BYA) համակարգը:"
     },
     {
-      q: "9. Ո՞րն է կապը Ուսուցչի (կամ Նպատակի) մեծության և բանականությունից վեր հավատի յուրացման միջև:",
+      q: "9. Որո՞նք են Ադամ Կադմոնի (ԱԿ) աշխարհի առանձնահատկությունները Վերին Աշխարհների համակարգում:",
         options: [
-          "Երբ ուսուցչի կամ հոգևոր նպատակի արժեքը մեծ է մարդու աչքում, դա նրան ուժ է տալիս հաղթահարելու իր մանրախնդիր տրամաբանությունը և գործելու բանականությունից վեր:",
-          "Նրանց միջև որևէ կապ չկա:",
-          "Ուսուցչի մեծությունը միայն մեծացնում է գրքային գիտելիքները:",
-          "Ուսուցիչը սովորեցնում է մեզ չմտածել:"
+          "Ադամ Կադմոնը Էին Սոֆից հետո առաջին մաքուր հոգևոր աշխարհն է, որից ճյուղավորվում են մյուս բոլոր ստորին աշխարհները (Ացիլութ, Բերիա, Եծիրա, Ասիա):",
+          "Դա ֆիզիկական մարդու անատոմիան է:",
+          "Դա ամենամութ ստորգետնյա աշխարհն է:",
+          "Այն որևէ նշանակություն չունի:"
         ],
         correct: 0,
-        r: "Նպատակի կամ ուսուցչի կարևորության (մեծության) ընկալումն ուժ է տալիս բանականությունից վեր բարձրանալու համար:"
+        r: "Ադամ Կադմոնը Էին Սոֆից հետո առաջին կառուցվածքային աշխարհն է, որը հիմք է դնում տիեզերական հոգևոր հիերարխիային:"
     },
     {
-      q: "10. Ինչպե՞ս է փոխվում մարդու ներքին աշխարհը, երբ նա սկսում է գործել համաձայն բանականությունից վեր հավատի (Էմունա):",
+      q: "10. Ինչպե՞ս է կառուցված Վերին Լույսի (Օր Յաշար) և անոթների (Կելիմ) միջև կապը Վերին Աշխարհների ճարտարապետության մեջ:",
         options: [
-          "Ներքին անորոշությունը վերանում է, և ձևավորվում է կայուն, հավերժական հոգևոր աշխարհայացք՝ անկախ արտաքին հանգամանքներից:",
-          "Մարդը կորցնում է խելքը:",
-          "Աշխարհի ֆիզիկական իրականությունը լիովին դադարում է գոյություն ունենալ:",
-          "Մարդը դառնում է պասիվ և անտարբեր:"
+          "Լույսը միշտ ցանկանում է լցնել յուրաքանչյուր անոթ, բայց Մասախը (էկրանը) և Օր Հոզերը (վերադարձված լույսը) կարգավորում են, թե որքան Լույս կարող է մաքուր կերպով հոսել ներս:",
+          "Լույսն անկախ է անոթներից:",
+          "Անոթները ոչնչացնում են Լույսը:",
+          "Ոչ մի փոխազդեցություն չկա:"
         ],
         correct: 0,
-        r: "Բանականությունից վեր հավատն ապահովում է կայուն ներքին հավասարակշռություն և հավերժական հեռանկար՝ համաձայն Վերին Աշխարհների:"
+        r: "Լույսի և Անոթի փոխազդեցությունը՝ Մասախի ղեկավարությամբ, ձևավորում է հոգևոր աշխարհների հստակ ներքին կարգն ու աստիճանները:"
       }
     ],
   az: [
     {
-      q: "1. Kabbalada 'Ağıldan yuxarı iman' (Emuna le-ma'ala min ha-daat) prinsipinin əsas mənası nədir?",
+      q: "1. Kabbalada beş mənəvi dünyanın strukturunun əsas səviyyələri hansılardır?",
       options: [
-        "İnsanın məhdud eqoistik ağılına deyil, Yaradanın bəxşetmə xüsusiyyətinə güvənməklə mənəvi yüksəlişi təmin edir.",
-        "Heç bir məntiq olmadan kor-koranə itaət deməkdir.",
-        "Gündəlik həyatda elmin rədd edilməsidir.",
-        "Fiziki dünyanın tamamilə nəzərə alınmamasıdır."
+        "Adam Kadmon, Atzilut, Beria, Yetzira və Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Roş, Toch, Sof, Peh, Tabur.",
+        "Alef, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Ağıldan yuxarı iman korluq deyil, eqoistik məntiqin üzərində Ali İşığın bəxşedən baxış bucağını mənimsəməkdir."
+      r: "Yuxarıdan aşağıya doğru mənəvi dünyaların sırası: Adam Kadmon, Atzilut, Beria, Yetzira və Assiya."
     },
     {
-      q: "2. İnsanın təbii, anadangəlmə ağlı mənəvi reallığı dərk etməkdə niyə məhduddur?",
+      q: "2. Machsom (maneə/eşik) harada yerləşir və onun mənəvi rolu nədən ibarətdir?",
+      options: [
+        "O, mənəvi dünyalar (Atzilutun yuxarısı/aşağısı) ilə fiziki dünya arasında yerləşir və saf bəxşetmə dünyasına keçməzdən əvvəl insanın öz səyi ilə çata biləcəyi həddi işarələyir.",
+        "Fiziki bədənin ürəyində yerləşir.",
+        "Yer və Ay arasındakı fəzadadır.",
+        "Mənəviyyatda heç bir rol oynamır."
+      ],
+      correct: 0,
+      r: "Machsom eqoist arzu (aşağı Assiya/Yetzira) ilə saf bəxşetmə niyyəti (Atzilut/Beria) arasındakı bölücü xəttdir."
+    },
+    {
+      q: "3. Partzufun daxili anatomiyasını (Roş, Toch, Sof) hansı hissələr təşkil edir?",
         options: [
-          "Çünki o, eqoistik arzular və şəxsi xeyir üçün hesablamalar üzərində qurulub, mənəviyyat isə bəxşetmə qanununa əsaslanır.",
-          "Çünki insan beyni bioloji olaraq çox kiçikdir.",
-          "Çünki fiziki qanunlar mənəvi düşüncəni qadağan edir.",
-          "Çünki müasir texnologiya hələ kifayət qədər inkişaf etməyib."
+          "Roş (Baş – hesablamanın aparıldığı yer, Toch – Daxili – İşığın axdığı yer, və Sof – Son – qəbulun başa çatdığı yer).",
+          "Əl, Ayaq, Gövdə.",
+          "Alfa, Beta, Qamma.",
+          "Keçmiş, İndiki, Gələcək."
         ],
         correct: 0,
-        r: "Təbii ağıl qəbuletmə arzusu (Aviyut) çərçivəsində fəaliyyət göstərir və buna görə də bəxşetmənin ali qanunlarını dərk etməyə qadir deyil."
+        r: "Hər bir Partzuf ekranın (Masach) işləmə prinsipinə uyğun olaraq Roş (Baş), Toch (Daxili) və Sof (Son) mərhələlərindən qurulmuşdur."
     },
     {
-      q: "3. 23-cü dərsin mövzusu ('Ağıldan yuxarı iman') əvvəlki dərslərin Tzimtzum və Masach konsepsiyaları ilə necə əlaqəlidir?",
+      q: "4. Partzufda Peh (Ağız), Chaze (Sinə) və Tabur (Göbək) sərhədləri nə deməkdir?",
         options: [
-          "Fiziki və mənəvi reallıqda Masach-ın (ekranın) işlədilməsi məhz ağıldan yuxarı işin reallaşdırılmasıdır, burada eqoistik hesablamalar bəxşetmə niyyəti ilə əvəz olunur.",
-          "Onların heç bir əlaqəsi yoxdur.",
-          "Tzimtzum ağıldan yuxarı imanın əksidir.",
-          "Masach yalnız fiziki bədənə şamil edilir."
+          "Peh ekranın yeridir (İşığın daxil olduğu yer), Chaze orta xəttin sərhəddir, Tabur isə İşığın hələ də qəbul oluna biləcəyi alt həddir.",
+          "Bunlar fiziki bədən üçün sadəcə anatomik terminlərdir.",
+          "Planeta orbitlərini bildirir.",
+          "Təqvim aylarını təmsil edir."
         ],
         correct: 0,
-        r: "Ağıldan yuxarı imanı tətbiq etmək Partzuf-da yerinə yetirilən filtrləmənin (Masach) və qayıdan işığın praktiki tətbiqidir."
+        r: "Peh, Chaze və Tabur Partzuf daxilində İşığın axınını müəyyən edən daxili filtrlər və sərhədlərdir."
     },
     {
-      q: "4. 'Fiziki korluq' ilə ağıldan yuxarı iman perspektivi arasındakı fərq nədir?",
+      q: "5. Ali Dünyalarda 125 mənəvi pillə necə formalaşır?",
         options: [
-          "Ağıldan yuxarı iman reallığın inkarı deyil, daha ali, hər şeyi əhatə edən mənəvi qanunun (bəxşetmənin) xeyrinə yerli məntiqin üstələnməsidir.",
-          "Fiziki korluq daha yaxşı mənəvi nəticələr verir.",
+          "Hər dünyada 5 Partzufa vurulan 5 dünya, hər Partzufta 5 Sefirota vurulur (5 x 5 x 5 = 125).",
+          "Dəqiq 125 fiziki gündə.",
+          "125 müxtəlif peyğəmbəri izləyərək.",
+          "Dünyalar arasında təsadüfi olaraq paylanmış."
+        ],
+        correct: 0,
+        r: "Mənəvi dərəcələrin tam sistemi hər birində 5 Partzuf olan 5 dünyanın və hər Partzufda 5 Sefirot olan məhsulu kimi təşkil olunur (125 pillə)."
+    },
+    {
+      q: "6. Galgalta ve-Eynaim (GE) və AHP (Awzen, Hotem, Peh) qabları arasındakı fərq nədəndir?",
+        options: [
+          "GE (Galgalta ve-Eynaim) saf bəxşetmə qablarıdır (yalnız başqaları üçün hərəkət edirlər), AHP isə özləri üçün həzz almağa çalışan qəbuledici qablardır.",
+          "GE fiziki göz, AHP isə qulaqdır.",
           "Heç bir fərq yoxdur.",
-          "Ağıldan yuxarı iman elmin saxtalaşdırılmasıdır."
+          "AHP ən yüksək saf işıqdır."
         ],
         correct: 0,
-        r: "Ağıldan yuxarı iman aşağı, eqoistik hesablamaları tamamlayan və üstələyən daha yüksək şüur ​​vəziyyətidir."
+        r: "GE başın yuxarı hissəsidir (bəxşetmə arzuları), AHP isə aşağı hissəsidir (düzəliş gözləyən qəbul arzuları)."
     },
     {
-      q: "5. Ağıldan yuxarı imana nail olmaqda Onluğun (Kevod ha-Tzevet / Onluq qrupunun) rolu nədən ibarətdir?",
+      q: "7. Tzimtzum Aleph-dən (Birinci Məhdudiyyətdən) əvvəl və sonra Ein Sof-un (Sonsuz Dünya) vəziyyəti necədir?",
         options: [
-          "Qrup fərdin eqoistik sərhədlərini aşa biləcəyi qarşılıqlı zəmanət (Arvut) dəstəyini, gücünü və atmosferini təmin edir.",
-          "Qrup sadəcə dostluq söhbətləri üçün yerdir.",
-          "Qrup bir-biri ilə yarışmaq üçün mövcuddur.",
-          "Qrupun bunda heç bir rolu yoxdur."
+          "Əvvəl bu, İşıq və Qab arasında mükəmməl, məhdudiyyətsiz birlik vəziyyəti idi; sonra İşıq azad iradəyə əsaslanan düzəldilmiş qablar üçün yer açmaq üçün çəkildi.",
+          "Ein Sof tamamilə məhv edildi.",
+          "Heç nə dəyişmədi.",
+          "Ein Sof fiziki dünyaya köçürüldü."
         ],
         correct: 0,
-        r: "Onluq daxilində iş və dostların böyüklüyünü qiymətləndirmək fərdə ağıldan yuxarı imana yüksəlməyə kömək edir."
+        r: "Ein Sof mütləq dolğunluq vəziyyəti idi ki, Tzimtzum-dan sonra Ali Dünyaların iyerarxik strukturuna yer verir."
     },
     {
-      q: "6. Ağıldan yuxarı işdə 'Lo ba-shamayim hi' (O, göydə deyil) prinsipi nə deməkdir?",
+      q: "8. Atzilut dünyasının digər Ali Dünyalar (Beria, Yetzira, Assiya) arasında rolu nədən ibarətdir?",
         options: [
-          "Mənəvi yüksəlişin və ağıldan yuxarı münasibətin insanın real vəziyyətindən, real həyatın çağırışları vasitəsilə qurulmalı olduğunu.",
-          "Dinin gündəlik həyatla heç bir əlaqəsi olmadığını.",
-          "Meditasiya zamanı buludlarda gəzmək lazım olduğunu.",
-          "Tanrının heç vaxt müdaxilə etmədiyini."
+          "Atzilut düzəlişə ehtiyacı olan Beria, Yetzira və Assiyanın aşağı dünyalarını idarə edən və qidalandıran saf bəxşetmə dünyasıdır (Keter, Hochma, Bina).",
+          "Atzilut fiziki cəhənnəmdir.",
+          "Atzilut sadəcə müvقqəti anbardır.",
+          "Atzilut digər dünyalardan tamamilə müstəqildir."
         ],
         correct: 0,
-        r: "Mənəvi iş yerdə, gündəlik həyatın çətinlikləri və eqonun məğlub edilməsi vasitəsilə həyata keçirilir."
+        r: "Atzilut Bri-Yetzira-Assiya (BYA) sistemini dəstəkləyən saf İşığın və bəxşetmənin hökm sürdüyü emanasiya dünyasıdır."
     },
     {
-      q: "7. Kabbala mənəvi yoldakı şübhələrə necə baxır?",
+      q: "9. Ali Dünyalar sistemində Adam Kadmon (AK) dünyasının xüsusiyyətləri nələrdir?",
         options: [
-          "Şübhələr səhv deyil; insana ağıldan yuxarı imanı (bəxşetmə gücünü) qurmaq üçün məkan vermək üçün Ali Güc tərəfindən göndərilir.",
-          "Şübhələr oxumağı dayandırmağın lazım olduğunu göstərir.",
-          "Şübhələr şər cinlərin birbaşa işidir.",
-          "Kabbalistdə heç vaxt şübhələr yaranmır."
+          "Adam Kadmon Ein Sof-dan sonra bütün digər aşağı dünyaların (Atzilut, Beria, Yetzira, Assiya) budaqlandığı ilk saf mənəvi dünyadır.",
+          "Bu, fiziki insanın anatomiyasıdır.",
+          "Bu, ən qaranlıq yeraltı dünyadır.",
+          "Heç bir əhəmiyyəti yoxdur."
         ],
         correct: 0,
-        r: "Şübhələr öz ağlına güvənmək əvəzinə iman (bəxşetmə) yolunu seçmək imkanı verir."
+        r: "Adam Kadmon universal mənəvi iyerarxiyanın təməlini qoyan Ein Sof-dan sonra ilk strukturlaşdırılmış dünyadır."
     },
     {
-      q: "8. Yaradanla əlaqə baxımından ağıldan yuxarı işin məqsədi nədir?",
+      q: "10. Ali Dünyaların memarlığında Ali İşıq (Ohr Yashar) ilə qablar (Kelim) arasındakı əlaqə necə qurulub?",
         options: [
-          "Məxluqun Yaradana şəxsi maraq və ya mənfəət üçün deyil, təmiz, təmənnasız sevgi ilə (Bəxşetmə xatirinə bəxşetmə) yaxınlaşması.",
-          "Fiziki dünyada maddi sərvət əldə etmək.",
-          "Gündəlik məsuliyyətlərdən qaçmaq.",
-          "Digərləri üzərində xüsusi güc qazanmaq."
+          "İşıq həmişə hər bir qabı doldurmaq istəyir, lakin Masach (ekran) və Ohr Hozer (qayıdan işıq) təmiz şəkildə nə qədər İşığın daxil ola biləcəyini tənzimləyir.",
+          "İşıq qablardan tamamilə müstəqildir.",
+          "Qablar İşığı məhv edir.",
+          "Heç bir qarşılıqlı əlaqə yoxdur."
         ],
         correct: 0,
-        r: "Ağıldan yuxarı iman Yaradanla əlaqənin egosentrik motivlərdən azad olmasını təmin edir."
-    },
-    {
-      q: "9. Müəllimin (və ya Məqsədin) böyüklüyü ilə ağıldan yuxarı imanın mənimsənilməsi arasında hansı əlaqə var?",
-        options: [
-          "Müəllimin və ya mənəvi məqsədin dəyəri insanın gözündə böyük olduqda, bu, ona xırdaçı məntiqini üstələməyə və ağıldan yuxarı hərəkət etməyə güc verir.",
-          "Onların arasında heç bir əlaqə yoxdur.",
-          "Müəllimin böyüklüyü yalnız kitab biliklərini artırır.",
-          "Müəllim bizə düşünməməyi öyrədir."
-        ],
-        correct: 0,
-        r: "Məqsədin və ya müəllimin vacibliyini (böyüklüyünü) dərk etmək ağıldan yuxarı yüksəlmək gücü verir."
-    },
-    {
-      q: "10. İnsan ağıldan yuxarı imana (Emuna) uyğun hərəkət etməyə başlayanda daxili dünyası necə dəyişir?",
-        options: [
-          "Daxili qeyri-müəyyənlik yoxa çıxır və xarici şərtlərdən asılı olmayaraq, sabit, əbədi mənəvi dünya görüşü yaranır.",
-          "İnsan ağlını itirir.",
-          "Dünyanın fiziki reallığı tamamilə mövcud olmağı dayandırır.",
-          "İnsan passiv və laqeyd olur."
-        ],
-        correct: 0,
-        r: "Ağıldan yuxarı iman Ali Dünyalara uyğun olaraq sabit daxili tarazlıq və əbədi perspektiv təmin edir."
+        r: "Masach tərəfindən idarə olunan İşıq və Qab arasındakı qarşılıqlı əlaqə mənəvi dünyaların dəqiq daxili nizamını və dərəcələrini formalaşdırır."
       }
     ],
   ka: [
     {
-      q: "1. რა არის ძირითადი მნიშვნელობა პრინციპისა „რწმენა გონებაზე მაღლა“ (ემუნა ლე-მაალა მინ ჰა-დაატი) კაბალაში?",
+      q: "1. რა არის ხუთი სულიერი სამყაროს სტრუქტურის ძირითადი დონეები კაბალაში?",
       options: [
-        "ის შესაძლებლობას აძლევს სულიერ აღმასვლას იმით, რომ ადამიანი ეყრდნობა არა თავის შეზღუდულ ეგოისტურ გონებას, არამედ შემოქმედის გაცემის თვისებას.",
-        "ის ნიშნავს ბრმა მორჩილებას ყოველგვარი ლოგიკის გარეშე.",
-        "ეს არის მეცნიერების უარყოფა ყოველდღიურ ცხოვრებაში.",
-        "ეს არის ფიზიკური სამყაროს სრული იგნორირება."
+        "ადამ კადმონი, აცილუტი, ბერია, იეცირა და ასია.",
+        "კეტერი, ჰოხმა, ბინა, ტიფერიტი, მალხუთი.",
+        "როში, ტოხი, სოფი, პეჰი, ტაბური.",
+        "ალეფი, ბეთი, გიმელი, დალეტი, ჰეი."
       ],
       correct: 0,
-      r: "რწმენა გონებაზე მაღლა არ არის სიბრმავე, არამედ ზემო ნათლის გამცემი თვალსაზრისის მიღება ეგოისტური ლოგიკის ზემოთ."
+      r: "სულიერი სამყაროების თანმიმდევრობა ზემოდან ქვემოთ არის: ადამ კადმონი, აცილუტი, ბერია, იეცირა და ასია."
     },
     {
-      q: "2. რატომ არის ადამიანის ბუნებრივი, თანდაყოლილი გონება შეზღუდული სულიერი რეალობის აღქმაში?",
+      q: "2. სად მდებარეობს მაჰსომი (ბარიერი/ზღურბლი) და რა არის მისი სულიერი როლი?",
+      options: [
+        "ის მდებარეობს სულიერ სამყაროებს (აცილუტის ზემოთ/ქვემოთ) და ფიზიკურ სამყაროს შორის, და აღნიშნავს ზღვარს, რომელსაც ადამიანი საკუთარი ძალისხმევით შეიძლება მიაღწიოს სუფთა გაცემის სამყაროში გადასვლამდე.",
+        "ის ფიზიკური სხეულის გულშია.",
+        "ის დედამიწასა და მთვარეს შორის სივრცეშია.",
+        "მას არანაირი როლი არ აქვს სულიერებაში."
+      ],
+      correct: 0,
+      r: "მაჰსომი არის გამყოფი ხაზი ეგოისტურ სურვილს (ქვედა ასია/იეცირა) და გაცემის სუფთა განზრახვას (აცილუტი/ბერია) შორის."
+    },
+    {
+      q: "3. რა ნაწილებისგან შედგება პარცუფის შინაგანი ანატომია (როში, ტოხი, სოფი)?",
         options: [
-          "იმიტომ, რომ ის აგებულია ეგოისტურ სურვილებსა და საკუთარი სარგებლის გამოთვლებზე, მაშინ როდესაც სულიერება ემყარება გაცემის კანონს.",
-          "იმიტომ, რომ ადამიანის ტვინი ბიოლოგიურად ძალიან პატარაა.",
-          "იმიტომ, რომ ფიზიკური კანონები კრძალავს სულიერ აზროვნებას.",
-          "იმიტომ, რომ თანამედროვე ტექნოლოგიები ჯერ კიდევ არ არის საკმარისად განვითარებული."
+          "როში (თავი – სადაც ხდება გამოთვლა, ტოხი – შიგნითა – სადაც ნათელი მიედინება, და სოფი – დასასრული – სადაც მიღება მთავრდება).",
+          "ხელი, ფეხი, ტორსი.",
+          "ალფა, ბეტა, გამა.",
+          "წარსული, აწმყო, მომავალი."
         ],
         correct: 0,
-        r: "ბუნებრივი გონება მოქმედებს მიღების სურვილის (ავიიუტი) ფარგლებში, ამიტომ არ ძალუძს გააცნობიეროს გაცემის უმაღლესი კანონები."
+        r: "თითოეული პარცუფი აგებულია როშის (თავი), ტოხის (შიგნითა) და სოფის (დასასრული) ეტაპებისგან ეკრანის (მასახი) მუშაობის შესაბამისად."
     },
     {
-      q: "3. როგორ უკავშირდება მე-23 გაკვეთილის თემა (რწმენა გონებაზე მაღლა) წინა გაკვეთილების ციმცუმისა და მასახის კონცეფციებს?",
+      q: "4. რას ნიშნავს საზღვრები პეჰი (პირი), ჩაზე (გულმკერდი) და ტაბური (ჭפური) პარცუფში?",
         options: [
-          "მასახის (ეკრანის) ამოქმედება ფიზიკურ და სულიერ რეალობაში არის ზუსტად გონებაზე მაღლა მუშაობის რეალიზაცია, სადაც ეგოისტური გამოთვლები იცვლება გაცემის განზრახვით.",
-          "მათ არანაირი კავშირი არ აქვთ ერთმანეთთან.",
-          "ციმცუმი არის რწმენა გონებაზე მაღლას საპირისპირო.",
-          "მასახი ეხება მხოლოდ ფიზიკურ სხეულს."
+          "პეჰი არის ეკრანის ადგილი (სადაც ნათელი შედის), ჩაზე არის შუა ხაზის საზღვარი, ხოლო ტაბური არის ქვედა ზღვარი, რომელზეც ნათელი კვლავ შეიძლება იქნას მიღებული.",
+          "ეს არის მხოლოდ ფიზიკური სხეულის ანატომიური ტერმინები.",
+          "ისინი აღნიშნავენ პლანეტების ორბიტებს.",
+          "ისინი წარმოადგენენ კალენდარულ თვეებს."
         ],
         correct: 0,
-        r: "რწმენით გონებაზე მაღლა პრაქტიკა არის პარცუფში შესრულებული ფილტრაციის (მასახი) და დაბრუნებული ნათლის პრაქტიკული გამოყენება."
+        r: "პეჰი, ჩაზე და ტაბური არის შინაგანი ფილტრები და საზღვრები პარცუფის შიგნით, რომლებიც განსაზღვრავენ ნათლის ნაკადს."
     },
     {
-      q: "4. რა განსხვავებაა „ფიზიკურ სიბრმავესა“ და რწმენა გონებაზე მაღლას პერსპექტივას შორის?",
+      q: "5. როგორ ყალიბდება 125 სულიერი საფეხური ზემო სამყაროებში?",
         options: [
-          "რწმენა გონებაზე მაღლა არ არის რეალობის უარყოფა, არამედ მიწიერი ლოგიკის გადალახვა უფრო მაღალი, ყოვლისმომცველი სულიერი კანონის (გაცემის) სასარგებლოდ.",
-          "ფიზიკური სიბრმავე უკეთეს სულიერ შედეგებს იძლევა.",
+          "5 სამყარო გამრავლებული 5 პარცუფზე თითო სამყაროში, გამრავლებული 5 სეფირაზე თითო პარცუფზე (5 x 5 x 5 = 125).",
+          "ზუსტად 125 ფიზიკურ დღეში.",
+          "125 სხვადასხვა წინასწარმეტყველის მიყოლებით.",
+          "შემთხვევით განაწილებული სამყაროებს შორის."
+        ],
+        correct: 0,
+        r: "სულიერი ხარისხების სრული სისტემა ყალიბდება როგორც 5 სამყაროს ნამრავლი, რომელთაგან თითოეულს აქვს 5 პარცუფი, და თითოეულ პარცუფს აქვს 5 სეფირა (125 საფეხური)."
+    },
+    {
+      q: "6. რა განსხვავებაა გალგალტა ვე-ეინაიმის (გე) და აჰპ-ს (ავზენი, ჰოტემი, პეჰი) ჭურჭლებს შორის?",
+        options: [
+          "გე (გალგალტა ვე-ეინაიმ) არის სუფთა გაცემის ჭურჭელი (მოქმედებს ექსკლუზიურად სხვებისთვის), ხოლო აჰპ არის მიღების ჭურჭელი, რომელიც ცდილობს შეიწოვოს სიამოვნება თავისთვის.",
+          "გე არის ფიზიკური თვალი, ხოლო აჰპ არის ყური.",
           "არანაირი განსხვავება არ არის.",
-          "რწმენა გონებაზე მაღლა არის მეცნიერების ფალსიფიკაცია."
+          "აჰპ არის უმაღლესი სუფთა ნათელი."
         ],
         correct: 0,
-        r: "რწმენა გონებაზე მაღლა არის ცნობიერების უფრო მაღალი მდგომარეობა, რომელიც ავსებს და ცვლის ქვედა, ეგოისტურ გამოთვლებს."
+        r: "გე არის თავის ზედა ნაწილი (გაცემის სურვილები), ხოლო აჰპ არის ქვედა ნაწილი (მიღების სურვილები, რომლებიც ელოდება შესწორებას)."
     },
     {
-      q: "5. რა როლს ასრულებს ათეული (კევოდ ჰა-ცევითი / ათეულთა ჯგუფი) რწმენა გონებაზე მაღლას მიღწევაში?",
+      q: "7. რა მდგომარეობაშია ეინ სოფი (უსასრულო სამყარო) ციმცუმ ალეფამდე (პირველ შეზღუდვამდე) და მის შემდეგ?",
         options: [
-          "ჯგუფი უზრუნველყოფს მხარდაჭერას, ძალას და ურთიერთგარანტიის (არვუტი) ატმოსფეროს, რომელშიც ინდივიდს შეუძლია გადალახოს თავისი ეგოისტური საზღვრები.",
-          "ჯგუფი უბრალოდ მეგობრული საუბრების ადგილია.",
-          "ჯგუფი არსებობს იმისათვის, რომ ერთმანეთს შეეჯიბრონ.",
-          "ჯგუფს ამაში არანაირი როლი არ აქვს."
+          "ადრე ეს იყო ნათელსა და ჭურჭელს შორის სრულყოფილი, შეუზღუდავი ერთობის მდგომარეობა; ამის შემდეგ ნათელი დაიხია, რათა ადგილი დაუთმოს თავისუფალ ნებაზე დაფუძნებულ გასწორებულ ჭურჭლებს.",
+          "ეინ სოფი სრულიად განადგურდა.",
+          "არაფერი შეცვლილა.",
+          "ეინ სოფი გადავიდა ფიზიკურ სამყაროში."
         ],
         correct: 0,
-        r: "ათეულში მუშაობა და მეგობრების სიდიადის დაფასება ეხმარება ინდივიდს აპოვოს რწმენა გონებაზე მაღლა."
+        r: "ეინ სოფი იყო აბსოლუტური სისრულის მდგომარეობა, რომელიც ციმცუმის შემდეგ აძლევს ადგილს ზემო სამყაროების იერარქიულ სტრუქტურას."
     },
     {
-      q: "6. რას ნიშნავს პრინციპი „ლო ბა-შამაიმ ჰი“ (ის ცაში არ არის) გონებაზე მაღლა მუშაობაში?",
+      q: "8. რა როლს ასრულებს აცილუტის სამყარო სხვა ზემო სამყაროებს (ბერია, იეცირა, ასია) შორის?",
         options: [
-          "იმას, რომ სულიერი აღმასვლა და მიდგომა გონებაზე მაღლა ადამიანმა უნდა ააგოს თავისი რეალური სიტუაციიდან, რეალური ცხოვრების გამოწვევების მეშვეობით.",
-          "იმას, რომ რელიგიას არანაირი კავშირი არ აქვს ყოველდღიურ ცხოვრებასთან.",
-          "იმას, რომ მედიტაციის დროს ღრუბლებში უნდა იარო.",
-          "იმას, რომ ღმერთი არასდროს ერევა."
+          "აცილუტი არის სუფთა გაცემის სამყარო (კეტერი, ჰოხმა, ბინა), რომელიც მართავს და კვებავს ბერიას, იეცირასა და ასიას ქვედა სამყაროებს, რომლებსაც სჭირდებათ შესწორება.",
+          "აცილუტი არის ფიზიკური ჯოჯოხეთი.",
+          "აცილუტი უბრალოდ დროებითი საწყوبია.",
+          "აცილუტი სრულიად დამოუკიდებელია სხვა სამყაროებისგან."
         ],
         correct: 0,
-        r: "სულიერი მუშაობა რეალიზდება მიწაზე, ყოველდღიური ცხოვრების სირთულეებისა და ეგოს დაძლევის გზით."
+        r: "აცილუტი არის ემანაციის სამყარო, სადაც მეფობენ სუფთა ნათელი და გაცემა, მხარს უჭერენ რა ბრი-იეცირა-ასიას (BYA) სისტემას."
     },
     {
-      q: "7. როგორ უყურებს კაბალა ეჭვებს სულიერ გზაზე?",
+      q: "9. რა ახასიათებს ადამ კადმონის (აკ) სამყაროს ზემო სამყაროების სისტემაში?",
         options: [
-          "ეჭვები არ არის შეცდომები; ისინი იგზავნება უზენაესი ძალის მიერ, რათა ადამიანს მისცეს სივრცე ააგოს რწმენა გონებაზე მაღლა (გაცემის ძალა).",
-          "ეჭვები მიუთითებს იმაზე, რომ სწავლა უნდა შეწყდეს.",
-          "ეჭვები ბოროტი დემონების პირდაპირი საქმეა.",
-          "კაბალისტს ეჭვები არასდროს უჩნდება."
+          "ადამ კადმონი არის პირველი სუფთა სულიერი სამყარო ეინ სოფის შემდეგ, საიდანაც იტოტება ყველა სხვა ქვედა სამყარო (აცილუტი, ბერია, იეცირა, ასია).",
+          "ეს არის ფიზიკური ადამიანის ანატომია.",
+          "ეს არის ყველაზე ბნელი ქვესკნელი.",
+          "მას არანაირი მნიშვნელობა არ აქვს."
         ],
         correct: 0,
-        r: "ეჭვები იძლევა შესაძლებლობას ავირჩიოთ რწმენის (გაცემის) გზა საკუთარ გონებაზე დაყრდნობის ნაცვლად."
+        r: "ადამ კადმონი არის პირველი სტრუქტურირებული სამყარო ეინ სოფის შემდეგ, რომელიც ადგენს საფუძველს უნივერსალური სულიერი იერარქիისთვის."
     },
     {
-      q: "8. რა არის გონებაზე მაღლა მუშაობის მიზანი შემოქმედთან მიმართებაში?",
+      q: "10. როგორ არის სტრუქტურირებული ურთიერთობა ზემო ნათელს (ორ იაშარი) და ჭურჭლებს (კელიმ) შორის ზემო სამყაროების არქიტექტურაში?",
         options: [
-          "ის, რომ ქმნილება მიუახლოვდეს შემოქმედს არა პირადი ინტერესის ან სარგებლის გამო, არამედ სუფთა, უანგარო სიყვარულით (გაცემა გაცემის გულისთვის).",
-          "მიიღოს მატერიალური სიმდიდრე ფიზიკურ სამყაროში.",
-          "თავი აარიდოს ყოველდღიურ პასუხისმგებლობებს.",
-          "მოიპოვოს განსაკუთრებული ძალა სხვებზე."
+          "ნათელს ყოველთვის სურს შეأავსოს თითოეული ჭურჭელი, მაგრამ მასახი (ეკრანი) და ორ ჰოზერი (დაბრუნებული ნათელი) არეგულირებენ, თუ რამდენი ნათელი შეიძლება ჩაედინოს სუფთად.",
+          "ნათელი სრულიად დამოუკიდებელია ჭურჭლებისგან.",
+          "ჭურჭლები ანადგურებენ ნათელს.",
+          "არანაირი ურთიერთქმედება არ არსებობს."
         ],
         correct: 0,
-        r: "რწმენა გონებაზე მაღლა უზრუნველყოფს, რომ შემოქმედთან კავშირი თავისუფალი იყოს ეგოცენტრული მოტივებისგან."
-    },
-    {
-      q: "9. რა კავშირია მასწავლებლის (ან მიზნის) სიდიადესა და რწმენა გონებაზე მაღლას ათვისებას შორის?",
-        options: [
-          "როდესაც მასწავლებლის ან სულიერი მიზნის ღირებულება დიდი არის ადამიანის თვალში, ეს აძლევს მას ძალას გადალახოს თავისი წვრილმანი ლოგიკა და იმოქმედოს გონებაზე მაღლა.",
-          "მათ შორის არანაირი კავშირი არ არის.",
-          "მასწავლებლის სიდიადე მხოლოდ წიგნურ ცოდნას ზრდის.",
-          "მასწავლებელი გვასწავლის, რომ არ ვიფიქროთ."
-        ],
-        correct: 0,
-        r: "მიზნის ან მასწავლებლის მნიშვნელობის (სიდიადის) აღქმა იძლევა გონებაზე მაღლა ასვლის ძალას."
-    },
-    {
-      q: "10. როგორ იცვლება ადამიანის შინაგანი სამყარო, როდესაც ის იწყებს მოქმედებას რწმენა გონებაზე მაღლას (ემუნა) შესაბამისად?",
-        options: [
-          "შინაგანი გაურკვევლობა ქრება და ყალიბდება სტაბილური, მარადიული სულიერი მსოფლმხედველობა, რომელიც არ არის დამოკიდებული გარე გარემოებებზე.",
-          "ადამიანი გონებას კარგავს.",
-          "სამყაროს ფიზიკური რეალობა სრულად წყვეტს არსებობას.",
-          "ადამიანი ხდება პასიური და გულგრილი."
-        ],
-        correct: 0,
-        r: "რწმენა გონებაზე მაღლა უზრუნველყოფს სტაბილურ შინაგან ბალანსს და მარადიულ პერსპექტივას უმაღლესი სამყაროების შესაბამისად."
+        r: "ნათელსა და ჭურჭელს შორის ურთიერთქმედება, მასახის ხელმძღვანელობით, აყალიბებს სულიერი სამყაროების ზუსტ შინაგან წესრიგსა და ხარისხებს."
       }
     ],
     "zh-cn": [
     {
-      q: "1. 在卡巴拉中，“理智之上的信念”（Emuna le-ma'ala min ha-daat）原则的主要意义是什么？",
+      q: "1. 在卡巴拉中，五个灵性世界结构的 主要层级是什么？",
       options: [
-        "它使人能够通过不依赖自己有限的利己理智，而是依靠造物主的给予属性来实现灵性上升。",
-        "这意味着没有任何逻辑的盲目顺从。",
-        "这是在日常生活中对科学的拒绝。",
-        "这是对物理世界的完全忽视。"
+        "亚当·卡德蒙（Adam Kadmon）、阿齐卢特（Atzilut）、布里亚（Beria）、耶齐拉（Yetzira）和阿西亚（Assiya）。",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "理智之上的信念不是盲目，而是采纳超越利己逻辑的上层光明的给予视角。"
+      r: "灵性世界从上到下的顺序是：亚当·卡德蒙、阿齐卢特、布里亚、耶齐拉和阿西亚。"
     },
     {
-      q: "2. 为什么人类自然、天生的理智在感知灵性现实时是有限的？",
-        options: [
-          "因为它建立在利己的欲望和为了自身利益的计算之上，而灵性则是基于给予的法则。",
-          "因为人类大脑在生物学上太小了。",
-          "因为物理定律禁止灵性思考。",
-          "因为现代科技的发展还不够先进。"
-        ],
-        correct: 0,
-        r: "自然理智在接收意愿（Aviyut）的框架内运作，因此无法掌握更高层次的给予法则。"
+      q: "2. 马赫索姆（Machsom，屏障/门槛）位于何处？它的灵性作用是什么？",
+      options: [
+        "它位于灵性世界（阿齐卢特上下）与物理世界之间，标志着一个人在进入纯粹给予世界之前，凭自身努力所能达到的极限。",
+        "它位于物理身体的心脏部位。",
+        "它位于地球与月亮之间的太空中。",
+        "它在灵性中没有任何作用。"
+      ],
+      correct: 0,
+      r: "马赫索姆是利己欲望（下层阿西亚/耶齐拉）与纯粹给予意图（阿齐卢特/布里亚）之间的分界线。"
     },
     {
-      q: "3. 第23课的主题（理智之上的信念）与先前课程中的 Tzimtzum 和 Masach 概念有何联系？",
+      q: "3. 帕尔祖夫（Partzuf）的内部解剖结构（Rosh, Toch, Sof）由哪些部分组成？",
         options: [
-          "在物理和灵性现实中运作 Masach（屏幕）正是实现理智之上的工作的确切体现，其中利己的计算被给予的意图所取代。",
-          "它们之间没有任何联系。",
-          "Tzimtzum 与理智之上的信念正好相反。",
-          "Masach 仅适用于物理身体。"
+          "Rosh（头部——进行计算的地方）、Toch（内部——光流入的地方）和 Sof（尾部——接收结束的地方）。",
+          "手、脚、躯干。",
+          "阿尔法、贝塔、伽玛。",
+          "过去、现在、未来。"
         ],
         correct: 0,
-        r: "实践理智之上的信念就是在 Partzuf 中执行的过滤（Masach）和返回之光的实际应用。"
+        r: "根据屏幕（Masach）的运作，每个帕尔祖夫都由 Rosh（头部）、Toch（内部）和 Sof（尾部）阶段构成。"
     },
     {
-      q: "4. “物理盲目”与理智之上的信念的视角有什么区别？",
+      q: "4. 帕尔祖夫中的 Peh（口）、Chaze（胸）和 Tabur（肚脐）边界意味着什么？",
         options: [
-          "理智之上的信念不是对现实的否定，而是为了更高、更包容的灵性法则（给予）而超越世俗的逻辑。",
-          "物理盲目会产生更好的灵性结果。",
-          "两者之间没有任何区别。",
-          "理智之上的信念是对科学的伪造。"
+          "Peh 是屏幕所在地（光进入的地方），Chaze 是中线的边界，Tabur 是光仍可被接收的下限。",
+          "这些纯粹是物理身体的解剖学术语。",
+          "它们表示行星轨道。",
+          "它们代表日历月份。"
         ],
         correct: 0,
-        r: "理智之上的信念是一种更高层次的意识状态，它补充并超越了较低级的利己计算。"
+        r: "Peh、Chaze 和 Tabur 是帕尔祖夫内部的过滤器和边界，决定了光的流动。"
     },
     {
-      q: "5. 十人组（Kevod ha-Tzevet / 十人小组）在实现理智之上的信念中扮演什么角色？",
+      q: "5. 上层世界中的 125 个灵性台阶是如何形成的？",
         options: [
-          "该小组提供支持、力量和相互保证（Arvut）的氛围，个人在其中可以超越其利己的局限。",
-          "小组仅仅是进行友好闲聊的场所。",
-          "小组的存在是为了彼此竞争。",
-          "小组在其中没有任何作用。"
+          "5个世界乘以每个世界的 5 个帕尔祖夫，再乘以每个帕尔祖夫的 5 个萨菲罗特（5 x 5 x 5 = 125）。",
+          "在正好 125 个物理天内。",
+          "追随 125 位不同的先知。",
+          "随机分布在各个世界之间。"
         ],
         correct: 0,
-        r: "十人组内部的工作以及对朋友伟大的赞赏有助于个人上升到理智之上的信念。"
+        r: "灵性阶梯的完整系统是由 5 个世界相乘组成，每个世界有 5 个帕尔祖夫，每个帕尔祖夫有 5 个萨菲罗特（125 个台阶）。"
     },
     {
-      q: "6. “Lo ba-shamayim hi”（它不在天上）这一原则在理智之上的工作中意味着什么？",
+      q: "6. Galgalta ve-Eynaim (GE) 容器与 AHP (Awzen, Hotem, Peh) 容器有什么区别？",
         options: [
-          "灵性的上升和理智之上的态度必须由人从他真实的处境出发，通过真实生活的挑战来建立。",
-          "宗教与日常生活毫无关系。",
-          "冥想时必须在云端漫步。",
-          "上帝从不干预。"
+          "GE（Galgalta ve-Eynaim）是纯粹的给予容器（专门为他人行事），而 AHP 是试图为自己吸收快乐的接收容器。",
+          "GE 是物理眼睛，AHP 是耳朵。",
+          "两者没有任何区别。",
+          "AHP 是最高纯净的光。"
         ],
         correct: 0,
-        r: "灵性工作是在大地上实现的，通过日常生活的困难和战胜自我来实现。"
+        r: "GE 是头部的上部（给予的欲望），而 AHP 是下部（等待修正的接收欲望）。"
     },
     {
-      q: "7. 卡巴拉如何看待灵性道路上的怀疑？",
+      q: "7. 第一次限制（Tzimtzum Aleph）前后 Ein Sof（无限世界）的状态是什么？",
         options: [
-          "怀疑不是错误；它们是由上层力量发送的，旨在给人留出空间来建立理智之上的信念（给予的力量）。",
-          "怀疑表明应该停止学习。",
-          "怀疑是邪恶恶魔的直接工作。",
-          "卡巴拉学者身上从不会出现怀疑。"
+          "在此之前，它是光与容器之间完美、无限统一的状态；之后，光退缩了，为基于自由意志的修正容器腾出了空间。",
+          "Ein Sof 被彻底摧毁。",
+          "什么都没有改变。",
+          "Ein Sof 转移到了物理世界。"
         ],
         correct: 0,
-        r: "怀疑提供了一个机会，可以选择信仰（给予）的道路，而不是依靠自己的理性。"
+        r: "Ein Sof 是绝对满足的状态，它在 Tzimtzum 之后为上层世界的层级结构提供了空间。"
     },
     {
-      q: "8. 关于与造物主的关系，理智之上的工作的目的是什么？",
+      q: "8. 在其他上层世界（布里亚、耶齐拉、阿西亚）中，阿齐卢特世界的作用是什么？",
         options: [
-          "受造物接近造物主不是出于私利或个人利益，而是出于纯洁、无私的爱（为了给予而给予）。",
-          "在物理世界中获得物质财富。",
-          "逃避日常责任。",
-          "获得对其他人的特殊权力。"
+          "阿齐卢特是纯粹给予的世界（Keter, Hochma, Bina），它统治并滋养着需要修正的下层世界布里亚、耶齐拉和阿西亚。",
+          "阿齐卢特是物理地狱。",
+          "阿齐卢特只是一个临时仓库。",
+          "阿齐卢特完全独立于其他世界。"
         ],
         correct: 0,
-        r: "理智之上的信念确保了与造物主的关系摆脱了以自我为中心的动机。"
+        r: "阿齐卢特是纯光与给予统治的流出世界，维持着布里亚-耶齐拉-阿西亚（BYA）系统。"
     },
     {
-      q: "9. 老师（或目标）的伟大与对理智之上的信念的吸收之间有什么联系？",
+      q: "9. 上层世界系统中的亚当·卡德蒙（AK）世界有什么特征？",
         options: [
-          "当老师或灵性目标的价值在人眼中很高时，它赋予他克服其琐碎逻辑并在理智之上行动的力量。",
-          "它们之间没有任何联系。",
-          "老师的伟大只会增加书本知识。",
-          "老师教导我们不要思考。"
+          "亚当·卡德蒙是 Ein Sof 之后的第一个纯净灵性世界，所有其他下层世界（阿齐卢特、布里亚、耶齐拉、阿西亚）都由此分支出去。",
+          "它是物理人类的解剖结构。",
+          "它是最黑暗的地下世界。",
+          "它没有任何意义。"
         ],
         correct: 0,
-        r: "感知目标或老师的重要性（伟大）赋予了超越理智上升的力量。"
+        r: "亚当·卡德蒙是 Ein Sof 之后的第一个结构化世界，为普遍的灵性层级奠定了基础。"
     },
     {
-      q: "10. 当一个人开始按照理智之上的信念（Emuna）行事时，他的内心世界如何改变？",
+      q: "10. 在上层世界的架构中，上层光（Ohr Yashar）与容器（Kelim）之间的关系是如何构成的？",
         options: [
-          "内心的不确定性消融，建立起一个独立于外部环境的稳定、永恒的灵性世界观。",
-          "人失去理智。",
-          "世界的物理现实完全停止存在。",
-          "人变得被动和冷漠。"
+          "光总是想要充满每一个容器，但 Masach（屏幕）和 Ohr Hozer（返回之光）调节了能纯净流入多少光。",
+          "光完全独立于容器。",
+          "容器摧毁了光。",
+          "没有任何相互作用。"
         ],
         correct: 0,
-        r: "理智之上的信念根据上层世界提供了稳定的内在平衡和永恒的视角。"
+        r: "在 Masach 的引导下，光与容器之间的相互作用塑造了灵性世界的精确内部秩序和等级。"
       }
     ],
   "zh-hant": [
     {
-      q: "1. 在卡巴拉中，“理智之上的信念”（Emuna le-ma'ala min ha-daat）原則的主要意義是什麼？",
+      q: "1. 在卡巴拉中，五個靈性世界結構的主要層級是什麼？",
       options: [
-        "它使人能夠透過不依賴自己有限的利己理智，而是依靠造物主的給予屬性来实现靈性上升。",
-        "這意味著沒有任何邏輯的盲目順從。",
-        "這是在日常生活中對科學的拒絕。",
-        "這是對物理世界的完全忽視。"
+        "亞當·卡德蒙（Adam Kadmon）、阿齊卢特（Atzilut）、布里亞（Beria）、耶齊拉（Yetzira）和阿西亞（Assiya）。",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "理智之上的信念不是盲目，而是採納超越利己邏輯的上層光明的給予視角。"
+      r: "靈性世界從上到下的順序是：亞當·卡德蒙、阿齊卢特、布里亞、耶齊拉和阿西亞。"
     },
     {
-      q: "2. 為什麼人類自然、天生的理智在感知靈性現實時是有限的？",
+      q: "2. 馬赫索姆（Machsom，屏障/門檻）位於何處？它的靈性作用是什麼？",
         options: [
-          "因為它是建立在利己的慾望和為了自身利益的計算之上，而靈性則是基於給予的法則。",
-          "因為人類大腦在生物學上太小了。",
-          "因為物理定律禁止靈性思考。",
-          "因為現代科技的發展還不夠先進。"
+          "它位於靈性世界（阿齊卢特上下）與物理世界之間，標誌著一個人在進入純粹給予世界之前，憑自身努力所能達到的極限。",
+          "它位於物理身體的心臟部位。",
+          "它位於地球與月亮之間的太空中。",
+          "它在靈性中沒有任何作用。"
         ],
         correct: 0,
-        r: "自然理智在接收意願（Aviyut）的框架內運作，因此無法掌握更高層次的給予法則。"
+        r: "馬赫索姆是利己慾望（下層阿西亞/耶齊拉）與純粹給予意圖（阿齊卢特/布里亞）之間的分界線。"
     },
     {
-      q: "3. 第23課的主題（理智之上的信念）與先前課程中的 Tzimtzum 和 Masach 概念有何聯繫？",
+      q: "3. 帕爾祖夫（Partzuf）的內部解剖結構（Rosh, Toch, Sof）由哪些部分組成？",
         options: [
-          "在物理和靈性現實中運作 Masach（屏幕）正是實現理智之上的工作的確切體現，其中利己的計算被給予的意圖所取代。",
-          "它們之間沒有任何聯繫。",
-          "Tzimtzum 與理智之上的信念正好相反。",
-          "Masach 僅適用於物理身體。"
+          "Rosh（頭部——進行計算的地方）、Toch（內部——光流入的地方）和 Sof（尾部——接收結束的地方）。",
+          "手、腳、軀幹。",
+          "阿爾法、貝塔、伽馬。",
+          "過去、現在、未來。"
         ],
         correct: 0,
-        r: "實踐理智之上的信念就是在 Partzuf 中執行過濾（Masach）和返回之光的實際應用。"
+        r: "根據屏幕（Masach）的運作，每個帕爾祖夫都由 Rosh（頭部）、Toch（內部）和 Sof（尾部）階段構成。"
     },
     {
-      q: "4. “物理盲目”與理智之上的信念的視角有什麼區別？",
+      q: "4. 帕爾祖夫中的 Peh（口）、Chaze（胸）和 Tabur（肚臍）邊界意味著什麼？",
         options: [
-          "理智之上的信念不是對現實的否定，而是為了更高、更包容的靈性法則（給予）而超越世俗的邏輯。",
-          "物理盲目會產生更好的靈性結果。",
-          "兩者之間沒有任何區別。",
-          "理智之上的信念是對科學的偽造。"
+          "Peh 是屏幕所在地（光進入的地方），Chaze 是中線的邊界，Tabur 是光仍可被接收的下限。",
+          "這些純粹是物理身體的解剖學術語。",
+          "它們表示行星軌道。",
+          "它們代表日曆月份。"
         ],
         correct: 0,
-        r: "理智之上的信念是一種更高層次的意識狀態，它補充並超越了較低級的利己計算。"
+        r: "Peh、Chaze 和 Tabur 是帕爾祖夫內部過濾器和邊界，決定了光的流動。"
     },
     {
-      q: "5. 十人組（Kevod ha-Tzevet / 十人小組）在實現理智之上的信念中扮演什麼角色？",
+      q: "5. 上層世界中的 125 個靈性台階是如何形成的？",
         options: [
-          "該小組提供支持、力量和相互保證（Arvut）的氛圍，個人在其中可以超越其利己的局限。",
-          "小組僅僅是進行友好閒聊的場所。",
-          "小組的存在是為了彼此競爭。",
-          "小組在其中沒有任何作用。"
+          "5個世界乘以每個世界的 5 個帕爾祖夫，再乘以每個帕爾祖夫的 5 個薩菲羅特（5 x 5 x 5 = 125）。",
+          "在正好 125 個物理天內。",
+          "追隨 125 位不同的先知。",
+          "隨機分佈在各個世界之間。"
         ],
         correct: 0,
-        r: "十人組內部的工作以及對朋友偉大的讚賞有助於個人上升到理智之上的信念。"
+        r: "靈性階梯的完整系統是由 5 個世界相乘組成，每個世界有 5 個帕爾祖夫，每個帕爾祖夫有 5 個薩菲羅特（125 個台階）。"
     },
     {
-      q: "6. “Lo ba-shamayim hi”（它不在天上）這一原則在理智之上的工作中意味著什麼？",
+      q: "6. Galgalta ve-Eynaim (GE) 容器與 AHP (Awzen, Hotem, Peh) 容器有什麼區別？",
         options: [
-          "靈性的上升和理智之上的態度必須由人從他真實的處境出發，透過真實生活的挑戰來建立。",
-          "宗教與日常生活毫無關係。",
-          "冥想時必須在雲端漫步。",
-          "上帝從不干預。"
+          "GE（Galgalta ve-Eynaim）是純粹的給予容器（專門為他人行事），而 AHP 是試圖為自己吸收快樂的接收容器。",
+          "GE 是物理眼睛，AHP 是耳朵。",
+          "兩者沒有任何區別。",
+          "AHP 是最高純淨的光。"
         ],
         correct: 0,
-        r: "靈性工作是在大地上實現的，透過日常生活的困難和戰勝自我來實現。"
+        r: "GE 是頭部的上部（給予的慾望），而 AHP 是下部（等待修正的接收慾望）。"
     },
     {
-      q: "7. 卡巴拉如何看待靈性道路上的懷疑？",
+      q: "7. 第一次限制（Tzimtzum Aleph）前後 Ein Sof（無限世界）的狀態是什麼？",
         options: [
-          "懷疑不是錯誤；它們是由上層力量發送的，旨在給人留出空間來建立理智之上的信念（給予的力量）。",
-          "懷疑表明應該停止學習。",
-          "懷疑是邪惡惡魔的直接工作。",
-          "卡巴拉學者身上從不會出現懷疑。"
+          "在此之前，它是光與容器之間完美、無限統一的狀態；之後，光退縮了，為基於自由意志的修正容器騰出了空間。",
+          "Ein Sof 被徹底摧毀。",
+          "什麼都沒有改變。",
+          "Ein Sof 轉移到了物理世界。"
         ],
         correct: 0,
-        r: "懷疑提供了一個機會，可以選擇信仰（給予）的道路，而不是依靠自己的理性。"
+        r: "Ein Sof 是絕對滿足的狀態，它在 Tzimtzum 之後為上層世界的層級結構提供了空間。"
     },
     {
-      q: "8. 關於與造物主的關係，理智之上的工作的目的是什麼？",
+      q: "8. 在其他上層世界（布里亞、耶齊拉、阿西亞）中，阿齊卢特世界的作用是什麼？",
         options: [
-          "受造物接近造物主不是出於私利或個人利益，而是出於純潔、無私的愛（為了給予而給予）。",
-          "在物理世界中獲得物質財富。",
-          "逃避日常責任。",
-          "獲得對其他人的特殊權力。"
+          "阿齊卢特是純粹給予的世界（Keter, Hochma, Bina），它統治並滋養著需要修正的下層世界布里亞、耶齊拉和阿西亞。",
+          "阿齊卢特是物理地獄。",
+          "阿齊卢特只是一個臨時倉庫。",
+          "阿齊卢特完全獨立於其他世界。"
         ],
         correct: 0,
-        r: "理智之上的信念確保了與造物主的關係擺脫了以自我為中心的動機。"
+        r: "阿齊卢特是純光與給予統治的流出世界，維持著布里亞-耶齊拉-阿西亞（BYA）系統。"
     },
     {
-      q: "9. 老師（或目標）的偉大與對理智之上的信念的吸收之間有什麼聯繫？",
+      q: "9. 上層世界系統中的亞當·卡德蒙（AK）世界有什麼特徵？",
         options: [
-          "當老師或靈性目標的價值在人眼中很高時，它賦予他克服其瑣碎邏輯並在理智之上行動的力量。",
-          "它們之間沒有任何聯繫。",
-          "老師的偉大只會增加書本知識。",
-          "老師教導我們不要思考。"
+          "亞當·卡德蒙是 Ein Sof 之後的第一個純淨靈性世界，所有其他下層世界（阿齊卢特、布里亞、耶齊拉、阿西亞）都由此分支出去。",
+          "它是物理人類的解剖結構。",
+          "它是最黑暗的地底下世界。",
+          "它沒有任何意義。"
         ],
         correct: 0,
-        r: "感知目標或老師的重要性（偉大）賦予了超越理智上升的力量。"
+        r: "亞當·卡德蒙是 Ein Sof 之後的第一個結構化世界，為普遍的靈性層級奠定了基礎。"
     },
     {
-      q: "10. 當一個人開始按照理智之上的信念（Emuna）行事時，他的內心世界如何改變？",
+      q: "10. 在上層世界的架構中，上層光（Ohr Yashar）與容器（Kelim）之間的關係是如何構成的？",
         options: [
-          "內心的不確定性消融，建立起一個獨立於外部環境的穩定、永恆的靈性世界觀。",
-          "人失去理智。",
-          "世界的物理現實完全停止存在。",
-          "人變得被動和冷漠。"
+          "光總是想要充滿每一個容器，但 Masach（屏幕）和 Ohr Hozer（返回之光）調節了能純淨流入多少光。",
+          "光完全獨立於容器。",
+          "容器摧毀了光。",
+          "沒有任何相互作用。"
         ],
         correct: 0,
-        r: "理智之上的信念根據上層世界提供了穩定的內在平衡和永恆的視角。"
+        r: "在 Masach 的引導下，光與容器之間的相互作用塑造了靈性世界的精確內部秩序和等級。"
       }
     ],
   ja: [
     {
-      q: "1. カバラにおいて「理性を超えた信仰」（Emuna le-ma'ala min ha-daat）という原則の主な意味は何ですか？",
+      q: "1. カバラにおける5つの霊的世界の構造の主なレベルは何ですか？",
       options: [
-        "自分自身の限られたエゴイスティックな理性ではなく、創造主の与える属性に頼ることで、霊的上昇を可能にすること。",
-        "いかなる論理もなく盲目的に従順であることを意味する。",
-        "日常生活において科学を拒絶することである。",
-        "物理的世界を完全に無視することである。"
+        "アダム・カドモン、アツィルト、ベリア、イェツィラ、アシヤ。",
+        "ケテル、ホフマ、ビナ、ティフェレト、マルフット。",
+        "ロシュ、トフ、ソフ、ペה、タブル。",
+        "アレフ、ベット、ギメル、ダレト、ヘイ。"
       ],
       correct: 0,
-      r: "理性を超えた信仰とは盲目ではなく、エゴイスティックな論理を超えた上層の光の与える視点を取り入れることです。"
+      r: "上から下への霊的世界の順序は、アダム・カドモン、アツィルト、ベリア、イェツィラ、アシヤです。"
     },
     {
-      q: "2. なぜ人間の自然で生まれながらの理性は、霊的現実を知覚する際に制限されているのですか？",
+      q: "2. マフソム（障壁/境界）はどこに位置し、その霊的役割は何ですか？",
         options: [
-          "エゴイスティックな欲望と自分の利益のための計算に基づいて構築されているのに対し、霊性は与える法則に基づいているから。",
-          "人間の脳が生物学的に小さすぎるから。",
-          "物理的法則が霊的思考を禁止しているから。",
-          "現代のテクノロジーがまだ十分に進歩していないから。"
+          "霊的世界（アツィルトの上/下）と物理的世界の間に位置し、純粋な与えの世界へと移行する前に、人間が自らの努力で到達できる限界を示している。",
+          "物理的身体の心臓部にある。",
+          "地球と月の間の宇宙空間にある。",
+          "霊性において何の役割も果たさない。"
         ],
         correct: 0,
-        r: "自然の理性は受け取る意志（アヴィユト）の枠内で動作するため、与える高次の法則を把握することができません。"
+        r: "マフソムは、エゴイスティックな欲望（下層のアシヤ/イェツィラ）と純粋な与えの意図（アツィルト/ベリア）の間の境界線です。"
     },
     {
-      q: "3. 第23課のテーマ（理性を超えた信仰）は、前の課のツィムツムやマサフの概念とどのようにつながっていますか？",
+      q: "3. パルツルフの内部解剖学（ロシュ、トフ、ソフ）を構成する部分はどれですか？",
         options: [
-          "物理的および霊的現実においてマサフ（スクリーン）を機能させることは、まさに理性を超えた労働の実現であり、そこではエゴイスティックな計算が与える意図によって上書きされる。",
-          "それらの間には何の関係もない。",
-          "ツィムツムは理性を超えた信仰の反対である。",
-          "マサフは肉体にのみ適用される。"
+          "ロシュ（頭 – 計算が行われる場所）、トフ（内部 – 光が流れ込む場所）、ソフ（終端 – 受取りが完了する場所）。",
+          "手、足、胴体。",
+          "アルファ、ベータ、ガンマ。",
+          "過去、現在、未来。"
         ],
         correct: 0,
-        r: "理性を超えた信仰を実践することは、パルツルフで行われるフィルタリング（マサフ）と反射された光の実践的な応用です。"
+        r: "すべてのパルツルフは、スクリーン（マサフ）の働きに従って、ロシュ、トフ、ソフの段階から構築されています。"
     },
     {
-      q: "4. 「物理的な盲目」と「理性を超えた信仰」の視点との違いは何ですか？",
+      q: "4. パルツルフにおけるペה（口）、ハゼ（胸）、タブル（へそ）という境界は何を意味しますか？",
         options: [
-          "理性を超えた信仰は現実の否定ではなく、より高次の、すべてを包含する霊的法則（与えること）のために地上の論理を超越することである。",
-          "物理的盲目はより良い霊的結果をもたらす。",
+          "ペהはスクリーンの場所（光が入る場所）、ハゼは中間のラインの境界、タブルは光をまだ受け取ることができる下限である。",
+          "これらは物理的身体の単なる解剖学的用語である。",
+          "惑星の軌道を示している。",
+          "暦の月を表している。"
+        ],
+        correct: 0,
+        r: "ペה、ハゼ、タブルは、パルツルフ内の光の流れを決定する内部フィルターおよび境界です。"
+    },
+    {
+      q: "5. 上層の世界における125の霊的段階はどのように形成されますか？",
+        options: [
+          "5つの世界 × 世界ごとの5つのパルツルフ × パルツルフごとの5つのセフィロト（5 x 5 x 5 = 125）。",
+          "正確に125の物理的日で。",
+          "125人の異なる預言者に従って。",
+          "世界の間でランダムに分配されて。"
+        ],
+        correct: 0,
+        r: "霊的階級の完全なシステムは、5つの世界の積として構成され、それぞれに5つのパルツルフがあり、各パルツルフには5つのセフィロトがあります（125段階）。"
+    },
+    {
+      q: "6. ガルガルタ・ヴェ・エイナイム（GE）の器とAHP（アウゼン、ホテム、ペה）の器の違いは何ですか？",
+        options: [
+          "GE（ガルガルタ・ヴェ・エイナイム）は純粋に与える器（もっぱら他者のために行動する）であり、AHPは自分のために快楽を吸収しようとする受け取る器である。",
+          "GEは物理的な目であり、AHPは耳である。",
           "両者の間には何の違いもない。",
-          "理性を超えた信仰は科学の改ざんである。"
+          "AHPは最高純度の光である。"
         ],
         correct: 0,
-        r: "理性を超えた信仰とは、低次のエゴイスティックな計算を補完し上書きする高次の意識状態です。"
+        r: "GEは頭の上部（与える欲望）であり、AHPは下部（修正を待つ受け取る欲望）です。"
     },
     {
-      q: "5. 理性を超えた信仰を達成する上で、十人組（ケヴォド・ה-ツェヴェット / 10人のグループ）の役割は何ですか？",
+      q: "7. 第一次制限（ツィムツム・アレフ）の前後のエイン・ソフ（無限の世界）の状態はどうでしたか？",
         options: [
-          "グループは、個人がエゴイスティックな限界を超越できるようなサポート、強さ、相互保証（アルヴト）の雰囲気を提供する。",
-          "グループは単なるおしゃべりの場である。",
-          "グループはお互いに競争するために存在する。",
-          "グループはこれにおいて何の役割も果たさない。"
+          "以前は、光と器の間の完璧で無制限な統一の状態であり、その後、光は自由意志に基づく修正された器のための場所を作るために退いた。",
+          "エイン・ソフは完全に破壊された。",
+          "何も変わらなかった。",
+          "エイン・ソフは物理的世界に移行した。"
         ],
         correct: 0,
-        r: "十人組の中での労働と仲間たちの偉大さを評価することが、個人が理性を超えた信仰へと上昇するのを助けます。"
+        r: "エイン・ソフは絶対的な満たしの状態であり、ツィムツムの後、上層の世界の階層構造にスペースを与えます。"
     },
     {
-      q: "6. 理性を超えた労働における「ロ・バ・シャマイム・ヒ」（それは天にない）という原則の意味は何ですか？",
+      q: "8. 他の上層の世界（ベリア、イェツィラ、アシヤ）の中でのアツィルトの世界の役割は何ですか？",
         options: [
-          "霊的上昇と理性を超えた態度は、現実の状況から、現実の生活の試練を通じて人間によって築かれなければならないということ。",
-          "宗教は日常生活とは何の関係もないということ。",
-          "瞑想中は雲の上を歩かなければならないということ。",
-          "神は決して介入しないということ。"
+          "アツィルトは純粋な与えの世界（ケテル、ホフマ、ビナ）であり、修正を必要とする下層のベリア、イェツィラ、アシヤの世界を統治し養う。",
+          "アツィルトは物理的地獄である。",
+          "アツィルトは単なる一時的な倉庫である。",
+          "アツィルトは他の世界から完全に独立している。"
         ],
         correct: 0,
-        r: "霊的労働は地上で、日常生活の困難とエゴの克服を通じて実現されます。"
+        r: "アツィルトは、純粋な光と与えが君臨し、ブリ-イェツィラ-アシヤ（BYA）システムを維持するエマナシオンの世界です。"
     },
     {
-      q: "7. カバラは霊的な道のりにおける疑いをどのように見なしますか？",
+      q: "9. 上層の世界のシステムにおけるアダム・カドモン（AK）の世界の特徴は何ですか？",
         options: [
-          "疑いは間違いではなく、理性を超えた信仰（与える力）を築くためのスペースを人間に与えるために、上層の力によって送られるものである。",
-          "疑いは勉強をやめるべきことを示している。",
-          "疑いは悪の悪魔の直接的な仕業である。",
-          "カバリストには疑いは決して現れない。"
-        ],
-        correct: 0,
-        r: "疑いは、自分の理性に頼る代わりに信仰（与えること）の道を選択する機会を提供します。"
+          "アダム・カドモンはエイン・ソフの後の最初の純粋な霊的世界であり、そこから他のすべての下層の世界（アツィルト、ベリア、イェツィラ、アシヤ）が枝分かれしている。",
+        "それは物理的人間の解剖学である。",
+        "それは最も暗い地下世界である。",
+        "それは何の重要性もない。"
+      ],
+      correct: 0,
+      r: "アダム・カドモンはエイン・ソフの後の最初の構造化された世界であり、普遍的な霊的階層の基礎を築いています。"
     },
     {
-      q: "8. 創造主との関係に関して、理性を超えた労働の目的は何ですか？",
+      q: "10. 上層の世界の建築において、上層の光（オר・ヤシャル）と器（ケリム）の関係はどのように構築されていますか？",
         options: [
-          "被造物が、私利私欲や個人的利益のためではなく、純粋で無私の愛（与えるための与え）から創造主に近づくこと。",
-          "物理的世界で物質的な富を獲得すること。",
-          "日常の責任から逃れること。",
-          "他者に対する特別な権力を獲得すること。"
+          "光は常にすべての器を満たそうとするが、マサフ（スクリーン）とオר・ホゼル（戻された光）が、どれだけの光が純粋に流れ込めるかを調整する。",
+          "光は器から完全に独立している。",
+          "器は光を破壊する。",
+          "相互作用はまったくない。"
         ],
         correct: 0,
-        r: "理性を超えた信仰により、創造主との関係がエゴセントリックな動機から解放されることが保証されます。"
-    },
-    {
-      q: "9. 師（または目的）の偉大さと理性を超えた信仰の吸収との関係は何ですか？",
-        options: [
-          "師や霊的目的の価値が人間の目にとって大きいとき、それは彼にちっぽけな論理を克服し、理性を超えて行動する力を与える。",
-          "それらの間には何の関係もない。",
-          "師の偉大さは本による知識を増やすだけである。",
-          "師は私たちに考えないように教える。"
-        ],
-        correct: 0,
-        r: "目的や師の重要性（偉大さ）を知覚することが、理性を超えて上昇する力を与えます。"
-    },
-    {
-      q: "10. 人間が理性を超えた信仰（エムナ）に従って行動し始めるとき、その内面の世界はどのように変わりますか？",
-        options: [
-          "内面の不安が消え、外部の状況に左右されない安定した永遠の霊的世界観が確立される。",
-          "人間は正気を失う。",
-          "世界の物理的現実が完全に存在しなくなる。",
-          "人間は受動的で無関心になる。"
-        ],
-        correct: 0,
-        r: "理性を超えた信仰は、上層の世界に従って安定した内面のバランスと永遠の視点を提供します。"
+        r: "マサフに導かれた光と器の相互作用は、霊的世界の正確な内部秩序と段階を形作ります。"
       }
     ],
   ko: [
     {
-      q: "1. 카발라에서 '이성 위의 신앙'(Emuna le-ma'ala min ha-daat) 원칙의 주요 의미는 무엇입니까?",
+      q: "1. 카발라에서 5대 영적 세계 구조의 주요 단계는 무엇입니까?",
       options: [
-        "자신의 제한된 이기적 이성에 의존하는 것이 아니라 창조자의 베풂 속성에 의존함으로써 영적 상승을 가능하게 합니다.",
-        "어떤 논리도 없이 맹목적으로 순종한다는 의미입니다.",
-        "일상생활에서 과학을 거부하는 것입니다.",
-        "물리적 세계를 완전히 무시하는 것입니다."
+        "아담 카드몬, 아실룻, 브리아, 예치라, 아시야.",
+        "케테르, 호크마, 비나, 티페레트, 말후트.",
+        "로시, 토흐, 소프, 페, 타부르.",
+        "알레프, 베트, 기멜, 달레트, 헤이."
       ],
       correct: 0,
-      r: "이성 위의 신앙은 맹목이 아니라, 이기적 논리를 넘어선 상위 빛의 베푸는 관점을 채택하는 것입니다."
+      r: "위에서 아래로 영적 세계의 순서는 아담 카드몬, 아실룻, 브리아, 예치라, 아시야입니다."
     },
     {
-      q: "2. 인간의 자연스럽고 타고난 이성이 영적 현실을 지각하는 데 제한적인 이유는 무엇입니까?",
+      q: "2. 마흐솜(장벽/문턱)은 어디에 위치하며 그 영적 역할은 무엇입니까?",
         options: [
-          "자신의 이익을 위한 이기적 욕망과 계산 위에 구축되어 있는 반면, 영성은 베풂의 법칙에 기반하기 때문입니다.",
-          "인간의 뇌가 생물학적으로 너무 작기 때문입니다.",
-          "물리적 법칙이 영적 사고를 금지하기 때문입니다.",
-          "현대 기술이 아직 충분히 발전하지 않았기 때문입니다."
+          "영적 세계(아실룻 위/아래)와 물리적 세계 사이에 위치하며, 순수한 베풂의 세계로 건너가기 전에 인간이 자신의 노력으로 도달할 수 있는 한계를 나타냅니다.",
+          "물리적 신체의 심장에 있습니다.",
+          "지구와 달 사이의 우주 공간에 있습니다.",
+          "영성에서 아무런 역할도 하지 않습니다."
         ],
         correct: 0,
-        r: "자연적 이성은 받는 욕망(아비유트)의 틀 내에서 작동하므로 베풂의 더 높은 법칙을 파악할 수 없습니다."
+        r: "마흐솜은 이기적 욕망(하위 아시야/예치라)과 순수한 베풂의 의도(아실룻/브리아) 사이의 분할선입니다."
     },
     {
-      q: "3. 제23과의 주제(이성 위의 신앙)는 이전과의 Tzimtzum 및 Masach 개념과 어떻게 연결됩니까?",
+      q: "3. 파르주프(Partzuf)의 내부 해부학(로시, 토흐, 소프)을 구성하는 부위는 무엇입니까?",
         options: [
-          "물리적 및 영적 현실에서 Masach(스크린)를 작동하는 것은 이기적 계산이 베풂의 의도에 의해 무시되는 이성 위의 작업을 실현하는 것입니다.",
-          "그들 사이에는 아무런 연관이 없습니다.",
-          "Tzimtzum은 이성 위의 신앙과 정반대입니다.",
-          "Masach는 육체에만 적용됩니다."
+          "로시(머리 – 계산이 이루어지는 곳), 토흐(내부 – 빛이 흘러들어가는 곳), 소프(끝 – 수령이 끝나는 곳).",
+          "손, 발, 몸통.",
+          "알파, 베타, 감마.",
+          "과거, 현재, 미래."
         ],
         correct: 0,
-        r: "이성 위의 신앙을 실천하는 것은 파르주프에서 수행되는 필터링(Masach)과 반사된 빛의 실제 적용입니다."
+        r: "모든 파르주프는 스크린(마사흐)의 작동에 따라 로시, 토흐, 소프 단계로 구성됩니다."
     },
     {
-      q: "4. '물리적 맹목'과 이성 위의 신앙 관점 사이의 차이점은 무엇입니까?",
+      q: "4. 파르주프 내의 페(입), 하제(가슴), 타부르(배꼽) 경계는 무엇을 의미합니까?",
         options: [
-          "이성 위의 신앙은 현실을 부정하는 것이 아니라, 더 높고 포괄적인 영적 법칙(베풂)을 위해 세속적 논리를 초월하는 것입니다.",
-          "물리적 맹목은 더 나은 영적 결과를 가져옵니다.",
-          "둘 사이에는 아무런 차이가 없습니다.",
-          "이성 위의 신앙은 과학의 위조입니다."
+          "페는 스크린의 위치(빛이 들어오는 곳), 하제는 중간선의 경계, 타부르는 빛이 여전히 수령될 수 있는 하한선입니다.",
+          "이것들은 육체에 대한 순수한 해부학적 용어입니다.",
+          "행성 궤도를 나타냅니다.",
+          "달력을 나타냅니다."
         ],
         correct: 0,
-        r: "이성 위의 신앙은 더 낮고 이기적인 계산을 보완하고 무시하는 더 높은 의식 상태입니다."
+        r: "페, 하제, 타부르는 파르주프 내부의 필터이자 경계로 빛의 흐름을 결정합니다."
     },
     {
-      q: "5. 이성 위의 신앙을 달성하는 데 십인조(케보드 하-체베트 / 10인 그룹)의 역할은 무엇입니까?",
+      q: "5. 상위 세계에서 125개의 영적 단계는 어떻게 형성됩니까?",
         options: [
-          "그룹은 개인이 이기적 한계를 뛰어넘을 수 있는 지원, 힘, 상호 보증(아르부트)의 분위기를 제공합니다.",
-          "그룹은 단순히 친근한 대화를 나누는 장소입니다.",
-          "그룹은 서로 경쟁하기 위해 존재합니다.",
-          "그룹은 이에 대해 아무런 역할도 하지 않습니다."
+          "5개 세계 곱하기 세계당 5개 파르주프, 곱하기 파르주프당 5개 세피롯 (5 x 5 x 5 = 125).",
+          "정확히 125일의 물리적 일 동안.",
+          "125명의 다른 예언자를 따라서.",
+          "세계들 사이에 무작위로 분산되어."
         ],
         correct: 0,
-        r: "십인조 내에서의 작업과 친구들의 위대함을 인정하는 것은 개인이 이성 위의 신앙으로 상승하는 데 도움이 됩니다."
+        r: "영적 단계의 완전한 시스템은 5개 세계의 곱으로 구성되며, 각 세계에는 5개 파르주프가 있고 각 파르주프에는 5개 세피롯이 있습니다(125단계)."
     },
     {
-      q: "6. 이성 위의 작업에서 '로 바-샤마임 히'(그것은 하늘에 있지 않다) 원칙은 무엇을 의미합니까?",
+      q: "6. 갈갈타 베-에이나임(GE) 그릇과 AHP(아우젠, 호템, 페) 그릇의 차이점은 무엇입니까?",
         options: [
-          "영적 상승과 이성 위의 태도는 인간이 자신의 실제 상황에서, 실제 삶의 도전을 통해 구축해야 한다는 것.",
-          "종교는 일상생활과 아무런 관련이 없다는 것.",
-          "명상하는 동안 구름 속을 걸어야 한다는 것.",
-          "하나님은 결코 개입하지 않으신다는 것."
+          "GE(갈갈타 베-에이나임)는 순수한 베풂의 그릇(오직 남을 위해 행동함)인 반면, AHP는 자신을 위해 쾌락을 흡수하려는 수령의 그릇입니다.",
+          "GE는 육체의 눈이고 AHP는 귀입니다.",
+          "아무런 차이가 없습니다.",
+          "AHP는 가장 높은 순수한 빛입니다."
         ],
         correct: 0,
-        r: "영적 작업은 지상에서, 일상생활의 어려움과 에고를 극복함을 통해 실현됩니다."
+        r: "GE는 머리의 상부(베풂의 욕망)인 반면, AHP는 하부(교정을 기다리는 수령의 욕망)입니다."
     },
     {
-      q: "7. 카발라는 영적 길에서의 의심을 어떻게 바라봅니까?",
+      q: "7. 제1제한(치무춤 알레프) 전후의 아인 소프(무한 세계)의 상태는 무엇입니까?",
         options: [
-          "의심은 실수가 아니며, 인간에게 이성 위의 신앙(베풂의 힘)을 구축할 공간을 주기 위해 상위 힘에 의해 보내집니다.",
-          "의심은 공부를 중단해야 함을 나타냅니다.",
-          "의심은 사악한 악마의 직접적인 작업입니다.",
-          "카발라 학자에게는 의심이 결코 나타나지 않습니다."
+          "이전에는 빛과 그릇 사이의 완벽하고 무제한적인 일치 상태였으며, 그 후 빛이 물러나 자유 의지에 기반한 교정된 그릇을 위한 공간을 마련했습니다.",
+          "아인 소프가 완전히 파괴되었습니다.",
+          "아무것도 변하지 않았습니다.",
+          "아인 소프가 물리적 세계로 이전되었습니다."
         ],
         correct: 0,
-        r: "의심은 자신의 이성에 의존하는 대신 신앙(베풂)의 길을 선택할 기회를 제공합니다."
+        r: "아인 소프는 절대적 충만의 상태였으며, 치무춤 이후 상위 세계의 계층적 구조에 공간을 제공합니다."
     },
     {
-      q: "8. 창조자와의 관계와 관련하여 이성 위의 작업의 목적은 무엇입니까?",
+      q: "8. 다른 상위 세계(브리아, 예치라, 아시야) 중에서 아실룻 세계의 역할은 무엇입니까?",
         options: [
-          "피조물이 개인의 이익이나 개인적 이득 때문이 아니라 순수하고 이타적인 사랑(베풂을 위한 베풂)으로 창조자에게 가까이 다가가는 것.",
-          "물리적 세계에서 물질적 부를 얻는 것.",
-          "일상의 책임을 피하는 것.",
-          "다른 사람들에 대한 특별한 힘을 획득하는 것."
+          "아실룻은 순수한 베풂의 세계(케테르, 호크마, 비나)로, 교정이 필요한 하위 브리아, 예치라, 아시야 세계를 통치하고 양육합니다.",
+          "아실룻은 물리적 지옥입니다.",
+          "아실룻은 임시 창고에 불과합니다.",
+          "아실룻은 다른 세계와 완전히 독립되어 있습니다."
         ],
         correct: 0,
-        r: "이성 위의 신앙은 창조자와의 관계가 에고 중심적 동기로부터 자유롭도록 보장합니다."
+        r: "아실룻은 순수한 빛과 베풂이 군림하는 에마나시옹의 세계로, 브리아-예치라-아시야(BYA) 시스템을 유지합니다."
     },
     {
-      q: "9. 교사(또는 목표)의 위대함과 이성 위의 신앙의 흡수 사이의 연관성은 무엇입니까?",
+      q: "9. 상위 세계 시스템에서 아담 카드몬(AK) 세계의 특징은 무엇입니까?",
         options: [
-          "교사나 영적 목표의 가치가 인간의 눈에 클 때, 그것은 그가 쪼잔한 논리를 극복하고 이성 위에서 행동할 수 있는 힘을 줍니다.",
-          "그들 사이에는 아무런 연관이 없습니다.",
-          "교사의 위대함은 책 지식만 증가시킵니다.",
-          "교사는 생각하지 말라고 가르칩니다."
+          "아담 카드몬은 아인 소프 이후의 첫 번째 순수한 영적 세계로, 다른 모든 하위 세계(아실룻, 브리아, 예치라, 아시야)가 이로부터 갈라져 나옵니다.",
+          "육체 인간의 해부학입니다.",
+          "가장 어두운 지하 세계입니다.",
+          "아무런 의미가 없습니다."
         ],
         correct: 0,
-        r: "목표나 교사의 중요성(위대함)을 지각하는 것은 이성 위로 상승할 힘을 줍니다."
+        r: "아담 카드몬은 아인 소프 이후의 첫 번째 구조화된 세계로 보편적 영적 계층의 기초를 놓습니다."
     },
     {
-      q: "10. 개인이 이성 위의 신앙(에무나)에 따라 행동하기 시작할 때 내면 세계는 어떻게 변합니까?",
+      q: "10. 상위 세계의 건축에서 상위 빛(오르 야샤르)과 그릇(켈림) 사이의 관계는 어떻게 구성되어 있습니까?",
         options: [
-          "내면의 불확실성이 해소되고 외적 상황에 구애받지 않는 안정되고 영원한 영적 세계관이 확립됩니다.",
-          "사람이 제정신을 잃습니다.",
-          "세계의 물리적 현실이 완전히 존재하지 않게 됩니다.",
-          "사람이 수동적이고 무관심해집니다."
+          "빛은 항상 모든 그릇을 채우기를 원하지만, 마사흐(스크린)와 오르 호제르(반사된 빛)가 얼마나 많은 빛이 순수하게 흘러들어올 수 있는지 조절합니다.",
+          "빛은 그릇과 완전히 독립되어 있습니다.",
+          "그릇이 빛을 파괴합니다.",
+          "아무런 상호 작용이 없습니다."
         ],
         correct: 0,
-        r: "이성 위의 신앙은 상위 세계에 따라 안정된 내면의 균형과 영원한 관점을 제공합니다."
+        r: "마사흐의 안내를 받는 빛과 그릇 사이의 상호 작용은 영적 세계의 정확한 내부 질서와 단계를 형성합니다."
       }
     ],
   hi: [
     {
-      q: "1. कबाला में 'तर्क से ऊपर विश्वास' (Emuna le-ma'ala min ha-daat) सिद्धांत का मुख्य अर्थ क्या है?",
+      q: "1. कबाला में पांच आध्यात्मिक दुनिया की संरचना के मुख्य स्तर क्या हैं?",
       options: [
-        "यह किसी की सीमित स्वार्थी तर्क पर नहीं, बल्कि सृष्टिकर्ता के प्रदान करने के गुण पर भरोसा करके आध्यात्मिक उत्थान को सक्षम बनाता है।",
-        "इसका मतलब बिना किसी तर्क के अंधी आज्ञाकारिता है।",
-        "यह दैनिक जीवन में विज्ञान की अस्वीकृति है।",
-        "यह भौतिक दुनिया की पूरी उपेक्षा है।"
+        "आदम काद्मोन, अत्ज़िलुत, बेरिया, येत्ज़िरा और अस्सिया।",
+        "केतेर, होख्मा, बिना, तिफ़ेरत, मलखुत।",
+        "रोश, तोख, सोफ़, पेह, ताबुर।",
+        "आलेफ, बेत, गिमेल, दालत, हेय।"
       ],
       correct: 0,
-      r: "तर्क से ऊपर विश्वास अंधापन नहीं है, बल्कि स्वार्थी तर्क के ऊपर ऊपरी प्रकाश के प्रदान करने वाले दृष्टिकोण को अपनाना है।"
+      r: "ऊपर से नीचे आध्यात्मिक दुनिया का क्रम है: आदम काद्मोन, अत्ज़िलुत, बेरिया, येत्ज़िरा और अस्सिया।"
     },
     {
-      q: "2. आध्यात्मिक वास्तविकता को समझने में मनुष्य का प्राकृतिक, जन्मजात तर्क क्यों सीमित है?",
+      q: "2. माछसोम (अवरोध/दहलीज) कहाँ स्थित है और इसकी आध्यात्मिक भूमिका क्या है?",
         options: [
-          "क्योंकि यह स्वार्थी इच्छाओं और अपने स्वयं के लाभ के लिए गणनाओं पर बनाया गया है, जबकि आध्यात्मिकता प्रदान करने के नियम पर आधारित है।",
-          "क्योंकि मानव मस्तिष्क जैविक रूप से बहुत छोटा है।",
-          "क्योंकि भौतिक नियम आध्यात्मिक सोच को प्रतिबंधित करते हैं।",
-          "क्योंकि आधुनिक तकनीक अभी तक पर्याप्त रूप से उन्नत नहीं है।"
+          "यह आध्यात्मिक दुनिया (अत्ज़िलुत के ऊपर/नीचे) और भौतिक दुनिया के बीच स्थित है, जो उस सीमा को चिह्नित करती है जिसे एक व्यक्ति शुद्ध प्रदान करने की दुनिया में पार करने से पहले अपने स्वयं के प्रयास से प्राप्त कर सकता है।",
+          "यह भौतिक शरीर के हृदय में पाया जाता है।",
+          "यह पृथ्वी और चंद्रमा के बीच अंतरिक्ष में है।",
+          "आध्यात्मिकता में इसकी कोई भूमिका नहीं है।"
         ],
         correct: 0,
-        r: "प्राकृतिक तर्क प्राप्त करने की इच्छा (अवियुत) के फ्रेमवर्क के भीतर संचालित होता है, इस प्रकार प्रदान करने के उच्च नियमों को समझने में असमर्थ है।"
+        r: "माछसोम स्वार्थी इच्छा (निचली अस्सिया/येत्ज़िरा) और प्रदान करने के शुद्ध इरादे (अत्ज़िलुत/बेरिया) के बीच विभाजक रेखा है।"
     },
     {
-      q: "3. पाठ 23 का विषय (तर्क से ऊपर विश्वास) पिछले पाठों की त्ज़िमत्ज़ूम और मासाच की अवधारणाओं से कैसे जुड़ता है?",
+      q: "3. कौन से भाग एक पारत्ज़ुफ़ (रोश, तोख, सोफ़) की आंतरिक शरीर रचना बनाते हैं?",
         options: [
-          "भौतिक और आध्यात्मिक वास्तविकता में मासाच (स्क्रीन) का संचालन तर्क से ऊपर के काम की प्राप्ति है, जहाँ स्वार्थी गणनाओं को प्रदान करने के इरादे से ओवरराइड किया जाता है।",
-          "उनका कोई संबंध नहीं है।",
-          "त्ज़िमत्ज़ूम तर्क से ऊपर विश्वास के विपरीत है।",
-          "मासाच केवल भौतिक शरीर पर लागू होता है।"
+          "रोश (सिर - जहाँ गणना होती है, तोख - आंतरिक - जहाँ प्रकाश बहता है, और सोफ़ - अंत - जहाँ प्राप्ति समाप्त होती है)।",
+          "हाथ, पैर, धड़।",
+          "अल्फा, बीटा, गामा।",
+          "भूत, वर्तमान, भविष्य।"
         ],
         correct: 0,
-        r: "तर्क से ऊपर विश्वास का अभ्यास करना पार्टज़ुफ़ में किए गए फ़िल्टरिंग (मासाच) और लौटाए गए प्रकाश का व्यावहारिक अनुप्रयोग है।"
+        r: "स्क्रीन (मासाच) के संचालन के अनुसार प्रत्येक पारत्ज़ुफ़ रोश (सिर), तोख (आंतरिक) और सोफ़ (अंत) के चरणों से बना है।"
     },
     {
-      q: "4. 'भौतिक अंधापन' और तर्क से ऊपर विश्वास के दृष्टिकोण के बीच क्या अंतर है?",
+      q: "4. पारत्ज़ुफ़ में पेह (मुँह), छाज़े (छाती) और ताबुर (नाभि) सीमाओं का क्या अर्थ है?",
         options: [
-          "तर्क से ऊपर विश्वास वास्तविकता का انکار नहीं है, बल्कि एक उच्च, सर्व-समावेशी आध्यात्मिक कानून (प्रदान करना) के पक्ष में सांसारिक तर्क का पारगमन है।",
-          "भौतिक अंधापन बेहतर आध्यात्मिक परिणाम देता है।",
+          "पेह स्क्रीन का स्थान है (जहाँ प्रकाश प्रवेश करता है), छाज़े मध्य रेखा की सीमा है, और ताबुर निचلی सीमा है जहाँ तक प्रकाश अभी भी प्राप्त किया जा सकता है।",
+          "ये भौतिक शरीर के लिए केवल शारीरिक शब्द हैं।",
+          "वे ग्रहों की कक्षाओं को दर्शाते हैं।",
+          "वे कैलेंडर महीनों का प्रतिनिधित्व करते हैं।"
+        ],
+        correct: 0,
+        r: "पेह, छाज़े और ताबुर पारत्ज़ुफ़ के भीतर आंतरिक फ़िल्टर और सीमाएँ हैं जो प्रकाश के प्रवाह को निर्धारित करती हैं।"
+    },
+    {
+      q: "5. ऊपरी दुनिया में 125 आध्यात्मिक चरण कैसे बनते हैं?",
+        options: [
+          "5 दुनियाएँ प्रति दुनिया 5 पारत्ज़ुफ़ से गुना, प्रति पारत्ज़ुफ़ 5 सेफिरोत से गुना (5 x 5 x 5 = 125)।",
+          "ठीक 125 भौतिक दिनों में।",
+          "125 अलग-अलग पैगंबरों के बाद।",
+          "दुनिया के बीच यादृच्छिक रूप से वितरित।"
+        ],
+        correct: 0,
+        r: "आध्यात्मिक डिग्री की पूरी प्रणाली 5 दुनिया के उत्पाद के रूप में रची गई है, जिनमें से प्रत्येक में 5 पारत्ज़ुफ़ हैं, और प्रत्येक पारत्ज़ुफ़ में 5 सेफिरोत हैं (125 चरण)।"
+    },
+    {
+      q: "6. गल्गाल्ता वे-एयनाइम (GE) बर्तनों और AHP (अव्ज़ेन, होतेम, पेह) बर्तनों के बीच क्या अंतर है?",
+        options: [
+          "GE (गल्गाल्ता वे-एयनाइम) शुद्ध प्रदान करने वाले बर्तन हैं (विशेष रूप से दूसरों के लिए कार्य करते हैं), जबकि AHP प्राप्त करने वाले बर्तन हैं जो अपने लिए आनंद को अवशोषित करना चाहते हैं।",
+          "GE भौतिक आँख है, और AHP कान है।",
           "कोई अंतर नहीं है।",
-          "तर्क से ऊपर विश्वास विज्ञान की जालसाजी है।"
+          "AHP सर्वोच्च शुद्ध प्रकाश है।"
         ],
         correct: 0,
-        r: "तर्क से ऊपर विश्वास चेतना की एक उच्च अवस्था है जो कम, स्वार्थी गणनाओं को पूरक और ओवरराइड करती है।"
+        r: "GE सिर का ऊपरी हिस्सा है (प्रदान करने की इच्छा), जबकि AHP निचلا हिस्सा है (प्राप्त करने की इच्छा जो सुधार की प्रतीक्षा कर रही है)।"
     },
     {
-      q: "5. तर्क से ऊपर विश्वास प्राप्त करने में दस (केवोद हा-त्ज़ेवेत / दस का समूह) की क्या भूमिका है?",
+      q: "7. त्ज़िमत्ज़ूम आलेख (प्रथम प्रतिबंध) से पहले और बाद में आइन सोफ़ (अनंत दुनिया) की स्थिति क्या है?",
         options: [
-          "समूह समर्थन, शक्ति और आपसी गारंटी (आरवुत) का माहौल प्रदान करता है जिसमें व्यक्ति अपनी स्वार्थी सीमाओं को पार कर सकता है।",
-          "समूह केवल दोस्ताना बातचीत के लिए एक जगह है।",
-          "समूह एक दूसरे के साथ प्रतिस्पर्धा करने के लिए मौजूद है।",
-          "समूह की इसमें कोई भूमिका नहीं है।"
+          "इससे पहले, यह प्रकाश और बर्तन के बीच पूर्ण, असीमित एकता की स्थिति थी; उसके बाद, मुक्त इच्छा के आधार पर सुधारे गए बर्तनों के लिए जगह बनाने के लिए प्रकाश पीछे हट गया।",
+          "आइन सोफ़ पूरी तरह से नष्ट हो गया था।",
+          "कुछ भी नहीं बदला।",
+          "आइन सोफ़ भौतिक दुनिया में स्थानांतरित हो गया।"
         ],
         correct: 0,
-        r: "दस के भीतर काम करना और दोस्तों की महानता की सराहना करना व्यक्ति को तर्क से ऊपर विश्वास में ऊपर उठने में मदद करता है।"
+        r: "आइन सोफ़ पूर्ण तृप्ति की स्थिति थी, जो त्ज़िमत्ज़ूम के बाद ऊपरी दुनिया की पदानुक्रमित संरचना के लिए स्थान देती है।"
     },
     {
-      q: "6. तर्क से ऊपर काम में 'लो बा-शमायिम ही' (यह स्वर्ग में नहीं है) सिद्धांत का क्या अर्थ है?",
+      q: "8. अन्य ऊपरी दुनिया (बेरिया, येत्ज़िरा, अस्सिया) के बीच अत्ज़िलुत की दुनिया की क्या भूमिका है?",
         options: [
-          "यह कि आध्यात्मिक उत्थान और तर्क से ऊपर के दृष्टिकोण को वास्तविक जीवन की चुनौतियों के माध्यम से मनुष्य द्वारा अपनी वास्तविक स्थिति से बनाया जाना चाहिए।",
-          "यह कि धर्म का दैनिक जीवन से कोई लेना-देना नहीं है।",
-          "यह कि ध्यान के दौरान बादलों में चलना चाहिए।",
-          "यह कि भगवान कभी हस्तक्षेप नहीं करते।"
+          "अत्ज़िलुत शुद्ध प्रदान करने की दुनिया है (केतेर, होख्मा, बिना), जो बेरिया, येत्ज़िरा और अस्सिया की निचلی दुनिया को नियंत्रित और पोषित करती है जिन्हें सुधार की आवश्यकता है।",
+          "अत्ज़िलुत भौतिक नर्क है।",
+          "अत्ज़िलुत केवल एक अस्थायी गोदाम है।",
+          "अत्ज़िलुत अन्य दुनिया से पूरी तरह स्वतंत्र है।"
         ],
         correct: 0,
-        r: "आध्यात्मिक कार्य पृथ्वी पर, दैनिक जीवन की कठिनाइयों और अहंकार पर काबू पाने के माध्यम से realized होता है।"
+        r: "अत्ज़िलुत उत्सर्जन की दुनिया है जहाँ शुद्ध प्रकाश और प्रदान करना शासन करते हैं, जो ब्रिए-येत्ज़िरा-अस्सिया (BYA) प्रणाली को बनाए रखते हैं।"
     },
     {
-      q: "7. कबाला आध्यात्मिक मार्ग पर संदेहों को कैसे देखता है?",
+      q: "9. ऊपरी दुनिया की प्रणाली में आदम काद्मोन (AK) दुनिया की विशेषताएँ क्या हैं?",
         options: [
-          "संदेह त्रुटियां नहीं हैं; उन्हें ऊपरी शक्ति द्वारा भेजा जाता है ताकि मनुष्य को तर्क से ऊपर विश्वास (प्रदान करने की शक्ति) बनाने के लिए जगह मिल सके।",
-          "संदेह संकेत देते हैं कि किसी को अध्ययन बंद कर देना चाहिए।",
-          "संदेह दुष्ट राक्षसों का सीधा काम है।",
-          "कबालावादी में संदेह कभी प्रकट नहीं होते।"
+          "आदम काद्मोन आइन सोफ़ के बाद पहली शुद्ध आध्यात्मिक दुनिया है, जिससे अन्य सभी निचली दुनिया (अत्ज़िलुत, बेरिया, येत्ज़िरा, अस्सिया) निकलती हैं।",
+          "यह भौतिक मनुष्य की शरीर रचना है।",
+          "यह सबसे अंधेरी अंडरवर्ल्ड है।",
+          "इसका कोई महत्व नहीं है।"
         ],
         correct: 0,
-        r: "संदेह अपने तर्क पर भरोसा करने के बजाय विश्वास (प्रदान करना) के मार्ग को चुनने का अवसर प्रदान करते हैं।"
+        r: "आदम काद्मोन आइन सोफ़ के बाद पहली संरचित दुनिया है, जो सार्वभौमिक आध्यात्मिक पदानुक्रम की नींव रखती है।"
     },
     {
-      q: "8. सृष्टिकर्ता के साथ अपने संबंध के संबंध में तर्क से ऊपर काम का उद्देश्य क्या है?",
+      q: "10. ऊपरी दुनिया की वास्तुकला में ऊपरी प्रकाश (ओहर याशार) और बर्तनों (केलियिम) के बीच का संबंध कैसे संरचित है?",
         options: [
-          "यह कि प्राणी स्वहित या व्यक्तिगत लाभ के लिए नहीं, बल्कि शुद्ध, निस्वार्थ प्रेम (प्रदान करने के लिए प्रदान करना) से सृष्टिकर्ता के करीब आए।",
-          "भौतिक दुनिया में भौतिक धन प्राप्त करना।",
-          "दैनिक जिम्मेदारियों से बचना।",
-          "दूसरों पर विशेष शक्ति प्राप्त करना।"
+          "प्रकाश हमेशा हर बर्तन को भरना चाहता है, लेकिन मासाच (स्क्रीन) और ओहर होज़र (लौटा हुआ प्रकाश) यह नियंत्रित करते हैं कि शुद्ध रूप में कितना प्रकाश बह सकता है।",
+          "प्रकाश बर्तनों से पूरी तरह स्वतंत्र है।",
+          "बर्तन प्रकाश को नष्ट कर देते हैं।",
+          "कोई बातचीत नहीं है।"
         ],
         correct: 0,
-        r: "तर्क से ऊपर विश्वास सुनिश्चित करता है कि सृष्टिकर्ता के साथ संबंध egocentric प्रेरणा से मुक्त है।"
-    },
-    {
-      q: "9. शिक्षक (या लक्ष्य) की महानता और तर्क से ऊपर विश्वास के अवशोषण के बीच क्या संबंध है?",
-        options: [
-          "जब मनुष्य की नज़रों में शिक्षक या आध्यात्मिक लक्ष्य का मूल्य महान होता है, तो यह उसे अपने क्षुद्र तर्क को दूर करने और तर्क से ऊपर कार्य करने की शक्ति देता है।",
-          "उनके बीच कोई संबंध नहीं है।",
-          "शिक्षक की महानता केवल किताबी ज्ञान बढ़ाती है।",
-          "शिक्षक हमें नहीं सोचना सिखाता है।"
-        ],
-        correct: 0,
-        r: "लक्ष्य या शिक्षक के महत्व (महानता) को समझना तर्क से ऊपर उठने की शक्ति देता है।"
-    },
-    {
-      q: "10. जब कोई व्यक्ति तर्क से ऊपर विश्वास (एमुना) के अनुसार कार्य करना शुरू करता है तो उसकी आंतरिक दुनिया कैसे बदलती है?",
-        options: [
-          "आंतरिक अनिश्चितता दूर हो जाती है और बाहरी परिस्थितियों से स्वतंत्र एक स्थिर, eternal आध्यात्मिक विश्वदृष्टि स्थापित होती है.",
-          "व्यक्ति अपना होश खो बैठता है।",
-          "दुनिया की भौतिक वास्तविकता पूरी तरह से अस्तित्व में आना बंद हो जाती है.",
-          "व्यक्ति निष्क्रिय और उदासीन हो जाता है।"
-        ],
-        correct: 0,
-        r: "तर्क से ऊपर विश्वास ऊपरी लोकों के अनुसार एक स्थिर आंतरिक संतुलन और शाश्वत दृष्टिकोण प्रदान करता है।"
+        r: "मासाच द्वारा निर्देशित प्रकाश और बर्तन के बीच की बातचीत, आध्यात्मिक दुनिया के सटीक आंतरिक क्रम और डिग्री को आकार देती है।"
       }
     ],
   id: [
     {
-      q: "1. Apakah arti utama dari prinsip 'Iman di atas akal' (Emuna le-ma'ala min ha-daat) dalam Kabbalah?",
+      q: "1. Apakah tingkat utama dari struktur lima dunia spiritual dalam Kabbalah?",
       options: [
-        "Hal itu memungkinkan kenaikan spiritual dengan tidak mengandalkan akal egois seseorang yang terbatas, melainkan pada atribut pemberian Sang Pencipta.",
-        "Hal itu berarti kepatuhan buta tanpa logika apa pun.",
-        "Hal itu adalah penolakan ilmu pengetahuan dalam kehidupan sehari-hari.",
-        "Hal itu adalah pengabaian total terhadap dunia fisik."
+        "Adam Kadmon, Atzilut, Beria, Yetzira, dan Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Iman di atas akal bukanlah kebutaan, melainkan mengadopsi sudut pandang pemberi Terang Atas di atas logika egois."
+      r: "Urutan dunia spiritual dari Atas ke bawah adalah: Adam Kadmon, Atzilut, Beria, Yetzira, dan Assiya."
     },
     {
-      q: "2. Mengapa akal manusia yang alami dan bawaan terbatas dalam memahami realitas spiritual?",
+      q: "2. Di manakah Machsom (penghalang/ambang batas) berada dan apa peran spiritualnya?",
+      options: [
+        "Terletak di antara dunia spiritual (di atas/di bawah Atzilut) dan dunia fisik, menandai batas yang dapat dicapai seseorang melalui usahanya sendiri sebelum menyeberang ke dunia pemberian murni.",
+        "Ditemukan di jantung tubuh fisik.",
+        "Berada di ruang antara Bumi dan Bulan.",
+        "Tidak memiliki peran dalam spiritualitas."
+      ],
+      correct: 0,
+      r: "Machsom adalah garis pemisah antara hasrat egois (Assiya/Yetzira bawah) dan niat murni untuk memberi (Atzilut/Beria)."
+    },
+    {
+      q: "3. Bagian apa saja yang membentuk anatomi internal Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Karena akal tersebut dibangun atas dasar hasrat egois dan perhitungan untuk keuntungan sendiri, sementara spiritualitas didasarkan pada hukum pemberian.",
-          "Karena otak manusia secara biologis terlalu kecil.",
-          "Karena hukum fisik melarang pemikiran spiritual.",
-          "Karena teknologi modern belum cukup maju."
+          "Rosh (Kepala – tempat perhitungan terjadi, Toch – Interior – tempat Terang mengalir masuk, dan Sof – Akhir – tempat penerimaan berakhir).",
+          "Tangan, Kaki, Batang Tubuh.",
+          "Alfa, Beta, Gamma.",
+          "Masa Lalu, Masa Kini, Masa Depan."
         ],
         correct: 0,
-        r: "Akal alami beroperasi dalam kerangka hasrat untuk menerima (Aviyut), sehingga tidak mampu memahami hukum pemberian yang lebih tinggi."
+        r: "Setiap Partzuf dibangun dari tahap-tahap Rosh (Kepala), Toch (Interior), dan Sof (Akhir) sesuai dengan operasi layar (Masach)."
     },
     {
-      q: "3. Bagaimanakah tema Pelajaran 23 (Iman di atas akal) terhubung dengan konsep Tzimtzum dan Masach dari pelajaran sebelumnya?",
+      q: "4. Apakah arti dari batas Peh (Mulut), Chaze (Dada), dan Tabur (Pusar) dalam sebuah Partzuf?",
         options: [
-          "Mengoperasikan Masach (layar) dalam realitas fisik dan spiritual adalah perwujudan nyata dari kerja di atas akal, di mana perhitungan egois ditiadakan oleh niat untuk memberi.",
-          "Keduanya tidak memiliki hubungan sama sekali.",
-          "Tzimtzum adalah kebalikan dari iman di atas akal.",
-          "Masach hanya berlaku untuk tubuh fisik."
+          "Peh adalah tempat layar (tempat Terang masuk), Chaze adalah batas garis tengah, dan Tabur adalah batas bawah hingga di mana Terang masih dapat diterima.",
+          "Ini hanyalah istilah anatomis untuk tubuh fisik.",
+          "Ini menandakan orbit planet.",
+          "Ini mewakili bulan-bulan kalender."
         ],
         correct: 0,
-        r: "Mempraktikkan iman di atas akal adalah penerapan praktis dari penyaringan (Masach) dan cahaya pantulan yang dilakukan dalam Partzuf."
+        r: "Peh, Chaze dan Tabur adalah filter dan batas internal di dalam Partzuf yang menentukan aliran Terang."
     },
     {
-      q: "4. Apakah perbedaan antara 'kebutaan fisik' dan perspektif iman di atas akal?",
+      q: "5. Bagaimana 125 tingkat spiritual terbentuk di Dunia-Dunia Atas?",
         options: [
-          "Iman di atas akal bukanlah penolakan terhadap realitas, melainkan transendensi logika duniawi demi hukum spiritual yang lebih tinggi dan mencakup segalanya (pemberian).",
-          "Kebutaan fisik menghasilkan hasil spiritual yang lebih baik.",
+          "5 dunia dikalikan 5 Partzufim per dunia, dikalikan 5 Sefirot per Partzuf (5 x 5 x 5 = 125).",
+          "Tepat dalam 125 hari fisik.",
+          "Mengikuti 125 nabi yang berbeda.",
+          "Didistribusikan secara acak di antara dunia-dunia."
+        ],
+        correct: 0,
+        r: "Sistem lengkap tingkat spiritual tersusun sebagai hasil kali dari 5 dunia, masing-masing dengan 5 Partzufim, dan setiap Partzuf dengan 5 Sefirot (125 tingkat)."
+    },
+    {
+      q: "6. Apakah perbedaan antara wadah Galgalta ve-Eynaim (GE) dan AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "GE (Galgalta ve-Eynaim) adalah wadah pemberi murni (bertindak secara eksklusif untuk orang lain), sedangkan AHP adalah wadah penerima yang berusaha menyerap kenikmatan untuk diri mereka sendiri.",
+          "GE adalah mata fisik, dan AHP adalah telinga.",
           "Tidak ada perbedaan sama sekali.",
-          "Iman di atas akal adalah pemalsuan sains."
+          "AHP adalah terang murni tertinggi."
         ],
         correct: 0,
-        r: "Iman di atas akal adalah keadaan kesadaran yang lebih tinggi yang melengkapi dan mengesampingkan perhitungan egois yang lebih rendah."
+        r: "GE adalah bagian atas kepala (hasrat memberi), sedangkan AHP adalah bagian bawah (hasrat menerima yang menunggu koreksi)."
     },
     {
-      q: "5. Apakah peran Kelompok Sepuluh (Kevod ha-Tzevet / Kelompok Sepuluh) dalam mencapai iman di atas akal?",
+      q: "7. Bagaimanakah keadaan Ein Sof (Dunia Tak Terbatas) sebelum dan sesudah Tzimtzum Aleph (Pembatasan Pertama)?",
         options: [
-          "Kelompok tersebut menyediakan dukungan, kekuatan, dan atmosfer jaminan bersama (Arvut) di mana individu dapat melampaui batas-batas egois mereka.",
-          "Kelompok tersebut hanyalah tempat untuk ngobrol santai.",
-          "Kelompok tersebut ada untuk bersaing satu sama lain.",
-          "Kelompok tidak memiliki peran dalam hal ini."
+          "Sebelumnya, itu adalah keadaan kesatuan yang sempurna dan tak terbatas antara Terang dan Wadah; setelah itu, Terang ditarik untuk memberi ruang bagi wadah yang dikoreksi berdasarkan kehendak bebas.",
+          "Ein Sof dihancurkan sepenuhnya.",
+          "Tidak ada yang berubah sama sekali.",
+          "Ein Sof ditransfer ke dunia fisik."
         ],
         correct: 0,
-        r: "Pekerjaan di dalam Kelompok Sepuluh dan menghargai kehebatan teman-teman membantu individu naik ke iman di atas akal."
+        r: "Ein Sof adalah keadaan kepenuhan mutlak, yang setelah Tzimtzum memberikan ruang bagi struktur hierarkis Dunia-Dunia Atas."
     },
     {
-      q: "6. Apakah arti dari prinsip 'Lo ba-shamayim hi' (Itu tidak ada di surga) dalam pekerjaan di atas akal?",
+      q: "8. Apakah peran dunia Atzilut di antara Dunia-Dunia Atas lainnya (Beria, Yetzira, Assiya)?",
         options: [
-          "Bahwa kenaikan spiritual dan sikap di atas akal harus dibangun oleh manusia dari situasi aslinya, melalui tantangan kehidupan nyata.",
-          "Bahwa agama tidak ada hubungannya dengan kehidupan sehari-hari.",
-          "Bahwa seseorang harus berjalan di awan selama meditasi.",
-          "Bahwa Tuhan tidak pernah turun tangan."
+          "Atzilut adalah dunia pemberian murni (Keter, Hochma, Bina), yang mengatur dan memberi makan dunia bawah Beria, Yetzira, dan Assiya yang membutuhkan koreksi.",
+          "Atzilut adalah neraka fisik.",
+          "Atzilut hanyalah gudang sementara.",
+          "Atzilut sepenuhnya independen dari dunia lain."
         ],
         correct: 0,
-        r: "Pekerjaan spiritual direalisasikan di bumi, melalui kesulitan kehidupan sehari-hari dan mengatasi ego."
+        r: "Atzilut adalah dunia emanasi di mana Terang murni dan pemberian berkuasa, menopang sistem Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Bagaimanakah Kabbalah memandang keraguan di jalan spiritual?",
+      q: "9. Apakah ciri-ciri dunia Adam Kadmon (AK) dalam sistem Dunia-Dunia Atas?",
         options: [
-          "Keraguan bukanlah kesalahan; keraguan dikirim oleh Kekuatan Atas untuk memberi manusia ruang guna membangun iman di atas akal (kekuatan pemberian).",
-          "Keraguan menunjukkan bahwa seseorang harus berhenti belajar.",
-          "Keraguan adalah karya langsung dari iblis jahat.",
-          "Keraguan tidak pernah muncul pada seorang kabbalis."
+          "Adam Kadmon adalah dunia spiritual murni pertama setelah Ein Sof, dari mana semua dunia bawah lainnya (Atzilut, Beria, Yetzira, Assiya) bercabang.",
+          "Ini adalah anatomi manusia fisik.",
+          "Ini adalah dunia bawah tanah yang paling gelap.",
+          "Tidak memiliki signifikansi apa pun."
         ],
         correct: 0,
-        r: "Keraguan memberikan kesempatan untuk memilih jalan iman (pemberian) alih-alih mengandalkan akal seseorang."
+        r: "Adam Kadmon adalah dunia terstruktur pertama setelah Ein Sof, yang meletakkan dasar bagi hierarki spiritual universal."
     },
     {
-      q: "8. Apakah tujuan dari pekerjaan di atas akal berkaitan dengan hubungan dengan Sang Pencipta?",
+      q: "10. Bagaimanakah hubungan antara Terang Atas (Ohr Yashar) dan wadah (Kelim) disstrukturnya dalam arsitektur Dunia-Dunia Atas?",
         options: [
-          "Agar ciptaan mendekati Sang Pencipta bukan karena kepentingan diri sendiri atau keuntungan pribadi, melainkan dari cinta yang murni dan tanpa pamrih (Pemberian demi pemberian).",
-          "Untuk memperoleh kekayaan material di dunia fisik.",
-          "Untuk melarikan diri dari tanggung jawab sehari-hari.",
-          "Untuk memperoleh kekuatan khusus atas orang lain."
+          "Terang selalu ingin memenuhi setiap wadah, tetapi Masach (layar) dan Ohr Hozer (terang pantulan) mengatur berapa banyak Terang yang dapat mengalir secara murni.",
+          "Terang sepenuhnya independen dari wadah.",
+          "Wadah menghancurkan Terang.",
+          "Tidak ada interaksi sama sekali."
         ],
         correct: 0,
-        r: "Iman di atas akal memastikan bahwa hubungan dengan Sang Pencipta bebas dari motif-motif egosentris."
-    },
-    {
-      q: "9. Apakah hubungan antara kehebatan Guru (atau Tujuan) dan penyerapan iman di atas akal?",
-        options: [
-          "Ketika nilai guru atau tujuan spiritual besar di mata manusia, hal itu memberinya kekuatan untuk mengatasi logikanya yang picik dan bertindak di atas akal.",
-          "Tidak ada hubungan di antara keduanya.",
-          "Kehebatan guru hanya meningkatkan pengetahuan buku.",
-          "Guru mengajari kita untuk tidak berpikir."
-        ],
-        correct: 0,
-        r: "Menyadari pentingnya (kehebatan) tujuan atau guru memberikan kekuatan untuk naik di atas akal."
-    },
-    {
-      q: "10. Bagaimanakah dunia batin seseorang berubah ketika ia mulai bertindak sesuai dengan iman di atas akal (Emuna)?",
-        options: [
-          "Ketidakpastian batin larut dan pandangan dunia spiritual yang stabil dan abadi terbentuk, terlepas dari keadaan eksternal.",
-          "Seseorang kehilangan kewarasannya.",
-          "Realitas fisik dunia berhenti total dari keberadaan.",
-          "Seseorang menjadi pasif dan tidak peduli."
-        ],
-        correct: 0,
-        r: "Iman di atas akal memberikan keseimbangan batin yang stabil dan perspektif abadi sesuai dengan Dunia-Dunia Atas."
+        r: "Interaksi antara Terang dan Wadah, dipandu oleh Masach, membentuk urutan internal yang tepat dan derajat dunia spiritual."
       }
     ],
   tl: [
     {
-      q: "1. Ano ang pangunahing kahulugan ng simulaing 'Pananampalataya sa itaas ng katuwiran' (Emuna le-ma'ala min ha-daat) sa Kabbalah?",
+      q: "1. Ano ang mga pangunahing antas ng estruktura ng limang espirituwal na mundo sa Kabbalah?",
       options: [
-        "Binibigyang-daan nito ang espirituwal na pag-akyat sa pamamagitan ng hindi pag-asa sa sariling limitadong makasariling katuwiran, kundi sa katangian ng pagkakaloob ng Lumikha.",
-        "Nangangahulugan ito ng bulag na pagsunod nang walang anumang lohika.",
-        "Ito ang pagtanggi sa agham sa pang-araw-araw na buhay.",
-        "Ito ang ganap na pagbalewala sa pisikal na mundo."
+        "Adam Kadmon, Atzilut, Beria, Yetzira, at Assiya.",
+        "Keter, Hochma, Bina, Tifferet, Malchut.",
+        "Rosh, Toch, Sof, Peh, Tabur.",
+        "Aleph, Bet, Gimel, Dalet, Hey."
       ],
       correct: 0,
-      r: "Ang pananampalataya sa itaas ng katuwiran ay hindi pagkabulag, kundi ang pag-aampon ng nagkakaloob na pananaw ng Mataas na Liwanag sa itaas ng makasariling lohika."
+      r: "Ang pagkakasunud-sunod ng mga espirituwal na mundo mula sa Mataas pababa ay: Adam Kadmon, Atzilut, Beria, Yetzira, at Assiya."
     },
     {
-      q: "2. Bakit limitado ang natural at katutubong katuwiran ng tao sa pag-unawa sa espirituwal na katotohanan?",
+      q: "2. Nasaan matatagpuan ang Machsom (harang/hangganan) at ano ang espirituwal na papel nito?",
         options: [
-          "Dahil ito ay itinayo sa mga makasariling pagnanais at kalkulasyon para sa sariling kapakinabangan, habang ang espirituwalidad ay nakabatay sa batas ng pagkakaloob.",
-          "Dahil ang utak ng tao ay masyadong maliit sa biyolohiya.",
-          "Dahil ipinagbabawal ng mga pisikal na batas ang espirituwal na pag-isip.",
-          "Dahil ang modernong teknoloji ay hindi pa sapat ang pag-unlad."
+          "Matatagpuan ito sa pagitan ng mga espirituwal na mundo (itaas/ibaba ng Atzilut) at ng pisikal na mundo, na nagmamarka ng hangganan na maaabot ng isang tao sa pamamagitan ng sariling pagsisikap bago tumawid sa mundo ng purong pagkakaloob.",
+          "Matatagpuan ito sa puso ng pisikal na katawan.",
+          "Nasa espasyo ito sa pagitan ng Lupa at Buwan.",
+          "Wala itong ginagampanang papel sa espirituwalidad."
         ],
         correct: 0,
-        r: "Ang natural na katuwiran ay gumagana sa loob ng balangkas ng pagnanais na tumanggap (Aviyut), kaya hindi nito kayang unawain ang mas mataas na batas ng pagkakaloob."
+        r: "Ang Machsom ay ang linyang naghahati sa pagitan ng makasariling pagnanais (mas mababang Assiya/Yetzira) at ng purong layunin na magkaloob (Atzilut/Beria)."
     },
     {
-      q: "3. Paano nauugnay ang tema ng Aralin 23 (Pananampalataya sa itaas ng katuwiran) sa mga konsepto ng Tzimtzum at Masach mula sa mga nakaraang aralin?",
+      q: "3. Anong mga bahagi ang bumubuo sa panloob na anatomiya ng isang Partzuf (Rosh, Toch, Sof)?",
         options: [
-          "Ang pagpapatakbo ng Masach (screen) sa pisikal at espirituwal na katotohanan ay eksaktong pagsasakatuparan ng gawain sa itaas ng katuwiran, kung saan ang mga makasariling kalkulasyon ay pinapawalang-bisa ng layunin ng pagkakaloob.",
-          "Wala silang anumang koneksyon.",
-          "Ang Tzimtzum ay ang kabaligtaran ng pananampalataya sa itaas ng katuwiran.",
-          "Ang Masach ay nalalapat lamang sa pisikal na katawan."
+          "Rosh (Ulo – kung saan nagaganap ang kalkulasyon, Toch – Panloob – kung saan dumadaloy ang Liwanag, at Sof – Katapusan – kung saan nagtatapos ang pagtanggap).",
+          "Kamay, Paa, Torso.",
+          "Alpha, Beta, Gamma.",
+          "Nakaraan, Kasalukuyan, Hinaharap."
         ],
         correct: 0,
-        r: "Ang pagsasagawa ng pananampalataya sa itaas ng katuwiran ay ang praktikal na aplikasyon ng pagsala (Masach) at ng naibalik na liwanag na isinagawa sa Partzuf."
+        r: "Ang bawat Partzuf ay binuo mula sa mga yugto ng Rosh (Ulo), Toch (Panloob), at Sof (Katapusan) ayon sa operasyon ng screen (Masach)."
     },
     {
-      q: "4. Ano ang pagkakaiba sa pagitan ng 'pisikal na pagkabulag' at ng pananaw ng pananampalataya sa itaas ng katuwiran?",
+      q: "4. Ano ang kahulugan ng mga hangganan na Peh (Bibig), Chaze (Dibdib), at Tabur (Puson) sa isang Partzuf?",
         options: [
-          "Ang pananampalataya sa itaas ng katuwiran ay hindi pagtanggi sa katotohanan, kundi ang transendensya ng makamundong lohika pabor sa isang mas mataas, sumasaklaw-lahat na espirituwal na batas (pagkakaloob).",
-          "Ang pisikal na pagkabulag ay nagbubunga ng mas mahusay na espirituwal na mga resulta.",
+          "Ang Peh ay ang lugar ng screen (kung saan pumapasok ang Liwanag), ang Chaze ay ang hangganan ng gitnang linya, at ang Tabur ay ang mas mababang hangganan kung hanggang saan pa maaaring tanggapin ang Liwanag.",
+          "Ang mga ito ay mga terminong pang-anatomiya lamang para sa pisikal na katawan.",
+          "Ipinapakita nito ang mga orbita ng planeta.",
+          "Kinakatawan nito ang mga buwan sa kalendaryo."
+        ],
+        correct: 0,
+        r: "Ang Peh, Chaze, at Tabur ay mga panloob na filter at hangganan sa loob ng Partzuf na tumutukoy sa daloy ng Liwanag."
+    },
+    {
+      q: "5. Paano nabubuo ang 125 na espirituwal na hakbang sa mga Mataas na Mundo?",
+        options: [
+          "5 mundo na pinarami ng 5 Partzufim bawat mundo, na pinarami ng 5 Sefirot bawat Partzuf (5 x 5 x 5 = 125).",
+          "Sa loob lamang ng 125 pisikal na araw.",
+          "Kasunod ng 125 iba't ibang propeta.",
+          "Naka-apod-apod nang random sa mga mundo."
+        ],
+        correct: 0,
+        r: "Ang kumpletong sistema ng mga espirituwal na antas ay binubuo bilang produkto ng 5 mundo, bawat isa ay may 5 Partzufim, at bawat Partzuf ay may 5 Sefirot (125 hakbang)."
+    },
+    {
+      q: "6. Ano ang pagkakaiba sa pagitan ng mga sisidlan na Galgalta ve-Eynaim (GE) at AHP (Awzen, Hotem, Peh)?",
+        options: [
+          "Ang GE (Galgalta ve-Eynaim) ay mga purong nagkakaloob na sisidlan (kumikilos nang eksklusivo para sa iba), habang ang AHP ay ang mga sisidlan ng pagtanggap na naglalayong sumipsip ng kasiyahan para sa kanilang sarili.",
+          "Ang GE ay ang pisikal na mata, at ang AHP ay ang tainga.",
           "Walang anumang pagkakaiba.",
-          "Ang pananampalataya sa itaas ng katuwiran ay pamemeke ng agham."
+          "Ang AHP ang pinakamataas na purong liwanag."
         ],
         correct: 0,
-        r: "Ang pananampalataya sa itaas ng katuwiran ay isang mas mataas na estado ng kamalayan na pumupuno at nagpapawalang-bisa sa mas mababa, makasariling mga kalkulasyon."
+        r: "Ang GE ay ang itaas na bahagi ng ulo (mga pagnanais na magkaloob), habang ang AHP ay ang mas mababang bahagi (mga pagnanais na tumanggap na naghihintay ng pagwawasto)."
     },
     {
-      q: "5. Ano ang papel ng Sampu (Kevod ha-Tzevet / Grupo ng Sampu) sa pagkamit ng pananampalataya sa itaas ng katuwiran?",
+      q: "7. Ano ang estado ng Ein Sof (Walang Hanggang Mundo) bago at pagkatapos ng Tzimtzum Aleph (Unang Paghihigpit)?",
         options: [
-          "Nagbibigay ang grupo ng suporta, lakas, at kapaligiran ng magkatuwang na garantiya (Arvut) kung saan malalampasan ng indibidwal ang kanyang makasariling mga hangganan.",
-          "Ang grupo ay simpleng lugar para sa mga palakaibigang kuwentuhan.",
-          "Umiiral ang grupo upang magkumpetensya sa isa't isa.",
-          "Walang ginagampanang papel ang grupo sa bagay na ito."
+          "Bago ito, ito ay estado ng perpekto, walang limitasyong pagkakaisa sa pagitan ng Liwanag at Sisidlan; pagkatapos, umatras ang Liwanag upang magbigay-puwang para sa mga naitamang sisidlan batay sa malayang kalooban.",
+          "Ang Ein Sof ay lubusang nawasak.",
+          "Walang anuman ang nagbago.",
+          "Ang Ein Sof ay lumipat sa pisikal na mundo."
         ],
         correct: 0,
-        r: "Ang gawain sa loob ng Sampu at ang pagpapahalaga sa kadakilaan ng mga kaibigan ay tumutulong sa indibidwal na umakyat sa pananampalataya sa itaas ng katuwiran."
+        r: "Ang Ein Sof ay ang estado ng ganap na kapunuan, na pagkatapos ng Tzimtzum ay nagbibigay ng espasyo sa herarkikal na estruktura ng mga Mataas na Mundo."
     },
     {
-      q: "6. Ano ang ibig sabihin ng simulaing 'Lo ba-shamayim hi' (Hindi ito nasa langit) sa gawain sa itaas ng katuwiran?",
+      q: "8. Ano ang papel ng mundo ng Atzilut sa gitna ng iba pang Mataas na Mundo (Beria, Yetzira, Assiya)?",
         options: [
-          "Na ang espirituwal na pag-akyat at saloobin sa itaas ng katuwiran ay dapat itayo ng tao mula sa kanyang tunay na sitwasyon, sa pamamagitan ng mga hamon ng tunay na buhay.",
-          "Na ang relihiyon ay walang kinalaman sa pang-araw-araw na buhay.",
-          "Na ang isa ay dapat lumakad sa mga ulap habang nagmumuni-muni.",
-          "Na ang Diyos ay hindi kailanman nakikialam."
+          "Ang Atzilut ay ang mundo ng purong pagkakaloob (Keter, Hochma, Bina), na namamahala at nagpapakain sa mas mababang mundo ng Beria, Yetzira, at Assiya na nangangailangan ng pagwawasto.",
+          "Ang Atzilut ay ang pisikal na impiyerno.",
+          "Ang Atzilut ay isang pansamantalang bodega lamang.",
+          "Ang Atzilut ay ganap na independiyente sa iba pang mga mundo."
         ],
         correct: 0,
-        r: "Ang espirituwal na gawain ay isinasakatuparan sa lupa, sa pamamagitan ng mga paghihirap ng pang-araw-araw na buhay at ang pagtagumpayan sa sarili."
+        r: "Ang Atzilut ay ang mundo ng emanation kung saan naghahari ang purong Liwanag at pagkakaloob, na nagpapanatili sa sistemang Bri-Yetzira-Assiya (BYA)."
     },
     {
-      q: "7. Paano tinitingnan ng Kabbalah ang mga pagdududa sa espirituwal na landas?",
+      q: "9. Ano ang mga katangian ng mundo ng Adam Kadmon (AK) sa sistema ng mga Mataas na Mundo?",
         options: [
-          "Ang mga pagdududa ay hindi mga pagkakamali; ipinapadala ang mga ito ng Mataas na Puwersa upang bigyan ang tao ng espasyo upang itayo ang pananampalataya sa itaas ng katuwiran (ang kapangyarihan ng pagkakaloob).",
-          "Ipinapahiwatig ng mga pagdududa na dapat itigil ng isa ang pag-aaral.",
-          "Ang mga pagdududa ay direktang gawain ng mga masasamang demonyo.",
-          "Ang mga pagdududa ay hindi kailanman lumilitaw sa isang kabbalist."
+          "Ang Adam Kadmon ang unang purong espirituwal na mundo pagkatapos ng Ein Sof, kung saan nag-aabot ang lahat ng iba pang mas mababang mundo (Atzilut, Beria, Yetzira, Assiya).",
+          "Ito ang anatomiya ng pisikal na tao.",
+          "Ito ang pinakamadilim na ilalim ng lupa.",
+          "Wala itong anumang kahalagahan."
         ],
         correct: 0,
-        r: "Nagbibigay ang mga pagdududa ng pagkakataon na piliin ang landas ng pananampalataya (pagkakaloob) sa halip na umasa sa sariling katuwiran."
+        r: "Ang Adam Kadmon ang unang nakabalangkas na mundo pagkatapos ng Ein Sof, na naglalagay ng pundasyon para sa unibersal na espirituwal na herarkiya."
     },
     {
-      q: "8. Ano ang layunin ng gawain sa itaas ng katuwiran tungkol sa kaugnayan sa Lumikha?",
+      q: "10. Paano nakabalangkas ang relasyon sa pagitan ng Mataas na Liwanag (Ohr Yashar) at ng mga sisidlan (Kelim) sa arkitektura ng mga Mataas na Mundo?",
         options: [
-          "Na ang nilikha ay lumapit sa Lumikha hindi dahil sa sariling interes o personal na kapakinabangan, kundi mula sa dalisay at walang-sariling pag-ibig (Pagkakaloob alang-alang sa pagkakaloob).",
-          "Upang makakuha ng materyal na kayamanan sa pisikal na mundo.",
-          "Upang makatakas sa pang-araw-araw na mga responsibilidad.",
-          "Upang makakuha ng espesyal na kapangyarihan sa iba."
+          "Gusto lagi ng Liwanag na punuin ang bawat sisidlan, ngunit kinokontrol ng Masach (screen) at Ohr Hozer (naibalik na liwanag) kung gaano kalaking Liwanag ang purong makakadaloy sa loob.",
+          "Ang Liwanag ay ganap na independiyente sa mga sisidlan.",
+          "Sinisira ng mga sisidlan ang Liwanag.",
+          "Walang anumang interaksyon."
         ],
         correct: 0,
-        r: "Tinitiyak ng pananampalataya sa itaas ng katuwiran na ang kaugnayan sa Lumikha ay malaya sa mga egosentrikong motibo."
-    },
-    {
-      q: "9. Ano ang kaugnayan sa pagitan ng kadakilaan ng Guro (o ng Layunin) at ng pagsipsip ng pananampalataya sa itaas ng katuwiran?",
-        options: [
-          "Kapag ang halaga ng guro o ng espirituwal na layunin ay dakila sa mga mata ng tao, binibigyan siya nito ng lakas upang malampasan ang kanyang maliit na lohika at kumilos sa itaas ng katuwiran.",
-          "Walang kaugnayan sa pagitan nila.",
-          "Ang kadakilaan ng guro ay nagdaragdag lamang ng kaalaman sa aklat.",
-          "Itinuturo sa atin ng guro na huwag mag-isip."
-        ],
-        correct: 0,
-        r: "Ang pag-unawa sa kahalagahan (kadakilaan) ng layunin o ng guro ay nagbibigay ng lakas upang umakyat sa itaas ng katuwiran."
-    },
-    {
-      q: "10. Paano nagbabago ang panloob na mundo ng isang tao kapag sinimulan niyang kumilos alinsunod sa pananampalataya sa itaas ng katuwiran (Emuna)?",
-        options: [
-          "Nawawala ang panloob na kawalan ng katiyakan at itinatatag ang isang matatag, walang hanggang espirituwal na pananaw sa mundo, na malaya sa mga panlabas na pangyayari.",
-          "Nawawalan ng katinuan ang isang tao.",
-          "Ang pisikal na katotohanan ng mundo ay tuluyang humihinto sa pag-iral.",
-          "Ang isang tao ay nagiging pasibo at walang malasakit."
-        ],
-        correct: 0,
-        r: "Ang pananampalataya sa itaas ng katuwiran ay nagbibigay ng matatag na panloob na balanse at walang hanggang pananaw ayon sa mga Mataas na Mundo."
+        r: "Ang interaksyon sa pagitan ng Liwanag at Sisidlan, na pinamumunuan ng Masach, ang humuhubog sa tumpak na panloob na kaayosân at mga antas ng mga espirituwal na mundo."
       }
     ],
   am: [
     {
-      q: "1. በካባላ ውስጥ «ከምክንያት በላይ እምነት» (ኢሙና ለ-ማአላ ሚን ሃ-ዳአት) መርህ ዋና ትርጉም ምንድን ነው?",
+      q: "1. በካባላ መሠረት የአምስቱ መንፈሳዊ ዓለማት መዋቅር ዋና ዋና ደረጃዎች ምንድን ናቸው?",
       options: [
-        "ሰውየው በራሱ የተገደበ የኢጎ ተኮር ምክንያት ላይ ሳይሆን በፈጣሪ የመስጠት ባሕርይ ላይ በመደገፍ መንፈሳዊ ከፍታን እንዲያገኝ ያስችለዋል።",
-        "ማንኛውንም አመክንዮ የሌለበት ዕውር ታዛዥነት ማለት ነው።",
-        "በዕለት ተዕለት ሕይወት ሳይንስን አለመቀበል ነው።",
-        "አካላዊውን ዓለም ሙሉ በሙሉ ችላ ማለት ነው።"
+        "አዳም ካድሞን፣ አጺሉቱ፣ ቤሪያ፣ የጺራ እና አሲያ።",
+        "ኬቴር፣ ሖክማ፣ ቢና፣ ቲፈሬት፣ ማልኩት።",
+        "ሮሽ፣ ቶኽ፣ ሶፍ፣ ፔህ፣ ታቡር።",
+        "አሌፍ፣ ቤቴ፣ ጊመል፣ ዳሌት፣ ሄይ።"
       ],
       correct: 0,
-      r: "ከምክንያት በላይ እምነት ዕውርነት አይደለም, ይልቅ ከኢጎ ተኮር አመክንዮ በላይ የከፍተኛው ብርሃን ሰጪ አመለካከት መቀበል ነው።"
+      r: "የመንፈሳዊ ዓለማት ቅደም ተከተል ከላይ ወደ ታች፡ አዳም ካድሞን፣ አጺሉቱ፣ ቤሪያ፣ የጺራ እና አሲያ ናቸው።"
     },
     {
-      q: "2. የሰው ተፈጥሯዊ እና የተወለደ አእምሮ መንፈሳዊውን እውነታ በመረዳት ረገድ የተወሰነ የሆነው ለምንድን ነው?",
-        options: [
-          "ምክንያቱም የተገነባው በኢጎ ተኮር ፍላጎቶች እና ለራስ ጥቅም በሚደረጉ ስሌቶች ላይ ነው, መንፈሳዊነት ግን በመስጠት ሕግ ላይ የተመሰረተ ነው።",
-          "ምክንያቱም የሰው አንጎል በባዮሎጂ በጣም ትንሽ ነው።",
-          "ምክንያቱም አካላዊ ሕጎች መንፈሳዊ አስተሳሰብን ይከለክላሉ።",
-          "ምክንያቱም ዘመናዊ ቴክኖሎጂ አሁንም በቂ እድገት አላደረገም።"
-        ],
-        correct: 0,
-        r: "ተፈጥሯዊው አእምሮ የመቀበል ፍላጎት (አቪዩት) ማዕቀፍ ውስጥ የሚሠራ ሲሆን, በዚህም ምክንያት ከፍተኛውን የመስጠት ሕጎች ለመረዳት አቅም የለውም."
+      q: "2. ማሕሶም (መጋረጃው/ደጃፉ) የት ይገኛል እና መንፈሳዊ ሚናው ምንድን ነው?",
+      options: [
+        "እሱ በመንፈሳዊ ዓለማት (ከአጺሉቱ በላይ/በታች) እና በአካላዊው ዓለም መካከል የሚገኝ ሲሆን፣ ወደ ንጹህ የመስጠት ዓለም ከማለፉ በፊት አንድ ሰው በራሱ ጥረት ሊደርስበት የሚችለውን ወሰን ያመለክታል።",
+        " በአካላዊው አካል ልብ ውስጥ ይገኛል።",
+        " በምድር እና በጨረቃ መካከል ባለው ክፍተት ውስጥ ይገኛል።",
+        " በመንፈሳዊነት ውስጥ ምንም ሚና የለውም።"
+      ],
+      correct: 0,
+      r: "ማሕሶም በኢጎ ተኮር ፍላጎት (ታችኛው አሲያ/የጺራ) እና በንጹህ የመስጠት ዓላማ (አጺሉቱ/ቤሪያ) መካከል ያለው መለያ መስመር ነው።"
     },
     {
-      q: "3. የትምህርት 23 ርዕስ (ከምክንያት በላይ እምነት) ከቀድሞ ትምህርቶች ከጺምጹም እና ማሳክ ጽንሰ-ሐሳቦች ጋር እንዴት ይገናኛል?",
+      q: "3. የፓርጹፍ ውስጣዊ አካል (ሮሽ፣ ቶኽ፣ ሶፍ) ከምንን ክፍሎች የተዋቀረ ነው?",
         options: [
-          "በአካላዊ እና መንፈሳዊ እውነታ ውስጥ ማሳክን (ማያ ገጽ) ማስኬድ በትክክል ከምክንያት በላይ የሆነውን ሥራ እውን ማድረግ ነው, በዚህም የኢጎ ስሌቶች በመስጠት ዓላማ ይተካሉ።",
-          "በመካከላቸው ምንም ግንኙነት የለም።",
-          "ጺምጹም ከምክንያት በላይ ከሆነው እምነት ተቃራኒ ነው።",
-          "ማሳክ የሚመለከተው አካላዊውን አካል ብቻ ነው።"
+          "ሮሽ (ራስ – ስሌቱ የሚካሄድበት ቦታ፣ ቶኽ – ውስጠኛው ክፍል – ብርሃኑ የሚፈስበት፣ እና ሶፍ – መጨረሻ – መቀበሉ የሚያበቃበት)።",
+          "እጅ፣ እግር፣ ግንድ።",
+          "አልፋ፣ ቤታ፣ ጋማ።",
+          "ያለፈው፣ የአሁን፣ የወደፊት።"
         ],
         correct: 0,
-        r: "ከምክንያት በላይ እምነትን መለማመድ በፓርጹፍ ውስጥ የሚከናወነው የማጣራት (ማሳክ) እና የተመለሰው ብርሃን ተግባራዊ ትግበራ ነው።"
+        r: "እያንዳንዱ ፓርጹፍ በማያ ገጹ (ማሳክ) አሠራር መሠረት ከሮሽ (ራስ)፣ ቶኽ (ውስጠኛው ክፍል) እና ሶፍ (መጨረሻ) ደረጃዎች የተገነባ ነው።"
     },
     {
-      q: "4. «በአካላዊ ዕውርነት» እና ከምክንያት በላይ በሆነ እምነት አመለካከት መካከል ያለው ልዩነት ምንድን ነው?",
+      q: "4. በፓርጹፍ ውስጥ የፔህ (አፍ)፣ የኧዜ (ደረት) እና የታቡር (እምብርት) ድንበሮች ምን ማለት ናቸው?",
         options: [
-          "ከምክንያት በላይ እምነት የእውነታ ክህደት አይደለም, ይልቅ ምድራዊ አመክንዮን ለበለጠ, ሁሉን አቀፍ መንፈሳዊ ሕግ (መስጠት) ሲባል ማለፍ ነው።",
-          "አካላዊ ዕውርነት የተሻለ መንፈሳዊ ውጤቶችን ያስገኛል።",
-          "በመካከላቸው ምንም ልዩነት የለም።",
-          "ከምክንያት በላይ እምነት የሳይንስ ማጭበርበር ነው።"
+          "ፔህ የማያ ገጹ ቦታ ነው (ብርሃኑ የሚገባበት)፣ ኧዜ የመሃል መስመር ድንበር ነው፣ እና ታቡር ብርሃኑ አሁንም ሊቀበል የሚችልበት የታችኛው ወሰን ነው።",
+          "እነዚህ ለአካላዊው አካል ንጹህ የሰውነት አካል ቃላት ናቸው።",
+          "የፕላኔቶችን ምህዋር ያመለክታሉ።",
+          "የቀን መቁጠሪያ ወራትን ይወክላሉ።"
         ],
         correct: 0,
-        r: "ከምክንያት በላይ እምነት ዝቅተኛ እና ኢጎ ተኮር ስሌቶችን የሚያሟላ እና የሚሽር ከፍተኛ የንቃተ ህሊና ሁኔታ ነው።"
+        r: "ፔህ፣ ኧዜ እና ታቡር የብርሃኑን ፍሰት የሚወስኑ በፓርጹፍ ውስጥ ያሉ ውስጣዊ ማጣሪያዎች እና ድንበሮች ናቸው።"
     },
     {
-      q: "5. ከምክንያት በላይ እምነትን ለማግኘት የአስርቱ (ኬቮድ ሃ-ጸቬት / የአስር ቡድን) ሚና ምንድን ነው?",
+      q: "5. በከፍተኛ ዓለማት ውስጥ 125ቱ መንፈሳዊ እርከኖች እንዴት ይመሰረታሉ?",
         options: [
-          "ቡድኑ ግለሰቡ የኢጎ ወሰኖቹን ማለፍ የሚችልበትን ድጋፍ, ኃይል እና የጋራ ዋስትና (አርቩት) ሁኔታን ይሰጣል።",
-          "ቡድኑ በቀላሉ ለወዳጅነት ውይይቶች የሚሆን ቦታ ነው።",
-          "ቡድኑ እርስ በእርስ ለመወዳደር አለ።",
-          "ቡድኑ በዚህ ውስጥ ምንም ሚና የለውም።"
+          "5 ዓለማት ለእያንዳንዱ ዓለም በ5 ፓርጹፊም ተባዝተው፣ ለእያንዳንዱ ፓርጹፍ በ5 ሴፊሮት ተባዝተዋል (5 x 5 x 5 = 125)።",
+          " በትክክል በ125 አካላዊ ቀናት ውስጥ።",
+          " 125 የተለያዩ ነብያትን በመከተል።",
+          " በዓለማት መካከል በዘፈቀደ ተሰራጭተዋል።"
         ],
         correct: 0,
-        r: "በአስርቱ ውስጥ ያለው ሥራ እና የጓደኞችን ታላቅነት ማድነቅ ግለሰቡ ከምክንያት በላይ ወደሆነ እምነት ከፍ እንዲል ይረዳዋል።"
+        r: "המערכת השלמה של הדרגות הרוחניות מורכב כמכפלה של 5 עולמות, שלכל אחד 5 פרצופים, ולכל פרצוף 5 ספירות (125 מדרגות)."
+      },
+    {
+      q: "6. በጋልጋልታ ቩ-ኢናይም (ጂ.ኢ) እና በኤ.ኤች.ፒ (አውዘን፣ ሆተም፣ ፔህ) ዕቃዎች መካከል ያለው ልዩነት ምንድን ነው?",
+        options: [
+          "ጂ.ኢ (ጋልጋልታ ቩ-ኢናይም) ንጹህ ሰጪ ዕቃዎች ናቸው (ለሌሎች ብቻ የሚሠሩ)፣ ኤ.ኤች.ፒ ግን ደስታን ለራሳቸው ለመምጠጥ የሚፈልጉ ተቀባይ ዕቃዎች ናቸው።",
+          "ጂ.ኢ አካላዊ ዓይን ሲሆን ኤ.ኤች.ፒ ደግሞ ጆሮ ነው።",
+          "ምንም ልዩነት የለም።",
+          "ኤ.ኤች.ፒ ከፍተኛው ንጹህ ብርሃን ነው።"
+        ],
+        correct: 0,
+        r: "ጂ.ኢ የራሱ ሐውልት የላይኛው ክፍል (የመስጠት ፍላጎቶች) ሲሆን፣ ኤ.ኤች.ፒ ግን የታችኛው ክፍል (ማስተካከያን የሚጠብቁ የመቀበል ፍላጎቶች) ነው።"
     },
     {
-      q: "6. ከምክንያት በላይ በሆነ ሥራ ውስጥ «ሎ ባ-ሻማዪም 히» (በሰማይ አይደለም) የሚለው መርህ ምን ማለት ነው?",
+      q: "7. ከጺምጹም አለፍ (የመጀመሪያው ገደብ) በፊት እና በኋላ የኢን ሶፍ (ወሰን የለሽ ዓለም) ሁኔታ ምንድን ነው?",
         options: [
-          "መንፈሳዊ ከፍታ እና ከምክንያት በላይ ያለው አመለካከት በሰውየው ከእውነተኛው ሁኔታው, በእውነተኛ ሕይወት ተግዳሮቶች መገንባት አለበት የሚል።",
-          "ሃይማኖት ከዕለት ተዕለት ሕይወት ጋር ምንም ግንኙነት የለውም የሚል።",
-          "በማሰላሰል ጊዜ በደመና ውስጥ መራመድ አለበት የሚል።",
-          "እግዚአብሔር ፈጽሞ ጣልቃ አይገባም የሚል።"
+          "ከዚህ በፊት በብርሃን እና በእቃው መካከል ፍጹም የሆነ, ያልተገደበ የአንድነት ሁኔታ ነበር; ከዚያ በኋላ ብርሃኑ በነፃ ፈቃድ ላይ ተመስርተው ለተስተካከሉ ዕቃዎች ቦታ ለመስጠት አፈገፈገ።",
+          "ኢን ሶፍ ሙሉ በሙሉ ወድሟል።",
+          "ምንም አልተለወጠም።",
+          "ኢን ሶፍ ወደ አካላዊው ዓለም ተላልፏል።"
         ],
         correct: 0,
-        r: "መንፈሳዊ ሥራ የሚከናወነው በምድር ላይ, በዕለት ተዕለት ሕይወት ችግሮች እና ኢጎን በማሸነፍ ነው።"
+        r: "ኢን ሶፍ ፍጹም ሙላት ሁኔታ ነበረው, ይህም ከጺምጹም በኋላ ለከፍተኛ ዓለማት ተዋረድ መዋቅር ቦታ ይሰጣል."
     },
     {
-      q: "7. ካባላ በመንፈሳዊው መንገድ ላይ ያሉ ጥርጣሬዎችን እንዴት ይመለከታል?",
+      q: "8. ከሌሎች ከፍተኛ ዓለማት (ቤሪያ፣ የጺራ፣ አሲያ) መካከል የአጺሉቱ ዓለም ሚና ምንድን ነው?",
         options: [
-          "ጥርጣሬዎች ስህተቶች አይደሉም; ሰውየው ከምክንያት በላይ እምነትን (የመስጠት ኃይልን) ለመገንባት ቦታ እንዲኖረው በከፍተኛው ኃይል ይላካሉ።",
-          "ጥርጣሬዎች ጥናቱን ማቆም እንዳለበት ያመለክታሉ።",
-          "ጥርጣሬዎች የክፉ አጋንንት ቀጥተኛ ሥራ ናቸው።",
-          "በካባሊስት ውስጥ ጥርጣሬዎች ፈጽሞ አይታዩም።"
+          "አጺሉቱ የንጹህ መስጠት ዓለም (ኬቴር፣ ሖክማ፣ ቢና) ሲሆን, እርማት የሚያስፈልጋቸውን የታችኛውን የቤሪያ፣ የጺራ እና የአሲያ ዓለማት ያስተዳድራል እና ይመገባል።",
+          "አጺሉቱ አካላዊ ሲኦል ነው።",
+          "አጺሉቱ ጊዜያዊ መጋዘን ብቻ ነው።",
+          "አጺሉቱ ከሌሎች ዓለማት ሙሉ በሙሉ ነፃ ነው።"
         ],
         correct: 0,
-        r: "ጥርጣሬዎች በራሱ አእምሮ ላይ ከመደገፍ ይልቅ የእምነትን (የመስጠት) መንገድ ለመምረጥ እድል ይሰጣሉ።"
+        r: "አጺሉቱ ንጹህ ብርሃን እና መስጠት የሚገዙበት የኤማናሽን ዓለም ሲሆን የብሪ-የጺራ-አሲያ (BYA) ስርዓትን ይደግፋል።"
     },
     {
-      q: "8. ከፈጣሪ ጋር ካለው ግንኙነት አንፃር ከምክንያት በላይ ከሆነው ሥራ ዓላማ ምንድን ነው?",
+      q: "9. በከፍተኛ ዓለማት ስርዓት ውስጥ የአዳም ካድሞን (አ.ኬ) ዓለም ባህሪያት ምንድን ናቸው?",
         options: [
-          "ፍጥረቱ ወደ ፈጣሪ የሚቀርበው ለግል ጥቅም ወይም ለግል ጥቅም ሳይሆን ከንጹህ, ከራስ ወዳድነት ነፃ በሆነ ፍቅር (ለመስጠት ሲባል መስጠት) ነው።",
-          "በአካላዊው ዓለም ውስጥ ቁሳዊ ሀብትን ለማግኘት።",
-          "ዕለታዊ ኃላፊነቶችን ለማምለጥ።",
-          "በሌሎች ላይ ልዩ ኃይልን ለማግኘት።"
+          "አዳም ካድሞን ከኢን ሶፍ በኋላ የመጀመሪያው ንጹህ መንፈሳዊ ዓለም ሲሆን, ሌሎች የታችኛውን ዓለማት (አጺሉቱ፣ ቤሪያ፣ የጺራ፣ አሲያ) ከእሱ ቅርንጫፍ ይወጣሉ።",
+          "ይህ የአካላዊው ሰው የሰው አካል ጥናት ነው።",
+          "ይህ በጣም ጨለማው የታችኛው ዓለም ነው።",
+          "ምንም ትርጉም የለውም።"
         ],
         correct: 0,
-        r: "ከምክንያት በላይ እምነት ከፈጣሪ ጋር ያለው ግንኙነት ከኢጎ ተኮር ተነሳሽነቶች የጸዳ መሆኑን ያረጋግጣል።"
-    },
+        r: "አዳም ካድሞን ከኢን ሶፍ በኋላ የመጀመሪያው የተዋቀረ ዓለም ሲሆን ለአለም አቀፍ መንፈሳዊ ተዋረድ መሰረት ይጥላል።"
+      },
     {
-      q: "9. የመምህሩ (ወይም የዓላማው) ታላቅነት እና ከምክንያት በላይ ያለውን እምነት መቀበል መካከል ያለው ግንኙነት ምንድን ነው?",
+      q: "10. በከፍተኛ ዓለማት አርክቴክቸር ውስጥ በከፍተኛው ብርሃን (ኦር ያሻር) እና በእቃዎች (ኬሊም) መካከል ያለው ግንኙነት እንዴት ተዋቅሯል?",
         options: [
-          "የመምህሩ ወይም የመንፈሳዊው ዓላማ ዋጋ በሰው ዓይን ታላቅ ሲሆን, ትንሹን አመክንዮ አሸንፎ ከምክንያት በላይ እንዲሠራ ኃይል ይሰጠዋል።",
-          "በመካከላቸው ምንም ግንኙነት የለም።",
-          "የመምህሩ ታላቅነት የመጽሐፍ እውቀትን ብቻ ይጨምራል።",
-          "መምህሩ እንዳናስብ ያስተምረናል።"
+          "ብርሃኑ ሁል ጊዜ እያንዳንዱን ዕቃ መሙላት ይፈልጋል, ነገር ግን ማሳኩ (ማያ ገጽ) እና ኦር ሆዘር (የተመለሰው ብርሃን) ምን ያህል ብርሃን በንጹህ መልክ ሊፈስ እንደሚችል ይቆጣጠራሉ።",
+          "ብርሃኑ ከእቃዎቹ ሙሉ በሙሉ ነፃ ነው።",
+          "ዕቃዎቹ ብርሃኑን ያጠፋሉ።",
+          "ምንም መስተጋብር የለም።"
         ],
         correct: 0,
-        r: "የዓላማውን ወይም የመምህሩን ጠቀሜታ (ታላቅነት) መገንዘብ ከምክንያት በላይ ከፍ ለማለት ኃይል ይሰጣል።"
-    },
-    {
-      q: "10. አንድ ሰው ከምክንያት በላይ ባለው እምነት (ኢሙና) መሠረት መሥራት ሲጀምር የውስጡ ዓለም እንዴት ይለወጣል?",
-        options: [
-          "የውስጥ አለመተማመን ይጠፋል, እና ከውጭ ሁኔታዎች ነፃ የሆነ የተረጋጋ, ዘላለማዊ መንፈሳዊ ዓለም አመለካከት ይመሰረታል።",
-          "ሰውዬው አእምሮውን ያጣል።",
-          "የዓለም አካላዊ እውነታ መኖሩን ሙሉ በሙሉ ያቆማል።",
-          "ሰውዬው ግዴለሽ እና ተቀባይ ይሆናል።"
-        ],
-        correct: 0,
-        r: "ከምክንያት በላይ እምነት እንደ ከፍተኛው ዓለማት መሠረት የተረጋጋ የውስጥ ሚዛን እና ዘላለማዊ እይታ ይሰጣል።"
+        r: "በማሳኩ የሚመራው በብርሃን እና በእቃው መካከል ያለው መስተጋብር የመንፈሳዊ ዓለማትን ትክክለኛ የውስጥ ሥርዓት እና ዲግሪዎች ይቀርጻል።"
       }
     ]
   }
