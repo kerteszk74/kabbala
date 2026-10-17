@@ -27,7 +27,8 @@ const lessonTitles = {
     'Válaszd az életet!',
     'Az elrejtéstől a feltárulásig',
     'A teremtés gondolata',
-    'Tzimtzum Aleph és Masach'
+    'Tzimtzum Aleph és Masach',
+    'Hit az értelem felett'
   ],
   en: [
     'Human Nature',
@@ -51,7 +52,8 @@ const lessonTitles = {
     'Choose Life!',
     'From Concealment to Revelation',
     'The Thought of Creation',
-    'Tzimtzum Aleph and Masach'
+    'Tzimtzum Aleph and Masach',
+    'Faith Above Reason'
   ],
   he: [
     'הטבע האנושי',
@@ -75,7 +77,8 @@ const lessonTitles = {
     'בחר בחיים!',
     'מהסתר לגילוי',
     'מחשבת הבריאה',
-    'צמצום אלף ומסך'
+    'צמצום אלף ומסך',
+    'אמונה למעלה מהדעת'
   ],
   ru: [
     'Человеческая природа',
@@ -99,7 +102,8 @@ const lessonTitles = {
     'Выбери жизнь!',
     'От сокрытия к раскрытию',
     'Замысел творения',
-    'Цимцум Алеф и Масах'
+    'Цимцум Алеф и Масах',
+    'Вера выше разума'
   ],
   de: [
     'Die menschliche Natur',
@@ -123,7 +127,8 @@ const lessonTitles = {
     'Wähle das Leben!',
     'Von der Verhüllung zur Offenbarung',
     'Der Schöpfungsgedanke',
-    'Tzimtzum Aleph und Masach'
+    'Tzimtzum Aleph und Masach',
+    'Glaube über dem Verstand'
   ],
   es: [
     'La naturaleza humana',
@@ -147,7 +152,8 @@ const lessonTitles = {
     '¡Elige la vida!',
     'Del ocultamiento a la revelación',
     'El pensamiento de la creación',
-    'Tzimtzum Aleph y Masach'
+    'Tzimtzum Aleph y Masach',
+    'La fe por encima de la razón'
   ],
   fr: [
     'La nature humaine',
@@ -171,7 +177,8 @@ const lessonTitles = {
     'Choisis la vie !',
     'De la dissimulation à la révélation',
     'La pensée de la création',
-    'Tzimtzum Aleph et Masach'
+    'Tzimtzum Aleph et Masach',
+    'La foi au-dessus de la raison'
   ],
   it: [
     'La natura umana',
@@ -195,7 +202,8 @@ const lessonTitles = {
     'Scegli la vita!',
     'Dall’occultamento alla rivelazione',
     'Il pensiero della creazione',
-    'Tzimtzum Aleph e Masach'
+    'Tzimtzum Aleph e Masach',
+    'La fede al di sopra della ragione'
   ],
   pt: [
     'A natureza humana',
@@ -219,7 +227,8 @@ const lessonTitles = {
     'Escolha a vida!',
     'Do ocultamento à revelação',
     'O pensamento da criação',
-    'Tzimtzum Aleph e Masach'
+    'Tzimtzum Aleph e Masach',
+    'A fé acima da razão'
   ],
   uk: [
     'Людська природа',
@@ -243,7 +252,8 @@ const lessonTitles = {
     'Обери життя!',
     'Від приховання до розкриття',
     'Задум творіння',
-    'Цимцум Алеф і Масах'
+    'Цимцум Алеф і Масах',
+    'Віра вище розуму'
   ],
   pl: [
     'Ludzka natura',
@@ -267,7 +277,8 @@ const lessonTitles = {
     'Wybierz życie!',
     'Od ukrycia do objawienia',
     'Myśl stworzenia',
-    'Tzimtzum Aleph i Masach'
+    'Tzimtzum Aleph i Masach',
+    'Wiara ponad rozumem'
   ],
   ro: [
     'Natura umană',
@@ -291,7 +302,8 @@ const lessonTitles = {
     'Alege viața!',
     'De la ascundere la revelare',
     'Gândul creației',
-    'Tzimtzum Aleph și Masach'
+    'Tzimtzum Aleph și Masach',
+    'Credința deasupra rațiunii'
   ],
   bg: [
     'Човешката природа',
@@ -315,7 +327,8 @@ const lessonTitles = {
     'Избери живота!',
     'От скриването към разкриването',
     'Замисълът на творението',
-    'Цимцум Алеф и Масах'
+    'Цимцум Алеф и Масах',
+    'Вярата над разума'
   ],
   cs: [
     'Lidská přirozenost',
@@ -339,7 +352,8 @@ const lessonTitles = {
     'Zvol si život!',
     'Od skrytí k odhalení',
     'Myšlenka stvoření',
-    'Tzimtzum Aleph a Masach'
+    'Tzimtzum Aleph a Masach',
+    'Víra nad rozumem'
   ],
   hr: [
     'Ljudska priroda',
@@ -363,7 +377,8 @@ const lessonTitles = {
     'Izaberi život!',
     'Od skrivenosti do otkrivanja',
     'Misao stvaranja',
-    'Tzimtzum Aleph i Masach'
+    'Tzimtzum Aleph i Masach',
+    'Vjera iznad razuma'
   ],
   sr: [
     'Људска природа',
@@ -387,7 +402,8 @@ const lessonTitles = {
     'Изабери живот!',
     'Од скривања до откривања',
     'Мисао стварања',
-    'Цимцум Алеф и Масах'
+    'Цимцум Алеф и Масах',
+    'Вера изнад разума'
   ],
   tr: [
     'İnsan doğası',
@@ -411,7 +427,8 @@ const lessonTitles = {
     'Hayatı seç!',
     'Gizlenmeden açığa çıkışa',
     'Yaratılış düşüncesi',
-    'Tzimtzum Aleph ve Masach'
+    'Tzimtzum Aleph ve Masach',
+    'Akılın üzerinde inanç'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -435,7 +452,8 @@ const lessonTitles = {
     'Διάλεξε τη ζωή!',
     'Από την απόκρυψη στην αποκάλυψη',
     'Η σκέψη της δημιουργίας',
-    'Τσιμτσούμ Αλέφ και Μασάχ'
+    'Τσιμτσούμ Αλέφ και Μασάχ',
+    'Πίστη πάνω από τη λογική'
   ],
   nl: [
     'De menselijke natuur',
@@ -459,7 +477,8 @@ const lessonTitles = {
     'Kies het leven!',
     'Van verhulling naar onthulling',
     'De gedachte van de schepping',
-    'Tzimtzum Aleph en Masach'
+    'Tzimtzum Aleph en Masach',
+    'Geloof boven de rede'
   ],
   da: [
     'Menneskets natur',
@@ -483,7 +502,8 @@ const lessonTitles = {
     'Vælg livet!',
     'Fra skjulthed til åbenbaring',
     'Skabelsens tanke',
-    'Tzimtzum Aleph og Masach'
+    'Tzimtzum Aleph og Masach',
+    'Tro hævet over fornuften'
   ],
   sv: [
     'Människans natur',
@@ -507,7 +527,8 @@ const lessonTitles = {
     'Välj livet!',
     'Från fördoldhet till uppenbarelse',
     'Skapelsens tanke',
-    'Tzimtzum Aleph och Masach'
+    'Tzimtzum Aleph och Masach',
+    'Tro bortom förnuftet'
   ],
   no: [
     'Menneskets natur',
@@ -531,7 +552,8 @@ const lessonTitles = {
     'Velg livet!',
     'Fra skjulthet til åpenbaring',
     'Skapelsens tanke',
-    'Tzimtzum Aleph og Masach'
+    'Tzimtzum Aleph og Masach',
+    'Tro hevet over fornuften'
   ],
   fi: [
     'Ihmisluonto',
@@ -555,7 +577,8 @@ const lessonTitles = {
     'Valitse elämä!',
     'Kätkeytymisestä paljastumiseen',
     'Luomisen ajatus',
-    'Tzimtzum Aleph ja Masach'
+    'Tzimtzum Aleph ja Masach',
+    'Usko järjen yläpuolella'
   ],
   et: [
     'Inimese loomus',
@@ -579,7 +602,8 @@ const lessonTitles = {
     'Vali elu!',
     'Varjatusest ilmutuseni',
     'Loomise mõte',
-    'Tzimtzum Aleph ja Masach'
+    'Tzimtzum Aleph ja Masach',
+    'Usk üle mõistuse'
   ],
   lv: [
     'Cilvēka daba',
@@ -603,7 +627,8 @@ const lessonTitles = {
     'Izvēlies dzīvi!',
     'No apslēptības līdz atklāsmei',
     'Radīšanas doma',
-    'Tzimtzum Aleph un Masach'
+    'Tzimtzum Aleph un Masach',
+    'Ticība virs saprāta'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -627,7 +652,8 @@ const lessonTitles = {
     'Rinkis gyvenimą!',
     'Nuo slėpimo iki atskleidimo',
     'Kūrimo mintis',
-    'Tzimtzum Aleph ir Masach'
+    'Tzimtzum Aleph ir Masach',
+    'Tikėjimas aukščiau proto'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -651,7 +677,8 @@ const lessonTitles = {
     'اختر الحياة!',
     'من الاحتجاب إلى الكشف',
     'فكرة الخلق',
-    'تسيمتسوم ألف والماساخ'
+    'تسيمتسوم ألف والماساخ',
+    'الإيمان فوق العقل'
   ],
   fa: [
     'طبیعت انسان',
@@ -675,7 +702,8 @@ const lessonTitles = {
     'زندگی را انتخاب کن!',
     'از پنهان‌شدگی تا آشکارشدن',
     'اندیشه آفرینش',
-    'تسیمتسوم الف و ماساخ'
+    'تسیمتسوم الف و ماساخ',
+    'ایمان فراتر از عقل'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -699,7 +727,8 @@ const lessonTitles = {
     'Ընտրիր կյանքը՛',
     'Թաքցնելուց դեպի բացահայտում',
     'Արարման միտքը',
-    'Ցիմցում Ալեֆ և Մասախ'
+    'Ցիմցում Ալեֆ և Մասախ',
+    'Հավատը բանականությունից վեր'
   ],
   az: [
     'İnsan təbiəti',
@@ -723,7 +752,8 @@ const lessonTitles = {
     'Həyatı seç!',
     'Gizlənmədən aşkara çıxmağa',
     'Yaradılışın düşüncəsi',
-    'Tzimtzum Aleph və Masach'
+    'Tzimtzum Aleph və Masach',
+    'Ağıldan üstün iman'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -747,7 +777,8 @@ const lessonTitles = {
     'აირჩიე სიცოცხლე!',
     'დამალვიდან გამჟღავნებამდე',
     'შექმნის ჩანაფიქრი',
-    'ციმციმ ალეფი და მასახი'
+    'ციმციმ ალეფი და მასახი',
+    'რწმენა გონებაზე მაღლა'
   ],
   'zh-cn': [
     '人性',
@@ -771,7 +802,8 @@ const lessonTitles = {
     '选择生命！',
     '从隐藏到显现',
     '创造的思想',
-    '第一次限制（Tzimtzum Aleph）与屏障（Masach）'
+    '第一次限制（Tzimtzum Aleph）与屏障（Masach）',
+    '超越理智的信念'
   ],
   'zh-hant': [
     '人性',
@@ -795,7 +827,8 @@ const lessonTitles = {
     '選擇生命！',
     '從隱藏到顯現',
     '創造的思想',
-    '第一次限制（Tzimtzum Aleph）與屏障（Masach）'
+    '第一次限制（Tzimtzum Aleph）與屏障（Masach）',
+    '超越理智的信念'
   ],
   ja: [
     '人間の本性',
@@ -819,7 +852,8 @@ const lessonTitles = {
     '命を選べ！',
     '隠蔽から開示へ',
     '創造の思考',
-    'ツィムツム・アレフとマサフ'
+    'ツィムツム・アレフとマサフ',
+    '理性を超えた信仰'
   ],
   ko: [
     '인간의 본성',
@@ -843,7 +877,8 @@ const lessonTitles = {
     '생명을 선택하라!',
     '은폐에서 계시로',
     '창조의 생각',
-    '침침 알레프와 마사크'
+    '침침 알레프와 마사크',
+    '이성을 넘어선 믿음'
   ],
   hi: [
     'मानव स्वभाव',
@@ -867,7 +902,8 @@ const lessonTitles = {
     'जीवन चुनें!',
     'छिपाव से उद्घाटन तक',
     'सृष्टि का विचार',
-    'त्ज़िमत्ज़ुम अलेफ़ और मसाख़'
+    'त्ज़िमत्ज़ुम अलेफ़ और मसाख़',
+    'बुद्धि से ऊपर विश्वास'
   ],
   id: [
     'Sifat manusia',
@@ -891,7 +927,8 @@ const lessonTitles = {
     'Pilihlah kehidupan!',
     'Dari ketersembunyian menuju penyingkapan',
     'Pemikiran penciptaan',
-    'Tzimtzum Aleph dan Masach'
+    'Tzimtzum Aleph dan Masach',
+    'Iman di Atas Akal'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -915,7 +952,8 @@ const lessonTitles = {
     'Piliin ang buhay!',
     'Mula sa pagtatago tungo sa pagbubunyag',
     'Kaisipan ng paglikha',
-    'Tzimtzum Aleph at Masach'
+    'Tzimtzum Aleph at Masach',
+    'Pananampalataya sa Ibabaw ng Katwiran'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -939,7 +977,8 @@ const lessonTitles = {
     'ሕይወትን ምረጥ!',
     'ከመደበቅ ወደ መገለጥ',
     'የፍጥረት ሐሳብ',
-    'ጽምጽም አሌፍ እና ማሳክ'
+    'ጽምጽም አሌፍ እና ማሳክ',
+    'ከምክንያት በላይ እምነት'
   ]
 };
 
