@@ -329,7 +329,7 @@ window.lessonDB[25] = {
       {
         q: "10. מדוע אור חוזר הוא הכרח להשגת אור בעולמות העליונים?",
         options: [
-          "מבלעדיו, האור היה דוחה את הכלי חזרה לאגואיזם; אור חוזר הוא הכלי היחיד לקבל אור بصيغة טהורה של השפעה.",
+          "מבלעדיו, האור היה דוחה את הכלי חזרה לאגואיזם; אור חוזר הוא הכלי היחיד לקבל אור בצורה טהורה של השפעה.",
           "מכיוון שבלעדיו נשארים בחושך פיזי.",
           "מכיוון שהוא מווסת את הנשימה.",
           "אין לזה משמעות אמיתית."
@@ -351,20 +351,20 @@ window.lessonDB[25] = {
         r: "Согласно учению Рабаша, чистое намерение перед учебой и внутреннее усилие определяют способность к получению Света."
       },
       {
-        q: "2. Как Каббала интерпретирует такие фундаментальные понятия, как Ор (Свет), Цимцум (Сокращение) and Масах (Экран) на внутреннем and эмоциональном уровне?",
+        q: "2. Как Каббала интерпретирует такие фундаментальные понятия, как Ор (Свет), Цимцум (Сокращение) и Масах (Экран) на внутреннем и эмоциональном уровне?",
         options: [
-          "Не как абстрактные физические явления, а как внутренние, психологические and духовные процессы, происходящие внутри наших желаний.",
+          "Не как абстрактные физические явления, а как внутренние, психологические и духовные процессы, происходящие внутри наших желаний.",
           "Строго как астрономические термины.",
           "Как математические уравнения.",
           "Как описание исторических событий."
         ],
         correct: 0,
-        r: "Эти основные понятия выражают этапы нашей внутренней духовной работы and эмоциональной трансформации."
+        r: "Эти основные понятия выражают этапы нашей внутренней духовной работы и эмоциональной трансформации."
       },
       {
         q: "3. Какова роль Ор Макиф (Окружающего Света) в духовном развитии?",
         options: [
-          "Ор Макиф — это неомасленный избыток, который постоянно стимулирует, согревает and подталкивает сосуд извне, пока тот не станет пригодным для его получения.",
+          "Ор Макиф — это неомасленный избыток, который постоянно стимулирует, согревает и подталкивает сосуд извне, пока тот не станет пригодным для его получения.",
           "Темная, разрушительная сила.",
           "Регулирует температуру физического тела.",
           "Свет, видимый исключительно физическим глазом."
@@ -384,7 +384,7 @@ window.lessonDB[25] = {
         r: "Ор Хозер (Отраженный Свет) — это единственная духовная одежда, позволяющая получить Свет в отдающей форме."
       },
       {
-        q: "5. Каков инженерный принцип духовной помощи между Высшими and Нижними ступенями?",
+        q: "5. Каков инженерный принцип духовной помощи между Высшими и Нижними ступенями?",
         options: [
           "Спуск (падение) АХП Высшей ступени в ГЭ Нижней ступени ради помощи нижнему.",
           "Высшая ступень полностью пренебрегает нижней.",
@@ -392,23 +392,23 @@ window.lessonDB[25] = {
           "Между ступенями нет никакой связи."
         ],
         correct: 0,
-        r: "Спуск АХП Высшего в ГЭ Нижнего обеспечивает необходимую силу and посредничество для духовного подъема."
+        r: "Спуск АХП Высшего в ГЭ Нижнего обеспечивает необходимую силу и посредничество для духовного подъема."
       },
       {
-        q: "6. Что означают состояния Катнут (Малость) and Гадлут (Велиличие) в структуре Высших миров?",
+        q: "6. Что означают состояния Катнут (Малость) и Гадлут (Величие) в структуре Высших миров?",
         options: [
-          "Катнут (малость) and Гадлут (величие) — это фазы развития, формируемые свойствами Хохмы and Бины в ходе исправления, совершаемого ради детей (нижних).",
+          "Катнут (малость) и Гадлут (величие) — это фазы развития, формируемые свойствами Хохмы и Бины в ходе исправления, совершаемого ради детей (нижних).",
           "Рост физического размера.",
           "Течение возраста в материальном мире.",
-          "Финансовая бедность and богатство."
+          "Финансовая бедность и богатство."
         ],
         correct: 0,
-        r: "Катнут and Гадлут — это ступени осознания and духовной зрелости, управляемые Высшими молитвами and исправлениями."
+        r: "Катнут и Гадлут — это ступени осознания и духовной зрелости, управляемые Высшими молитвами и исправлениями."
       },
       {
         q: "7. Как внутреннее усилие, которому учит Рабаш, способствует трансформации эгоизма?",
         options: [
-          "Оно заставляет человека выйти за рамки собственных ограничений and направить свои намерения в сторону отдачи.",
+          "Оно заставляет человека выйти за рамки собственных ограничений и направить свои намерения в сторону отдачи.",
           "Оно подавляет все эмоции.",
           "Оно устраняет потребность во сне.",
           "Оно поощряет физический труд."
@@ -428,9 +428,9 @@ window.lessonDB[25] = {
         r: "Масах — это сила внутреннего сопротивления, которая предотвращает эгоистическое получение."
       },
       {
-        q: "9. Какую роль играет свойство Бины в процессе Катнут and Гадлут (малости and величия)?",
+        q: "9. Какую роль играет свойство Бины в процессе Катнут и Гадлут (малости и величия)?",
         options: [
-          "Бина — это свойство отдачи and милосердия, которое питает, формирует and возводит нижние ступени в состояние величия (Гадлут).",
+          "Бина — это свойство отдачи и милосердия, которое питает, формирует и возводит нижние ступени в состояние величия (Гадлут).",
           "Она олицетворяет суровый суд без отдачи.",
           "Она питает исключительно физическое тело.",
           "Она уничтожает нижних."
@@ -452,9 +452,9 @@ window.lessonDB[25] = {
     ],
     de: [
       {
-        q: "1. Was ist die Bedeutung der Absicht vor dem Studium und der inneren Anstrengung in der Kabbala (basierend auf Rabash Artikel 31 and 12)?",
+        q: "1. Was ist die Bedeutung der Absicht vor dem Studium und der inneren Anstrengung in der Kabbala (basierend auf Rabash Artikel 31 und 12)?",
         options: [
-          "Die richtige Absicht and innere Anstrengung ziehen das Obere Licht an, wodurch ein Mensch fähig wird, sich spirituell zu entwickeln and den Egoismus zu überwinden.",
+          "Die richtige Absicht und innere Anstrengung ziehen das Obere Licht an, wodurch ein Mensch fähig wird, sich spirituell zu entwickeln und den Egoismus zu überwinden.",
           "Es ist lediglich eine Art, die Zeit totzuschlagen.",
           "Es hat keinerlei Einfluss auf das Studium.",
           "Es entwickelt ausschließlich das physische Gedächtnis."
@@ -463,15 +463,15 @@ window.lessonDB[25] = {
         r: "Gemäß den Lehren von Rabash bestimmen die reine Absicht vor dem Studium und die innere Anstrengung die Fähigkeit, das Licht zu empfangen."
       },
       {
-        q: "2. Wie interpretiert die Kabbala grundlegende Konzepte wie Or (Licht), Tzimtzum (Einschränkung) and Masach (Bildschirm) auf einer inneren and emotionalen Ebene?",
+        q: "2. Wie interpretiert die Kabbala grundlegende Konzepte wie Or (Licht), Tzimtzum (Einschränkung) und Masach (Bildschirm) auf einer inneren und emotionalen Ebene?",
         options: [
-          "Nicht als abstrakte physische Phänomene, sondern als interne, psychologische and spirituelle Prozesse, die in unseren Wünschen ablaufen.",
+          "Nicht als abstrakte physische Phänomene, sondern als interne, psychologische und spirituelle Prozesse, die in unseren Wünschen ablaufen.",
           "Streng als astronomische Begriffe.",
           "Als mathematische Gleichungen.",
           "Als Beschreibungen historischer Ereignisse."
         ],
         correct: 0,
-        r: "Diese Kernkonzepte drücken die Schritte unserer inneren spirituellen Arbeit and emotionalen Transformation aus."
+        r: "Diese Kernkonzepte drücken die Schritte unserer inneren spirituellen Arbeit und emotionalen Transformation aus."
       },
       {
         q: "3. Welche Rolle spielt das Ohr Makif (Umgebende Licht) in der spirituellen Entwicklung?",
@@ -496,7 +496,7 @@ window.lessonDB[25] = {
         r: "Ohr Chozer (Zurückgekehrtes Licht) ist das einzige spirituelle Gewand, das den Empfang von Licht in gebender Form ermöglicht."
       },
       {
-        q: "5. Was ist das ingenieurtechnische Prinzip der spirituellen Hilfe zwischen Oberen and Unteren Stufen?",
+        q: "5. Was ist das ingenieurtechnische Prinzip der spirituellen Hilfe zwischen Oberen und Unteren Stufen?",
         options: [
           "Der Abstieg (Fall) des AHP der Oberen Stufe in das GE der Unteren Stufe zum Zweck der Hilfe für den Unteren.",
           "Die Obere Stufe vernachlässigt den Unteren völlig.",
@@ -504,23 +504,23 @@ window.lessonDB[25] = {
           "Es gibt keinerlei Verbindung zwischen den Stufen."
         ],
         correct: 0,
-        r: "Der Abstieg des AHP des Oberen in das GE des Unteren liefert die nötige Kraft and Vermittlung für den spirituellen Aufstieg."
+        r: "Der Abstieg des AHP des Oberen in das GE des Unteren liefert die nötige Kraft und Vermittlung für den spirituellen Aufstieg."
       },
       {
-        q: "6. Was bedeuten die Zustände von Kleinheit (Katnut) and Größe (Gadlut) in der Struktur der Oberen Welten?",
+        q: "6. Was bedeuten die Zustände von Kleinheit (Katnut) und Größe (Gadlut) in der Struktur der Oberen Welten?",
         options: [
-          "Katnut (Kleinheit) and Gadlut (Größe) sind Entwicklungsphasen, die durch die Eigenschaften von Hochma and Bina während der Korrektur geformt werden, die für die Kinder (Unteren) vollzogen wird.",
+          "Katnut (Kleinheit) und Gadlut (Größe) sind Entwicklungsphasen, die durch die Eigenschaften von Hochma und Bina während der Korrektur geformt werden, die für die Kinder (Unteren) vollzogen wird.",
           "Wachstum der physischen Größe.",
           "Das Vergehen des Alters in der materiellen Welt.",
-          "Finanzielle Armut and Reichtum."
+          "Finanzielle Armut und Reichtum."
         ],
         correct: 0,
-        r: "Katnut and Gadlut sind Grade von Bewusstsein and spiritueller Reife, die durch Obere Gebete and Korrekturen gelenkt werden."
+        r: "Katnut und Gadlut sind Grade von Bewusstsein und spiritueller Reife, die durch Obere Gebete und Korrekturen gelenkt werden."
       },
       {
         q: "7. Wie trägt die von Rabash gelehrte innere Anstrengung zur Transformation des Egoismus bei?",
         options: [
-          "Sie zwingt den Menschen, über seine eigenen Grenzen hinauszugehen and seine Absichten auf das Geben auszurichten.",
+          "Sie zwingt den Menschen, über seine eigenen Grenzen hinauszugehen und seine Absichten auf das Geben auszurichten.",
           "Sie unterdrückt alle Emotionen.",
           "Sie beseitigt das Bedürfnis nach Schlaf.",
           "Sie fördert körperliche Arbeit."
@@ -531,7 +531,7 @@ window.lessonDB[25] = {
       {
         q: "8. Welche Funktion hat der Masach (Bildschirm) in der inneren emotionalen Arbeit?",
         options: [
-          "Der Masach widersteht dem egoistischen Verlangen nach Genuss and prüft, wie viel Licht mit einer reinen gebenden Absicht empfangen werden kann.",
+          "Der Masach widersteht dem egoistischen Verlangen nach Genuss und prüft, wie viel Licht mit einer reinen gebenden Absicht empfangen werden kann.",
           "Er blockiert das gesamte Licht vollständig.",
           "Er dient als physischer Filter zur Wasserreinigung.",
           "Er löscht Erinnerungen."
@@ -540,15 +540,15 @@ window.lessonDB[25] = {
         r: "Der Masach ist die Kraft des inneren Widerstands, die den egoistischen Empfang verhindert."
       },
       {
-        q: "9. Welche Rolle spielt die Eigenschaft von Bina im Prozess von Katnut and Gadlut (Kleinheit and Größe)?",
+        q: "9. Welche Rolle spielt die Eigenschaft von Bina im Prozess von Katnut und Gadlut (Kleinheit und Größe)?",
         options: [
-          "Bina ist die Eigenschaft des Gebens and der Barmherzigkeit, die die Unteren Stufen nährt, formt and zur Größe (Gadlut) erhebt.",
+          "Bina ist die Eigenschaft des Gebens und der Barmherzigkeit, die die Unteren Stufen nährt, formt und zur Größe (Gadlut) erhebt.",
           "Sie repräsentiert strenges Gericht ohne Geben.",
           "Sie nährt ausschließlich den physischen Körper.",
           "Sie vernichtet die Unteren."
         ],
         correct: 0,
-        r: "Binas gebende Eigenschaft sichert die Entwicklung der Unteren and führt sie von der Kleinheit zur Größe."
+        r: "Binas gebende Eigenschaft sichert die Entwicklung der Unteren und führt sie von der Kleinheit zur Größe."
       },
       {
         q: "10. Warum ist Ohr Chozer (Zurückgekehrtes Licht) eine Notwendigkeit, um Licht in den Oberen Welten zu erlangen?",
@@ -1692,23 +1692,23 @@ window.lessonDB[25] = {
         "Развија искључиво физичко памћење."
       ],
       correct: 0,
-      r: "Према Рабашовом учењу, чиста намера пре учења and унутрашњи напор одређују капацитет за примање Светлости."
+      r: "Према Рабашовом учењу, чиста намера пре учења и унутрашњи напор одређују капацитет за примање Светлости."
     },
     {
-      q: "2. Како Кабала тумачи темељне појмове попут Or (Светлости), Tzimtzuma (Ограничења) and Masacha (Екрана) на унутрашњој and емоционалној равни?",
+      q: "2. Како Кабала тумачи темељне појмове попут Or (Светлости), Tzimtzuma (Ограничења) и Masacha (Екрана) на унутрашњој и емоционалној равни?",
       options: [
-        "Не као апстрактне физичке појаве, већ као унутрашње, психолошке and духовне процесе који се одвијају унутар наших жеља.",
+        "Не као апстрактне физичке појаве, већ као унутрашње, психолошке и духовне процесе који се одвијају унутар наших жеља.",
         "Строго као астрономске термине.",
         "Као математичке једначине.",
         "Као описе историјских догађаја."
       ],
       correct: 0,
-      r: "Ови централни појмови изражавају кораке нашег унутрашњег духовног рада and емоционалне трансформације."
+      r: "Ови централни појмови изражавају кораке нашег унутрашњег духовног рада и емоционалне трансформације."
     },
     {
       q: "3. Која је улога Ohr Makifa (Околне Светлости) у духовном развоју?",
       options: [
-        "Ohr Makif је још неунесено обиље које непрекидно стимулише, греје and подстиче посуду споља док она не постане спремна да га прими.",
+        "Ohr Makif је још неунесено обиље које непрекидно стимулише, греје и подстиче посуду споља док она не постане спремна да га прими.",
         "Мрачна, рушилачка сила.",
         "Регулише температуру физичког тела.",
         "Искључиво светлост видљива физичком оку."
@@ -1728,7 +1728,7 @@ window.lessonDB[25] = {
         r: "Ohr Chozer (Враћена Светлост) једино је духовно одело које омогућава примање Светлости у форми давања."
     },
     {
-      q: "5. Који је инжењерски принцип духовне помоћи између Виших and Нижих ступњева?",
+      q: "5. Који је инжењерски принцип духовне помоћи између Виших и Нижих ступњева?",
         options: [
           "Спуштање (пад) AHP-a Вишег ступња у GE Нижег ступња ради помоћи нижњем.",
           "Виши степен у потпуности занемарује нижи.",
@@ -1736,23 +1736,23 @@ window.lessonDB[25] = {
           "Нема никакве повезаности између ступњева."
         ],
         correct: 0,
-        r: "Спуштање AHP-a Вишег у GE Нижега пружа силу and посредовање нужне за духовни успон."
+        r: "Спуштање AHP-a Вишег у GE Нижега пружа силу и посредовање нужне за духовни успон."
     },
     {
-      q: "6. Шта значе стања Малости (Katnut) and Величине (Gadlut) у структури Виших Светова?",
+      q: "6. Шта значе стања Малости (Katnut) и Величине (Gadlut) у структури Виших Светова?",
         options: [
-          "Katnut (малост) and Gadlut (величина) фазе су развоја обликоване атрибутима Hochma and Bina током корекције извршене за децу (ниже).",
+          "Katnut (малост) и Gadlut (величина) фазе су развоја обликоване атрибутима Hochma и Bina током корекције извршене за децу (ниже).",
           "Раст физичке величине.",
           "Протицање доби у материјалном свету.",
-          "Финансијска сиромаштина and богатство."
+          "Финансијска сиромаштина и богатство."
         ],
         correct: 0,
-        r: "Katnut and Gadlut су степени свесности and духовне зрелости којима управљају Више молитве and корекције."
+        r: "Katnut и Gadlut су степени свесности и духовне зрелости којима управљају Више молитве и корекције."
     },
     {
       q: "7. Како унутрашњи напор који подучава Rabash доприноси трансформацији егоизма?",
         options: [
-          "Присиљава човека да надиђе властита ограничења and помакне своје намере према давању.",
+          "Присиљава човека да надиђе властита ограничења и помакне своје намере према давању.",
           "Потискује све емоције.",
           "Уклања потребу за спавањем.",
           "Постиче физички рад."
@@ -1769,18 +1769,18 @@ window.lessonDB[25] = {
           "Брише сећања."
         ],
         correct: 0,
-        r: "Masach је снага унутрашњег отпора која спречава egoistično primanje."
+        r: "Masach је снага унутрашњег отпора која спречава егоистично примање."
     },
     {
-      q: "9. Коју улогу има атрибут Bine u procesu Katnuta and Gadluta (malosti and veličine)?",
+      q: "9. Коју улогу има атрибут Бине у процесу Катнута и Гадлута (малости и величине)?",
         options: [
-          "Bina je atribut davanja and milosrđa, koji hrani, oblikuje and uzdiže niže stupnjeve do veličine (Gadlut).",
+          "Бина је атрибут давања и милосрђа, који храни, обликује и уздиже ниже степене до величине (Gadlut).",
           "Представља строги суд без давања.",
           "Храни искључиво физичко тело.",
           "Уништава ниже."
         ],
         correct: 0,
-        r: "Atribut davanja Bine osigurava razvoj nižih, prevodeći ih iz malosti u veličinu."
+        r: "Атрибут давања Бине обезбеђује развој нижих, преводећи их из малости у величину."
     },
     {
       q: "10. Зашто је Ohr Chozer (Враћена Светлост) нужност за постизање Светлости у Вишим Световима?",
@@ -1791,7 +1791,7 @@ window.lessonDB[25] = {
           "Нема никакво стварно значење."
         ],
         correct: 0,
-        r: "Ohr Chozer je protusila koja osposobljava posudu da primi Svjetlost na radost Stvoritelja."
+        r: "Ohr Chozer је противсила која оспособљава посуду да прими Светлост на радост Створитеља."
     }
   ],
   tr: [
@@ -1919,10 +1919,10 @@ window.lessonDB[25] = {
       r: "Σύμφωνα με τη διδασκαλία του Rabash, η καθαρή πρόθεση πριν από τη μελέτη και η εσωτερική προσπάθεια καθορίζουν την ικανότητα λήψης του Φωτός."
     },
     {
-      q: "2. Πώς ερμηνεύει η Καμπάλα θεμελιώδεις έννοιες όπως το Or (Φως), το Tzimtzum (Περιορισμός) και το Masach (Οθόνη) σε εσωτερικό and συναισθηματικό επίπεδο;",
+      q: "2. Πώς ερμηνεύει η Καμπάλα θεμελιώδεις έννοιες όπως το Or (Φως), το Tzimtzum (Περιορισμός) και το Masach (Οθόνη) σε εσωτερικό και συναισθηματικό επίπεδο;",
       options: [
-        "Όχι ως αφηρημένα φυσικά φαινόμενα, αλλά ως εσωτερικές, ψυχολογικές and πνευματικές διεργασίες που συμβαίνουν μέσα στις επιθυμίες μας.",
-        "Αυστηρά ως αστronomικούς όρους.",
+        "Όχι ως αφηρημένα φυσικά φαινόμενα, αλλά ως εσωτερικές, ψυχολογικές και πνευματικές διεργασίες που συμβαίνουν μέσα στις επιθυμίες μας.",
+        "Αυστηρά ως αστρονομικούς όρους.",
         "Ως μαθηματικές εξισώσεις.",
         "Ως περιγραφές ιστορικών γεγονότων."
       ],
@@ -1930,20 +1930,20 @@ window.lessonDB[25] = {
       r: "Αυτές οι κεντρικές έννοιες εκφράζουν τα βήματα της εσωτερικής μας πνευματικής εργασίας και συναισθηματικής μεταμόρφωσης."
     },
     {
-      q: "3. ποιος είναι ο ρόλος του Ohr Makif (Περικυκlωνόντος Φωτός) στην πνευματική ανάπτυξη;",
+      q: "3. Ποιος είναι ο ρόλος του Ohr Makif (Περικυκλωτικού Φωτός) στην πνευματική ανάπτυξη;",
       options: [
         "Το Ohr Makif είναι η αφθονία που δεν έχει ακόμη εγχυθεί και η οποία συνεχώς διεγείρει, θερμαίνει και ωθεί το σκεύος από έξω μέχρι να γίνει κατάλληλο να το λάβει.",
-        "Μια σκοτεινή, καταστrofική δύναμη.",
+        "Μια σκοτεινή, καταστροφική δύναμη.",
         "Ρυθμίζει τη θερμοκρασία του φυσικού σώματος.",
         "Αποκλειστικά φως ορατό στο φυσικό μάτι."
       ],
       correct: 0,
-      r: "Το Περικυκlωνόν Φως (Ohr Makif) είναι το Φως που δεν έχει ληφθεί ακόμη αλλά μας περιμένει, διεγείροντας από ψηλά."
+      r: "Το Περικυκλωτικό Φως (Ohr Makif) είναι το Φως που δεν έχει ληφθεί ακόμη αλλά μας περιμένει, διεγείροντας από ψηλά."
     },
     {
       q: "4. Γιατί το Ohr Chozer (Επιστρεφόμενο Φως) θεωρείται το μοναδικό πνευματικό ένδυμα (Dvekut);",
         options: [
-          "Επειδή το Ohr Chozer είναι η πρόθεση προσφοράς που νdύνει το Ανώτερο Φως, επιτυγχάνοντας έτσι την ισότητα μορφής (Dvekut) με τον Δημιουργό.",
+          "Επειδή το Ohr Chozer είναι η πρόθεση προσφοράς που ντύνει το Ανώτερο Φως, επιτυγχάνοντας έτσι την ισότητα μορφής (Dvekut) με τον Δημιουργό.",
           "Επειδή είναι ένα φυσικό ρούχο.",
           "Επειδή προστατεύει από το κρύο.",
           "Επειδή κάνει τα πνεύματα ορατά."
@@ -1963,42 +1963,42 @@ window.lessonDB[25] = {
         r: "Η κάθοδος του AHP του Ανώτερου στο GE του Κατώτερου παρέχει τη δύναμη και τη μεσολάβηση που είναι απαραίτητες για την πνευματική άνοδο."
     },
     {
-      q: "6. Τι σημαίνουν οι καταστάσεις της Μικρότητας (Katnut) and της Μεγαλοσύνης (Gadlut) στη δομή των Ανώτερων Κόσμων;",
+      q: "6. Τι σημαίνουν οι καταστάσεις της Μικρότητας (Katnut) και της Μεγαλοσύνης (Gadlut) στη δομή των Ανώτερων Κόσμων;",
         options: [
-          "Το Katnut (μικρότητα) and το Gadlut (μεγαλοσύνη) είναι φάσεις ανάπτυξης που διαμορφώνονται από τα γνωρίσματα της Hochma and της Bina κατά τη διάρκεια της διόρθωσης που γίνεται για τα παιδιά (κατώτερους).",
+          "Το Katnut (μικρότητα) και το Gadlut (μεγαλοσύνη) είναι φάσεις ανάπτυξης που διαμορφώνονται από τα γνωρίσματα της Hochma και της Bina κατά τη διάρκεια της διόρθωσης που γίνεται για τα παιδιά (κατώτερους).",
           "Η αύξηση του φυσικού μεγέθους.",
           "Η πάροδος της ηλικίας στον υλικό κόσμο.",
-          "Οικονομική φτώχεια and πλούτος."
+          "Οικονομική φτώχεια και πλούτος."
         ],
         correct: 0,
-        r: "Το Katnut and το Gadlut είναι βαθμοί συνείδησης and πνευματικής ωριμότητας που διέπονται από Ανώτερες προσευχές and διορθώσεις."
+        r: "Το Katnut και το Gadlut είναι βαθμοί συνείδησης και πνευματικής ωριμότητας που διέπονται από Ανώτερες προσευχές και διορθώσεις."
     },
     {
       q: "7. Πώς συμβάλλει η εσωτερική προσπάθεια που διδάσκει ο Rabash στον μεταχηματισμό του εγωισμού;",
         options: [
-          "Αναγκάζει τον άνθρωπο να υπερβεί τους δικούς του περιορισμούς and να μετατοπίσει τις προθέσεις του προς την προσφορά.",
+          "Αναγκάζει τον άνθρωπο να υπερβεί τους δικούς του περιορισμούς και να μετατοπίσει τις προθέσεις του προς την προσφορά.",
           "Καταστέλλει όλα τα συναισθήματα.",
           "Εξαλείφει την ανάγκη για ύπνο.",
           "Ενθαρρύνει τη σωματική εργασία."
         ],
         correct: 0,
-        r: "Η εσωτερική προσπάθεια μετατρέπει τις εγωisticές επιθυμίες σε προσφορικές μέσω της διόρθωσης της πρόθεσης."
+        r: "Η εσωτερική προσπάθεια μετατρέπει τις εγωιστικές επιθυμίες σε προσφορικές μέσω της διόρθωσης της πρόθεσης."
     },
     {
       q: "8. ποια είναι η λειτουργία του Masach (Οθόνη) στην εσωτερική συναισθηματική εργασία;",
         options: [
-          "Το Masach αντιτίθεται στην εγωisticή επιθυμία για απόλαυση, εξετάζοντας πόσο Φως μπορεί να ληφθεί με καθαρή πρόθεση προσφοράς.",
+          "Το Masach αντιτίθεται στην εγωιστική επιθυμία για απόλαυση, εξετάζοντας πόσο Φως μπορεί να ληφθεί με καθαρή πρόθεση προσφοράς.",
           "Μπλοκάρει τελείως όλο το Φως.",
           "Λειτουργεί ως φυσικό φίλτρο για τον καθαρισμό του νερού.",
           "Σβήνει τις αναμνήσεις."
         ],
         correct: 0,
-        r: "Το Masach είναι η δύναμη της εσωτερικής αντίστασης που αποτρέπει την εγωisticή λήψη."
+        r: "Το Masach είναι η δύναμη της εσωτερικής αντίστασης που αποτρέπει την εγωιστική λήψη."
     },
     {
-      q: "9. ποιος είναι ο ρόλος του γνωρίσματος της Bina στη διαδικασία του Katnut and Gadlut (μικρότητα and μεγαλοσύνη);",
+      q: "9. Ποιος είναι ο ρόλος του γνωρίσματος της Bina στη διαδικασία του Katnut και Gadlut (μικρότητα και μεγαλοσύνη);",
         options: [
-          "Η Bina είναι το γνώρισμα της προσφοράς and του ελέους, το οποίο θρέφει, διαμορφώνει and υψώνει τους κατώτερους βαθμούς στη μεγαλοσύνη (Gadlut).",
+          "Η Bina είναι το γνώρισμα της προσφοράς και του ελέους, το οποίο θρέφει, διαμορφώνει και υψώνει τους κατώτερους βαθμούς στη μεγαλοσύνη (Gadlut).",
           "Αντιπροσωπεύει την αυστηρή κρίση χωρίς προσφορά.",
           "Θρέφει αποκλειστικά το φυσικό σώμα.",
           "Καταστρέφει τους κατώτερους."
@@ -2031,7 +2031,7 @@ window.lessonDB[25] = {
       r: "Volgens de leringen van Rabash bepalen de zuivere intentie voor de studie en de interne inspanning het vermogen om het Licht te ontvangen."
     },
     {
-      q: "2. Hoe interpreteert de Kabbala fundamentele concepten zoals Or (Licht), Tzimtzum (Beperking) and Masach (Scherm) op een intern en emotioneel niveau?",
+      q: "2. Hoe interpreteert de Kabbala fundamentele concepten zoals Or (Licht), Tzimtzum (Beperking) en Masach (Scherm) op een intern en emotioneel niveau?",
       options: [
         "Niet als abstracte fysieke fenomenen, maar als interne, psychologische en spirituele processen die zich binnen onze verlangens afspelen.",
         "Strikt als astronomische termen.",
@@ -2367,20 +2367,20 @@ window.lessonDB[25] = {
       r: "I henhold til Rabashs lære bestemmer den rene hensikten før studiet og den indre innsatsen evnen til å motta Lyset."
     },
     {
-      q: "2. Hvordan tolker Kabbala fundamentale begreper som Or (Lys), Tzimtzum (Begrensning) and Masach (Skjerm) på et indre and emosjonelt nivå?",
+      q: "2. Hvordan tolker Kabbala fundamentale begreper som Or (Lys), Tzimtzum (Begrensning) og Masach (Skjerm) på et indre og emosjonelt nivå?",
       options: [
-        "Ikke som abstrakte fysiske fenomener, men som interne, psykologiske and åndelige prosesser som foregår innenfor våre begjær.",
+        "Ikke som abstrakte fysiske fenomener, men som interne, psykologiske og åndelige prosesser som foregår innenfor våre begjær.",
         "Strengt som astronomiske termer.",
         "Som matematiske likninger.",
         "Som beskrivelser av historiske begivenheter."
       ],
       correct: 0,
-      r: "Disse sentrale begrepene uttrykker trinnene i vårt indre åndelige arbeid and emosjonelle transformasjon."
+      r: "Disse sentrale begrepene uttrykker trinnene i vårt indre åndelige arbeid og emosjonelle transformasjon."
     },
     {
       q: "3. Hva er rollen til Ohr Makif (Omgivende Lys) i den åndelige utviklingen?",
       options: [
-        "Ohr Makif er den ennå ikke inngytte overfloden som kontinuerlig stimulerer, varmer and ansporer karet utenfra til det blir egnet til å motta det.",
+        "Ohr Makif er den ennå ikke inngytte overfloden som kontinuerlig stimulerer, varmer og ansporer karet utenfra til det blir egnet til å motta det.",
         "En mørk, destruktiv kraft.",
         "Det regulerer temperaturen til det fysiske legemet.",
         "Utelukkende lys synlig for det fysiske øyet."
@@ -2400,7 +2400,7 @@ window.lessonDB[25] = {
         r: "Ohr Chozer (Tilbakevendt Lys) er den eneste åndelige bekledningen som muliggjør mottagelse av Lys i en givende form."
     },
     {
-      q: "5. Hva er ingeniørprinsippet for åndelig assistanse mellom Øvre and Nedre grader?",
+      q: "5. Hva er ingeniørprinsippet for åndelig assistanse mellom Øvre og Nedre grader?",
         options: [
           "Nedstigningen (fallet) til den Øvre gradens AHP inn i den Nedre gradens GE for å hjelpe den nedre.",
           "Den Øvre graden forsømmer fullstendig den nedre.",
@@ -2408,23 +2408,23 @@ window.lessonDB[25] = {
           "Det er ingen forbindelse mellom gradene."
         ],
         correct: 0,
-        r: "Nedstigningen av den Øvres AHP i den Nedres GE gir den kraften and meglingen som kreves for den åndelige oppstigningen."
+        r: "Nedstigningen av den Øvres AHP i den Nedres GE gir den kraften og meglingen som kreves for den åndelige oppstigningen."
     },
     {
-      q: "6. Hva betyr tilstander av Smålighet (Katnut) and Størrelse (Gadlut) i strukturen til de Øvre Verdenene?",
+      q: "6. Hva betyr tilstander av Smålighet (Katnut) og Størrelse (Gadlut) i strukturen til de Øvre Verdenene?",
         options: [
-          "Katnut (smålighet) and Gadlut (størrelse) er utviklingsfaser formet av Hochmas and Binas attributter under korrigeringen utført for barna (de nedre).",
+          "Katnut (smålighet) og Gadlut (størrelse) er utviklingsfaser formet av Hochmas og Binas attributter under korrigeringen utført for barna (de nedre).",
           "Vekst i fysisk størrelse.",
           "Tidens gang i den materielle verden.",
-          "Finansiell fattigdom and rikdom."
+          "Finansiell fattigdom og rikdom."
         ],
         correct: 0,
-        r: "Katnut and Gadlut er grader av bevisstheid and åndelig modenhet styrt av Øvre bønner and korrigeringer."
+        r: "Katnut og Gadlut er grader av bevissthet og åndelig modenhet styrt av Øvre bønner og korrigeringer."
     },
     {
       q: "7. Hvordan bidrar den indre innsatsen lært av Rabash til å transformere egoisme?",
         options: [
-          "Det tvinger et menneske til å overskride sine egne begrensninger and flytte sine hensikter mot givende.",
+          "Det tvinger et menneske til å overskride sine egne begrensninger og flytte sine hensikter mot givende.",
           "Det undertrykker alle følelser.",
           "Det fjerner behovet for søvn.",
           "Det oppmuntrer til fysisk arbeid."
@@ -2444,15 +2444,15 @@ window.lessonDB[25] = {
         r: "Masach er kraften av indre motstand som forhindrer egoistisk mottagelse."
     },
     {
-      q: "9. Hvilken rolle spiller Binas attributt i prosessen med Katnut and Gadlut (smålighet and størrelse)?",
+      q: "9. Hvilken rolle spiller Binas attributt i prosessen med Katnut og Gadlut (smålighet og størrelse)?",
         options: [
-          "Bina er attributtet for given and barmhjertighet, som nærer, former and ophøyer de nedre gradene til størrelse (Gadlut).",
+          "Bina er attributtet for giving og barmhjertighet, som nærer, former og ophøyer de nedre gradene til størrelse (Gadlut).",
           "Det representerer streng dom uten given.",
           "Det nærer utelukkende det fysiske legemet.",
           "Det ødelegger de nedre."
         ],
         correct: 0,
-        r: "Binas givende attributt sikrer utviklingen til de nedre, and bringer dem fra smålighet til størrelse."
+        r: "Binas givende attributt sikrer utviklingen til de nedre, og bringer dem fra smålighet til størrelse."
     },
     {
       q: "10. Hvorfor er Ohr Chozer (Tilbakevendt Lys) en nødvendighet for å nå Lys i de Øvre Verdenene?",
@@ -2525,18 +2525,18 @@ window.lessonDB[25] = {
     {
       q: "6. Mitä Pienuuden (Katnut) ja Suuruuden (Gadlut) tilat tarkoittavat Ylempien Maailmojen rakenteessa?",
         options: [
-          "Katnut (pienuus) and Gadlut (suuruus) ovat kehitysvaiheita, joita Hochman and Binan ominaisuudet muovaavat lasten (alempien) hyväksi tehdyn korjauksen aikana.",
+          "Katnut (pienuus) ja Gadlut (suuruus) ovat kehitysvaiheita, joita Hochman ja Binan ominaisuudet muovaavat lasten (alempien) hyväksi tehdyn korjauksen aikana.",
           "Fyysisen koon kasvamista.",
           "Iän kulumista materiaalisessa maailmassa.",
           "Taloudellista köyhyyttä ja vaurautta."
         ],
         correct: 0,
-        r: "Katnut and Gadlut ovat tietoisuuden ja hengellisen kypsyyden asteita, joita Ylemmät rukoukset and korjaukset ohjaavat."
+        r: "Katnut ja Gadlut ovat tietoisuuden ja hengellisen kypsyyden asteita, joita Ylemmät rukoukset ja korjaukset ohjaavat."
     },
     {
       q: "7. Miten Rabashin opettama sisäinen ponnistus edistää egoismin muuntamista?",
         options: [
-          "Se pakottaa ihmisen ylittämään omat rajansa and siirtämään aikomuksensa kohti antamista.",
+          "Se pakottaa ihmisen ylittämään omat rajansa ja siirtämään aikomuksensa kohti antamista.",
           "Se tukahduttaa kaikki tunteet.",
           "Se poistaa unen tarpeen.",
           "Se kannustaa fyysiseen työhön."
@@ -2962,13 +2962,13 @@ window.lessonDB[25] = {
     {
       q: "5. ما هو مبدأ الهندسة للمساعدة الروحية بين الدرجتين العليا والسفلى؟",
         options: [
-          "نزول (سقوط) أ.ח.پ (AHP) الدرجة العليا إلى ג.ע (GE) الدرجة السفلى من أجل مساعدة السفلي.",
+          "نزول (سقوط) AHP للدرجة العليا إلى GE للدرجة السفلى من أجل مساعدة السفلي.",
           "الدرجة العليا تهمل السفلي تماماً.",
           "الدرجة السفلى تتسلق بالقوة إلى العليا.",
           "لا توجد أي صلة بين الدرجات."
         ],
         correct: 0,
-        r: "نزول أ.ח.پ (AHP) الخاص بالعالي إلى ג.ע (GE) الخاص بالسفلي يوفر القوة والوساطة اللازمتين للصعود الروحي."
+        r: "نزول AHP الخاص بالعالي إلى GE الخاص بالسفلي يوفر القوة والوساطة اللازمتين للصعود الروحي."
     },
     {
       q: "6. ماذا تعني حالات الكاتنوت (الصغر) والجادلوت (الكبر) في هيكلية العوالم العليا؟",
@@ -3028,37 +3028,37 @@ window.lessonDB[25] = {
     ],
   fa: [
     {
-      q: "1. اهمیت نیت قبل از مطالعه and تلاش درون در کابالا (بر اساس مقالات ۳۱ و ۱۲ راباش) چیست؟",
+      q: "1. اهمیت نیت قبل از مطالعه و تلاش درون در کابالا (بر اساس مقالات ۳۱ و ۱۲ راباش) چیست؟",
       options: [
-        "نیت صحیح and تلاش درون نور برتر را جذب می‌کنند، و انسان را قادر می‌سازند تا به رشد معنوی برسد and بر خودخواهی غلبه کند.",
+        "نیت صحیح و تلاش درون نور برتر را جذب می‌کنند، و انسان را قادر می‌سازند تا به رشد معنوی برسد و بر خودخواهی غلبه کند.",
         "این صرفاً راهی برای گذراندن وقت است.",
         "هیچ تأثیری بر مطالعه ندارد.",
         "منحصراً حافظه فیزیکی را توسعه می‌دهد."
       ],
       correct: 0,
-      r: "طبق تعالیم راباش، نیت خالص قبل از مطالعه and تلاش درون ظرفیت دریافت نور را تعیین می‌کنند."
+      r: "طبق تعالیم راباش، نیت خالص قبل از مطالعه و تلاش درون ظرفیت دریافت نور را تعیین می‌کنند."
     },
     {
-      q: "2. کابالا مفاهیم بنیادی مانند اور (نور)، تزمتسوم (محدودیت) and ماساچ (صفحه نمایش) را در سطح درونی and عاطفی چگونه تفسیر می‌کند؟",
+      q: "2. کابالا مفاهیم بنیادی مانند اور (نور)، تزمتسوم (محدودیت) و ماساچ (صفحه نمایش) را در سطح درونی و عاطفی چگونه تفسیر می‌کند؟",
       options: [
-        "نه به عنوان پدیده‌های فیزیکی انتزاعی، بلکه به عنوان فرآیندهای درونی، روانشناختی and معنوی که در درون خواسته‌های ما رخ می‌دهند.",
+        "نه به عنوان پدیده‌های فیزیکی انتزاعی، بلکه به عنوان فرآیندهای درونی، روانشناختی و معنوی که در درون خواسته‌های ما رخ می‌دهند.",
         "به شدت به عنوان اصطلاحات نجوم.",
         "به عنوان معادلات ریاضی.",
         "به عنوان توصیف رویدادهای تاریخی."
       ],
       correct: 0,
-      r: "این مفاهیم اصلی گام‌های کار معنوی درونی and تحول عاطفی ما را بیان می‌کنند."
+      r: "این مفاهیم اصلی گام‌های کار معنوی درونی و تحول عاطفی ما را بیان می‌کنند."
     },
     {
       q: "3. نقش اور ماکیف (نور احاطه‌کننده) در رشد معنوی چیست؟",
         options: [
-          "اور ماکیف فراوانیِ هنوز تزریق‌نشده‌ای است که ظرف را از بیرون به طور مداوم تحریک، گرم and ترغیب می‌کند تا زمانی که برای دریافت آن آماده شود.",
-          "یک نیروی تاریک and ویرانگر.",
+          "اور ماکیف فراوانیِ هنوز تزریق‌نشده‌ای است که ظرف را از بیرون به طور مداوم تحریک، گرم و ترغیب می‌کند تا زمانی که برای دریافت آن آماده شود.",
+          "یک نیروی تاریک و ویرانگر.",
           "دمای بدن فیزیکی را تنظیم می‌کند.",
           "منحصراً نور قابل مشاهده برای چشم فیزیکی."
         ],
         correct: 0,
-        r: "نور احاطه‌کننده (اور ماکیف) نوری است که هنوز دریافت نشده اما منتظر ماست and از بالا تحریک می‌کند."
+        r: "نور احاطه‌کننده (اور ماکیف) نوری است که هنوز دریافت نشده اما منتظر ماست و از بالا تحریک می‌کند."
     },
     {
       q: "4. چرا اور هوزر (نور بازگشته) تنها پوشش معنوی (دڤیکوت) محسوب می‌شود؟",
@@ -3072,7 +3072,7 @@ window.lessonDB[25] = {
         r: "اور هوزر (نور بازگشته) تنها پوشش معنوی است که دریافت نور را در قالب بخشش امکان‌پذیر می‌سازد."
     },
     {
-      q: "5. اصل مهندسی کمک معنوی بین درجات برتر and پایین‌تر چیست؟",
+      q: "5. اصل مهندسی کمک معنوی بین درجات برتر و پایین‌تر چیست؟",
         options: [
           "نزول (سقوط) AHP درجه برتر به GE درجه پایین‌تر به خاطر کمک به پایینی.",
           "درجه برتر کاملاً پایینی را نادیده می‌گیرد.",
@@ -3080,23 +3080,23 @@ window.lessonDB[25] = {
           "هیچ ارتباطی بین درجات وجود ندارد."
         ],
         correct: 0,
-        r: "نزول AHP برتر به GE پایینی نیرو and میانجی‌گری لازم برای صعود معنوی را فراهم می‌کند."
+        r: "نزول AHP برتر به GE پایینی نیرو و میانجی‌گری لازم برای صعود معنوی را فراهم می‌کند."
     },
     {
-      q: "6. حالات کوچکی (کاتنوت) and بزرگی (گادلوت) در ساختار جهان‌های برتر به چه معنا هستند؟",
+      q: "6. حالات کوچکی (کاتنوت) و بزرگی (گادلوت) در ساختار جهان‌های برتر به چه معنا هستند؟",
         options: [
-          "کاتنوت (کوچکی) and گادلوت (بزرگی) مراحل رشدی هستند که توسط صفات حوخما and بینا در طول اصلاح انجام‌شده برای کودکان (پایینی‌ها) شکل می‌گیرند.",
+          "کاتنوت (کوچکی) و گادلوت (بزرگی) مراحل رشدی هستند که توسط صفات حوخما و بینا در طول اصلاح انجام‌شده برای کودکان (پایینی‌ها) شکل می‌گیرند.",
           "رشد اندازه فیزیکی.",
           "گذر سن در جهان مادی.",
-          "فقر and ثروت مالی."
+          "فقر و ثروت مالی."
         ],
         correct: 0,
-        r: "کاتنوت و گادلوت درجات آگاهی و بلوغ معنوی هستند که توسط دعاها and اصلاحات برتر اداره می‌شوند."
+        r: "کاتنوت و گادلوت درجات آگاهی و بلوغ معنوی هستند که توسط دعاها و اصلاحات برتر اداره می‌شوند."
     },
     {
       q: "7. تلاش درونی که توسط راباش آموزش داده می‌شود چگونه به تحول خودخواهی کمک می‌کند؟",
         options: [
-          "انسان را وادار می‌کند تا از محدودیت‌های خود فراتر رود and نیت‌های خود را به سمت بخشش هدایت کند.",
+          "انسان را وادار می‌کند تا از محدودیت‌های خود فراتر رود و نیت‌های خود را به سمت بخشش هدایت کند.",
           "تمام احساسات را سرکوب می‌کند.",
           "نیاز به خواب را از بین می‌برد.",
           "کار بدنی را تشویق می‌کند."
@@ -3107,7 +3107,7 @@ window.lessonDB[25] = {
     {
       q: "8. عملکرد ماساچ (صفحه نمایش) در کار عاطفی درونی چیست؟",
         options: [
-          "ماساچ در برابر میل خودخواهانه به لذت مقاومت می‌کند and بررسی می‌کند که چه مقدار نور را می‌توان با نیت خالص بخشش دریافت کرد.",
+          "ماساچ در برابر میل خودخواهانه به لذت مقاومت می‌کند و بررسی می‌کند که چه مقدار نور را می‌توان با نیت خالص بخشش دریافت کرد.",
           "تمام نور را کاملاً مسدود می‌کند.",
           "به عنوان یک فیلتر فیزیکی برای تصفیه آب عمل می‌کند.",
           "خاطرات را پاک می‌کند."
@@ -3116,9 +3116,9 @@ window.lessonDB[25] = {
         r: "ماساچ نیروی مقاومت درونی است که از دریافت خودخواهانه جلوگیری می‌کند."
     },
     {
-      q: "9. صفت بینا چه نقشی در فرآیند کاتنوت و گادلوت (کوچکی and بزرگی) ایفا می‌کند؟",
+      q: "9. صفت بینا چه نقشی در فرآیند کاتنوت و گادلوت (کوچکی و بزرگی) ایفا می‌کند؟",
         options: [
-          "بینا صفت بخشش and رحمت است که درجات پایین‌تر را پرورش می‌دهد، شکل می‌دهد and به بزرگی (گادلوت) می‌رساند.",
+          "بینا صفت بخشش و رحمت است که درجات پایین‌تر را پرورش می‌دهد، شکل می‌دهد و به بزرگی (گادلوت) می‌رساند.",
           "نشان دهنده قضاوت سخت بدون بخشش است.",
           "منحصراً بدن فیزیکی را تغذیه می‌کند.",
           "پایینی‌ها را نابود می‌کند."
@@ -3129,7 +3129,7 @@ window.lessonDB[25] = {
     {
       q: "10. چرا اور هوزر (نور بازگشته) یک ضرورت برای دستیابی به نور در جهان‌های برتر است؟",
         options: [
-          "زیرا بدون آن، نور ظرف دریافت‌کننده را به خودخواهی پس می‌زد؛ اور هوزر تنها ابزار برای دریافت نور در قالب خالص and بخشنده است.",
+          "زیرا بدون آن، نور ظرف دریافت‌کننده را به خودخواهی پس می‌زد؛ اور هوزر تنها ابزار برای دریافت نور در قالب خالص و بخشنده است.",
           "زیرا بدون آن شما از نظر فیزیکی تاریک می‌مانید.",
           "زیرا تنفس را تنظیم می‌کند.",
           "معنای واقعی ندارد."
@@ -3140,31 +3140,31 @@ window.lessonDB[25] = {
     ],
   hy: [
     {
-      q: "1. Ո՞րն է ուսումնասիրությունից առաջ մտադրության and ներքին ջանքերի նշանակությունը Կաբալայում (հիմնված Ռաբաշի 31-րդ and 12-րդ հոդվածների վրա):",
+      q: "1. Ո՞րն է ուսումնասիրությունից առաջ մտադրության և ներքին ջանքերի նշանակությունը Կաբալայում (հիմնված Ռաբաշի 31-րդ և 12-րդ հոդվածների վրա):",
       options: [
-        "Ճիշտ մտադրությունը and ներքին ջանքերը ձգում են Վերին Լույսը՝ մարդուն կարող դարձնելով հոգևորապես զարգանալու and հաղթահարելու էգոիզմը:",
+        "Ճիշտ մտադրությունը և ներքին ջանքերը ձգում են Վերին Լույսը՝ մարդուն կարող դարձնելով հոգևորապես զարգանալու և հաղթահարելու էգոիզմը:",
         "Դա ուղղակի ժամանակ անցկացնելու միջոց է:",
         "Այն որևէ ազդեցություն չունի ուսումնասիրության վրա:",
         "Այն զարգացնում է բացառապես ֆիզիկական հիշողությունը:"
       ],
       correct: 0,
-      r: "Ռաբաշի ուսմունքի համաձայն՝ ուսումնասիրությունից առաջ մաքուր մտադրությունը and ներքին ջանքերը որոշում են Լույսն ընդունելու կարողությունը:"
+      r: "Ռաբաշի ուսմունքի համաձայն՝ ուսումնասիրությունից առաջ մաքուր մտադրությունը և ներքին ջանքերը որոշում են Լույսն ընդունելու կարողությունը:"
     },
     {
-      q: "2. Ինչպե՞ս է Կաբալան մեկնաբանում հիմնարար հասկացությունները, ինչպիսիք են Օրը (Լույս), Ցիմցումը (Սահմանափակում) and Մասախը (Էկրան) ներքին and զգացմունքային մակարդակում:",
+      q: "2. Ինչպե՞ս է Կաբալան մեկնաբանում հիմնարար հասկացությունները, ինչպիսիք են Օրը (Լույս), Ցիմցումը (Սահմանափակում) և Մասախը (Էկրան) ներքին և զգացմունքային մակարդակում:",
       options: [
-        "Ոչ թե որպես վերացական ֆիզիկական երևույթներ, այլ որպես ներքին, հոգեբանական and հոգևոր գործընթացներ, որոնք տեղի են ունենում մեր ցանկությունների ներսում:",
+        "Ոչ թե որպես վերացական ֆիզիկական երևույթներ, այլ որպես ներքին, հոգեբանական և հոգևոր գործընթացներ, որոնք տեղի են ունենում մեր ցանկությունների ներսում:",
         "Խստորեն որպես աստղագիտական ​​տերմիններ:",
         "Որպես մաթեմատիկական հավասարումներ:",
         "Որպես պատմական իրադարձությունների նկարագրություններ:"
       ],
       correct: 0,
-      r: "Այս կենտրոնական հասկացություններն արտահայտում են մեր ներքին հոգևոր աշխատանքի and հուզական վերափոխման քայլերը:"
+      r: "Այս կենտրոնական հասկացություններն արտահայտում են մեր ներքին հոգևոր աշխատանքի և հուզական վերափոխման քայլերը:"
     },
     {
       q: "3. Ո՞րն է Օր Մակիֆի (Շրջապատող Լույսի) դերը հոգևոր զարգացման գործում:",
         options: [
-          "Օր Մակիֆը դեռևս չներարկված առատությունն է, որը շարունակաբար խթանում, տաքացնում and դրդում է անոթին դրսից, մինչ այն պիտանի է դառնում այն ​​ընդունելու համար:",
+          "Օր Մակիֆը դեռևս չներարկված առատությունն է, որը շարունակաբար խթանում, տաքացնում և դրդում է անոթին դրսից, մինչ այն պիտանի է դառնում այն ​​ընդունելու համար:",
           "Մութ, կործանարար ուժ:",
           "Այն կարգավորում է ֆիզիկական մարմնի ջերմաստիճանը:",
           "Բացառապես ֆիզիկական աչքին տեսանելի լույս:"
@@ -3184,31 +3184,31 @@ window.lessonDB[25] = {
         r: "Օր Հոզերը (Վերադարձված Լույս) միակ հոգևոր հագուստն է, որը թույլ է տալիս ստանալ Լույսը տալու ձևով:"
     },
     {
-      q: "5. Ո՞րն է Վերին and Ստորին աստիճանների միջև հոգևոր օգնության ճարտարագիտական ​​սկզբունքը:",
+      q: "5. Ո՞րն է Վերին և Ստորին աստիճանների միջև հոգևոր օգնության ճարտարագիտական ​​սկզբունքը:",
         options: [
-          "Վերին աստիճանի ԱՀՊ-ի իջөումը (անկումը) Ստորին աստիճանի ԳԵ-ի մեջ՝ հանուն ստորինին օգնելու:",
+          "Վերին աստիճանի ԱՀՊ-ի իջեցումը (անկումը) Ստորին աստիճանի ԳԵ-ի մեջ՝ հանուն ստորինին օգնելու:",
           "Վերին աստիճանն ամբողջությամբ անտեսում է ստորինին:",
           "Ստորին աստիճանն ստիպողաբար բարձրանում է դեպի Վերինը:",
           "Աստիճանների միջև որևէ կապ չկա:"
         ],
         correct: 0,
-        r: "Վերինի ԱՀՊ-ի իջեցումը Ստորինի ԳԵ-ի մեջ ապահովում է հոգևոր վերելքի համար անհրաժեշտ ուժը and միջնորդությունը:"
+        r: "Վերինի ԱՀՊ-ի իջեցումը Ստորինի ԳԵ-ի մեջ ապահովում է հոգևոր վերելքի համար անհրաժեշտ ուժը և միջնորդությունը:"
     },
     {
-      q: "6. Ի՞նչ են նշանակում Փοքրության (Կատնութ) and Մեծության (Գադլութ) վիճակները Վերին Աշխարհների կառուցվածքում:",
+      q: "6. Ի՞նչ են նշանակում Փոքրության (Կատնութ) և Մեծության (Գադլութ) վիճակները Վերին Աշխարհների կառուցվածքում:",
         options: [
-          "Կատնութը (փոքրություն) and Գադլութը (մեծություն) զարգացման փուլեր են, որոնք ձևավորվում են Հոխմայի and Բինայի հատկություններով՝ երեխաների (ստորինների) համար կատարված ուղղման ընթացքում:",
+          "Կատնութը (փոքրություն) և Գադլութը (մեծություն) զարգացման փուլեր են, որոնք ձևավորվում են Հոխմայի և Բինայի հատկություններով՝ երեխաների (ստորինների) համար կատարված ուղղման ընթացքում:",
           "Ֆիզիկական չափերի աճ:",
           "Տարիքի ընթացքը նյութական աշխարհում:",
-          "Ֆինանսական աղքատություն and հարստություն:"
+          "Ֆինանսական աղքատություն և հարստություն:"
         ],
         correct: 0,
-        r: "Կատնութն and Գադլութը գիտակցության and հոգևոր հասունության աստիճաններ են, որոնք կառավարվում են Վերին աղոթքներով and ուղղումներով:"
+        r: "Կատնութը և Գադլութը գիտակցության և հոգևոր հասունության աստիճաններ են, որոնք կառավարվում են Վերին աղոթքներով և ուղղումներով:"
     },
     {
       q: "7. Ինչպե՞ս է Ռաբաշի ուսուցանած ներքին ջանքը նպաստում էգոիզմի վերափոխմանը:",
         options: [
-          "Այն ստիպում է մարդուն դուրս գալ սեփական սահմանափակումներից and տեղափոխել իր մտադրությունները դեպի տալը:",
+          "Այն ստիպում է մարդուն դուրս գալ սեփական սահմանափակումներից և տեղափոխել իր մտադրությունները դեպի տալը:",
           "Այն ճնշում է բոլոր հույզերը:",
           "Այն վերացնում է քնի կարիքը:",
           "Այն խրախուսում է ֆիզիկական աշխատանքը:"
@@ -3228,9 +3228,9 @@ window.lessonDB[25] = {
         r: "Մասախը ներքին դիմադրության ուժն է, որը կանխում է էգոիստական ​​ընդունումը:"
     },
     {
-      q: "9. Ի՞նչ դեր է խաղում Բինայի հատկությունը Կատնութի and Գադլութի (փոքրության and մեծության) գործընթացում:",
+      q: "9. Ի՞նչ դեր է խաղում Բինայի հատկությունը Կատնութի և Գադլութի (փոքրության և մեծության) գործընթացում:",
         options: [
-          "Բինան տալու and ողորմության հատկությունն է, որը սնուցում, ձևավորում and բարձրացնում է ստորին աստիճանները մինչև մեծություն (Գադլութ):",
+          "Բինան տալու և ողորմության հատկությունն է, որը սնուցում, ձևավորում և բարձրացնում է ստորին աստիճանները մինչև մեծություն (Գադլութ):",
           "Այն ներկայացնում է խիստ դատաստան՝ առանց տալու:",
           "Այն սնուցում է բացառապես ֆիզիկական մարմինը:",
           "Այն ոչնչացնում է ստորիններին:"
@@ -3241,7 +3241,7 @@ window.lessonDB[25] = {
     {
       q: "10. Ինչո՞ւ է Օր Հոզերը (Վերադարձված Լույս) անհրաժեշտություն Վերին Աշխարհներում Լույսին հասնելու համար:",
         options: [
-          "Քանի որ առանց դրա Լույսը ընդունող անոթինետետ կհրեր էգոիզմի մեջ. Օր Հոզերը միակ գործقيան է Լույսը մաքուր, տվող ձևով ստանալու համար:",
+          "Քանի որ առանց դրա Լույսը ընդունող անոթին հետ կմղեր էգոիզմի մեջ. Օր Հոզերը միակ գործիքն է Լույսը մաքուր, տվող ձևով ստանալու համար:",
           "Քանի որ առանց դրա դուք մնում եք ֆիզիկապես մութ:",
           "Քանի որ այն կարգավորում է շնչառությունը:",
           "Այն իրական նշանակություն չունի:"
@@ -3252,31 +3252,31 @@ window.lessonDB[25] = {
     ],
   az: [
     {
-      q: "1. Kabbalada təhsildən əvvəl niyyətin and daxili səylərin əhəmiyyəti nədən ibarətdir (Rabaşın 31 and 12-ci məqalələrinə əsasən)?",
+      q: "1. Kabbalada təhsildən əvvəl niyyətin və daxili səylərin əhəmiyyəti nədən ibarətdir (Rabaşın 31 və 12-ci məqalələrinə əsasən)?",
       options: [
-        "Düzgün niyyət and daxili səy Ali İşığı cəlb edir, insanı mənvei olaraq inkişaf etdirməyə and eqoizmi dəf etməyə qadir edir.",
+        "Düzgün niyyət və daxili səy Ali İşığı cəlb edir, insanı mənvei olaraq inkişaf etdirməyə və eqoizmi dəf etməyə qadir edir.",
         "Bu, sadəcə olaraq vaxt öldürmək üsuludur.",
         "Təhsilə heç bir təsiri yoxdur.",
         "Yalnız fiziki yaddaşı inkişaf etdirir."
       ],
       correct: 0,
-      r: "Rabaşın təlimlərinə görə, təhsildən əvvəl saf niyyət and daxili səy İşığı qəbul etmək qabiliyyətini müəyyən edir."
+      r: "Rabaşın təlimlərinə görə, təhsildən əvvəl saf niyyət və daxili səy İşığı qəbul etmək qabiliyyətini müəyyən edir."
     },
     {
-      q: "2. Kabbala Or (İşıq), Tzimtzum (Məhdudiyyət) and Masach (Ekran) kimi fundamental anlayışları daxili and emosional səviyyədə necə şərh edir?",
+      q: "2. Kabbala Or (İşıq), Tzimtzum (Məhdudiyyət) və Masach (Ekran) kimi fundamental anlayışları daxili və emosional səviyyədə necə şərh edir?",
         options: [
-          "Mücərrəd fiziki hadisələr kimi deyil, arzularımızın daxilində baş verən daxili, psixoloji and mənəvi proseslər kimi.",
+          "Mücərrəd fiziki hadisələr kimi deyil, arzularımızın daxilində baş verən daxili, psixoloji və mənəvi proseslər kimi.",
           "Ciddi şəkildə astronomik terminlər kimi.",
           "Riyazi tənliklər kimi.",
           "Tarixi hadisələrin təsvirləri kimi."
         ],
         correct: 0,
-        r: "Bu mərkəzi anlayışlar daxili mənəvi işimizin and emosional transformasiyamızın addımlarını ifadə edir."
+        r: "Bu mərkəzi anlayışlar daxili mənəvi işimizin və emosional transformasiyamızın addımlarını ifadə edir."
     },
     {
       q: "3. Mənəvi inkişafda Ohr Makifin (Əhatə edən İşıq) rolu nədən ibarətdir?",
         options: [
-          "Ohr Makif hələ daxil edilməmiş bolluqdur ki, o, qabı qəbul etmək üçün yararlı olana qədər kənardan daim stimullaşdırır, qızdırır and təkan verir.",
+          "Ohr Makif hələ daxil edilməmiş bolluqdur ki, o, qabı qəbul etmək üçün yararlı olana qədər kənardan daim stimullaşdırır, qızdırır və təkan verir.",
           "Qaranlıq, dağıdıcı güc.",
           "Fiziki bədən istiliyini tənzimləyir.",
           "Yalnız fiziki gözə görünən işıq."
@@ -3287,7 +3287,7 @@ window.lessonDB[25] = {
     {
       q: "4. Niyə Ohr Chozer (Qayıdan İşıq) yeganə mənəvi geyim (Dvekut) hesab olunur?",
         options: [
-          "Çünki Ohr Chozer Ali İşığı geyindirən bəxşetmə niyyətidir and bununla da Yaradıcı ilə forma bərabərliyinə (Dvekut) nail olur.",
+          "Çünki Ohr Chozer Ali İşığı geyindirən bəxşetmə niyyətidir və bununla da Yaradıcı ilə forma bərabərliyinə (Dvekut) nail olur.",
           "Çünki bu, fiziki geyim parçasdır.",
           "Çünki soyuqdan qoruyur.",
           "Çünki ruhları görünən edir."
@@ -3296,7 +3296,7 @@ window.lessonDB[25] = {
         r: "Ohr Chozer (Qayıdan İşıq) İşığın bəxşetmə formasında qəbul edilməsinə imkan verən yeganə mənəvi geyimdir."
     },
     {
-      q: "5. Ali and Aşağı dərəcələr arasında mənəvi yardımın mühəndislik prinsipi nədən ibarətdir?",
+      q: "5. Ali və Aşağı dərəcələr arasında mənəvi yardımın mühəndislik prinsipi nədən ibarətdir?",
         options: [
           "Aşağıya kömək etmək məqsədilə Ali dərəcənin AHP-sinin Aşağı dərəcənin GE-sinə enməsi (düşməsi).",
           "Ali dərəcə aşağı dərəcəyə tamamilə etinasızlıq göstərir.",
@@ -3304,23 +3304,23 @@ window.lessonDB[25] = {
           "Dərəcələr arasında heç bir əlaqə yoxdur."
         ],
         correct: 0,
-        r: "Alinin AHP-sinin Aşağısının GE-sinə enməsi mənəvi yüksəliş üçün lazım olan gücü and vasitəçiliyi təmin edir."
+        r: "Alinin AHP-sinin Aşağısının GE-sinə enməsi mənəvi yüksəliş üçün lazım olan gücü və vasitəçiliyi təmin edir."
     },
     {
-      q: "6. Ali Dünyaların strukturunda Kiçiklik (Katnut) and Böyüklük (Gadlut) halları nə deməkdir?",
+      q: "6. Ali Dünyaların strukturunda Kiçiklik (Katnut) və Böyüklük (Gadlut) halları nə deməkdir?",
         options: [
-          "Katnut (kiçiklik) and Gadlut (böyüklük) uşaqların (aşağıların) xeyrinə həyata keçirilən düzəliş zamanı Hochma and Bina xüsusiyyətləri tərəfindən formalaşan inkişaf mərhələləridir.",
+          "Katnut (kiçiklik) və Gadlut (böyüklük) uşaqların (aşağıların) xeyrinə həyata keçirilən düzəliş zamanı Hochma və Bina xüsusiyyətləri tərəfindən formalaşan inkişaf mərhələləridir.",
           "Fiziki ölçünün böyüməsi.",
           "Maddi dünyada yaşın keçməsi.",
-          "Maliyyə yoxsulluğu and sərvət."
+          "Maliyyə yoxsulluğu və sərvət."
         ],
         correct: 0,
-        r: "Katnut and Gadlut Ali dualar and düzəlişlər tərəfindən idarə olunan şüur and mənəvi yetkinlik dərəcələridir."
+        r: "Katnut və Gadlut Ali dualar və düzəlişlər tərəfindən idarə olunan şüur və mənəvi yetkinlik dərəcələridir."
     },
     {
       q: "7. Rabaşın öyrətdiyi daxili səy eqoizmin transformasiyasına necə kömək edir?",
         options: [
-          "İnsanı öz məhdudiyyətlərini aşmağa and niyyətlərini bəxşetməyə doğru istiqamətləndirməyə məcbur edir.",
+          "İnsanı öz məhdudiyyətlərini aşmağa və niyyətlərini bəxşetməyə doğru istiqamətləndirməyə məcbur edir.",
           "Bütün emosiyaları boğur.",
           "Yuxu ehtiyacını aradan qaldırır.",
           "Fiziki əməyi təşviq edir."
@@ -3331,7 +3331,7 @@ window.lessonDB[25] = {
     {
       q: "8. Daxili emosional işdə Masach-ın (Ekran) funksiyası nədən ibarətdir?",
         options: [
-          "Masach həzzə qarşı eqoist arzuya qarşı durur and saf bəxşetmə niyyəti ilə nə qədər İşığın qəbul edilə biləcəyini araşdırır.",
+          "Masach həzzə qarşı eqoist arzuya qarşı durur və saf bəxşetmə niyyəti ilə nə qədər İşığın qəbul edilə biləcəyini araşdırır.",
           "Bütün İşığı tamamilə bloklayır.",
           "Suyun təmizlənməsi üçün fiziki filtr rolunu oynayır.",
           "Xatirələri silir."
@@ -3340,9 +3340,9 @@ window.lessonDB[25] = {
         r: "Masach eqoist qəbulun qarşısını alan daxili müqavimət qüvvəsidir."
     },
     {
-      q: "9. Katnut and Gadlut (kiçiklik and böyüklük) prosesində Bina xüsusiyyətinin rolu nədən ibarətdir?",
+      q: "9. Katnut və Gadlut (kiçiklik və böyüklük) prosesində Bina xüsusiyyətinin rolu nədən ibarətdir?",
         options: [
-          "Bina aşağı dərəcələri bəsləyən, formalaşdıran and böyüklüyə (Gadlut) ucaldan bəxşetmə and mərhəmət xüsusiyyətidir.",
+          "Bina aşağı dərəcələri bəsləyən, formalaşdıran və böyüklüyə (Gadlut) ucaldan bəxşetmə və mərhəmət xüsusiyyətidir.",
           "Bəxşetmədən sərt hökmü təmsil edir.",
           "Yalnız fiziki bədəni qidalandırır.",
           "Aşağıları məhv edir."
@@ -3389,7 +3389,7 @@ window.lessonDB[25] = {
       q: "3. რა როლი აქვს ორ მაკიფს (გარემოცულ ნათელს) სულიერ განვითარებაში?",
       options: [
         "ორ მაკიფი არის ჯერ შეუნთქავი სიუხვე, რომელიც მუდმივად ასტიმულირებს, ათბობს და უბიძგებს ჭურჭელს გარედან, სანამ ის მის მისაღებად შესაფერისი არ გახდება.",
-        "ბნელი, მدمრგველი ძალა.",
+        "ბნელი, დამანგრეველი ძალა.",
         "ის არეგულირებს ფიზიკური სხეულის ტემპერატურას.",
         "ექსკლუზიურად ფიზიკური თვალისთვის ხილული სინათლე."
       ],
@@ -3926,30 +3926,30 @@ window.lessonDB[25] = {
     {
       q: "1. कबाला में अध्ययन से पहले के इरादे और आंतरिक प्रयास का क्या महत्व है (रबाश के लेख 31 और 12 के आधार पर)?",
       options: [
-        "सही इरादा and आंतरिक प्रयास ऊपरी प्रकाश को आकर्षित करते हैं, जिससे व्यक्ति आध्यात्मिक रूप से विकसित होने and अहंकार को दूर करने में सक्षम होता है।",
+        "सही इरादा और आंतरिक प्रयास ऊपरी प्रकाश को आकर्षित करते हैं, जिससे व्यक्ति आध्यात्मिक रूप से विकसित होने और अहंकार को दूर करने में सक्षम होता है।",
         "यह केवल समय बिताने का एक तरीका है।",
         "इसका अध्ययन पर कोई प्रभाव नहीं पड़ता है।",
         "यह विशेष रूप से भौतिक स्मृति का विकास करता है।"
       ],
       correct: 0,
-      r: "रबाश की शिक्षाओं के अनुसार, अध्ययन से पहले शुद्ध इरादा and आंतरिक प्रयास प्रकाश प्राप्त करने की क्षमता निर्धारित करते हैं।"
+      r: "रबाश की शिक्षाओं के अनुसार, अध्ययन से पहले शुद्ध इरादा और आंतरिक प्रयास प्रकाश प्राप्त करने की क्षमता निर्धारित करते हैं।"
     },
     {
-      q: "2. कबाला आंतरिक and भावनात्मक स्तर पर ओर (प्रकाश), त्ज़िमत्ज़ूम (प्रतिबंध), and मासाच (स्क्रीन) जैसी मौलिक अवधारणाओं की व्याख्या कैसे करता है?",
+      q: "2. कबाला आंतरिक और भावनात्मक स्तर पर ओर (प्रकाश), त्ज़िमत्ज़ूम (प्रतिबंध), और मासाच (स्क्रीन) जैसी मौलिक अवधारणाओं की व्याख्या कैसे करता है?",
       options: [
-        "अमूर्त भौतिक घटनाओं के रूप में नहीं, बल्कि आंतरिक, मनोवैज्ञानिक and आध्यात्मिक प्रक्रियाओं के रूप में जो हमारी इच्छाओं के भीतर होती हैं।",
+        "अमूर्त भौतिक घटनाओं के रूप में नहीं, बल्कि आंतरिक, मनोवैज्ञानिक और आध्यात्मिक प्रक्रियाओं के रूप में जो हमारी इच्छाओं के भीतर होती हैं।",
         "सख्त रूप से खगोलीय शब्दों के रूप में।",
         "गणितीय समीकरणों के रूप में।",
         "ऐतिहासिक घटनाओं के विवरण के रूप में।"
       ],
       correct: 0,
-      r: "ये केंद्रीय अवधारणाएं हमारे आंतरिक आध्यात्मिक कार्य and भावनात्मक परिवर्तन के चरणों को व्यक्त करती हैं।"
+      r: "ये केंद्रीय अवधारणाएं हमारे आंतरिक आध्यात्मिक कार्य और भावनात्मक परिवर्तन के चरणों को व्यक्त करती हैं।"
     },
     {
       q: "3. आध्यात्मिक विकास में ओर माकिफ (घेरने वाली रोशनी) की क्या भूमिका है?",
       options: [
-        "ओर माकिफ वह अभी तक समाहित न हुई प्रचुरता है जो बाहर से लगातार बर्तन को उत्तेजित, गर्म and विकसित होने के लिए प्रेरित करती है जब तक कि वह इसे प्राप्त करने योग्य नहीं हो जाता।",
-        "एक অন্ধকার, विनाशकारी शक्ति।",
+        "ओर माकिफ वह अभी तक समाहित न हुई प्रचुरता है जो बाहर से लगातार बर्तन को उत्तेजित, गर्म और विकसित होने के लिए प्रेरित करती है जब तक कि वह इसे प्राप्त करने योग्य नहीं हो जाता।",
+        "एक अंधकारमय, विनाशकारी शक्ति।",
         "यह भौतिक शरीर के तापमान को नियंत्रित करता है।",
         "विशेष रूप से भौतिक आँख को दिखाई देने वाला प्रकाश।"
       ],
@@ -3968,7 +3968,7 @@ window.lessonDB[25] = {
         r: "ओर होज़र (लौटा हुआ प्रकाश) एकमात्र आध्यात्मिक परिधान है जो प्रदान करने के रूप में प्रकाश की प्राप्ति की अनुमति देता है।"
     },
     {
-      q: "5. ऊपरी and निचली डिग्री के बीच आध्यात्मिक सहायता का इंजीनियरिंग सिद्धांत क्या है?",
+      q: "5. ऊपरी और निचली डिग्री के बीच आध्यात्मिक सहायता का इंजीनियरिंग सिद्धांत क्या है?",
         options: [
           "निचले की सहायता के खातिर ऊपरी डिग्री के AHP का निचले डिग्री के GE में उतरना (गिरना)।",
           "ऊपरी डिग्री निचले की पूरी तरह उपेक्षा करती है।",
@@ -3976,23 +3976,23 @@ window.lessonDB[25] = {
           "डिग्री के बीच कोई संबंध नहीं है।"
         ],
         correct: 0,
-        r: "निचले के GE में ऊपरी के AHP का उतरना आध्यात्मिक आरोहण के लिए आवश्यक शक्ति and मध्यस्थता प्रदान करता है।"
+        r: "निचले के GE में ऊपरी के AHP का उतरना आध्यात्मिक आरोहण के लिए आवश्यक शक्ति और मध्यस्थता प्रदान करता है।"
     },
     {
-      q: "6. ऊपरी दुनिया की संरचना में लघुता (कतनूत) and महानता (गादलूत) की अवस्थाओं का क्या अर्थ है?",
+      q: "6. ऊपरी दुनिया की संरचना में लघुता (कतनूत) और महानता (गादलूत) की अवस्थाओं का क्या अर्थ है?",
         options: [
-          "कतनूत (लघुता) and गादलूत (महानता) बच्चों (निचले) के वास्ते किए गए सुधार के दौरान होख्मा and बिना के गुणों द्वारा आकार दिए गए विकास के चरण हैं।",
+          "कतनूत (लघुता) और गादलूत (महानता) बच्चों (निचले) के वास्ते किए गए सुधार के दौरान होख्मा और बिना के गुणों द्वारा आकार दिए गए विकास के चरण हैं।",
           "भौतिक आकार में वृद्धि।",
           "भौतिक दुनिया में आयु का बीत जाना।",
-          "वित्तीय गरीबी and धन।"
+          "वित्तीय गरीबी और धन।"
         ],
         correct: 0,
-        r: "कतनूत and गादलूत ऊपरी प्रार्थनाओं and सुधारों द्वारा शासित चेतना and आध्यात्मिक परिपक्वता की डिग्रियां हैं।"
+        r: "कतनूत और गादलूत ऊपरी प्रार्थनाओं और सुधारों द्वारा शासित चेतना और आध्यात्मिक परिपक्वता की डिग्रियां हैं।"
     },
     {
       q: "7. रबाश द्वारा सिखाया गया आंतरिक प्रयास अहंकार के परिवर्तन में कैसे योगदान देता है?",
         options: [
-          "यह व्यक्ति को अपनी सीमाओं से परे जाने and अपने इरादों को प्रदान करने की ओर स्थानांतरित करने के लिए विवश करता है।",
+          "यह व्यक्ति को अपनी सीमाओं से परे जाने और अपने इरादों को प्रदान करने की ओर स्थानांतरित करने के लिए विवश करता है।",
           "यह सभी भावनाओं को दबा देता है।",
           "यह नींद की आवश्यकता को समाप्त करता है।",
           "यह शारीरिक श्रम को प्रोत्साहित करता है।"
@@ -4012,9 +4012,9 @@ window.lessonDB[25] = {
         r: "मासाच आंतरिक प्रतिरोध की शक्ति है जो स्वार्थी प्राप्ति को रोकता है।"
     },
     {
-      q: "9. कतनूत and गादलूत (लघुता and महानता) की प्रक्रिया में बिना के गुण की क्या भूमिका है?",
+      q: "9. कतनूत और गादलूत (लघुता और महानता) की प्रक्रिया में बिना के गुण की क्या भूमिका है?",
         options: [
-          "बिना प्रदान करने and दया का गुण है, जो निचले डिग्री को पोषण देता है, आकार देता है and महानता (गादलूत) तक उठाता है।",
+          "बिना प्रदान करने और दया का गुण है, जो निचले डिग्री को पोषण देता है, आकार देता है और महानता (गादलूत) तक उठाता है।",
           "यह बिना प्रदान किए सख्त न्याय का प्रतिनिधित्व करता है।",
           "यह केवल भौतिक शरीर का पोषण करता है।",
           "यह निचले को नष्ट कर देता है।"
@@ -4027,7 +4027,7 @@ window.lessonDB[25] = {
         options: [
           "क्योंकि इसके बिना, प्रकाश प्राप्त करने वाले बर्तन को वापस अहंकार में धकेल देगा; ओर होज़र शुद्ध, प्रदान करने वाले रूप में प्रकाश प्राप्त करने का एकमात्र उपकरण है।",
           "क्योंकि इसके बिना आप शारीरिक रूप से अंधेरे में रहते हैं।",
-          "क्योंकि यह साँس लेने को नियंत्रित करता है।",
+          "क्योंकि यह साँस लेने को नियंत्रित करता है।",
           "इसका कोई वास्तविक महत्व नहीं है।"
         ],
         correct: 0,
@@ -4093,7 +4093,7 @@ window.lessonDB[25] = {
     {
       q: "6. Apakah arti dari keadaan Kecil (Katnut) dan Besar (Gadlut) dalam struktur Dunia-Dunia Atas?",
         options: [
-          "Katnut (kecil) dan Gadlut (besar) adalah fase perkembangan yang dibentuk oleh atribut Hochma and Bina selama koreksi yang dilakukan demi anak-anak (yang bawah).",
+          "Katnut (kecil) dan Gadlut (besar) adalah fase perkembangan yang dibentuk oleh atribut Hochma dan Bina selama koreksi yang dilakukan demi anak-anak (yang bawah).",
           "Pertumbuhan ukuran fisik.",
           "Berjalannya usia di dunia material.",
           "Kemiskinan finansial dan kekayaan."
@@ -4124,9 +4124,9 @@ window.lessonDB[25] = {
         r: "Masach adalah kekuatan perlawanan batin yang mencegah penerimaan egois."
     },
     {
-      q: "9. Peranan apakah yang dimainkan oleh atribut Bina dalam proses Katnut and Gadlut (kecil dan besar)?",
+      q: "9. Peranan apakah yang dimainkan oleh atribut Bina dalam proses Katnut dan Gadlut (kecil dan besar)?",
         options: [
-          "Bina adalah atribut pemberian dan belas kasihan, yang memelihara, membentuk, and mengangkat derajat bawah menuju kebesaran (Gadlut).",
+          "Bina adalah atribut pemberian dan belas kasihan, yang memelihara, membentuk, dan mengangkat derajat bawah menuju kebesaran (Gadlut).",
           "Hal itu mewakili penghakiman yang ketat tanpa pemberian.",
           "Hal itu memelihara tubuh fisik secara eksklusif.",
           "Hal itu menghancurkan yang bawah."
@@ -4315,7 +4315,7 @@ window.lessonDB[25] = {
         r: "የከፍተኛው ኤ.ኤች.ፒ ወደ ዝቅተኛው ጂ.ኢ መውረድ ለመንፈሳዊ ከፍታ የሚያስፈልገውን ኃይል እና አማላጅነት ይሰጣል።"
     },
     {
-      q: "6. በከፍተኛ ዓለማት መዋቅር ውስጥ የקטנות (ካትኑት - ትንሽነት) እና دגדלות (ጋድሉቱ - ታላቅነት) ሁኔታዎች ምን ማለት ናቸው?",
+      q: "6. በከፍተኛ ዓለማት መዋቅር ውስጥ የካትኑት (ትንሽነት) እና ጋድሉት (ታላቅነት) ሁኔታዎች ምን ማለት ናቸው?",
         options: [
           "ካትኑት (ትንሽነት) እና ጋድሉት (ታላቅነት) ለልጆች (ለዝቅተኞች) በሚደረገው እርማት ወቅት በሖክማ እና ቢና ባሕርያት የሚቀረፁ የእድገት ደረጃዎች ናቸው።",
           "የአካላዊ መጠን እድገት።",
