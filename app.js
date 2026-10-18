@@ -31,7 +31,8 @@ const lessonTitles = {
     'A Felső Világok felépítése',
     'A Felső világok szerkezete',
     'A Felső Világok szerkezete és a segítségnyújtás törvénye',
-    'Az Adam Kadmon világ öt Partzufja'
+    'Az Adam Kadmon világ öt Partzufja',
+    'A kabbalisztikus közösség alapjai'
   ],
   en: [
     'Human Nature',
@@ -59,7 +60,8 @@ const lessonTitles = {
     'The Structure of the Upper Worlds',
     'The Structure of the Higher Worlds',
     'The Structure of the Upper Worlds and the Law of Assistance',
-    'The Five Partzufim of the World of Adam Kadmon'
+    'The Five Partzufim of the World of Adam Kadmon',
+    'Foundations of the Kabbalistic Community'
   ],
   he: [
     'הטבע האנושי',
@@ -87,7 +89,8 @@ const lessonTitles = {
     'מבנה העולמות העליונים',
     'מבנה העולמות העליונים',
         'מבנה העולמות העליונים וחוק הסיוע',
-        'חמשת הפרצופים של עולם אדם קדמון'
+        'חמשת הפרצופים של עולם אדם קדמון',
+        'יסודות הקהילה הקבלית'
   ],
   ru: [
     'Человеческая природа',
@@ -115,7 +118,8 @@ const lessonTitles = {
     'Строение Высших миров',
     'Структура Высших миров',
     'Структура Высших миров и закон помощи',
-    'Пять парцуфим мира Адам Кадмон'
+    'Пять парцуфим мира Адам Кадмон',
+    'Основы каббалистического сообщества'
   ],
   de: [
     'Die menschliche Natur',
@@ -143,7 +147,8 @@ const lessonTitles = {
     'Der Aufbau der Oberen Welten',
     'Die Struktur der Höheren Welten',
     'Die Struktur der Höheren Welten und das Gesetz der Hilfeleistung',
-    'Die fünf Partzufim der Welt Adam Kadmon'
+    'Die fünf Partzufim der Welt Adam Kadmon',
+    'Grundlagen der kabbalistischen Gemeinschaft'
   ],
   es: [
     'La naturaleza humana',
@@ -171,7 +176,8 @@ const lessonTitles = {
     'La estructura de los Mundos Superiores',
     'La estructura de los Mundos Superiores',
         'La estructura de los Mundos Superiores y la ley de la ayuda',
-        'Los cinco Partzufim del mundo de Adam Kadmon'
+        'Los cinco Partzufim del mundo de Adam Kadmon',
+        'Fundamentos de la comunidad cabalística'
       ],
   fr: [
     'La nature humaine',
@@ -199,7 +205,8 @@ const lessonTitles = {
     'La structure des Mondes Supérieurs',
     'La structure des Mondes Supérieurs',
         'La structure des Mondes Supérieurs et la loi de l\'assistance',
-        'Les cinq Partzoufim du monde d\'Adam Kadmon'
+        'Les cinq Partzoufim du monde d\'Adam Kadmon',
+        'Fondements de la communauté kabbalistique'
       ],
   it: [
     'La natura umana',
@@ -227,7 +234,8 @@ const lessonTitles = {
     'La struttura dei Mondi Superiori',
     'L\'ordinamento dei Mondi Superiori',
     'L\'ordinamento dei Mondi Superiori e la legge dell\'assistenza',
-    'I cinque Partzufim del mondo di Adam Kadmon'
+    'I cinque Partzufim del mondo di Adam Kadmon',
+    'Fondamenti della comunità cabalistica'
   ],
   pt: [
     'A natureza humana',
@@ -255,7 +263,8 @@ const lessonTitles = {
     'A estrutura dos Mundos Superiores',
     'A estrutura dos Mundos Superiores',
         'A estrutura dos Mundos Superiores e a lei da assistência',
-        'Os cinco Partzufim do mundo de Adam Kadmon'
+        'Os cinco Partzufim do mundo de Adam Kadmon',
+        'Fundamentos da comunidade cabalística'
       ],
   uk: [
     'Людська природа',
@@ -283,7 +292,8 @@ const lessonTitles = {
     'Будова Вищих світів',
     'Структура Вищих світів',
     'Структура Вищих світів і закон допомоги',
-    'П’ять парцуфім світу Адам Кадмон'
+    'П’ять парцуфім світу Адам Кадмон',
+    'Основи кабалістичної спільноти'
   ],
   pl: [
     'Ludzka natura',
@@ -311,7 +321,8 @@ const lessonTitles = {
     'Struktura Wyższych Światów',
     'Struktura Wyższych Światów',
         'Struktura Wyższych Światów i prawo pomocy',
-        'Pięć Partzufim świata Adam Kadmon'
+        'Pięć Partzufim świata Adam Kadmon',
+        'Podstawy społeczności kabalistycznej'
       ],
   ro: [
     'Natura umană',
@@ -339,7 +350,8 @@ const lessonTitles = {
     'Structura Lumilor Superioare',
     'Alcătuirea Lumilor Superioare',
     'Alcătuirea Lumilor Superioare și legea ajutorării',
-    'Cele cinci Partzufim ale lumii Adam Kadmon'
+    'Cele cinci Partzufim ale lumii Adam Kadmon',
+    'Fundamentele comunității cabalistice'
   ],
   bg: [
     'Човешката природа',
@@ -367,7 +379,8 @@ const lessonTitles = {
     'Устройството на Висшите светове',
     'Структурата на Висшите светове',
     'Структурата на Висшите светове и законът за помощта',
-    'Петте парцуфим на света Адам Кадмон'
+    'Петте парцуфим на света Адам Кадмон',
+    'Основи на кабалистичната общност'
   ],
   cs: [
     'Lidská přirozenost',
@@ -395,7 +408,8 @@ const lessonTitles = {
     'Struktura Vyšších světů',
     'Struktura Vyšších světů',
         'Struktura Vyšších světů a zákon pomoci',
-        'Pět Partzufim světa Adam Kadmon'
+        'Pět Partzufim světa Adam Kadmon',
+        'Základy kabalistické komunity'
       ],
   hr: [
     'Ljudska priroda',
@@ -423,7 +437,8 @@ const lessonTitles = {
     'Struktura Viših svjetova',
     'Ustroj Viših svjetova',
     'Ustroj Viših svjetova i zakon pomoći',
-    'Pet Partzufim svijeta Adam Kadmon'
+    'Pet Partzufim svijeta Adam Kadmon',
+    'Osnove kabalističke zajednice'
   ],
   sr: [
     'Људска природа',
@@ -451,7 +466,8 @@ const lessonTitles = {
     'Структура Виших светова',
     'Структура Виших светова',
         'Структура Виших светова и закон помоћи',
-        'Пет Парцуфим света Адам Кадмон'
+        'Пет Парцуфим света Адам Кадмон',
+        'Основе кабалистичке заједнице'
       ],
   tr: [
     'İnsan doğası',
@@ -479,7 +495,8 @@ const lessonTitles = {
     'Yüksek Dünyaların yapısı',
     'Yüksek Dünyaların düzeni',
     'Yüksek Dünyaların düzeni ve yardım yasası',
-    'Adam Kadmon dünyasının beş Partzufu'
+    'Adam Kadmon dünyasının beş Partzufu',
+    'Kabala topluluğunun temelleri'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -507,7 +524,8 @@ const lessonTitles = {
     'Η δομή των Ανώτερων Κόσμων',
     'Η διάρθρωση των Ανώτερων Κόσμων',
     'Η διάρθρωση των Ανώτερων Κόσμων και ο νόμος της βοήθειας',
-    'Τα πέντε Παρτσουφίμ του κόσμου Αντάμ Καντμόν'
+    'Τα πέντε Παρτσουφίμ του κόσμου Αντάμ Καντμόν',
+    'Θεμέλια της καμπαλιστικής κοινότητας'
   ],
   nl: [
     'De menselijke natuur',
@@ -535,7 +553,8 @@ const lessonTitles = {
     'De structuur van de Hogere Werelden',
     'De structuur van de Hogere Werelden',
         'De structuur van de Hogere Werelden en de wet van de hulp',
-        'De vijf Partzufim van de wereld Adam Kadmon'
+        'De vijf Partzufim van de wereld Adam Kadmon',
+        'Grondslagen van de kabbalistische gemeenschap'
       ],
   da: [
     'Menneskets natur',
@@ -563,7 +582,8 @@ const lessonTitles = {
     'Opbygningen af de Højere Verdener',
     'Strukturen i de Højere Verdener',
     'Strukturen i de Højere Verdener og hjælpens lov',
-    'De fem Partzufim i Adam Kadmons verden'
+    'De fem Partzufim i Adam Kadmons verden',
+    'Grundlaget for det kabbalistiske fællesskab'
   ],
   sv: [
     'Människans natur',
@@ -591,7 +611,8 @@ const lessonTitles = {
     'Uppbyggnaden av de Högre Världarna',
     'Strukturen i de Högre Världarna',
     'Strukturen i de Högre Världarna och hjälpens lag',
-    'De fem Partzufim i Adam Kadmons värld'
+    'De fem Partzufim i Adam Kadmons värld',
+    'Grunderna i den kabbalistiska gemenskapen'
   ],
   no: [
     'Menneskets natur',
@@ -619,7 +640,8 @@ const lessonTitles = {
     'Oppbygningen av de Høyere Verdener',
     'Strukturen i de Høyere Verdener',
     'Strukturen i de Høyere Verdener og hjelpens lov',
-    'De fem Partzufim i Adam Kadmons verden'
+    'De fem Partzufim i Adam Kadmons verden',
+    'Grunnlaget for det kabbalistiske fellesskapet'
   ],
   fi: [
     'Ihmisluonto',
@@ -647,7 +669,8 @@ const lessonTitles = {
     'Ylempien maailmojen rakenne',
     'Ylempien maailmojen rakenne',
         'Ylempien maailmojen rakenne ja avun laki',
-        'Adam Kadmon -maailman viisi Partzufimia'
+        'Adam Kadmon -maailman viisi Partzufimia',
+        'Kabbalistisen yhteisön perusteet'
       ],
   et: [
     'Inimese loomus',
@@ -675,7 +698,8 @@ const lessonTitles = {
     'Kõrgemate maailmade ülesehitus',
     'Kõrgemate maailmade struktuur',
     'Kõrgemate maailmade struktuur ja abistamise seadus',
-    'Adam Kadmoni maailma viis Partzufimit'
+    'Adam Kadmoni maailma viis Partzufimit',
+    'Kabbalistliku kogukonna alused'
   ],
   lv: [
     'Cilvēka daba',
@@ -703,7 +727,8 @@ const lessonTitles = {
     'Augstāko pasauļu uzbūve',
     'Augstāko pasauļu struktūra',
     'Augstāko pasauļu struktūra un palīdzības likums',
-    'Adam Kadmon pasaules piecas Partzufim'
+    'Adam Kadmon pasaules piecas Partzufim',
+    'Kabalistiskās kopienas pamati'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -731,7 +756,8 @@ const lessonTitles = {
     'Aukštesniųjų pasaulių sandara',
     'Aukštesniųjų pasaulių struktūra',
     'Aukštesniųjų pasaulių struktūra ir pagalbos dėsnis',
-    'Penki Adam Kadmon pasaulio Partzufim'
+    'Penki Adam Kadmon pasaulio Partzufim',
+    'Kabalistinės bendruomenės pagrindai'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -759,7 +785,8 @@ const lessonTitles = {
     'بنية العوالم العليا',
     'هيكل العوالم العليا',
     'هيكل العوالم العليا وقانون المساعدة',
-    'البارتسوفيم الخمسة لعالم آدم قدمون'
+    'البارتسوفيم الخمسة لعالم آدم قدمون',
+    'أسس المجتمع القبّالي'
   ],
   fa: [
     'طبیعت انسان',
@@ -787,7 +814,8 @@ const lessonTitles = {
     'ساختار جهان‌های برتر',
     'ساختار جهان‌های بالا',
     'ساختار جهان‌های بالا و قانون کمک',
-    'پنج پارتسوف جهان آدم کادمون'
+    'پنج پارتسوف جهان آدم کادمون',
+    'مبانی جامعهٔ کابالیستی'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -815,7 +843,8 @@ const lessonTitles = {
     'Վերին աշխարհների կառուցվածքը',
     'Բարձր աշխարհների կառուցվածքը',
     'Բարձր աշխարհների կառուցվածքը և օգնության օրենքը',
-    'Ադամ Կադմոն աշխարհի հինգ Պարցուֆները'
+    'Ադամ Կադմոն աշխարհի հինգ Պարցուֆները',
+    'Կաբալիստական համայնքի հիմունքները'
   ],
   az: [
     'İnsan təbiəti',
@@ -843,7 +872,8 @@ const lessonTitles = {
     'Ali Dünyaların quruluşu',
     'Yüksək Dünyaların strukturu',
     'Yüksək Dünyaların strukturu və yardım qanunu',
-    'Adam Kadmon dünyasının beş Partzufu'
+    'Adam Kadmon dünyasının beş Partzufu',
+    'Kabbalistik icmanın əsasları'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -871,7 +901,8 @@ const lessonTitles = {
     'ზედა სამყაროების აგებულება',
     'ზედა სამყაროების სტრუქტურა',
     'ზედა სამყაროების სტრუქტურა და დახმარების კანონი',
-    'ადამ კადმონის სამყაროს ხუთი პარცუფი'
+    'ადამ კადმონის სამყაროს ხუთი პარცუფი',
+    'კაბალისტური საზოგადოების საფუძვლები'
   ],
   'zh-cn': [
     '人性',
@@ -899,7 +930,8 @@ const lessonTitles = {
     '上层世界的结构',
     '高层世界的结构',
     '高层世界的结构与帮助法则',
-    '亚当·卡德蒙世界的五个帕尔祖芬'
+    '亚当·卡德蒙世界的五个帕尔祖芬',
+    '卡巴拉社群的基础'
   ],
   'zh-hant': [
     '人性',
@@ -927,7 +959,8 @@ const lessonTitles = {
     '上層世界的結構',
     '高層世界的結構',
     '高層世界的結構與幫助法則',
-    '亞當·卡德蒙世界的五個帕爾祖芬'
+    '亞當·卡德蒙世界的五個帕爾祖芬',
+    '卡巴拉社群的基礎'
   ],
   ja: [
     '人間の本性',
@@ -955,7 +988,8 @@ const lessonTitles = {
     '上位世界の構造',
     '高次世界の構造',
     '高次世界の構造と援助の法則',
-    'アダム・カドモン世界の五つのパルツフ'
+    'アダム・カドモン世界の五つのパルツフ',
+    'カバラ共同体の基礎'
   ],
   ko: [
     '인간의 본성',
@@ -983,7 +1017,8 @@ const lessonTitles = {
     '상위 세계의 구조',
     '상위 세계의 구조',
         '상위 세계의 구조와 도움의 법칙',
-        '아담 카드몬 세계의 다섯 파르추핌'
+        '아담 카드몬 세계의 다섯 파르추핌',
+        '카발라 공동체의 기초'
       ],
   hi: [
     'मानव स्वभाव',
@@ -1011,7 +1046,8 @@ const lessonTitles = {
     'उच्च लोकों की संरचना',
     'उच्च लोकों की रचना',
     'उच्च लोकों की रचना और सहायता का नियम',
-    'आदम कदमोन लोक के पाँच पार्ट्ज़ुफ़िम'
+    'आदम कदमोन लोक के पाँच पार्ट्ज़ुफ़िम',
+    'कब्बालिस्टिक समुदाय की मूल बातें'
   ],
   id: [
     'Sifat manusia',
@@ -1039,7 +1075,8 @@ const lessonTitles = {
     'Struktur Dunia-Dunia Atas',
     'Susunan Dunia-Dunia Tinggi',
     'Susunan Dunia-Dunia Tinggi dan hukum bantuan',
-    'Lima Partzufim dunia Adam Kadmon'
+    'Lima Partzufim dunia Adam Kadmon',
+    'Dasar-dasar komunitas Kabbalah'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -1067,7 +1104,8 @@ const lessonTitles = {
     'Ang Istruktura ng mga Mataas na Daigdig',
     'Ang Balangkas ng mga Mataas na Daigdig',
     'Ang Balangkas ng mga Mataas na Daigdig at ang batas ng tulong',
-    'Ang limang Partzufim ng daigdig ng Adam Kadmon'
+    'Ang limang Partzufim ng daigdig ng Adam Kadmon',
+    'Mga Batayan ng Komunidad ng Kabbalah'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -1095,7 +1133,8 @@ const lessonTitles = {
     'የላይኞቹ ዓለማት አወቃቀር',
     'የከፍተኛ ዓለማት መዋቅር',
     'የከፍተኛ ዓለማት መዋቅር እና የእርዳታ ሕግ',
-    'የአዳም ቃድሞን ዓለም አምስቱ ፓርጹፊም'
+    'የአዳም ቃድሞን ዓለም አምስቱ ፓርጹፊም',
+    'የካባላ ማኅበረሰብ መሠረቶች'
   ]
 };
 
