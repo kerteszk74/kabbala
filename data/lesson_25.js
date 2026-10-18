@@ -4,20 +4,20 @@ window.lessonDB[25] = {
   quiz: {
     hu: [
       {
-        q: "1. Mi a jelentősége a tanulás előtti szándéknak and a belső erőfeszítésnek a Kabbalában (Rabash 31. and 12. cikkek alapján)?",
+        q: "1. Mi a jelentősége a tanulás előtti szándéknak és a belső erőfeszítésnek a Kabbalában (Rabash 31. és 12. cikkek alapján)?",
         options: [
-          "A helyes szándék and a belső erőfeszítés vonzza magához a Felső Fényt, amely képessé teszi az embert a spirituális fejlődésre and az egoizmus leküzdésére.",
+          "A helyes szándék és a belső erőfeszítés vonzza magához a Felső Fényt, amely képessé teszi az embert a spirituális fejlődésre és az egoizmus leküzdésére.",
           "Csak arra szolgál, hogy elüssük az időt.",
           "Nincs semmilyen hatása a tanulásra.",
           "Kizárólag a fizikai memóriát fejleszti."
         ],
         correct: 0,
-        r: "Rabash tanításai szerint a tanulás előtti tiszta szándék and a belső erőfeszítés határozza meg a Fény befogadásának képességét."
+        r: "Rabash tanításai szerint a tanulás előtti tiszta szándék és a belső erőfeszítés határozza meg a Fény befogadásának képességét."
       },
       {
-        q: "2. Hogyan értelmezi a Kabbala belső and érzelmi síkon az alapfogalmakat, mint az Or (Fény), Tzimtzum (Megszorítás) and Masach (Szűrő)?",
+        q: "2. Hogyan értelmezi a Kabbala belső és érzelmi síkon az alapfogalmakat, mint az Or (Fény), Tzimtzum (Megszorítás) és Masach (Szűrő)?",
         options: [
-          "Nem elvont fizikai jelenségekként, hanem a vágyainkban végbemenő belső, pszichológiai and spirituális folyamatokként.",
+          "Nem elvont fizikai jelenségekként, hanem a vágyainkban végbemenő           belső, pszichológiai és spirituális folyamatokként.",
           "Kizárólag csillagászati szakkifejezésekként.",
           "Matematikai egyenletekként.",
           "Történelmi események leírásaként."
@@ -28,7 +28,7 @@ window.lessonDB[25] = {
       {
         q: "3. Mi az Ohr Makif (Körülölelő Fény) szerepe a spirituális fejlődésben?",
         options: [
-          "Az Ohr Makif a ki nem áradó bőség, amely kívülről folyamatosan ösztönzi, fűti and fejlődésre sarkallja az edényt, amíg az alkalmassá nem válik a befogadására.",
+          "Az Ohr Makif a ki nem áradó bőség, amely kívülről folyamatosan ösztönzi, fűti és fejlődésre sarkallja az edényt, amíg az alkalmassá nem válik a befogadására.",
           "Egy sötét, romboló erő.",
           "A fizikai test hőmérsékletét szabályozza.",
           "Kizárólag a fizikai szemmel látható fény."
@@ -40,7 +40,7 @@ window.lessonDB[25] = {
         q: "4. Miért tekintik az Ohr Chozer-t (Visszavert Fényt) az egyetlen spirituális öltözéknek (Dvekut)?",
         options: [
           "Mivel az Ohr Chozer az az adakozó szándék, amely felölti a Felsőbb Fényt, így megvalósítva a hasonlóságot (Dvekut) a Teremtővel.",
-          "Mിയത് ez egy fizikai ruha.",
+          "Mert ez egy fizikai ruha.",
           "Mert megvéd a hidegtől.",
           "Mert láthatóvá teszi a szellemeket."
         ],
@@ -48,7 +48,7 @@ window.lessonDB[25] = {
         r: "Az Ohr Chozer (Visszavert Fény) az egyetlen spirituális öltözék, amely lehetővé teszi a Fény befogadását adakozó formában."
       },
       {
-        q: "5. Mi a spirituális segítségnyújtás mérnöki elve a Felső and Alsó fokozatok között?",
+        q: "5. Mi a spirituális segítségnyújtás mérnöki elve         a Felső és Alsó fokozatok között?",
         options: [
           "A Felső fokozat AHP-jának leereszkedése (zuhanása) az alsó fokozat GE-jébe az alsó javára történő segítségnyújtás érdekében.",
           "A Felső fokozat teljesen elhanyagolja az alsót.",
@@ -56,24 +56,24 @@ window.lessonDB[25] = {
           "Nincs semmilyen kapcsolat a fokozatok között."
         ],
         correct: 0,
-        r: "A Felső AHP-jának leereszkedése az alsó GE-jébe biztosítja a spirituális emelkedéshez szükséges erőt and közvetítést."
+        r: "A Felső AHP-jának leereszkedése az alsó GE-jébe biztosítja a spirituális emelkedéshez szükséges         erőt és közvetítést."
       },
       {
-        q: "6. Mit jelent a Kıcsinység (Katnut) and a Nagyság (Gadlut) állapota a Felső Világok szerkezetében?",
+                q: "6. Mit jelent a Kicsinység (Katnut) és a Nagyság (Gadlut) állapota a Felső Világok szerkezetében?",
         options: [
-          "A Katnut (kicsinység) and Gadlut (nagyság) azok a fejlődési fázisok, amelyeket a Hochma and Bina tulajdonságai alakítanak ki a gyermekek (alsók) érdekében végzett korrekció során.",
+          "A Katnut (kicsinység) és Gadlut (nagyság) azok a fejlődési fázisok, amelyeket a Hochma és Bina tulajdonságai alakítanak ki a gyermekek (alsók) érdekében végzett korrekció során.",
           "Fizikai méretbeli növekedést.",
           "Az életkor múlását az anyagi világban.",
-          "Pénzügyi szegénységet and gazdagságot."
+          "Pénzügyi szegénységet és gazdagságot."
         ],
         correct: 0,
-        r: "A Katnut and Gadlut a tudatosság and spirituális érettség fokozatai, amelyeket a Felsőbb imák and korrekciók irányítanak."
+        r: "A Katnut és Gadlut a tudatosság és spirituális érettség fokozatai, amelyeket a Felsőbb imák és korrekciók irányítanak."
       },
       {
         q: "7. Hogyan járul hozzá a Rabash által tanított belső erőfeszítés az egoizmus átformálásához?",
         options: [
-          "Arra kényszeríti az embert, hogy túllépjen a saját korlátain, and az adakozás irányába mozdítsa el a szándékait.",
-          "Elnyomja az ĕrzelmeket.",
+          "Arra kényszeríti az embert, hogy túllépjen a saját           korlátain, és az adakozás irányába mozdítsa el a szándékait.",
+                    "Elnyomja az érzelmeket.",
           "Megszünteti az alvás szükségességét.",
           "Fizikai munkára ösztönöz."
         ],
@@ -92,9 +92,9 @@ window.lessonDB[25] = {
         r: "A Masach a belső ellenállás ereje, amely megakadályozza az önző befogadást."
       },
       {
-        q: "9. Milyen szerepet játszik a Bina tulajdonsága a Katnut and Gadlut (kicsinység and nagyság) folyamatában?",
+        q: "9. Milyen szerepet játszik a Bina tulajdonsága         a Katnut és Gadlut (kicsinység és nagyság) folyamatában?",
         options: [
-          "A Bina az adakozás and irgalom tulajdonsága, amely neveli, formálja and nagyságra (Gadlut) emeli az alsó fokozatokat.",
+                  "A Bina az adakozás és irgalom tulajdonsága, amely neveli, formálja és nagyságra (Gadlut) emeli az alsó fokozatokat.",
           "A szigorú ítéletet képviseli adakozás nélkül.",
           "Csak a fizikai testet táplálja.",
           "Megsemmisíti az alsókat."
