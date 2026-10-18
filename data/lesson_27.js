@@ -5041,7 +5041,7 @@ pl: [
   { f: "W jaki sposób chewruła działa jako duchowy katalizator?", b: "Napięcie i zbieżność intencji dwóch dążących ku sobie serc wyzwalają potężniejszy strumień Światła niż wysiłek w samotności." },
   { f: "Jaka jest rola radości w życiu wspólnoty kabalistycznej?", b: "Radość w obdarzaniu dowodzi, że grupa upodobniła się do właściwości Światła, a nie tkwi w egoistycznym braku." },
   { f: "Jak Dziesiątka przygotowuje jednostkę do globalnej jedności ludzkości?", b: "Wzajemna poręka wypracowana w laboratorium Dziesiątki stopniowo rozszerza się na całą ludzkość." },
-  { f: "Czym jest „przymierze soli” w relacjach między towarzyszami?", b: "Wiecznym, nierozerwalnym zobowiązaniem, które nigdy się nie psuje i nie zależy od zewnętrznych okoliczностей." },
+  { f: "Czym jest „przymierze soli” w relacjach między towarzyszami?", b: "Wiecznym, nierozerwalnym zobowiązaniem, które nigdy się nie psuje i nie zależy od zewnętrznych okoliczności." },
   { f: "Dlaczego mówi się, że Stwórca odsłania się w przestrzeni między przyjaciółmi?", b: "Stwórca to łącząca miłość; tam, gdzie nad dwoma egoizmami zostaje przerzucony most, objawia się Boskość." },
   { f: "Jak chewruła pomaga odkrywać głębsze warstwy tekstów kabalistycznych?", b: "Wspólne czytanie łączy odmienne punkty widzenia, przekształcając intelektualną analizę w żywe emocjonalne przeżycie." },
   { f: "Co oznacza zakosztowanie „życia wiecznego” we wspólnym naczyniu grupy?", b: "Przekroczenie granic śmiertelnego ciała fizycznego i istnienie w nieśmiertelnym nurcie wspólnej duszy." },
