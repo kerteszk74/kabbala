@@ -34,7 +34,8 @@ const lessonTitles = {
     'Az Adam Kadmon világ öt Partzufja',
     'A kabbalisztikus közösség alapjai',
     '',
-    'Bevezetés a „Tízes” fogalmába'
+    'Bevezetés a „Tízes” fogalmába',
+    'A barátok szeretete'
   ],
   en: [
     'Human Nature',
@@ -65,7 +66,8 @@ const lessonTitles = {
     'The Five Partzufim of the World of Adam Kadmon',
     'Foundations of the Kabbalistic Community',
     '',
-    'Introduction to the Concept of the Ten'
+    'Introduction to the Concept of the Ten',
+    'The Love of Friends'
   ],
   he: [
     'הטבע האנושי',
@@ -96,7 +98,8 @@ const lessonTitles = {
         'חמשת הפרצופים של עולם אדם קדמון',
         'יסודות הקהילה הקבלית',
         '',
-        'מבוא למושג העשירייה'
+        'מבוא למושג העשירייה',
+        'אהבת חברים'
   ],
   ru: [
     'Человеческая природа',
@@ -127,7 +130,8 @@ const lessonTitles = {
     'Пять парцуфим мира Адам Кадмон',
     'Основы каббалистического сообщества',
     '',
-    'Введение в понятие десятки'
+    'Введение в понятие десятки',
+    'Любовь друзей'
   ],
   de: [
     'Die menschliche Natur',
@@ -158,7 +162,8 @@ const lessonTitles = {
     'Die fünf Partzufim der Welt Adam Kadmon',
     'Grundlagen der kabbalistischen Gemeinschaft',
     '',
-    'Einführung in das Konzept der Zehnergruppe'
+    'Einführung in das Konzept der Zehnergruppe',
+    'Die Liebe der Freunde'
   ],
   es: [
     'La naturaleza humana',
@@ -189,7 +194,8 @@ const lessonTitles = {
         'Los cinco Partzufim del mundo de Adam Kadmon',
         'Fundamentos de la comunidad cabalística',
         '',
-        'Introducción al concepto del grupo de diez'
+        'Introducción al concepto del grupo de diez',
+        'El amor de los amigos'
       ],
   fr: [
     'La nature humaine',
@@ -220,7 +226,8 @@ const lessonTitles = {
         'Les cinq Partzoufim du monde d\'Adam Kadmon',
         'Fondements de la communauté kabbalistique',
         '',
-        'Introduction au concept de la dizaine'
+        'Introduction au concept de la dizaine',
+        'L\'amour des amis'
       ],
   it: [
     'La natura umana',
@@ -251,7 +258,8 @@ const lessonTitles = {
     'I cinque Partzufim del mondo di Adam Kadmon',
     'Fondamenti della comunità cabalistica',
     '',
-    'Introduzione al concetto della decina'
+    'Introduzione al concetto della decina',
+    'L\'amore degli amici'
   ],
   pt: [
     'A natureza humana',
@@ -282,7 +290,8 @@ const lessonTitles = {
         'Os cinco Partzufim do mundo de Adam Kadmon',
         'Fundamentos da comunidade cabalística',
         '',
-        'Introdução ao conceito do grupo de dez'
+        'Introdução ao conceito do grupo de dez',
+        'O amor dos amigos'
       ],
   uk: [
     'Людська природа',
@@ -313,7 +322,8 @@ const lessonTitles = {
     'П’ять парцуфім світу Адам Кадмон',
     'Основи кабалістичної спільноти',
     '',
-    'Вступ до поняття десятки'
+    'Вступ до поняття десятки',
+    'Любов друзів'
   ],
   pl: [
     'Ludzka natura',
@@ -344,7 +354,8 @@ const lessonTitles = {
         'Pięć Partzufim świata Adam Kadmon',
         'Podstawy społeczności kabalistycznej',
         '',
-        'Wprowadzenie do pojęcia dziesiątki'
+        'Wprowadzenie do pojęcia dziesiątki',
+        'Miłość przyjaciół'
       ],
   ro: [
     'Natura umană',
@@ -375,7 +386,8 @@ const lessonTitles = {
     'Cele cinci Partzufim ale lumii Adam Kadmon',
     'Fundamentele comunității cabalistice',
     '',
-    'Introducere în conceptul grupului de zece'
+    'Introducere în conceptul grupului de zece',
+    'Iubirea prietenilor'
   ],
   bg: [
     'Човешката природа',
@@ -406,7 +418,8 @@ const lessonTitles = {
     'Петте парцуфим на света Адам Кадмон',
     'Основи на кабалистичната общност',
     '',
-    'Въведение в понятието за десетката'
+    'Въведение в понятието за десетката',
+    'Любовта на приятелите'
   ],
   cs: [
     'Lidská přirozenost',
@@ -437,7 +450,8 @@ const lessonTitles = {
         'Pět Partzufim světa Adam Kadmon',
         'Základy kabalistické komunity',
         '',
-        'Úvod do konceptu desítky'
+        'Úvod do konceptu desítky',
+        'Láska přátel'
       ],
   hr: [
     'Ljudska priroda',
@@ -468,7 +482,8 @@ const lessonTitles = {
     'Pet Partzufim svijeta Adam Kadmon',
     'Osnove kabalističke zajednice',
     '',
-    'Uvod u pojam desetorke'
+    'Uvod u pojam desetorke',
+    'Ljubav prijatelja'
   ],
   sr: [
     'Људска природа',
@@ -499,7 +514,8 @@ const lessonTitles = {
         'Пет Парцуфим света Адам Кадмон',
         'Основе кабалистичке заједнице',
         '',
-        'Увод у појам десетке'
+        'Увод у појам десетке',
+        'Љубав пријатеља'
       ],
   tr: [
     'İnsan doğası',
@@ -530,7 +546,8 @@ const lessonTitles = {
     'Adam Kadmon dünyasının beş Partzufu',
     'Kabala topluluğunun temelleri',
     '',
-    'Onluq kavramına giriş'
+    'Onluq kavramına giriş',
+    'Dostların Sevgisi'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -561,7 +578,8 @@ const lessonTitles = {
     'Τα πέντε Παρτσουφίμ του κόσμου Αντάμ Καντμόν',
     'Θεμέλια της καμπαλιστικής κοινότητας',
     '',
-    'Εισαγωγή στην έννοια της δεκάδας'
+    'Εισαγωγή στην έννοια της δεκάδας',
+    'Η αγάπη των φίλων'
   ],
   nl: [
     'De menselijke natuur',
@@ -592,7 +610,8 @@ const lessonTitles = {
         'De vijf Partzufim van de wereld Adam Kadmon',
         'Grondslagen van de kabbalistische gemeenschap',
         '',
-        'Inleiding tot het concept van de tien'
+        'Inleiding tot het concept van de tien',
+        'De liefde van vrienden'
       ],
   da: [
     'Menneskets natur',
@@ -623,7 +642,8 @@ const lessonTitles = {
     'De fem Partzufim i Adam Kadmons verden',
     'Grundlaget for det kabbalistiske fællesskab',
     '',
-    'Introduktion til begrebet en ti-mandsgruppe'
+    'Introduktion til begrebet en ti-mandsgruppe',
+    'Venners kærlighed'
   ],
   sv: [
     'Människans natur',
@@ -654,7 +674,8 @@ const lessonTitles = {
     'De fem Partzufim i Adam Kadmons värld',
     'Grunderna i den kabbalistiska gemenskapen',
     '',
-    'Introduktion till tiogruppen'
+    'Introduktion till tiogruppen',
+    'Vännernas kärlek'
   ],
   no: [
     'Menneskets natur',
@@ -685,7 +706,8 @@ const lessonTitles = {
     'De fem Partzufim i Adam Kadmons verden',
     'Grunnlaget for det kabbalistiske fellesskapet',
     '',
-    'Introduksjon til konseptet med en tiergruppe'
+    'Introduksjon til konseptet med en tiergruppe',
+    'Vennenes kjærlighet'
   ],
   fi: [
     'Ihmisluonto',
@@ -716,7 +738,8 @@ const lessonTitles = {
         'Adam Kadmon -maailman viisi Partzufimia',
         'Kabbalistisen yhteisön perusteet',
         '',
-        'Johdanto kymmenikköön'
+        'Johdanto kymmenikköön',
+        'Ystävien rakkaus'
       ],
   et: [
     'Inimese loomus',
@@ -747,7 +770,8 @@ const lessonTitles = {
     'Adam Kadmoni maailma viis Partzufimit',
     'Kabbalistliku kogukonna alused',
     '',
-    'Sissejuhatus kümnese mõistesse'
+    'Sissejuhatus kümnese mõistesse',
+    'Sõprade armastus'
   ],
   lv: [
     'Cilvēka daba',
@@ -778,7 +802,8 @@ const lessonTitles = {
     'Adam Kadmon pasaules piecas Partzufim',
     'Kabalistiskās kopienas pamati',
     '',
-    'Ievads desmitnieka jēdzienā'
+    'Ievads desmitnieka jēdzienā',
+    'Draugu mīlestība'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -809,7 +834,8 @@ const lessonTitles = {
     'Penki Adam Kadmon pasaulio Partzufim',
     'Kabalistinės bendruomenės pagrindai',
     '',
-    'Įvadas į dešimtuko sampratą'
+    'Įvadas į dešimtuko sampratą',
+    'Draugų meilė'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -840,7 +866,8 @@ const lessonTitles = {
     'البارتسوفيم الخمسة لعالم آدم قدمون',
     'أسس المجتمع القبّالي',
     '',
-    'مقدمة إلى مفهوم العشرة'
+    'مقدمة إلى مفهوم العشرة',
+    'محبة الأصدقاء'
   ],
   fa: [
     'طبیعت انسان',
@@ -871,7 +898,8 @@ const lessonTitles = {
     'پنج پارتسوف جهان آدم کادمون',
     'مبانی جامعهٔ کابالیستی',
     '',
-    'مقدمه‌ای بر مفهوم گروه ده‌نفره'
+    'مقدمه‌ای بر مفهوم گروه ده‌نفره',
+    'عشق دوستان'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -902,7 +930,8 @@ const lessonTitles = {
     'Ադամ Կադմոն աշխարհի հինգ Պարցուֆները',
     'Կաբալիստական համայնքի հիմունքները',
     '',
-    'Ներածություն տասնյակի հասկացությանը'
+    'Ներածություն տասնյակի հասկացությանը',
+    'Ընկերների սերը'
   ],
   az: [
     'İnsan təbiəti',
@@ -933,7 +962,8 @@ const lessonTitles = {
     'Adam Kadmon dünyasının beş Partzufu',
     'Kabbalistik icmanın əsasları',
     '',
-    'Onluq anlayışına giriş'
+    'Onluq anlayışına giriş',
+    'Dostların sevgisi'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -964,7 +994,8 @@ const lessonTitles = {
     'ადამ კადმონის სამყაროს ხუთი პარცუფი',
     'კაბალისტური საზოგადოების საფუძვლები',
     '',
-    'შესავალი ათეულის ცნებაში'
+    'შესავალი ათეულის ცნებაში',
+    'მეგობრების სიყვარული'
   ],
   'zh-cn': [
     '人性',
@@ -995,7 +1026,8 @@ const lessonTitles = {
     '亚当·卡德蒙世界的五个帕尔祖芬',
     '卡巴拉社群的基础',
     '',
-    '十人团概念简介'
+    '十人团概念简介',
+    '朋友之爱'
   ],
   'zh-hant': [
     '人性',
@@ -1026,7 +1058,8 @@ const lessonTitles = {
     '亞當·卡德蒙世界的五個帕爾祖芬',
     '卡巴拉社群的基礎',
     '',
-    '十人團概念簡介'
+    '十人團概念簡介',
+    '朋友之愛'
   ],
   ja: [
     '人間の本性',
@@ -1057,7 +1090,8 @@ const lessonTitles = {
     'アダム・カドモン世界の五つのパルツフ',
     'カバラ共同体の基礎',
     '',
-    '十人グループの概念の紹介'
+    '十人グループの概念の紹介',
+    '友の愛'
   ],
   ko: [
     '인간의 본성',
@@ -1088,7 +1122,8 @@ const lessonTitles = {
         '아담 카드몬 세계의 다섯 파르추핌',
         '카발라 공동체의 기초',
         '',
-        '십인조 개념 소개'
+        '십인조 개념 소개',
+        '친구들의 사랑'
       ],
   hi: [
     'मानव स्वभाव',
@@ -1119,7 +1154,8 @@ const lessonTitles = {
     'आदम कदमोन लोक के पाँच पार्ट्ज़ुफ़िम',
     'कब्बालिस्टिक समुदाय की मूल बातें',
     '',
-    'दस-समूह की अवधारणा का परिचय'
+    'दस-समूह की अवधारणा का परिचय',
+    'मित्रों का प्रेम'
   ],
   id: [
     'Sifat manusia',
@@ -1150,7 +1186,8 @@ const lessonTitles = {
     'Lima Partzufim dunia Adam Kadmon',
     'Dasar-dasar komunitas Kabbalah',
     '',
-    'Pengantar konsep kelompok sepuluh'
+    'Pengantar konsep kelompok sepuluh',
+    'Cinta para sahabat'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -1181,7 +1218,8 @@ const lessonTitles = {
     'Ang limang Partzufim ng daigdig ng Adam Kadmon',
     'Mga Batayan ng Komunidad ng Kabbalah',
     '',
-    'Panimula sa konsepto ng sampung grupo'
+    'Panimula sa konsepto ng sampung grupo',
+    'Ang pagmamahal ng mga kaibigan'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -1212,7 +1250,8 @@ const lessonTitles = {
     'የአዳም ቃድሞን ዓለም አምስቱ ፓርጹፊም',
     'የካባላ ማኅበረሰብ መሠረቶች',
     '',
-    'የአሥርቱ ጽንሰ ሐሳብ መግቢያ'
+    'የአሥርቱ ጽንሰ ሐሳብ መግቢያ',
+    'የጓደኞች ፍቅር'
   ]
 };
 
