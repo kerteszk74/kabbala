@@ -109,8 +109,8 @@
   <div class="controls-bar">
     <div class="select-group">
       <select id="mode-select" onchange="switchMode(this.value)">
-        <option value="quiz">🎯 Kvíz</option>
-        <option value="flashcards">🗂️ Tanulókártyák</option>
+        <option id="mode-quiz-opt" value="quiz">🎯 Kvíz</option>
+        <option id="mode-cards-opt" value="flashcards">🗂️ Tanulókártyák</option>
       </select>
       <select id="lesson-select" onchange="switchLesson(this.value)">
         <option value="1">1. lecke: Az emberi természet</option>
@@ -212,7 +212,7 @@
       <div class="flashcard-inner" id="card-inner">
         <div class="flashcard-front">
           <h3 id="card-front-text" style="margin:0 0 8px 0; font-size:1.3rem;"></h3>
-          <span class="card-hint">🔄 Kattints a kártyára a megfordításhoz!</span>
+          <span class="card-hint" id="card-hint">🔄 Kattints a kártyára a megfordításhoz!</span>
         </div>
         <div class="flashcard-back">
           <p id="card-back-text" style="margin:0; font-size:1.05rem; line-height:1.5;"></p>

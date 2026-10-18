@@ -1310,7 +1310,69 @@ const lessonTitleFormats = {
   id: 'Pelajaran {n}: {title}', tl: 'Aralin {n}: {title}', am: 'ትምህርት {n}: {title}'
 };
 
+// Felület-feliratok: quiz, cards, score, card, next, finish, prev, flip, noQuiz, soon, noCards, shuffle
+const uiStrings = {
+  hu: ['Kvíz', 'Tanulókártyák', 'Pontszám', 'Kártya', 'Következő', 'Befejezés / Újrakezdés', 'Előző', 'Kattints a kártyára a megfordításhoz!', 'Ehhez a leckéhez még nincs kvíz feltöltve ezen a nyelven.', 'Hamarosan érkezik...', 'Ehhez a leckéhez még nincsenek feltöltve a kártyák.', 'Véletlenszerű válaszkeverés bekapcsolva'],
+  en: ['Quiz', 'Flashcards', 'Score', 'Card', 'Next', 'Finish / Restart', 'Previous', 'Click the card to flip it!', 'No quiz has been uploaded for this lesson in this language yet.', 'Coming soon...', 'No cards have been uploaded for this lesson yet.', 'Random answer shuffling is on'],
+  he: ['חידון', 'כרטיסיות לימוד', 'ניקוד', 'כרטיס', 'הבא', 'סיום / התחלה מחדש', 'הקודם', 'לחצו על הכרטיס כדי להפוך אותו!', 'עדיין לא הועלה חידון לשיעור זה בשפה זו.', 'בקרוב...', 'עדיין לא הועלו כרטיסיות לשיעור זה.', 'ערבוב אקראי של התשובות פעיל'],
+  ru: ['Викторина', 'Карточки', 'Счёт', 'Карточка', 'Далее', 'Завершить / Начать заново', 'Назад', 'Нажмите на карточку, чтобы перевернуть её!', 'Для этого урока викторина на этом языке пока не загружена.', 'Скоро появится...', 'Для этого урока карточки пока не загружены.', 'Случайное перемешивание ответов включено'],
+  de: ['Quiz', 'Lernkarten', 'Punkte', 'Karte', 'Weiter', 'Beenden / Neu starten', 'Zurück', 'Klicke auf die Karte, um sie umzudrehen!', 'Für diese Lektion ist in dieser Sprache noch kein Quiz hochgeladen.', 'Demnächst verfügbar...', 'Für diese Lektion wurden noch keine Karten hochgeladen.', 'Zufällige Antwortreihenfolge ist aktiviert'],
+  es: ['Cuestionario', 'Tarjetas de estudio', 'Puntuación', 'Tarjeta', 'Siguiente', 'Finalizar / Reiniciar', 'Anterior', '¡Haz clic en la tarjeta para darle la vuelta!', 'Aún no hay cuestionario para esta lección en este idioma.', 'Próximamente...', 'Aún no se han subido tarjetas para esta lección.', 'Mezcla aleatoria de respuestas activada'],
+  fr: ['Quiz', 'Cartes d\'étude', 'Score', 'Carte', 'Suivant', 'Terminer / Recommencer', 'Précédent', 'Cliquez sur la carte pour la retourner !', 'Aucun quiz n\'est encore disponible pour cette leçon dans cette langue.', 'Bientôt disponible...', 'Les cartes de cette leçon ne sont pas encore disponibles.', 'Mélange aléatoire des réponses activé'],
+  it: ['Quiz', 'Schede di studio', 'Punteggio', 'Scheda', 'Avanti', 'Termina / Ricomincia', 'Indietro', 'Clicca sulla scheda per girarla!', 'Per questa lezione non c\'è ancora un quiz in questa lingua.', 'In arrivo...', 'Le schede per questa lezione non sono ancora disponibili.', 'Mescolamento casuale delle risposte attivo'],
+  pt: ['Questionário', 'Cartões de estudo', 'Pontuação', 'Cartão', 'Próximo', 'Concluir / Reiniciar', 'Anterior', 'Clique no cartão para virá-lo!', 'Esta lição ainda não tem questionário neste idioma.', 'Em breve...', 'Os cartões desta lição ainda não foram carregados.', 'Embaralhamento aleatório das respostas ativado'],
+  uk: ['Вікторина', 'Картки', 'Рахунок', 'Картка', 'Далі', 'Завершити / Почати знову', 'Назад', 'Натисніть на картку, щоб перевернути її!', 'Для цього уроку вікторину цією мовою ще не завантажено.', 'Незабаром...', 'Для цього уроку картки ще не завантажено.', 'Випадкове перемішування відповідей увімкнено'],
+  pl: ['Quiz', 'Fiszki', 'Wynik', 'Fiszka', 'Dalej', 'Zakończ / Zacznij od nowa', 'Wstecz', 'Kliknij fiszkę, aby ją odwrócić!', 'Dla tej lekcji nie ma jeszcze quizu w tym języku.', 'Wkrótce...', 'Fiszki do tej lekcji nie zostały jeszcze dodane.', 'Losowa kolejność odpowiedzi jest włączona'],
+  ro: ['Test', 'Fișe de studiu', 'Scor', 'Fișă', 'Următorul', 'Finalizare / Reluare', 'Înapoi', 'Apasă pe fișă pentru a o întoarce!', 'Pentru această lecție nu există încă un test în această limbă.', 'În curând...', 'Fișele pentru această lecție nu au fost încă încărcate.', 'Amestecarea aleatorie a răspunsurilor este activată'],
+  bg: ['Тест', 'Карти за учене', 'Резултат', 'Карта', 'Напред', 'Край / Започни отначало', 'Назад', 'Кликнете върху картата, за да я обърнете!', 'За този урок още няма тест на този език.', 'Очаквайте скоро...', 'За този урок още няма качени карти.', 'Случайното разбъркване на отговорите е включено'],
+  cs: ['Kvíz', 'Studijní karty', 'Skóre', 'Karta', 'Další', 'Dokončit / Začít znovu', 'Zpět', 'Kliknutím na kartu ji otočíte!', 'Pro tuto lekci zatím v tomto jazyce není kvíz.', 'Již brzy...', 'Karty pro tuto lekci zatím nejsou nahrány.', 'Náhodné míchání odpovědí je zapnuto'],
+  hr: ['Kviz', 'Kartice za učenje', 'Rezultat', 'Kartica', 'Sljedeće', 'Završi / Počni ispočetka', 'Natrag', 'Kliknite na karticu da je okrenete!', 'Za ovu lekciju još nema kviza na ovom jeziku.', 'Uskoro...', 'Kartice za ovu lekciju još nisu učitane.', 'Nasumično miješanje odgovora je uključeno'],
+  sr: ['Квиз', 'Картице за учење', 'Резултат', 'Картица', 'Следеће', 'Заврши / Почни испочетка', 'Назад', 'Кликните на картицу да је окренете!', 'За ову лекцију још нема квиза на овом језику.', 'Ускоро...', 'Картице за ову лекцију још нису учитане.', 'Насумично мешање одговора је укључено'],
+  tr: ['Test', 'Çalışma Kartları', 'Puan', 'Kart', 'Sonraki', 'Bitir / Yeniden Başla', 'Önceki', 'Çevirmek için karta tıklayın!', 'Bu ders için bu dilde henüz test yüklenmedi.', 'Yakında...', 'Bu ders için kartlar henüz yüklenmedi.', 'Rastgele cevap karıştırma açık'],
+  el: ['Κουίζ', 'Κάρτες μελέτης', 'Βαθμολογία', 'Κάρτα', 'Επόμενο', 'Τέλος / Επανεκκίνηση', 'Προηγούμενο', 'Κάντε κλικ στην κάρτα για να την γυρίσετε!', 'Για αυτό το μάθημα δεν υπάρχει ακόμη κουίζ σε αυτή τη γλώσσα.', 'Έρχεται σύντομα...', 'Οι κάρτες για αυτό το μάθημα δεν έχουν ανεβεί ακόμη.', 'Η τυχαία ανάμειξη απαντήσεων είναι ενεργή'],
+  nl: ['Quiz', 'Studiekaarten', 'Score', 'Kaart', 'Volgende', 'Voltooien / Opnieuw beginnen', 'Vorige', 'Klik op de kaart om hem om te draaien!', 'Voor deze les is in deze taal nog geen quiz beschikbaar.', 'Binnenkort beschikbaar...', 'Voor deze les zijn nog geen kaarten geüpload.', 'Willekeurige antwoordvolgorde staat aan'],
+  da: ['Quiz', 'Studiekort', 'Point', 'Kort', 'Næste', 'Afslut / Start forfra', 'Forrige', 'Klik på kortet for at vende det!', 'Der er endnu ikke uploadet en quiz til denne lektion på dette sprog.', 'Kommer snart...', 'Der er endnu ikke uploadet kort til denne lektion.', 'Tilfældig blanding af svar er slået til'],
+  sv: ['Quiz', 'Studiekort', 'Poäng', 'Kort', 'Nästa', 'Avsluta / Börja om', 'Föregående', 'Klicka på kortet för att vända det!', 'Det finns ännu inget quiz för den här lektionen på det här språket.', 'Kommer snart...', 'Korten för den här lektionen har inte laddats upp ännu.', 'Slumpmässig blandning av svar är aktiverad'],
+  no: ['Quiz', 'Studiekort', 'Poeng', 'Kort', 'Neste', 'Avslutt / Start på nytt', 'Forrige', 'Klikk på kortet for å vende det!', 'Det er ennå ikke lastet opp en quiz for denne leksjonen på dette språket.', 'Kommer snart...', 'Kortene for denne leksjonen er ikke lastet opp ennå.', 'Tilfeldig blanding av svar er slått på'],
+  fi: ['Tietovisa', 'Opintokortit', 'Pisteet', 'Kortti', 'Seuraava', 'Lopeta / Aloita alusta', 'Edellinen', 'Käännä kortti napsauttamalla sitä!', 'Tälle oppitunnille ei ole vielä tietovisaa tällä kielellä.', 'Tulossa pian...', 'Tämän oppitunnin kortteja ei ole vielä ladattu.', 'Vastausten satunnainen sekoitus on päällä'],
+  et: ['Viktoriin', 'Õppekaardid', 'Skoor', 'Kaart', 'Järgmine', 'Lõpeta / Alusta uuesti', 'Eelmine', 'Kaardi pööramiseks klõpsa sellel!', 'Sellele õppetunnile pole selles keeles veel viktoriini.', 'Peagi tulemas...', 'Selle õppetunni kaardid pole veel üles laaditud.', 'Vastuste juhuslik segamine on sees'],
+  lv: ['Viktorīna', 'Mācību kartītes', 'Rezultāts', 'Kartīte', 'Tālāk', 'Beigt / Sākt no jauna', 'Atpakaļ', 'Noklikšķiniet uz kartītes, lai to apgrieztu!', 'Šai nodarbībai šajā valodā vēl nav viktorīnas.', 'Drīzumā...', 'Šīs nodarbības kartītes vēl nav augšupielādētas.', 'Atbilžu nejaušā jaukšana ir ieslēgta'],
+  lt: ['Viktorina', 'Mokymosi kortelės', 'Rezultatas', 'Kortelė', 'Toliau', 'Baigti / Pradėti iš naujo', 'Atgal', 'Spustelėkite kortelę, kad ją apverstumėte!', 'Šiai pamokai šia kalba viktorinos dar nėra.', 'Netrukus...', 'Šios pamokos kortelės dar neįkeltos.', 'Atsitiktinis atsakymų maišymas įjungtas'],
+  ar: ['اختبار', 'بطاقات تعليمية', 'النتيجة', 'بطاقة', 'التالي', 'إنهاء / إعادة البدء', 'السابق', 'انقر على البطاقة لقلبها!', 'لا يوجد اختبار لهذا الدرس بهذه اللغة بعد.', 'قريبًا...', 'لم يتم رفع بطاقات لهذا الدرس بعد.', 'خلط الإجابات العشوائي مفعّل'],
+  fa: ['آزمون', 'کارت‌های آموزشی', 'امتیاز', 'کارت', 'بعدی', 'پایان / شروع دوباره', 'قبلی', 'برای برگرداندن کارت روی آن کلیک کنید!', 'برای این درس هنوز آزمونی به این زبان بارگذاری نشده است.', 'به‌زودی...', 'کارت‌های این درس هنوز بارگذاری نشده‌اند.', 'ترتیب تصادفی گزینه‌ها فعال است'],
+  hy: ['Վիկտորինա', 'Ուսումնական քարտեր', 'Միավոր', 'Քարտ', 'Հաջորդը', 'Ավարտել / Սկսել նորից', 'Նախորդը', 'Սեղմեք քարտի վրա՝ այն շրջելու համար։', 'Այս դասի համար այս լեզվով վիկտորինա դեռ չկա։', 'Շուտով...', 'Այս դասի քարտերը դեռ վերբեռնված չեն։', 'Պատասխանների պատահական խառնումը միացված է'],
+  az: ['Viktorina', 'Təlim kartları', 'Xal', 'Kart', 'Növbəti', 'Bitir / Yenidən başla', 'Əvvəlki', 'Çevirmək üçün karta klikləyin!', 'Bu dərs üçün bu dildə hələ viktorina yüklənməyib.', 'Tezliklə...', 'Bu dərs üçün kartlar hələ yüklənməyib.', 'Cavabların təsadüfi qarışdırılması aktivdir'],
+  ka: ['ვიქტორინა', 'სასწავლო ბარათები', 'ქულა', 'ბარათი', 'შემდეგი', 'დასრულება / თავიდან დაწყება', 'წინა', 'დააწკაპუნეთ ბარათზე მის გადასაბრუნებლად!', 'ამ გაკვეთილისთვის ამ ენაზე ვიქტორინა ჯერ არ არის ატვირთული.', 'მალე...', 'ამ გაკვეთილის ბარათები ჯერ არ არის ატვირთული.', 'პასუხების შემთხვევითი არევა ჩართულია'],
+  'zh-cn': ['测验', '学习卡片', '得分', '卡片', '下一个', '完成 / 重新开始', '上一个', '点击卡片即可翻转！', '本课在此语言下暂无测验。', '即将推出……', '本课暂无卡片。', '已开启答案随机排序'],
+  'zh-hant': ['測驗', '學習卡片', '得分', '卡片', '下一個', '完成 / 重新開始', '上一個', '點擊卡片即可翻轉！', '本課在此語言下暫無測驗。', '即將推出……', '本課暫無卡片。', '已開啟答案隨機排序'],
+  ja: ['クイズ', '学習カード', 'スコア', 'カード', '次へ', '終了 / やり直し', '前へ', 'カードをクリックして裏返しましょう！', 'このレッスンにはこの言語のクイズがまだありません。', '近日公開…', 'このレッスンのカードはまだありません。', '回答のランダムシャッフルがオンです'],
+  ko: ['퀴즈', '학습 카드', '점수', '카드', '다음', '완료 / 다시 시작', '이전', '카드를 클릭하여 뒤집어 보세요!', '이 수업에는 이 언어의 퀴즈가 아직 없습니다.', '곧 공개됩니다...', '이 수업의 카드가 아직 없습니다.', '답안 무작위 섞기가 켜져 있습니다'],
+  hi: ['प्रश्नोत्तरी', 'अध्ययन कार्ड', 'स्कोर', 'कार्ड', 'अगला', 'समाप्त / फिर से शुरू करें', 'पिछला', 'कार्ड को पलटने के लिए उस पर क्लिक करें!', 'इस पाठ के लिए इस भाषा में अभी प्रश्नोत्तरी उपलब्ध नहीं है।', 'जल्द आ रहा है...', 'इस पाठ के कार्ड अभी अपलोड नहीं हुए हैं।', 'उत्तरों का यादृच्छिक क्रम चालू है'],
+  id: ['Kuis', 'Kartu belajar', 'Skor', 'Kartu', 'Berikutnya', 'Selesai / Mulai ulang', 'Sebelumnya', 'Klik kartu untuk membaliknya!', 'Pelajaran ini belum memiliki kuis dalam bahasa ini.', 'Segera hadir...', 'Kartu untuk pelajaran ini belum diunggah.', 'Pengacakan jawaban aktif'],
+  tl: ['Pagsusulit', 'Mga flashcard', 'Marka', 'Kard', 'Susunod', 'Tapusin / Magsimulang muli', 'Nakaraan', 'I-click ang kard para baligtarin ito!', 'Wala pang pagsusulit para sa araling ito sa wikang ito.', 'Malapit na...', 'Wala pang na-upload na mga kard para sa araling ito.', 'Naka-on ang random na pagpapalit-palit ng mga sagot'],
+  am: ['ጥያቄ', 'የመማሪያ ካርዶች', 'ውጤት', 'ካርድ', 'ቀጣይ', 'ጨርስ / እንደገና ጀምር', 'ቀዳሚ', 'ለመገልበጥ ካርዱን ጠቅ ያድርጉ!', 'ለዚህ ትምህርት በዚህ ቋንቋ ጥያቄ ገና አልተጫነም።', 'በቅርቡ…', 'ለዚህ ትምህርት ካርዶች ገና አልተጫኑም።', 'የመልሶች ዘፈቀዳዊ ቅይጥ ነቅቷል']
+};
+const uiKeys = ['quiz', 'cards', 'score', 'card', 'next', 'finish', 'prev', 'flip', 'noQuiz', 'soon', 'noCards', 'shuffle'];
+
+function t(key) {
+  const arr = uiStrings[curLang] || uiStrings.en;
+  return arr[uiKeys.indexOf(key)];
+}
+
+function applyUiStrings() {
+  const set = (id, text) => { const el = document.getElementById(id); if (el) el.textContent = text; };
+  set('mode-quiz-opt', '🎯 ' + t('quiz'));
+  set('mode-cards-opt', '🗂️ ' + t('cards'));
+  set('card-hint', '🔄 ' + t('flip'));
+  set('card-prev-btn', '⬅ ' + t('prev'));
+  set('card-next-btn', t('next') + ' ➔');
+  set('lesson-footer', '🔀 ' + t('shuffle'));
+  const nxt = document.getElementById('quiz-next-btn');
+  if (nxt) nxt.textContent = t('next') + ' ➔';
+}
+
 function updateLessonLabels() {
+  applyUiStrings();
   const lessonSelect = document.getElementById('lesson-select');
   if (!lessonSelect) return;
 
@@ -1370,12 +1432,12 @@ function updateView() {
     document.getElementById('counter-txt').innerText = "0 / 0";
     document.getElementById('progress-fill').style.width = "0%";
     if (curMode === 'quiz') {
-      document.getElementById('q-text').innerText = "Ehhez a leckéhez még nincs kvíz feltöltve ezen a nyelven.";
+      document.getElementById('q-text').innerText = t('noQuiz');
       document.getElementById('options-box').innerHTML = "";
       document.getElementById('fb-box').className = 'feedback';
     } else {
-      document.getElementById('card-front-text').innerText = "Hamarosan érkezik...";
-      document.getElementById('card-back-text').innerText = "Ehhez a leckéhez még nincsenek feltöltve a kártyák.";
+      document.getElementById('card-front-text').innerText = t('soon');
+      document.getElementById('card-back-text').innerText = t('noCards');
     }
     return;
   }
@@ -1388,12 +1450,12 @@ function updateView() {
   if (curMode === 'quiz') {
     document.getElementById('quiz-view').style.display = 'block';
     document.getElementById('flashcard-view').style.display = 'none';
-    document.getElementById('score-txt').innerText = `Pontszám: ${quizScore}`;
+    document.getElementById('score-txt').innerText = `${t('score')}: ${quizScore}`;
     renderQuizQuestion(lData[curIdx], total);
   } else {
     document.getElementById('quiz-view').style.display = 'none';
     document.getElementById('flashcard-view').style.display = 'block';
-    document.getElementById('score-txt').innerText = `Kártya`;
+    document.getElementById('score-txt').innerText = t('card');
     renderFlashcard(lData[curIdx], total);
   }
 }
@@ -1416,7 +1478,7 @@ function renderQuizQuestion(qObj, total) {
   fb.innerText = '';
   const nxt = document.getElementById('quiz-next-btn');
   nxt.disabled = true;
-  nxt.innerText = (curIdx === total - 1) ? 'Befejezés / Újrakezdés' : 'Következő ➔';
+  nxt.innerText = (curIdx === total - 1) ? t('finish') : t('next') + ' ➔';
 }
 
 function selectQuizAnswer(idx, qObj, btn) {
@@ -1425,7 +1487,7 @@ function selectQuizAnswer(idx, qObj, btn) {
   if (idx === qObj.correct) {
     btn.classList.add('correct');
     quizScore++;
-    document.getElementById('score-txt').innerText = `Pontszám: ${quizScore}`;
+    document.getElementById('score-txt').innerText = `${t('score')}: ${quizScore}`;
   } else {
     btn.classList.add('wrong');
     buttons[qObj.correct]?.classList.add('correct');
