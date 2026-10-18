@@ -35,7 +35,8 @@ const lessonTitles = {
     'A kabbalisztikus közösség alapjai',
     '',
     'Bevezetés a „Tízes” fogalmába',
-    'A barátok szeretete'
+    'A barátok szeretete',
+    'Kabbala zene'
   ],
   en: [
     'Human Nature',
@@ -67,7 +68,8 @@ const lessonTitles = {
     'Foundations of the Kabbalistic Community',
     '',
     'Introduction to the Concept of the Ten',
-    'The Love of Friends'
+    'The Love of Friends',
+    'Kabbalah Music'
   ],
   he: [
     'הטבע האנושי',
@@ -99,7 +101,8 @@ const lessonTitles = {
         'יסודות הקהילה הקבלית',
         '',
         'מבוא למושג העשירייה',
-        'אהבת חברים'
+        'אהבת חברים',
+        'מוזיקה קבלית'
   ],
   ru: [
     'Человеческая природа',
@@ -131,7 +134,8 @@ const lessonTitles = {
     'Основы каббалистического сообщества',
     '',
     'Введение в понятие десятки',
-    'Любовь друзей'
+    'Любовь друзей',
+    'Каббалистическая музыка'
   ],
   de: [
     'Die menschliche Natur',
@@ -163,7 +167,8 @@ const lessonTitles = {
     'Grundlagen der kabbalistischen Gemeinschaft',
     '',
     'Einführung in das Konzept der Zehnergruppe',
-    'Die Liebe der Freunde'
+    'Die Liebe der Freunde',
+    'Kabbalistische Musik'
   ],
   es: [
     'La naturaleza humana',
@@ -195,7 +200,8 @@ const lessonTitles = {
         'Fundamentos de la comunidad cabalística',
         '',
         'Introducción al concepto del grupo de diez',
-        'El amor de los amigos'
+        'El amor de los amigos',
+        'Música cabalística'
       ],
   fr: [
     'La nature humaine',
@@ -227,7 +233,8 @@ const lessonTitles = {
         'Fondements de la communauté kabbalistique',
         '',
         'Introduction au concept de la dizaine',
-        'L\'amour des amis'
+        'L\'amour des amis',
+        'Musique kabbalistique'
       ],
   it: [
     'La natura umana',
@@ -259,7 +266,8 @@ const lessonTitles = {
     'Fondamenti della comunità cabalistica',
     '',
     'Introduzione al concetto della decina',
-    'L\'amore degli amici'
+    'L\'amore degli amici',
+    'Musica cabalistica'
   ],
   pt: [
     'A natureza humana',
@@ -291,7 +299,8 @@ const lessonTitles = {
         'Fundamentos da comunidade cabalística',
         '',
         'Introdução ao conceito do grupo de dez',
-        'O amor dos amigos'
+        'O amor dos amigos',
+        'Música cabalística'
       ],
   uk: [
     'Людська природа',
@@ -323,7 +332,8 @@ const lessonTitles = {
     'Основи кабалістичної спільноти',
     '',
     'Вступ до поняття десятки',
-    'Любов друзів'
+    'Любов друзів',
+    'Каббалістична музика'
   ],
   pl: [
     'Ludzka natura',
@@ -355,7 +365,8 @@ const lessonTitles = {
         'Podstawy społeczności kabalistycznej',
         '',
         'Wprowadzenie do pojęcia dziesiątki',
-        'Miłość przyjaciół'
+        'Miłość przyjaciół',
+        'Muzyka kabalistyczna'
       ],
   ro: [
     'Natura umană',
@@ -387,7 +398,8 @@ const lessonTitles = {
     'Fundamentele comunității cabalistice',
     '',
     'Introducere în conceptul grupului de zece',
-    'Iubirea prietenilor'
+    'Iubirea prietenilor',
+    'Muzica cabalistică'
   ],
   bg: [
     'Човешката природа',
@@ -419,7 +431,8 @@ const lessonTitles = {
     'Основи на кабалистичната общност',
     '',
     'Въведение в понятието за десетката',
-    'Любовта на приятелите'
+    'Любовта на приятелите',
+    'Кабалистична музика'
   ],
   cs: [
     'Lidská přirozenost',
@@ -451,7 +464,8 @@ const lessonTitles = {
         'Základy kabalistické komunity',
         '',
         'Úvod do konceptu desítky',
-        'Láska přátel'
+        'Láska přátel',
+        'Kabalistická hudba'
       ],
   hr: [
     'Ljudska priroda',
@@ -483,7 +497,8 @@ const lessonTitles = {
     'Osnove kabalističke zajednice',
     '',
     'Uvod u pojam desetorke',
-    'Ljubav prijatelja'
+    'Ljubav prijatelja',
+    'Kabalistička glazba'
   ],
   sr: [
     'Људска природа',
@@ -515,7 +530,8 @@ const lessonTitles = {
         'Основе кабалистичке заједнице',
         '',
         'Увод у појам десетке',
-        'Љубав пријатеља'
+        'Љубав пријатеља',
+        'Кабалистичка музика'
       ],
   tr: [
     'İnsan doğası',
@@ -547,7 +563,8 @@ const lessonTitles = {
     'Kabala topluluğunun temelleri',
     '',
     'Onluq kavramına giriş',
-    'Dostların Sevgisi'
+    'Dostların Sevgisi',
+    'Kabala Müziği'
   ],
   el: [
     'Η ανθρώπινη φύση',
@@ -579,7 +596,8 @@ const lessonTitles = {
     'Θεμέλια της καμπαλιστικής κοινότητας',
     '',
     'Εισαγωγή στην έννοια της δεκάδας',
-    'Η αγάπη των φίλων'
+    'Η αγάπη των φίλων',
+    'Καμπαλιστική μουσική'
   ],
   nl: [
     'De menselijke natuur',
@@ -611,7 +629,8 @@ const lessonTitles = {
         'Grondslagen van de kabbalistische gemeenschap',
         '',
         'Inleiding tot het concept van de tien',
-        'De liefde van vrienden'
+        'De liefde van vrienden',
+        'Kabbalistische muziek'
       ],
   da: [
     'Menneskets natur',
@@ -643,7 +662,8 @@ const lessonTitles = {
     'Grundlaget for det kabbalistiske fællesskab',
     '',
     'Introduktion til begrebet en ti-mandsgruppe',
-    'Venners kærlighed'
+    'Venners kærlighed',
+    'Kabbalistisk musik'
   ],
   sv: [
     'Människans natur',
@@ -675,7 +695,8 @@ const lessonTitles = {
     'Grunderna i den kabbalistiska gemenskapen',
     '',
     'Introduktion till tiogruppen',
-    'Vännernas kärlek'
+    'Vännernas kärlek',
+    'Kabbalistisk musik'
   ],
   no: [
     'Menneskets natur',
@@ -707,7 +728,8 @@ const lessonTitles = {
     'Grunnlaget for det kabbalistiske fellesskapet',
     '',
     'Introduksjon til konseptet med en tiergruppe',
-    'Vennenes kjærlighet'
+    'Vennenes kjærlighet',
+    'Kabbalistisk musikk'
   ],
   fi: [
     'Ihmisluonto',
@@ -739,7 +761,8 @@ const lessonTitles = {
         'Kabbalistisen yhteisön perusteet',
         '',
         'Johdanto kymmenikköön',
-        'Ystävien rakkaus'
+        'Ystävien rakkaus',
+        'Kabbalistinen musiikki'
       ],
   et: [
     'Inimese loomus',
@@ -771,7 +794,8 @@ const lessonTitles = {
     'Kabbalistliku kogukonna alused',
     '',
     'Sissejuhatus kümnese mõistesse',
-    'Sõprade armastus'
+    'Sõprade armastus',
+    'Kabalistlik muusika'
   ],
   lv: [
     'Cilvēka daba',
@@ -803,7 +827,8 @@ const lessonTitles = {
     'Kabalistiskās kopienas pamati',
     '',
     'Ievads desmitnieka jēdzienā',
-    'Draugu mīlestība'
+    'Draugu mīlestība',
+    'Kabalistiskā mūzika'
   ],
   lt: [
     'Žmogaus prigimtis',
@@ -835,7 +860,8 @@ const lessonTitles = {
     'Kabalistinės bendruomenės pagrindai',
     '',
     'Įvadas į dešimtuko sampratą',
-    'Draugų meilė'
+    'Draugų meilė',
+    'Kabalistinė muzika'
   ],
   ar: [
     'الطبيعة البشرية',
@@ -867,7 +893,8 @@ const lessonTitles = {
     'أسس المجتمع القبّالي',
     '',
     'مقدمة إلى مفهوم العشرة',
-    'محبة الأصدقاء'
+    'محبة الأصدقاء',
+    'الموسيقى القبالية'
   ],
   fa: [
     'طبیعت انسان',
@@ -899,7 +926,8 @@ const lessonTitles = {
     'مبانی جامعهٔ کابالیستی',
     '',
     'مقدمه‌ای بر مفهوم گروه ده‌نفره',
-    'عشق دوستان'
+    'عشق دوستان',
+    'موسیقی کابالیستی'
   ],
   hy: [
     'Մարդկային բնույթը',
@@ -931,7 +959,8 @@ const lessonTitles = {
     'Կաբալիստական համայնքի հիմունքները',
     '',
     'Ներածություն տասնյակի հասկացությանը',
-    'Ընկերների սերը'
+    'Ընկերների սերը',
+    'Կաբալիստական երաժշտություն'
   ],
   az: [
     'İnsan təbiəti',
@@ -963,7 +992,8 @@ const lessonTitles = {
     'Kabbalistik icmanın əsasları',
     '',
     'Onluq anlayışına giriş',
-    'Dostların sevgisi'
+    'Dostların sevgisi',
+    'Kabbalistik musiqi'
   ],
   ka: [
     'ადამიანის ბუნება',
@@ -995,7 +1025,8 @@ const lessonTitles = {
     'კაბალისტური საზოგადოების საფუძვლები',
     '',
     'შესავალი ათეულის ცნებაში',
-    'მეგობრების სიყვარული'
+    'მეგობრების სიყვარული',
+    'კაბალისტური მუსიკა'
   ],
   'zh-cn': [
     '人性',
@@ -1027,7 +1058,8 @@ const lessonTitles = {
     '卡巴拉社群的基础',
     '',
     '十人团概念简介',
-    '朋友之爱'
+    '朋友之爱',
+    '卡巴拉音乐'
   ],
   'zh-hant': [
     '人性',
@@ -1059,7 +1091,8 @@ const lessonTitles = {
     '卡巴拉社群的基礎',
     '',
     '十人團概念簡介',
-    '朋友之愛'
+    '朋友之愛',
+    '卡巴拉音樂'
   ],
   ja: [
     '人間の本性',
@@ -1091,7 +1124,8 @@ const lessonTitles = {
     'カバラ共同体の基礎',
     '',
     '十人グループの概念の紹介',
-    '友の愛'
+    '友の愛',
+    'カバラの音楽'
   ],
   ko: [
     '인간의 본성',
@@ -1123,7 +1157,8 @@ const lessonTitles = {
         '카발라 공동체의 기초',
         '',
         '십인조 개념 소개',
-        '친구들의 사랑'
+        '친구들의 사랑',
+        '카발라 음악'
       ],
   hi: [
     'मानव स्वभाव',
@@ -1155,7 +1190,8 @@ const lessonTitles = {
     'कब्बालिस्टिक समुदाय की मूल बातें',
     '',
     'दस-समूह की अवधारणा का परिचय',
-    'मित्रों का प्रेम'
+    'मित्रों का प्रेम',
+    'कबालिस्टिक संगीत'
   ],
   id: [
     'Sifat manusia',
@@ -1187,7 +1223,8 @@ const lessonTitles = {
     'Dasar-dasar komunitas Kabbalah',
     '',
     'Pengantar konsep kelompok sepuluh',
-    'Cinta para sahabat'
+    'Cinta para sahabat',
+    'Musik Kabbalah'
   ],
   tl: [
     'Kalikasan ng tao',
@@ -1219,7 +1256,8 @@ const lessonTitles = {
     'Mga Batayan ng Komunidad ng Kabbalah',
     '',
     'Panimula sa konsepto ng sampung grupo',
-    'Ang pagmamahal ng mga kaibigan'
+    'Ang pagmamahal ng mga kaibigan',
+    'Musikang Kabbalistiko'
   ],
   am: [
     'የሰው ተፈጥሮ',
@@ -1251,7 +1289,8 @@ const lessonTitles = {
     'የካባላ ማኅበረሰብ መሠረቶች',
     '',
     'የአሥርቱ ጽንሰ ሐሳብ መግቢያ',
-    'የጓደኞች ፍቅር'
+    'የጓደኞች ፍቅር',
+    'የካባላ ሙዚቃ'
   ]
 };
 
