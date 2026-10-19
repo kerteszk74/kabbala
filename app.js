@@ -1512,8 +1512,8 @@ function nextQuizQuestion() {
 function renderFlashcard(cObj, total) {
   if (!cObj) return;
   document.getElementById('card-inner').classList.remove('flipped');
-  document.getElementById('card-front-text').innerText = cObj.f;
-  document.getElementById('card-back-text').innerText = cObj.b;
+  document.getElementById('card-front-text').innerText = cObj.f ?? cObj.q;
+  document.getElementById('card-back-text').innerText = cObj.b ?? cObj.a;
   document.getElementById('card-prev-btn').disabled = (curIdx === 0);
   document.getElementById('card-next-btn').disabled = (curIdx === total - 1);
 }
