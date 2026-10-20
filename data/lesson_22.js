@@ -5286,7 +5286,7 @@ window.lessonDB[22] = {
     { f: "Kako stvorenje postaje jednako Stvoritelju kroz Zivug de Hakaa?", b: "Tako što pričinja radost Stvoritelju primanjem Svjetlosti točno onako kako se Stvoritelj raduje u njezinu davanju." },
     { f: "Koja je razlika između biološkog tijela i duhovnog Guf?", b: "Fizičko tijelo je biološko meso i krv; duhovni Guf je sustav želja vođen namjerom davanja." },
     { f: "Koje su granice Tocha u Partzufu?", b: "Od Peha (vrata odluke) prema dolje do Tabura (granica dopuštenog primanja radi davanja)." },
-    { f: "Koje su granice Sofa u Partzufu?", b: "Od Tabura dolズ do Sium Raglina (kraj nogu), koji ostaje potpuno prazan od Svjetlosti zbog nedostatka ekrana." },
+    { f: "Koje su granice Sofa u Partzufu?", b: "Od Tabura dolje do Sium Raglina (kraj nogu), koji ostaje potpuno prazan od Svjetlosti zbog nedostatka ekrana." },
     { f: "Zašto se Tzimtzum Aleph naziva rođenjem ljudske slobode?", b: "Zato što stvoreno biće po prvi put kaže 'ne' svojim urođenim nagonima u korist svjesne ljubavi i povezanosti." },
     { f: "Kako se lekcije 22–26 primjenjuju na međuljudske odnose?", b: "Uče da se istinska ljubav ne gradi na međusobnom iskorištavanju, već na poštivanju granica i namjera." },
     { f: "Što je istovjetnost oblika (Hishtavut Tzura) u praksi?", b: "Stanje potpune harmonije u kojem su sva djela, misli i želje usmjereni k jednom cilju: davanju Stvoritelju." },

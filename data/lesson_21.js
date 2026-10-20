@@ -5107,7 +5107,7 @@ window.lessonDB[21] = {
     { f: "Care este miezul trezirii lăuntrice după învățătura Lecției 21?", b: "Să înțelegi că teatrul material este doar o decorare trecătoare menită să slujească marii prefaceri interioare." },
     { f: "Cum se preface dorința de a primi într-o unealtă a dăruirii?", b: "Atunci când omul primește împlinirea doar pentru a aduce desfătare Dăruitorului, Care arde să-l umple." },
     { f: "De ce nu poate fi dobândită echivalența de formă pe cale strict rațională?", b: "Pentru că primenirea intenției cere o trudă lăuntrică trăită și preschimbarea adâncă a inimii și a simțirii." },
-    { f: "Ce deosebește veacurile trecute de secolul XXI?", b: "Altădată, punctul din inimă se trezea doar la rari aleși; astăzi este o deșteptare全球ă ce cuprinde masele." },
+    { f: "Ce deosebește veacurile trecute de secolul XXI?", b: "Altădată, punctul din inimă se trezea doar la rari aleși; astăzi este o deșteptare globală ce cuprinde masele." },
     { f: "Cum se îngemănează înțelepciunea Cabalei cu Gândul Creației?", b: "Cabala este știința practică de descifrare a Gândului Creației și de călăuzire a omului spre împlinirea lui." },
     { f: "Care este adevărata măsură a încăpătorului unui Kli spiritual?", b: "Nu mărimea lăcomiei brute, ci tăria și curăția intenției de a dărui cu care este primită Lumina." },
     { f: "Ce se petrece cu cele patru trepte ale naturii odată cu deșteptarea spirituală?", b: "Ele devin unelte de slujire pe măsură ce omul se înalță de la nivelul vorbitor la treapta spirituală." },
@@ -5427,7 +5427,7 @@ window.lessonDB[21] = {
     { f: "Yaratılış Düşüncesi'nin yaratılan için nihai meyvesi nedir?", b: "Yaratan'ın yanında O'na denk, bilinçli, sonsuza dek mutlu ve ihsan eden bir ortak haline gelmektir." }
   ],
   el: [
-    { f: "Τι είναι η Σκέψη της Δημιουργίας (Μαχσαβάτ χα-Μπριά);", b: "Η πρόθεση του Δημιουργού να απονείмит άπειρη απόλαυση και πληρότητα στα δημιουργήματα σύμφωνα με την απεριόριστη καλοσύνη και αφθονία Του." },
+    { f: "Τι είναι η Σκέψη της Δημιουργίας (Μαχσαβάτ χα-Μπριά);", b: "Η πρόθεση του Δημιουργού να απονείμει άπειρη απόλαυση και πληρότητα στα δημιουργήματα σύμφωνα με την απεριόριστη καλοσύνη και αφθονία Του." },
     { f: "Πώς ορίζει η Καบบάλα την ουσία του Δημιουργού σε σχέση με τη δημιουργία;", b: "Το Απόλυτο Αγαθό που πράττει το αγαθό, του οποίου η μόνη επιθυμία είναι να προσφέρει και να γεμίζει τα δημιουργήματα." },
     { f: "Ποιος είναι ο πνευματικός ορισμός του Φωτός (Ορ) στο 21ο μάθημα;", b: "Η επιθυμία για προσφορά και η ζωτική δύναμη που πηγάζουν από τον Δημιουργό με βάση την αρχή 'ον από το ον' (Γες μι-Γες)." },
     { f: "Ποιος είναι ο πνευματικός ορισμός του Σκεύους (Κλι);", b: "Η επιθυμία λήψης (Ρατσόν λε-Καμπέλ), η οποία αποτελεί την ουσιαστική φύση του δημιουργήματος και το μόνο όργανο πρόσληψης του Φωτός." },
